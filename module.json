@@ -1,0 +1,23 @@
+{
+  "name": "dnd5e-babele-es",
+  "title": "Spanish translation for D&D 5e system",
+  "description": "Traducción al español del sistema y los compendios de dnd5e para Foundry VTT.",
+  "version": "0.1.0",
+  "minimumCoreVersion" : "0.6.5",
+  "compatibleCoreVersion": "0.7.1",
+  "author": "WallaceMcGregor",
+  "systems": ["dnd5e"],
+  "esmodules": [],
+  "scripts": ["babele-register.js"],
+  "styles": [],
+  "packs": [],
+  "languages": [{
+  	"lang": "es",
+    "name": "Spanish",
+    "path": "es.json"
+  }],
+  "url": "https://github.com/WallaceMcGregor/XXXXXXXXXXXXXXXXXXXXX",
+  "manifest": "https://github.com/WallaceMcGregor/XXXXXXXXXXXXXXXXXXXXXXXXX/module.json",
+  "download": "https://github.com/WallaceMcGregor/XXXXXXXXXXXXXXXXXXXXXX"
+}
+ 
