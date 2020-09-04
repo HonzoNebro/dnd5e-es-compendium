@@ -3,7 +3,7 @@ Hooks.once('init', () => {
 		Babele.get().register({
 			module: 'dnd5e-babele-es',
 			lang: 'es',
-			dir: 'compendios'
+			dir: 'compendium'
 		});
 	}
 }); 
