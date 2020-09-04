@@ -1,0 +1,120 @@
+{
+  "label": "Mercancías (SRD)",
+  "entries": [
+    {
+      "id": "Canvas",
+      "name": "Lienzos (Canvas)",
+      "description": "<p>Una yarda cuadrada de tela de calidad media y peso. Se usa para muchos artículos y ropa. Calificado del 1 al 12, cuanto menor sea el número, mejor será la calidad y más pesado será. El lienzo de calidad n.°1 pesa alrededor de 1.7 libras por yarda cuadrada, mientras que el n.°12 más débil y liviano puede pesar solo 0.7 libras.</p>"
+    },
+    {
+      "id": "Chicken",
+      "name": "Pollos (Chicken)",
+      "description": "<p>La fuente de omelets y alitas de pollo, el pollo adulto promedio pesa entre 5 y 10 libras.</p>"
+    },
+    {
+      "id": "Cinnamon",
+      "name": "Canela (Cinnamon)",
+      "description": "<p> Tomado de la corteza interior del árbol de canela, una especia popular aunque un poco más rara, entre los chefs del mundo. Adorado por los niños cuando se combina con azúcar para hacer muchos tipos de golosinas. </p>"
+    },
+    {
+      "id": "Cloves",
+      "name": "Clavos de olor (Cloves)",
+      "description": "Una especia fuerte apreciada tanto por los chefs como por los destiladores, que funciona bien para dar sabor a carne y guisos, salsas, bebidas calientes como sidra y té chai, pan, quesos y postres dulces como pasteles y pasteles de frutas. Los clavos son los botones, secos y sin abrir del Syzygium aromaticum, un árbol de hoja perenne de la familia del mirto."
+    },
+    {
+      "id": "Copper",
+      "name": "Cobre (Copper)",
+      "description": "<P> Codiciado por carpinteros de barcos, alquimistas, ciertos joyeros, y chefs por igual, el cobre es comúnmente extraído de la superficie, sino que existe la minería subterránea cuando las fuentes de superficie se han agotado o no puede ser localizado. </ P> \n <p> Aunque puede usarse para armaduras, se mezcla mucho mejor con estaño para hacer la aleación de bronce mucho más superior para necesidades militares. </p>"
+    },
+    {
+      "id": "Cotton",
+      "name": "Algodon (Cotton)",
+      "description": "<p> Un metro cuadrado de algodón de peso y calidad promedio. Se usa para muchos artículos y ropa. </p> \n <p> Mucho más liviano, más cómodo y más fácil de trabajar que el lienzo; sin embargo, el cultivo comparativamente más delicado significa que, en consecuencia, es más costoso y potencialmente más difícil de conseguir. </p>"
+    },
+    {
+      "id": "Cow",
+      "name": "Vacas (Cow)",
+      "description": "<p> Una criatura para granjeros de gran superficie, las vacas requieren grandes áreas de pastoreo plano, lo que significa que no son tan comunes como otros animales. Sin embargo, viven más y dan mucha más leche. También son una fuente de cuero mucho más duradero que es menos propenso a las grietas y es resistente al calor y la suciedad. </p> \n <p> Dependiendo del género y la raza, las vacas adultas pueden pesar entre 1,000 y 1,800 libras. </p>"
+    },
+    {
+      "id": "Flour",
+      "name": "Harina (Flour)",
+      "description": "<p> Grano molido por un molinero en el siguiente paso a lo largo de la cadena alimentaria. </p>"
+    },
+    {
+      "id": "Ginger",
+      "name": "Jengibre (Ginger)",
+      "description": "<p> Una especia que proviene de la raíz fresca o seca de la planta de jengibre Zingiber officinale. Pertenece a la misma familia que la cúrcuma y el cardamomo. </p> \n <p> Valorado por chefs y fabricantes de dulces, amados por niños y personas con gustos más picantes. </p>"
+    },
+    {
+      "id": "Goat",
+      "name": "Cabras (Goat)",
+      "description": "<p> Una criatura útil para los granjeros de áreas pequeñas y los habitantes de las tierras altas, las cabras son efectivas para evitar que los prados crezcan excesivamente mientras proporcionan leche, queso y eventualmente pieles y carne. </p> \n <p> Dependiendo de la raza, el adulto las cabras pueden variar desde 45 libras hasta 300 libras. </p>"
+    },
+    {
+      "id": "Gold",
+      "name": "Oro (Gold)",
+      "description": "<p> El oro es el rey de la moneda para muchas civilizaciones. Por lo general, es más común que el platino, pero no es tan común como otros metales como el hierro, ocupa un punto dulce en la rareza y la falta de reactividad. </p> \n <p> A diferencia de la plata, el oro se puede encontrar más fácilmente en el superficie. Tanto la minería de superficie como la subterránea pueden ser extremadamente rentables. La fiebre del oro puede y ha sido una fuente de gran felicidad y gran tragedia. </p>"
+    },
+    {
+      "id": "Iron",
+      "name": "Hierro (Iron)",
+      "description": "<p> A menudo, el caballo de batalla del metalúrgico, el hierro es apreciado por su relativa abundancia y facilidad de logro. El hierro superficial se puede encontrar en meteoritos caídos y xenolitos, pero se extrae mucho más comúnmente bajo tierra. Sin embargo, se debe tener cuidado de lo contrario el óxido tendrá su efecto. </p>"
+    },
+    {
+      "id": "Linen",
+      "name": "Lino (Linen)",
+      "description": "<p> Un metro cuadrado de lino de calidad y peso medios. Se utiliza para todos los artículos y prendas de vestir. </p> \n <p> Más duradero que el algodón, su durabilidad y transpirabilidad lo hacen especialmente valioso en climas cálidos. </p> \n <p> Existen diferentes tipos de lino , con tejidos más ligeros a partir de 6 onzas por yarda cuadrada, y el resto hasta 15 onzas. </p>"
+    },
+    {
+      "id": "Ox",
+      "name": "Buey (Ox)",
+      "description": "<p> Esencialmente, un buey de carne de vacuno o lácteo especialmente entrenado que ha alcanzado la edad de 5 años. Estas bestias de carga de servicio pesado pueden jalar o cargar hasta y sobre su propio peso corporal. Usados para una multitud de tareas como acarrear carros, trillar granos, alimentar máquinas que riegan o trituran granos, e incluso han sido montados, los bueyes son criaturas muy preciadas para los trabajadores en una variedad de campos. </p>"
+    },
+    {
+      "id": "Pepper",
+      "name": "Pimienta (Pepper)",
+      "description": "<p> Los granos de pimienta son la pequeña fruta, o drupa, de la planta de pimiento, una vid en flor también conocida como piper nigrum. Muy apreciado por los chefs por su versatilidad y los aventureros pueden utilizarlo en caso de apuro cuando se trata de distracciones y travesuras. </p>"
+    },
+    {
+      "id": "Pig",
+      "name": "Puercos (Pig)",
+      "description": "<p> Una criatura para granjeros de área media o grande, los cerdos se reproducen con relativa rapidez y son criaturas robustas que brindan todo tipo de posibilidades de cocción para el cocinero emprendedor, principalmente el tocino. Su piel también se puede usar como un cuero más barato, pero es menos resistente a las rasgaduras en comparación con el cordero o la cabra. Los cerdos también son la fuente de manteca de cerdo. </p><p> La mayoría de los cerdos pesan entre 250 y 270 libras en el momento del sacrificio, ya que ofrece cortes óptimos al por menor y cobertura de grasa media. </p>"
+    },
+    {
+      "id": "Platinum",
+      "name": "Platino (Platinum)",
+      "description": "<p> Mucho más raro que el oro, el platino puede ser tratado como el pináculo de la riqueza, o el vestigio de una época pasada que puede encontrarse con desconfianza o envidia. </p> \n <p> A diferencia del oro, el platino es casi minado exclusivamente bajo tierra. </p>"
+    },
+    {
+      "id": "Saffron",
+      "name": "Azafran (Saffron)",
+      "description": "<p> Probablemente sea uno de los ingredientes más preciados del mundo, el azafrán es muy caro porque su producción requiere mucha mano de obra. Hecho del Crocus sativus, o más comúnmente el \"saffron crocus\", se necesitan 80,000 flores de azafrán para producir 1 libra de azafrán. Por peso, vale más que el oro. Atesorado por los cocineros y boticarios más exigentes por su sabor y supuestos beneficios para la salud. </p>"
+    },
+    {
+      "id": "Salt",
+      "name": "Sal (Salt)",
+      "description": "<p> Valorado tanto por chefs como por intendentes como condimento y conservante para suministros donde no se desea alcohol o vinagre. </p>"
+    },
+    {
+      "id": "Sheep",
+      "name": "Ovejas (Sheep)",
+      "description": "<p> Una criatura útil para los granjeros de áreas pequeñas y los habitantes de las tierras altas, aunque no son tan ágiles como las cabras, tienen la valiosa capacidad de ser esquiladas todos los años, lo que les da a las personas una fuente de ropa, alfombras y mantas para camas y sillas. Su mayor tamaño también significa que son más valiosos para el sacrificio. </p> \n <p> Dependiendo de la raza, las ovejas adultas pueden variar desde 100 libras hasta 350 libras. </p>"
+    },
+    {
+      "id": "Silk",
+      "name": "Seda (Silk)",
+      "description": "<p> Un metro cuadrado de seda de peso y calidad promedio. Utilizado para todos los artículos y prendas de vestir. </p> \n <p> El más fino y deseable de los tejidos comunes, la seda también es la más ligera. La mayoría de las sedas pesarán entre 2 y 4 onzas por yarda cuadrada. Cuanto más pesada sea la seda, mayor será la calidad, más duradera y de color más opaco. </p>"
+    },
+    {
+      "id": "Silver",
+      "name": "Plata (Silver)",
+      "description": "<p> La plata ha sido apreciada durante mucho tiempo por su naturaleza no reactiva y su facilidad con la que puede moldearse en las mejores decoraciones, adornos y, por supuesto, usarse como moneda. </p> \n <p> La plata rara vez se encuentra en su forma nativa en pepitas. Normalmente se encuentra mezclado con otras sustancias como el azufre o el cloro, en minerales o como una aleación con oro. Se puede encontrar plata superficial, pero se extrae mucho más comúnmente bajo tierra. La minería de plata es lucrativa y puede inspirar a la fiebre de la plata. </p>"
+    },
+    {
+      "id": "Wheat",
+      "name": "Trigo (Wheat)",
+      "description": "<p> Un ingrediente común para pan, cerveza y más; Este alimento básico a menudo forma la base de una dieta para las personas donde sus tierras son abiertas y relativamente planas, el clima templado y el área lo suficientemente segura como para que los agricultores puedan operar. </p>"
+    }
+  ]
+}

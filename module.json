@@ -16,8 +16,8 @@
     "name": "Spanish",
     "path": "es.json"
   }],
-  "url": "https://github.com/WallaceMcGregor/XXXXXXXXXXXXXXXXXXXXX",
-  "manifest": "https://github.com/WallaceMcGregor/XXXXXXXXXXXXXXXXXXXXXXXXX/module.json",
-  "download": "https://github.com/WallaceMcGregor/XXXXXXXXXXXXXXXXXXXXXX"
+  "url": "https://github.com/WallaceMcGregor/dnd5e-es-compendium",
+  "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/dnd5e-es-compendium/master/module.json",
+  "download": "https://github.com/WallaceMcGregor/dnd5e-es-compendium/archive/master.zip"
 }
  
