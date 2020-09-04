@@ -1,4 +1,4 @@
-# Traducción al español de D&D5e para Foundry VTT
+# Traducción al español de D&D5e
 
 ## Descripción
 
