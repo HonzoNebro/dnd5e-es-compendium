@@ -13,3 +13,5 @@ Los compendios han sido traducidos en la [Comunidad Foundry VTT Español](https:
 Para la traducción de los compendios necesitas tener instalado el modulo Babele, que se puede hacer desde la sección de Modulos de Foundry.
 
 Puedes instalar este módulo introduciendo [esta dirección](https://raw.githubusercontent.com/WallaceMcGregor/dnd5e-es-compendium/master/module.json) en **Instalar Módulo**.
+
+Dentro del mundo deberás tener activado Babele (no hace falta configuración) y este módulo.
