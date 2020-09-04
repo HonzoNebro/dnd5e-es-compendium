@@ -1,4 +1,4 @@
-# dnd5e-babele-es
+# Traducción al español de D&D5e para FOoundry VTT
 
 ## Descripción
 
