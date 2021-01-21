@@ -3,7 +3,7 @@
   "entries": [
     {
       "id": "Canvas",
-      "name": "Lienzos (Canvas)",
+      "name": "Lonas (Lienzos) (Canvas)",
       "description": "<p>Una yarda cuadrada de tela de calidad media y peso. Se usa para muchos artículos y ropa. Calificado del 1 al 12, cuanto menor sea el número, mejor será la calidad y más pesado será. El lienzo de calidad n.°1 pesa alrededor de 1.7 libras por yarda cuadrada, mientras que el n.°12 más débil y liviano puede pesar solo 0.7 libras.</p>"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "Cotton",
-      "name": "Algodon (Cotton)",
+      "name": "Algodón (Cotton)",
       "description": "<p> Un metro cuadrado de algodón de peso y calidad promedio. Se usa para muchos artículos y ropa. </p> \n <p> Mucho más liviano, más cómodo y más fácil de trabajar que el lienzo; sin embargo, el cultivo comparativamente más delicado significa que, en consecuencia, es más costoso y potencialmente más difícil de conseguir. </p>"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "id": "Pig",
-      "name": "Puercos (Pig)",
+      "name": "Cerdos (Pig)",
       "description": "<p> Una criatura para granjeros de área media o grande, los cerdos se reproducen con relativa rapidez y son criaturas robustas que brindan todo tipo de posibilidades de cocción para el cocinero emprendedor, principalmente el tocino. Su piel también se puede usar como un cuero más barato, pero es menos resistente a las rasgaduras en comparación con el cordero o la cabra. Los cerdos también son la fuente de manteca de cerdo. </p><p> La mayoría de los cerdos pesan entre 250 y 270 libras en el momento del sacrificio, ya que ofrece cortes óptimos al por menor y cobertura de grasa media. </p>"
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "id": "Saffron",
-      "name": "Azafran (Saffron)",
+      "name": "Azafrán (Saffron)",
       "description": "<p> Probablemente sea uno de los ingredientes más preciados del mundo, el azafrán es muy caro porque su producción requiere mucha mano de obra. Hecho del Crocus sativus, o más comúnmente el \"saffron crocus\", se necesitan 80,000 flores de azafrán para producir 1 libra de azafrán. Por peso, vale más que el oro. Atesorado por los cocineros y boticarios más exigentes por su sabor y supuestos beneficios para la salud. </p>"
     },
     {
