@@ -4,7 +4,7 @@
   "description": "Traducción al español del sistema y los compendios de D&D5e para Foundry VTT.",
   "version": "0.7",
   "minimumCoreVersion" : "0.6.5",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.8.8",
   "author": "Babele: Simone / System: Cosmo Corban / Compendiums: Elber, Aterlom y WallaceMcGregor",
   "systems": ["dnd5e"],
   "esmodules": [],
