@@ -1,8 +1,8 @@
-# Traducción al español de D&D5e
+# Traducción al español de D&D5e [![Crowdin](https://badges.crowdin.net/dnd5e-es-compendium/localized.svg)](https://crowdin.com/project/dnd5e-es-compendium)
 
 ## Descripción
 
-Fork para la nueva traducción al Español del Sistema y los Compendios (incompleta) de D&D5e para **Foundry VTT**.
+Fork para la nueva traducción al Español del Sistema y los Compendios (incompleta) de D&D5e para **Foundry VTT**. 
 
 La traducción del sistema ha sido realizada por [Cosmo Corban](https://gitlab.com/carlosjrlu) en su módulo [Translation: Spanish D&D 5e](https://gitlab.com/carlosjrlu/foundryvtt-dnd5e-lang-es/).
 
