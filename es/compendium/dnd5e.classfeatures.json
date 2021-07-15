@@ -70,39 +70,39 @@
 			"description": "<p>A partir de nivel 14, si eres capaz de escuchar, también eres consciente de la ubicación de cualquier criatura escondida o invisible a 10 pies o menos de ti.</p>"
 		},
 		"Bonus Cantrip (Druid)": {
-			"name": "Bonus Cantrip (Druid)",
-			"description": "<p>When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.</p>"
+			"name": "Truco Adicional del Druida (Bonus Cantrip Druid)",
+			"description": "<p>A nivel 2, cuando escoges este círculo, aprendes un truco de druida adicional a tu elección.</p>"
 		},
 		"Bonus Proficiencies (College of Lore)": {
-			"name": "Bonus Proficiencies (College of Lore)",
-			"description": "<p>When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.</p>"
+			"name": "Competencias Adicionales del Colegio del Conocimiento (Bonus Proficiencies College of Lore)",
+			"description": "<p>Cuando te unes al Colegio del Conocimiento, a nivel 3, ganas competencia en tres habilidades cualquiera, las que elijas.</p>"
 		},
 		"Bonus Proficiency (Life Domain)": {
-			"name": "Bonus Proficiency (Life Domain)",
-			"description": "<p>When you choose this domain at 1st level, you gain proficiency with heavy armor.</p>"
+			"name": "Competencia Adicional del Dominio de la Vida (Bonus Proficiency Life Domain)",
+			"description": "<p>A nivel 1, cuando escoges este dominio, ganas competencia con armaduras pesadas.</p>"
 		},
 		"Brutal Critical": {
-			"name": "Brutal Critical",
-			"description": "<p>Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack. This increases to two additional dice at 13th level and three additional dice at 17th level.</p>"
+			"name": "Crítico Brutal (Brutal Critical)",
+			"description": "<p>A partir de nivel 9, cuando hagas un crítico con un ataque cuerpo a cuerpo, podrás tirar uno de los dados de daño del arma una vez más y añadir el resultado al daño adicional causado. Podrás tirar dos dados adicionales a partir de nivel 13 y tres dados adicionales a partir de nivel 17.</p>"
 		},
 		"Channel Divinity (Cleric)": {
-			"name": "Channel Divinity (Cleric)",
-			"description": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p><p>Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.</p><p><em>**Foundry note: Use this to track all the various uses of Channel Divinity for the cleric. Note the limited uses is set to the base default of 1 per short or long rest. Please manually adjust as required.</em></p>"
+			"name": "Canalizar Divinidad del Clérigo (Channel Divinity Cleric)",
+			"description": "<p>A nivel 2 ganas la habilidad para canalizar energía divina directamente desde tu deidad y usar dicha energía para alimentar varios efectos mágicos. Empiezas con dos de estos efectos: Expulsar Muertos Vivientes y un segundo poder determinado por tu dominio. Algunos dominios te otorgan efectos adicionales al subir de nivel, tal y como se indica en sus descripciones.</p><p>Cuando utilices Canalizar Divinidad, elige cuál de los efectos vas a crear. Deberás terminar un descanso corto o largo para poder volver a usar Canalizar Divinidad otra vez. Algunos efectos de Canalizar Divinidad exigen hacer tiradas de salvación. Cuando utilices uno de los proporcionados por esta clase, la CD será la misma que la de las tiradas de salvación de tus conjuros de clérigo.</p><p>A partir de nivel 6, puedes emplear Canalizar Divinidad dos veces entre descansos y, a partir de nivel 18, tres veces. Recuperas todos los usos tras realizar un descanso corto o largo.</p><p><em>**Nota de Foundry: Utiliza esta opción para contabilizar todos los usos de Canalizar Divinidad del clérigo. Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Channel Divinity (Paladin)": {
-			"name": "Channel Divinity (Paladin)",
-			"description": "<p>Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.</p><p>When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.</p><p><em>**Foundry note: Use this to track all the various uses of Channel Divinity for the paladin.</em></p>"
+			"name": "Canalizar Divinidad del Paladín (Channel Divinity Paladin)",
+			"description": "<p>Tu juramento te permite canalizar energía divina para alimentar varios efectos mágicos. Cada forma de utilizar Canalizar Divinidad que tu juramento te proporciona incluye una explicación de cómo usarla.</p><p>Cuando empleas Canalizar Divinidad, elige cuál de las opciones vas a emplear. Deberás terminar un descanso corto o largo para poder volver a usar Canalizar Divinidad otra vez.</p><p>Algunos efectos de Canalizar Divinidad exigen hacer tiradas de salvación. Cuando utilices uno de los proporcionados por esta clase, la CD será la misma que la de las tiradas de salvación de tus conjuros de paladín.</p><p><em>**Nota de Foundry: Utiliza esta opción para contabilizar todos los usos de Canalizar Divinidad del paladín.</em></p>"
 		},
 		"Channel Divinity: Preserve Life": {
-			"name": "Channel Divinity: Preserve Life",
-			"description": "<p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p><p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level.</p><p>Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p>"
+			"name": "Canalizar Divinidad: Preservar vida (Channel Divinity: Preserve Life)",
+			"description": "<p>A partir de nivel 2, eres capaz de utilizar tu Canalizar Divinidad para curar a los gravemente heridos.</p><p>Como acción, puedes mostrar tu símbolo sagrado y generar una energía curativa capaz de recuperar tantos puntos de golpe como cinco veces tu nivel de clérigo.</p><p>Elige a cualquier cantidad de criaturas a 30 pies o menos de ti y divide estos puntos de golpe entre ellas. Este rasgo no puede hacer que una criatura pase a tener más de la mitad de sus puntos de golpe máximos y no podrás utilizarlo sobre muertos vivientes o autómatas.</p>"
 		},
 		"Channel Divinity: Sacred Weapon": {
-			"name": "Channel Divinity: Sacred Weapon",
-			"description": "<p>As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity.</p><p>For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.</p>"
+			"name": "Canalizar Divinidad: Arma Sagrada (Channel Divinity: Sacred Weapon)",
+			"description": "<p>Como acción, puedes usar Canalizar Divinidad para imbuir de energía positiva una de las armas que estés sujetando.</p><p>Durante 1 minuto, añades tu modificador por Carisma a las tiradas de ataque hechas con dicha arma (bonificador mínimo de +1). El arma también emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. Además, si no lo era ya, el arma se convierte en mágica mientras dure este efecto.</p><p>Puedes dar por finalizado este efecto durante tu turno, como parte de cualquier otra acción. También terminará si dejas de empuñar o llevar el arma, o si caes inconsciente.</p>"
 		},
 		"Channel Divinity: Turn Undead": {
-			"name": "Channel Divinity: Turn Undead",
+			"name": "Canalizar Divinidad: Expulsar lo Impío (Channel Divinity: Turn the Unholy)",
 			"description": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead.</p><p>Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions.</p><p>For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
 		},
 		"Channel Divinity: Turn the Unholy": {
@@ -206,8 +206,8 @@
 			"description": "<p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Dragon</strong></td>\n<td><strong>Damage Type</strong></td>\n</tr>\n<tr>\n<td>Black</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>Blue</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>Brass</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>Copper</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>Gold</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>Green</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>Red</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>Silver</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>White</td>\n<td>Cold</td>\n</tr>\n</tbody>\n</table>\n<p>You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</p>"
 		},
 		"Dragon Wings": {
-			"name": "Dragon Wings",
-			"description": "<p>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.</p><p>You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.</p>"
+			"name": "Alas de Dragón (Dragon Wings)",
+			"description": "<p>A nivel 14 desarrollas la capacidad de hacer brotar un par de alas como las de un dragón de tu espalda, obteniendo una velocidad volando igual a tu velocidad actual. Puedes crear estas alas empleando una acción adicional durante tu turno. Permanecerán hasta que decidas retirarlas, gastando para ello una acción adicional durante tu turno.</p><p>No puedes manifestar tus alas mientras llevas armadura, salvo que esta haya sido adaptada para acomodarlas, y las prendas que no estén diseñadas ex profeso, dejando espacio para las alas, podrían resultar destruidas cuando las hagas brotar.</p>"
 		},
 		"Druid Circle": {
 			"name": "Druid Circle",
