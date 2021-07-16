@@ -263,118 +263,118 @@
 		},
 		"Extra Attack (Fighter)": {
 			"name": "Ataque Adicional del Guerrero (Extra Attack Fighter)",
-			"description": "<p>You can attack twice, instead of once, whenever you take the Attack action on your turn.</p><p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>"
+			"description": "<p>Cuando lleves a cabo la acción de Atacar durante tu turno, podrás hacer dos ataques en lugar de uno.</p><p>La cantidad de ataques aumenta a tres cuando alcanzas el nivel 11 de esta clase y a cuatro cuando alcanzas el 20.</p>"
 		},
 		"Fast Hands": {
-			"name": "Fast Hands",
-			"description": "<p>Starting at 3rd level, you can use the bonus action granted by your @Compendium[dnd5e.classfeatures.01pcLg6PRu5zGrsb]{Cunning Action} to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.</p>"
+			"name": "Manos Rápidas (Fast Hands)",
+			"description": "<p>A partir de nivel 3, puedes utilizar la acción adicional que obtuviste de @Compendium[dnd5e.classfeatures.01pcLg6PRu5zGrsb]{Acción Astuta} para hacer una prueba de Destreza (Juego de Manos), realizar una acción de Usar un Objeto o usar tus herramientas de ladrón para intentar desarmar una trampa o forzar una cerradura.</p>"
 		},
 		"Fast Movement": {
 			"name": "Movimiento rápido",
-			"description": "<p>Your speed increases by 10 feet while you aren’t wearing heavy armor.</p>"
+			"description": "<p>Si no estás llevando armadura pesada, tu velocidad aumenta en 10 pies.</p>"
 		},
 		"Favored Enemy": {
-			"name": "Favored Enemy",
-			"description": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p><p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.</p><p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p><p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p><p>If you wish, manually edit this entry and make a note of your choices here:</p>\n<ul>\n<li><em>1st level</em></li>\n<li><em>6th level</em></li>\n<li><em>14th level</em></li>\n</ul>"
+			"name": "Enemigo Predilecto (Favored Enemy)",
+			"description": "<p>Desde el nivel 1 posees una enorme experiencia estudiando, rastreando, cazando e incluso hablando con un tipo concreto de enemigo.</p><p>Escoge un tipo de enemigo predilecto: aberraciones, autómatas, bestias, celestiales, cienos, dragones, elementales, feéricos, gigantes, infernales, monstruosidades, muertos vivientes o plantas. De forma alternativa, puedes elegir dos razas de humanoides (como gnolls y orcos, por ejemplo) como enemigos predilectos.</p><p>Posees ventaja en las pruebas de Sabiduría (Supervivencia) para rastrear a tus enemigos predilectos, así como en las pruebas de Inteligencia para recordar información sobre ellos.</p><p>Cuando obtienes este rasgo también aprendes un idioma de tu elección que sea hablado por tus enemigos predilectos (si es que poseen alguno).</p><p>Puedes elegir un enemigo predilecto adicional, así como el idioma asociado al mismo, cuando alcanzas los niveles 6 y 14. Estas elecciones deberían representar aquellos tipos de monstruos con los que te has encontrado durante tus aventuras.</p><p>Puedes editar manualmente esta entrada y anotar tus opciones aquí:</p>\n<ul>\n<li><em>Nivel 1</em></li>\n<li><em>Nivel 6</em></li>\n<li><em>Nivel 14</em></li>\n</ul>"
 		},
 		"Feral Instinct": {
-			"name": "Feral Instinct",
-			"description": "<p>By 7th level, your instincts are so honed that you have advantage on initiative rolls.</p><p>Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.</p>"
+			"name": "Instinto Salvaje (Feral Instinct)",
+			"description": "<p>A partir de nivel 7, tus instintos están tan afilados que tienes ventaja en las tiradas de iniciativa.</p><p>Además, aunque estés sorprendido al empezar un combate, podrás actuar con normalidad a lo largo de tu primer turno si no estás incapacitado y te enfureces antes de hacer cualquier otra cosa durante dicho turno.</p>"
 		},
 		"Feral Senses": {
-			"name": "Feral Senses",
-			"description": "<p>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.</p><p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</p>"
+			"name": "Sentidos Salvajes (Feral Senses)",
+			"description": "<p>A nivel 18 desarrollas unos sentidos sobrenaturales, que te ayudan a luchar contra criaturas a las que no puedes ver. Cuando ataques a un objetivo que no seas capaz de ver, tu incapacidad para verlo no te dará desventaja en tus tiradas de ataque contra él.</p><p>Además, también eres consciente de la ubicación de cualquier criatura invisible que esté a 30 pies o menos de ti, siempre y cuando dicha criatura no esté escondida de ti y no estés cegado ni ensordecido.</p>"
 		},
 		"Fiendish Resilience": {
-			"name": "Fiendish Resilience",
-			"description": "<p>Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.</p>"
+			"name": "Resistencia Infernal (Fiendish Resilience)",
+			"description": "<p>A partir de nivel 10 puedes elegir un tipo de daño cada vez que finalices un descanso corto o largo. Obtienes resistencia a ese tipo de daño hasta que vuelvas a usar este rasgo para escoger uno distinto. El daño que provenga de armas mágicas o de plata no se ve afectado por esta resistencia.</p>"
 		},
 		"Fighting Style": {
-			"name": "Fighting Style",
-			"description": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options from the appropriate class list. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>\n<h3>Fighter Options</h3>\n<p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Archery}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defense}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Dueling}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protection}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p>\n<h3>Paladin Options</h3>\n<p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defense}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Dueling}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protection}</p>\n<h3>Ranger Options</h3>\n<p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Archery}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defense}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Dueling}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p>"
+			"name": "Estilo de Combate (Fighting Style)",
+			"description": "<p>Adoptas un estilo de combate concreto como tu especialidad. Elige una de las siguientes opciones que aparecen a continuaci&oacute;n. No puedes escoger el mismo Estilo de Combate m&aacute;s de una vez, incluso aunque luego puedas elegir de nuevo un Estilo de Combate.</p><h3>Opciones de Guerrero</h3>\n<p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Combate con Armas a Dos Manos}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Combate con Dos Armas}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defensa}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Duelo}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protección}</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Tiro con Arco}</p>\n<h3>Opciones de Paladín</h3>\n<p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defensa}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Duelo}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Combate con Armas a Dos Manos}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protección}</p>\n<h3>Opciones de Explorador</h3>\n<p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Tiro con Arco}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defensa}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Duelo}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Combate con Dos Armas}</p>"
 		},
 		"Fighting Style: Archery": {
-			"name": "Fighting Style: Archery",
-			"description": "<p>You gain a +2 bonus to attack rolls you make with ranged weapons</p>"
+			"name": "Estilo de Combate: Tiro con Arco (Fighting Style Archery)",
+			"description": "<p>Recibes un bonificador de +2 a las tiradas de ataque con armas a distancia.</p>"
 		},
 		"Fighting Style: Defense": {
-			"name": "Fighting Style: Defense",
-			"description": "<p>While you are wearing armor, you gain a +1 bonus to AC</p>"
+			"name": "Estilo de Combate: Defensa (Fighting Style Defense)",
+			"description": "<p>Recibes un + 1 a la CA cuando lleves puesta cualquier armadura.</p>"
 		},
 		"Fighting Style: Dueling": {
-			"name": "Fighting Style: Dueling",
-			"description": "<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>"
+			"name": "Estilo de Combate: Duelo (Fighting Style Dueling)",
+			"description": "<p>Cuando empuñes una única arma cuerpo a cuerpo que solo requiera de una mano para usarse recibes un +2 a tus tiradas de daño con esa arma.</p>"
 		},
 		"Fighting Style: Great Weapon Fighting": {
-			"name": "Fighting Style: Great Weapon Fighting",
-			"description": "<p>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</p>"
+			"name": "Estilo de Combate: Combate con Armas a Dos Manos (Fighting Style Great Weapon Fighting)",
+			"description": "<p>Si sacas un 1 o un 2 en alguno de los dados de daño de un ataque hecho con un arma cuerpo a cuerpo que empuñes con las dos manos, puedes volver a tirar el dado en cuestión. Debes usar el nuevo resultado, incluso aunque este sea un 1 o un 2. Para poder obtener este beneficio el arma debe poseer la propiedad versátil o a dos manos.</p>"
 		},
 		"Fighting Style: Protection": {
-			"name": "Fighting Style: Protection",
-			"description": "<p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>"
+			"name": "Estilo de Combate: Protección (Fighting Style Protection)",
+			"description": "<p>Cuando una criatura que puedas ver ataque a un objetivo que esté a 5 pies o menos de ti y no seas tú mismo, puedes utilizar tu reacción para dar desventaja a la tirada de ataque. Debes estar embrazando un escudo.</p>"
 		},
 		"Fighting Style: Two Weapon Fighting": {
-			"name": "Fighting Style: Two Weapon Fighting",
-			"description": "<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>"
+			"name": "Estilo de Combate: Combate con Dos Armas (Fighting Style Two Weapon Fighting)",
+			"description": "<p>Cuando estés combatiendo con dos armas, puedes añadir tu modificador por característica al daño del segundo ataque.</p>"
 		},
 		"Foe Slayer": {
-			"name": "Foe Slayer",
-			"description": "<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p>"
+			"name": "Azote de Enemigos (Foe Slayer)",
+			"description": "<p>A nivel 20 te conviertes en un cazador sin parangón en lo que a tus enemigos respecta. Una vez en cada uno de tus turnos, puedes añadir tu modificador por Sabiduría a una tirada de ataque o de daño de uno de tus ataques que tenga como objetivo a uno de tus enemigos predilectos. Puedes elegir usar este rasgo antes o después de tirar, pero siempre previamente a que los efectos de la tirada se apliquen.</p>"
 		},
 		"Font of Inspiration": {
-			"name": "Font of Inspiration",
-			"description": "<p>Beginning when you reach 5th level, you regain all of your expended uses of @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{Bardic Inspiraton} when you finish a short or long rest.</p><p>Please note, the Foundry default for Bardic Inspiration is set to long rest recovery by default. Please edit to short rest upon reaching this level.</p>"
+			"name": "Fuente de Inspiración (Font of Inspiration)",
+			"description": "<p>A partir de nivel 5, recuperas todos los usos de @Compendium[dnd5e.classfeatures.hpLNiGq7y67d2EHA]{Inspiración Bárdica} tras hacer un descanso corto o largo.</p><p>**Nota de Foundry: Ten en cuenta que la Inspiración Bárdica está establecida por defecto que se recupera tras un descanso largo. Edítalo a descanso corto cuando alcances este nivel.</p>"
 		},
 		"Font of Magic": {
-			"name": "Font of Magic",
-			"description": "<p>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</p>\n<h3>Sorcery Points</h3>\n<p>You have 2 sorcery points, and you gain more as you reach higher levels. Your sorcerer level equals the number of sorcery points you have, so a 4th level sorcerer has 4 sorcery points, a 16th level sorcerer has 16. You can never have more sorcery points than your level dictates.&nbsp; You regain all spent sorcery points when you finish a long rest.</p>\n<h3>Flexible Casting</h3>\n<p>You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.</p><p><em><strong>Creating Spell Slots</strong>.</em>You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.</p><p>Any spell slot you create with this feature vanishes when you finish a long rest.</p>\n<table border=\"1\"><caption>Creating Spell Slots</caption>\n<thead>\n<tr>\n<td><strong>Spell Slot Level</strong></td>\n<td><strong>Sorcery Point Cost</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td>2</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td>3</td>\n</tr>\n<tr>\n<td>3rd</td>\n<td>5</td>\n</tr>\n<tr>\n<td>4th</td>\n<td>6</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>7</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>Converting a Spell Slot to Sorcery Points</strong>.</em>As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.</p><p><em>**Foundry note:</em><em>Use this to track all the various uses of sorcery points for the sorcerer.</em><em>Note the limited uses is set to the base default of 2 per long rest. Please manually adjust as required.</em></p>"
+			"name": "Fuente de Magia (Font of Magic)",
+			"description": "<p>A nivel 2 logras acceder a una abundante fuente de magia que nace de tu interior. Esta fuente se representa mediante una serie de puntos de hechicería, que te permiten crear una gran variedad de efectos mágicos.</p>\n<h3>Puntos de hechicería</h3>\n<p>Posees 2 puntos de hechicería, pero obtendrás más según subas de nivel en esta clase, tal y como se muestra en la columna puntos de hechicería de la tabla del hechicero. Nunca puedes tener más puntos de hechicería de los que aparecen en dicha columna para tu nivel. Recuperas todos los puntos de hechicería utilizados tras finalizar un descanso largo.</p>\n<h3>Lanzamiento Flexible</h3>\n<p>Puedes usar tus puntos de hechicería para obtener espacios de conjuro adicionales y viceversa: sacrificar espacios de conjuro para conseguir puntos de hechicería adicionales. Aprenderás otras formas de utilizar tus puntos de hechicería cuando alcances niveles superiores.</p><p><em><strong>Crear espacios de conjuro</strong>.</em>Puedes emplear una acción adicional durante tu turno para transformar puntos de hechicería que no hayas gastado aún en un espacio de conjuro. La tabla “crear espacios de conjuro” indica el coste de crear un espacio de conjuro de un nivel determinado. No puedes crear espacios de conjuro de niveles superiores a 5.</p><p>Cualquier espacio creado mediante este rasgo se desvanece cuando finalizas un descanso largo.</p>\n<table border=\"1\"><caption>Crear espacios de conjuro</caption>\n<thead>\n<tr>\n<td><strong>Nivel del espacio de conjuro</strong></td>\n<td><strong>Coste en puntos de hechicería</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>2</td>\n</tr>\n<tr>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>4</td>\n<td>6</td>\n</tr>\n<tr>\n<td>5</td>\n<td>7</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong>Convertir un espacio de conjuro en puntos de hechicería</strong>.</em>Puedes utilizar una acción adicional durante tu turno para gastar un espacio de conjuro y obtener tantos puntos de hechicería como el nivel del espacio.</p><p><em>** Nota de Foundry:</em><em>Emplea esto para registrar todos los usos de los puntos de hechicería.</em><em>Nota que los usos limitados se establecen de forma predeterminada en 2 por descanso largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Frenzy": {
-			"name": "Frenzy",
-			"description": "<p>Starting when you choose this path at 3rd level, you can go into a frenzy when you @Compendium[dnd5e.classfeatures.VoR0SUrNX5EJVPIO]{Rage}. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).</p>"
+			"name": "Frenesí (Frenzy)",
+			"description": "<p>A partir del momento en el que escoges esta senda, a nivel 3, puedes abandonarte al frenesí cuando te @Compendium[dnd5e.classfeatures.VoR0SUrNX5EJVPIO]{Enfurezcas}. Si eliges hacer esto, mientras estés enfurecido podrás hacer un ataque con arma cuerpo a cuerpo como acción adicional durante cada uno de tus turnos (empezando por el siguiente a haberte enfurecido). A cambio, cuando tu furia termine sufrirás un nivel de cansancio (como se describe en el apéndice A).</p>"
 		},
 		"Grappler": {
-			"name": "Grappler",
-			"description": "<p><em>Prerequisite: Strength 13 or higher </em></p><p>You've developed the skills necessary to hold your own in close-quarters grappling.</p><p>You gain the following benefits:</p>\n<ul>\n<li>You have advantage on attack rolls against a creature you are grappling.</li>\n<li>You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.</li>\n</ul>"
+			"name": "Apresador (Grappler)",
+			"description": "<p><em>Requisitos: Fuerza 13 o más.</em></p><p>Has desarrollado las aptitudes necesarias para pelear bien a distancias extremadamente cortas.</p><p>Obtienes los beneficios siguientes:</p>\n<ul>\n<li>Tienes ventaja en las tiradas de ataque contra una criatura a la que estés agarrando.</li>\n<li>Puedes usar tu acción para intentar someter a un objetivo al que estés agarrando. Para ello, haz otra prueba de agarrar. Si tienes éxito, tanto tú como la criatura estaréis apresados hasta que el agarre finalice.</li>\n</ul>"
 		},
 		"Hide in Plain Sight": {
 			"name": "Esconderse a plena vista",
-			"description": "<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</p><p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</p>"
+			"description": "<p>A partir de nivel 10, puedes pasar 1 minuto confeccionando un camuflaje que te oculte. Debes tener acceso a barro fresco, tierra, plantas, hollín o cualquier otro tipo de materiales que se den de forma habitual en la naturaleza y que quieras emplear para crear tu camuflaje.</p><p>Una vez te hayas camuflado de esta forma, puedes intentar esconderte apoyándote sobre una superficie sólida, como un árbol o un muro, que sea al menos tan alta y ancha como tú. Obtienes un bonificador de + 10 a las pruebas de Destreza (Sigilo) mientras permanezcas estático y no realices acción alguna. En cuanto te muevas o lleves a cabo una acción o reacción, deberás volver a camuflarte de nuevo para disfrutar de este beneficio.</p>"
 		},
 		"Holy Nimbus": {
-			"name": "Holy Nimbus",
-			"description": "<p>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.&nbsp;Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</p><p>In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+			"name": "Halo Sagrado (Holy Nimbus)",
+			"description": "<p>A partir de nivel 20 puedes, como acción, emanar un aura de luz solar. Durante 1 minuto, emites luz brillante en un radio de 30 pies y luz tenue 30 pies más allá. Cuando una criatura enemiga empiece su turno en la zona de luz brillante, sufrirá 10 de daño radiante.</p><p>Además, mientras dure este efecto tendrás ventaja en las tiradas de salvación hechas contra conjuros lanzados por infernales o muertos vivientes.</p><p>Una vez utilizado este rasgo deberás terminar un descanso largo para poder volver a usarlo otra vez.</p>"
 		},
 		"Hunter's Prey": {
-			"name": "Hunter's Prey",
-			"description": "<p>At 3rd level, you gain one of the following features of your choice.</p><p>@Compendium[dnd5e.classfeatures.5gx1O0sxK08awEO9]{Colossus Slayer}</p><p>@Compendium[dnd5e.classfeatures.StfmqK1twVfukpa0]{Giant Killer}</p><p>@Compendium[dnd5e.classfeatures.C6sHdDGmCMo0cYHd]{Horde Breaker}</p><p>You can drag your choice from the above onto your character sheet and it will automatically update.</p>"
+			"name": "El Cazador y la Presa (Hunter's Prey)",
+			"description": "<p>A nivel 3 obtienes uno de los siguientes rasgos, a tu elección:</p><p>@Compendium[dnd5e.classfeatures.StfmqK1twVfukpa0]{Asesino de Gigantes}</p><p>@Compendium[dnd5e.classfeatures.5gx1O0sxK08awEO9]{Azote de Colosos}</p><p>@Compendium[dnd5e.classfeatures.C6sHdDGmCMo0cYHd]{Destructor de Hordas}</p><p><em>**Nota de Foundry: Puedes arrastrar tu elección a la hoja de personaje y se actualizará automáticamente.</em></p>"
 		},
 		"Hunter's Prey: Colossus Slayer": {
-			"name": "Hunter's Prey: Colossus Slayer",
-			"description": "<p>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p>"
+			"name": "El Cazador y la Presa: Azote de Colosos (Colossus Slayer)",
+			"description": "<p>Tu tenacidad puede agotar incluso a los enemigos más poderosos. Cuando impactes a una criatura con un ataque con arma, dicha criatura recibirá 1d8 de daño adicional si está por debajo ele sus puntos de golpe máximos. Puedes infligir este daño adicional solo una vez por turno.</p>"
 		},
 		"Hunter's Prey: Giant Killer": {
-			"name": "Hunter's Prey: Giant Killer",
-			"description": "<p>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p>"
+			"name": "El Cazador y la Presa: Asesino de Gigantes (Giant Killer)",
+			"description": "<p>Cuando una criatura Grande o de mayor tamaño que se encuentre a 5 pies o menos de ti te ataque (tanto si impacta como si falla), podrás usar tu reacción para atacarla inmediatamente después de que esta finalice su ataque. Para realizar este ataque debes poder verla.</p>"
 		},
 		"Hunter's Prey: Horde Breaker": {
-			"name": "Hunter's Prey: Horde Breaker",
-			"description": "<p>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p>"
+			"name": "El Cazador y la Presa: Destructor de Hordas (Horde Breaker)",
+			"description": "<p>Una vez en cada uno de tus turnos, cuando hagas un ataque con arma, podrás realizar otro ataque con la misma arma contra otra criatura distinta a la original que esté a 5 pies o menos de ella y dentro del alcance de tu arma.</p>"
 		},
 		"Hurl Through Hell": {
-			"name": "Hurl Through Hell",
-			"description": "<p>Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.</p><p>At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+			"name": "Arrastrar por el Infierno (Hurl Through Hell)",
+			"description": "<p>A partir de nivel 14, cuando impactas a una criatura con un ataque, puedes utilizar este rasgo para teletransportar instantáneamente al objetivo a los Planos Inferiores. La criatura desaparece y se precipita a través de un paisaje de pesadilla.</p><p>Al final de tu siguiente turno, el objetivo vuelve al espacio que ocupaba anteriormente o al espacio desocupado más cercano si el original está ahora ocupado. Si la criatura no es un infernal, sufrirá 10d10 de daño psíquico, debido al profundo impacto que le ha producido la terrorífica experiencia.</p><p>Una vez empleado este rasgo, deberás terminar un descanso largo para poder volver a usarlo otra vez.</p>"
 		},
 		"Improved Critical": {
-			"name": "Improved Critical",
-			"description": "<p>Your weapon attacks score a critical hit on a roll of 19 or 20.</p>"
+			"name": "Crítico Mejorado (Improved Critical)",
+			"description": "<p>A partir del momento en el que eliges este arquetipo, a nivel 3, tus ataques con arma causarán críticos con un resultado de 19 o 20 en la tirada.</p>"
 		},
 		"Improved Divine Smite": {
-			"name": "Improved Divine Smite",
-			"description": "<p>By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them.</p><p>Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your @Compendium[dnd5e.classfeatures.ySMPQ6zNSlvkrl2f]{Divine Smite} with an attack, you add this damage to the extra damage of your Divine Smite.</p>"
+			"name": "Castigo Divino Mejorado (Improved Divine Smite)",
+			"description": "<p>A nivel 11 estás tan bañado en el poder de la virtud que todos los golpes de tus armas cuerpo a cuerpo llevan consigo una fuerza divina.</p><p>Siempre que impactes a una criatura con un ataque cuerpo a cuerpo, este infligirá 1d8 de daño radiante adicional.</p>"
 		},
 		"Indomitable": {
-			"name": "Indomitable",
+			"name": "Indómito (Indomitable)",
 			"description": "<p>You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.</p><p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p><p><em>**Foundry note: Note the limited uses is set to the base default of 1 per long rest. Please manually adjust as required.</em></p>"
 		},
 		"Indomitable Might": {
