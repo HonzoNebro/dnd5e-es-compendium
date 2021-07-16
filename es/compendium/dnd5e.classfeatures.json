@@ -187,7 +187,7 @@
 		},
 		"Divine Smite": {
 			"name": "Castigo Divino (Divine Smite)",
-			"description": "<p>A partir de nivel 2, cuando impactas a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar uno de tus espacios de conjuro para infligir daño radiante al objetivo, además del que ya causa el arma. Este daño adicional es de 2d8 si inviertes un espacio de nivel 1, más 1d8 adicionales por cada nivel del espacio por encima de 1, hasta un máximo de 5d8. Este daño aumenta en1d8 si el objetivo es un muerto viviente o un infernal.</p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso largo. Ajústalo manualmente según sea necesario.</em></p>"
+			"description": "<p>A partir de nivel 2, cuando impactas a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar uno de tus espacios de conjuro para infligir daño radiante al objetivo, además del que ya causa el arma.</p><p> Este daño adicional es de 2d8 si inviertes un espacio de nivel 1, más 1d8 adicionales por cada nivel del espacio por encima de 1, hasta un máximo de 5d8. Este daño aumenta en1d8 si el objetivo es un muerto viviente o un infernal.</p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Divine Strike": {
 			"name": "Golpe Divino (Divine Strike)",
@@ -371,7 +371,7 @@
 		},
 		"Improved Divine Smite": {
 			"name": "Castigo Divino Mejorado (Improved Divine Smite)",
-			"description": "<p>A nivel 11 estás tan bañado en el poder de la virtud que todos los golpes de tus armas cuerpo a cuerpo llevan consigo una fuerza divina.</p><p>Siempre que impactes a una criatura con un ataque cuerpo a cuerpo, este infligirá 1d8 de daño radiante adicional.</p>"
+			"description": "<p>A nivel 11 estás tan bañado en el poder de la virtud que todos los golpes de tus armas cuerpo a cuerpo llevan consigo una fuerza divina.</p><p>Siempre que impactes a una criatura con un ataque cuerpo a cuerpo, este infligirá 1d8 de daño radiante adicional. Si usas tu @Compendium[dnd5e.classfeatures.ySMPQ6zNSlvkrl2f]{Castigo Divino} con el ataque, agregas este daño al daño extra de yu Castigo Divino.</p>"
 		},
 		"Indomitable": {
 			"name": "Indómito (Indomitable)",
