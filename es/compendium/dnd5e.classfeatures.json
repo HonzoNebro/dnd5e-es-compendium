@@ -38,7 +38,7 @@
 			"description": "<p>A nivel 20 puedes usar tu @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{Forma Salvaje} un número ilimitado de veces.</p><p>Además, puedes ignorar los componentes somáticos y verbales de tus conjuros de druida, así como aquellos componentes materiales que carezcan de un coste concreto y no sean consumidos al lanzar el conjuro.</p><p>Obtienes este beneficio tanto en tu forma normal como las formas de bestia del rasgo Forma Salvaje.</p>"
 		},
 		"Aura of Courage": {
-			"name": "Aura de valor",
+			"name": "Aura de Coraje (Aura of Courage)",
 			"description": "<p>A partir de nivel 10, ni tu ni las criaturas amistosas a 10 pies o menos de ti podréis ser asustadas mientras permanezcas consciente.</p><p>A nivel 18 el alcance de esta aura aumenta a 30 pies.</p>"
 		},
 		"Aura of Devotion": {
@@ -130,7 +130,7 @@
 			"description": "<p>También a nivel 3, aprendes cómo usar tu astucia para distraer, confundir y minar la confianza y aptitudes de otros.</p><p>Cuando una criatura que puedas ver a 60 pies o menos de ti haga una tirada de ataque, prueba de característica o tirada de daño, podrás emplear tu reacción y gastar uno de los usos de @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{Inspiración Bárdica} para tirar el dado de Inspiración Bárdica y restar el número obtenido del resultado de la tirada de la criatura.</p><p>Puedes elegir utilizar este rasgo después de que la criatura haga su tirada, pero antes de que el DM indique si la tirada de ataque o prueba de característica ha tenido éxito, o la criatura cause el daño. Las criaturas que no puedan oírte o sean inmunes al estado “hechizado” no pueden verse afectadas por este rasgo.</p>"
 		},
 		"Danger Sense": {
-			"name": "Sentido del peligro",
+			"name": "Sentir el Peligro (Danger Sense)",
 			"description": "<p>A nivel 2, eres capaz de percibir de forma casi sobrenatural cuando lo que te rodea no es como debería ser. Gracias a ello se te da bien evitar el peligro.</p><p>Tienes ventaja en las tiradas de salvación de Destreza para evitar efectos que puedas ver, como trampas o conjuros. No obtendrás este beneficio si estás cegado, ensordecido o incapacitado.</p>"
 		},
 		"Dark One's Blessing": {
@@ -174,7 +174,7 @@
 			"description": "<p>Escoge uno de los siguientes dominios, que debe estar relacionado con tu dios, como por ejemplo, Vida. Tu elección determinará qué conjuros de dominio y otros rasgos recibes a nivel 1. Además, también te proporcionará formas adicionales de usar Canalizar Divinidad, un rasgo que obtendrás a nivel 2. Por último, te otorgará ventajas específicas a los niveles 6, 8 y 17.</p>\n<h3>Conjuros de dominio</h3>\n<p>Cada dominio tiene su propia lista de conjuros, llamados conjuros de dominio, que conseguirás cuando alcances el nivel de clérigo indicado en la descripción de dicho dominio. Una vez obtenidos, estos conjuros siempre se considerarán preparados y no cuentan para el total de conjuros que puedes preparar cada día.</p><p>Aunque recibas un conjuro de dominio que no aparezca en la lista de los de clérigo, para ti sí que se considerará como conjuro de clérigo.</p>"
 		},
 		"Divine Health": {
-			"name": "Salud divina",
+			"name": "Salud Divina (Divine Health)",
 			"description": "<p>A partir de nivel 3, la magia que fluye a través de ti le hace inmune a las enfermedades.</p>"
 		},
 		"Divine Intervention": {
@@ -238,7 +238,7 @@
 			"description": "<p>A partir de nivel 10 puedes añadir tu modificador por Inteligencia a una de las tiradas de daño de cualquier conjuro de evocación de mago que lances.</p>"
 		},
 		"Evasion": {
-			"name": "Evasión",
+			"name": "Evasión (Evasion)",
 			"description": "<p>A nivel 7 tu agilidad instintiva te da opción de evitar ciertos efectos de área, como el aliento de relámpago de un dragón o un conjuro de bola de fuego. Cuando seas víctima de un efecto que te permita hacer una tirada de salvación de Destreza para recibir solo la mitad del daño, no recibirás daño alguno si tienes éxito en la tirada de salvación y solo la mitad si la fallas.</p>"
 		},
 		"Evocation Savant": {
@@ -270,7 +270,7 @@
 			"description": "<p>A partir de nivel 3, puedes utilizar la acción adicional que obtuviste de @Compendium[dnd5e.classfeatures.01pcLg6PRu5zGrsb]{Acción Astuta} para hacer una prueba de Destreza (Juego de Manos), realizar una acción de Usar un Objeto o usar tus herramientas de ladrón para intentar desarmar una trampa o forzar una cerradura.</p>"
 		},
 		"Fast Movement": {
-			"name": "Movimiento rápido",
+			"name": "Movimiento Rápido (Fast Movement)",
 			"description": "<p>Si no estás llevando armadura pesada, tu velocidad aumenta en 10 pies.</p>"
 		},
 		"Favored Enemy": {
@@ -338,7 +338,7 @@
 			"description": "<p><em>Requisitos: Fuerza 13 o más.</em></p><p>Has desarrollado las aptitudes necesarias para pelear bien a distancias extremadamente cortas.</p><p>Obtienes los beneficios siguientes:</p>\n<ul>\n<li>Tienes ventaja en las tiradas de ataque contra una criatura a la que estés agarrando.</li>\n<li>Puedes usar tu acción para intentar someter a un objetivo al que estés agarrando. Para ello, haz otra prueba de agarrar. Si tienes éxito, tanto tú como la criatura estaréis apresados hasta que el agarre finalice.</li>\n</ul>"
 		},
 		"Hide in Plain Sight": {
-			"name": "Esconderse a plena vista",
+			"name": "Esconderse a Plena Vista (Hide in Plain Sight)",
 			"description": "<p>A partir de nivel 10, puedes pasar 1 minuto confeccionando un camuflaje que te oculte. Debes tener acceso a barro fresco, tierra, plantas, hollín o cualquier otro tipo de materiales que se den de forma habitual en la naturaleza y que quieras emplear para crear tu camuflaje.</p><p>Una vez te hayas camuflado de esta forma, puedes intentar esconderte apoyándote sobre una superficie sólida, como un árbol o un muro, que sea al menos tan alta y ancha como tú. Obtienes un bonificador de + 10 a las pruebas de Destreza (Sigilo) mientras permanezcas estático y no realices acción alguna. En cuanto te muevas o lleves a cabo una acción o reacción, deberás volver a camuflarte de nuevo para disfrutar de este beneficio.</p>"
 		},
 		"Holy Nimbus": {
@@ -514,7 +514,7 @@
 			"description": "<p>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p>"
 		},
 		"Jack of All Trades": {
-			"name": "Hombre De Mundo",
+			"name": "Aprendiz de Mucho (Jack of All Trades)",
 			"description": "<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.</p>"
 		},
 		"Ki": {
@@ -562,7 +562,7 @@
 			"description": "<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the @Compendium[dnd5e.spells.gMrWeG8fMDPRFiVe]{Entangle} spell.</p>"
 		},
 		"Lay on Hands": {
-			"name": "Imposición de manos",
+			"name": "Imponer las Manos (Lay on Hands)",
 			"description": "<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.</p><p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p><p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p><p>This feature has no effect on undead and constructs.</p><p><em>**Foundry note: Note the limited uses is set to the base default of 5 points of healing power per long rest. Please manually adjust as required.</em></p>"
 		},
 		"Magical Secrets": {
@@ -622,7 +622,7 @@
 			"description": "<p>Cuando alcanzas el nivel 3 te entregas a una tradición monástica, como puede ser el Camino de la Mano Abierta. Tu tradición te proporciona ciertos rasgos cuando alcanzas los niveles 3, 6, 11 y 17.</p>"
 		},
 		"Multiattack": {
-			"name": "Ataque múltiple",
+			"name": "Ataque Múltiple (Multiattack)",
 			"description": "<p>A nivel 11 obtienes uno de los siguientes rasgos, a tu elección.</p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"l7W6JB9yWLLLtQKP\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Andanada</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"1DY8w3CXeD7PHDXF\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Ataque Huracanado</a></p>\n        <p><em>**Nota de Foundry: Puedes arrastrar tu elección a la hoja de personaje y se actualizará automáticamente.</em></p>"
 		},
 		"Multiattack: Volley": {
@@ -702,7 +702,7 @@
 			"description": "<p>Starting at 14th level, when you make an ability check, you can expend one use of @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{Bardic Inspiraton}.</p><p>Roll a Bardic Inspiration die and add the number rolled to your ability check.</p><p>You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.</p>"
 		},
 		"Perfect Self": {
-			"name": "Yo perfecto",
+			"name": "Yo perfecto (Perfect Self)",
 			"description": "<p>At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.</p>"
 		},
 		"Persistent Rage": {
@@ -726,7 +726,7 @@
 			"description": "<p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</p>"
 		},
 		"Purity of Body": {
-			"name": "Pureza corporal",
+			"name": "Pureza de Cuerpo (Purity of Body)",
 			"description": "<p>At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.</p>"
 		},
 		"Purity of Spirit": {
@@ -734,7 +734,7 @@
 			"description": "<p>Beginning at 15th level, you are always under the effects of a @Compendium[dnd5e.spells.xmDBqZhRVrtLP8h2]{Protection from Evil and Good} spell.</p>"
 		},
 		"Rage": {
-			"name": "Furia",
+			"name": "Furia (Rage)",
 			"description": "<p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.&nbsp;While raging, you gain the following benefits if you aren't wearing heavy armor:</p>\n<ul>\n<li>\n<p>You have advantage on Strength checks and Strength saving throws.</p>\n</li>\n<li>\n<p>When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.</p>\n</li>\n<li>\n<p>You have resistance to bludgeoning, piercing, and slashing damage.</p>\n</li>\n</ul>\n<p>If you are able to cast spells, you can't cast them or concentrate on them while raging.&nbsp;</p>\n<p>Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.&nbsp;</p>\n<p>Once you have raged the number of times shown for your barbarian level in the Rages column in the table below, you must finish a long rest before you can rage again.</p>\n<p><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">**Foundry note: Note the limited uses is set to the base default of 2. Please manually adjust as required.</em></p>\n<table style=\"width: 286px; height: 170px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\"><strong>Barbarian Level</strong></td>\n<td style=\"width: 68px; height: 17px;\"><strong>Rages</strong></td>\n<td style=\"width: 96px; height: 17px;\"><strong>Rage Damage</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">1st</td>\n<td style=\"width: 68px; height: 17px;\">2</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">2nd</td>\n<td style=\"width: 68px; height: 17px;\">2</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">3rd</td>\n<td style=\"width: 68px; height: 17px;\">3</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">4th</td>\n<td style=\"width: 68px; height: 17px;\">3</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">5th</td>\n<td style=\"width: 68px; height: 17px;\">3</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">6th</td>\n<td style=\"width: 68px; height: 17px;\">4</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">7th</td>\n<td style=\"width: 68px; height: 17px;\">4</td>\n<td style=\"width: 96px; height: 17px;\">+2</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">8th</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+2</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">9th</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">10th</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">11th</td>\n<td style=\"width: 68px;\">4</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">12th</td>\n<td style=\"width: 68px;\">5</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">13th</td>\n<td style=\"width: 68px;\">5</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">14th</td>\n<td style=\"width: 68px;\">5</td>\n<td style=\"width: 96px;\">+3</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">15th</td>\n<td style=\"width: 68px; height: 17px;\">5</td>\n<td style=\"width: 96px; height: 17px;\">+3</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">16th</td>\n<td style=\"width: 68px; height: 17px;\">5</td>\n<td style=\"width: 96px; height: 17px;\">+4</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">17th</td>\n<td style=\"width: 68px;\">6</td>\n<td style=\"width: 96px;\">+4</td>\n</tr>\n<tr>\n<td style=\"width: 112px;\">18th</td>\n<td style=\"width: 68px;\">6</td>\n<td style=\"width: 96px;\">+4</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">19th</td>\n<td style=\"width: 68px; height: 17px;\">6</td>\n<td style=\"width: 96px; height: 17px;\">+4</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 112px; height: 17px;\">20th</td>\n<td style=\"width: 68px; height: 17px;\">Unlimited</td>\n<td style=\"width: 96px; height: 17px;\">+4</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
 		},
 		"Ranger Archetype": {
@@ -790,15 +790,15 @@
 			"description": "<p>When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.</p><p>If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p><p>If you wish, manually edit this entry and make a note of your second choice here:</p>\n<ul>\n<li><em>Second spell choice</em></li>\n</ul>"
 		},
 		"Slippery Mind": {
-			"name": "Mente escurridiza",
+			"name": "Mente Escurridiza (Slippery Mind)",
 			"description": "<p>By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.</p>"
 		},
 		"Slow Fall": {
-			"name": "Caída ralentizada",
+			"name": "Caída Lenta (Slow Fall)",
 			"description": "<p>Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.</p>"
 		},
 		"Sneak Attack": {
-			"name": "Ataque furtivo",
+			"name": "Ataque Furtivo (Sneak Attack)",
 			"description": "<p>Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.</p><p>You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.</p>"
 		},
 		"Song of Rest": {
@@ -814,7 +814,7 @@
 			"description": "<p>At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.</p>"
 		},
 		"Spell Mastery": {
-			"name": "Maestría en conjuros",
+			"name": "Maestría sobre Conjuros (Spell Mastery)",
 			"description": "<p>At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p><p>By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.</p><p>If you wish, manually edit this entry and make a note of your choices here:</p>\n<ul>\n<li><em>1st level spell</em></li>\n<li><em>2nd level spell</em></li>\n</ul>"
 		},
 		"Spellcasting (Bard)": {
@@ -930,7 +930,7 @@
 			"description": "<p>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the table below.&nbsp;</p>\n<p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.</p>\n<table style=\"width: 227px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 79px;\"><strong>Monk Level</strong></td>\n<td style=\"width: 141px;\"><strong>Unarmored Movement</strong></td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">2nd</td>\n<td style=\"width: 141px;\">+10 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">3rd</td>\n<td style=\"width: 141px;\">+10 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">4th</td>\n<td style=\"width: 141px;\">+10 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">5th</td>\n<td style=\"width: 141px;\">+10 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">6th</td>\n<td style=\"width: 141px;\">+15 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">7th</td>\n<td style=\"width: 141px;\">+15 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">8th</td>\n<td style=\"width: 141px;\">+15 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">9th</td>\n<td style=\"width: 141px;\">+15 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">10th</td>\n<td style=\"width: 141px;\">+20 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">11th</td>\n<td style=\"width: 141px;\">+20 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">12th</td>\n<td style=\"width: 141px;\">+20 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">13th</td>\n<td style=\"width: 141px;\">+20 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">14th</td>\n<td style=\"width: 141px;\">+25 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">15th</td>\n<td style=\"width: 141px;\">+25 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">16th</td>\n<td style=\"width: 141px;\">+25 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">17th</td>\n<td style=\"width: 141px;\">+25 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">18th</td>\n<td style=\"width: 141px;\">+30 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">19th</td>\n<td style=\"width: 141px;\">+30 ft.</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">20th</td>\n<td style=\"width: 141px;\">+30 ft.</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
 		},
 		"Uncanny Dodge": {
-			"name": "Esquiva asombrosa",
+			"name": "Esquiva Asombrosa (Uncanny Dodge)",
 			"description": "<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>"
 		},
 		"Use Magic Device": {
@@ -942,11 +942,11 @@
 			"description": "<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</p>"
 		},
 		"Wholeness of Body": {
-			"name": "Plenitud corporal",
+			"name": "Plenitud de Cuerpo (Wholeness of Body)",
 			"description": "<p>At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.</p>"
 		},
 		"Wild Shape": {
-			"name": "Forma salvaje",
+			"name": "Forma Salvaje (Wild Shape)",
 			"description": "<p>Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.</p><p>Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.</p>\n<h4><strong>Beast Shapes</strong></h4>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Level</strong></td>\n<td><strong>Max. CR</strong></td>\n<td><strong>Limitations</strong></td>\n<td><strong>Example</strong></td>\n</tr>\n<tr>\n<td>2nd</td>\n<td>1/4</td>\n<td>No flying or swimming speed</td>\n<td>@Compendium[dnd5e.monsters.yawTeS8u2FCfzzZH]{Wolf}</td>\n</tr>\n<tr>\n<td>4th</td>\n<td>1/2</td>\n<td>No flying speed</td>\n<td>@Compendium[dnd5e.monsters.8aCTKP5qaBPFOqxM]{Crocodile}</td>\n</tr>\n<tr>\n<td>8th</td>\n<td>1</td>\n<td>--</td>\n<td>@Compendium[dnd5e.monsters.DBCCRXiLn6mIS8hX]{Giant Eagle}</td>\n</tr>\n</tbody>\n</table>\n<p>You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.</p><p>While you are transformed, the following rules apply:</p>\n<ul>\n<li>\n<p>Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.</p>\n</li>\n<li>\n<p>When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.</p>\n</li>\n<li>\n<p>You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as&nbsp;call lightning, that you've already cast.</p>\n</li>\n<li>\n<p>You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.</p>\n</li>\n<li>\n<p>You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.</p>\n</li>\n</ul>"
 		}
 	}
