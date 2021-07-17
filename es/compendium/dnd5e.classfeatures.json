@@ -19,7 +19,7 @@
 		},
 		"Additional Fighting Style": {
 			"name": "Estilo de Combate Adicional (Additional Fighting Style)",
-			"description": "<p>puedes escoger una segunda opción del rasgo Estilo de Combate de entre las siguientes:</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Tiro con Arco}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defensa}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Duelo}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Combate con Armas a Dos Manos}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protección}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Combate con Dos Armas}</p><p>Debes elegir una distinta a la seleccionada en nivel 1.</p><p><em>**Nota de Foundry: Puedes arrastrar tu elección a la hoja de personaje y se actualizará automáticamente.</em></p>"
+			"description": "<p>Puedes escoger una segunda opción del rasgo Estilo de Combate de entre las siguientes:</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Tiro con Arco}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defensa}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Duelo}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Combate con Armas a Dos Manos}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protección}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Combate con Dos Armas}</p><p>Debes elegir una distinta a la seleccionada en nivel 1.</p><p><em>**Nota de Foundry: Puedes arrastrar tu elección a la hoja de personaje y se actualizará automáticamente.</em></p>"
 		},
 		"Additional Magical Secrets": {
 			"name": "Secretos Mágicos adicionales (Additional Magical Secrets)",
@@ -386,128 +386,128 @@
 			"description": "<p>A partir de nivel 10, puedes usar tu acción para asustar a alguien con tu mera presencia.</p><p>Para hacer esto, elige a una criatura que puedas ver a 30 pies o menos de ti. Si dicha criatura puede verte u oírte, deberá superar una tirada de salvación de Sabiduría (CD 8 + tu bonificador por competencia + tu bonificador por Carisma) o estará asustada de ti hasta el final de tu siguiente turno. En cada uno de los turnos subsiguientes, podrás utilizar tu acción para alargar la duración de este efecto sobre la criatura asustada hasta el final de tu siguiente turno. Este efecto termina si la criatura termina su turno fuera de tu línea de visión o a 60 pies o más de ti.</p><p>Si tiene éxito en su tirada de salvación, no podrás volver a usar este rasgo sobre esa criatura hasta que pasen 24 horas.</p>"
 		},
 		"Invocation: Agonizing Blast": {
-			"name": "Invocation: Agonizing Blast",
-			"description": "<p>When you cast @Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Eldritch Blast}, add your Charisma modifier to the damage it deals on a hit.</p>"
+			"name": "Invocación: Descarga Agónica (Agonizing Blast)",
+			"description": "<p>Cuando lanzas @Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Descarga sobrenatural} añades tu modificador por Carisma al daño que causas si impactas.</p>"
 		},
 		"Invocation: Armor of Shadows": {
-			"name": "Invocation: Armor of Shadows",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.CKZTpZlxj7hjjo2H]{Mage Armor} on yourself at will, without expending a spell slot or material components.</p>"
+			"name": "Invocación: Capa de Sombras (Armor of Shadows)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.CKZTpZlxj7hjjo2H]{Armadura de mago} sobre ti mismo a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales.</p>"
 		},
 		"Invocation: Ascendant Step": {
-			"name": "Invocation: Ascendant Step",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitate} on yourself at will, without expending a spell slot or material components.</p>"
+			"name": "Invocación: Paso Ascendente (Ascendant Step)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitar} sobre ti mismo a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales.</p>"
 		},
 		"Invocation: Beast Speech": {
-			"name": "Invocation: Beast Speech",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{Speak with Animals} at will, without expending a spell slot.</p>"
+			"name": "Invocación: Habla Bestial (Beast Speech)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{Hablar con los animales} a voluntad, sin tener que gastar un espacio de conjuro.</p>"
 		},
 		"Invocation: Beguiling Influence": {
-			"name": "Invocation: Beguiling Influence",
-			"description": "<p>You gain proficiency in the Deception and Persuasion skills.</p>"
+			"name": "Invocación: Influencia Seductora (Beguiling Influence)",
+			"description": "<p>Obtienes competencia en las habilidades Engaño y Persuasión.</p>"
 		},
 		"Invocation: Bewitching Whispers": {
-			"name": "Invocation: Bewitching Whispers",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.P6f1PPKPd9BCb742]{Compulsion} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+			"name": "Invocación: Susurros Embrujados (Bewitching Whispers)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.P6f1PPKPd9BCb742]{Compulsión} una vez utilizando un espacio de conjuro de brujo. Para volver a hacer esto tienes que finalizar primero un descanso largo.</p>"
 		},
 		"Invocation: Book of Ancient Secrets": {
-			"name": "Invocation: Book of Ancient Secrets",
-			"description": "<p>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.</p><p>On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</p>"
+			"name": "Invocación: Libro de los Secretos Ancestrales (Book of Ancient Secrets)",
+			"description": "<p>Ahora puedes escribir rituales mágicos en tu Libro de las Sombras. Escoge dos conjuros de nivel 1 que estén marcados como “ritual” de entre los de la lista de conjuros de cualquier clase. No tienen por qué ser los dos de la misma lista. Los conjuros que escribas en el libro no cuentan dentro del límite de conjuros que puedes conocer. Siempre que tengas tu Libro de las Sombras a mano podrás lanzar los conjuros elegidos como rituales. No serás capaz de lanzarlos de otra forma que no sea ritual, salvo si has obtenido estos conjuros por otros medios. También puedes lanzar de forma ritual aquellos conjuros de brujo que conozcas y estén marcados como “ritual”.</p><p>Además, podrás añadir a tu Libro de las Sombras otros conjuros rituales que encuentres durante tus aventuras. Cuando te hagas con un conjuro marcado de esta forma, serás capaz de incorporarlo al libro si su nivel es igual o inferior a la mitad de tu nivel de brujo (redondeando hacia arriba) y dispones del tiempo necesario para transcribir el conjuro. El proceso de copia exige 2 horas y 50 po por cada nivel del conjuro. El coste se debe a las raras tintas que son necesarias para grabarlo.</p>"
 		},
 		"Invocation: Chains of Carceri": {
-			"name": "Invocation: Chains of Carceri",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Hold Monster} at will - targeting a celestial, fiend, or elemental - without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</p>"
+			"name": "Invocación: Cadenas de Carceri (Chains of Carceri)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Inmovilizar monstruo} sobre un celestial, un infernal o un elemental a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales. Deberás terminar un descanso largo para poder volver a usar esta invocación en la misma criatura otra vez.</p>"
 		},
 		"Invocation: Devil's Sight": {
-			"name": "Invocation: Devil's Sight",
-			"description": "<p>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>"
+			"name": "Invocación: Vista del Diablo (Devil's Sight)",
+			"description": "<p>Puedes ver con normalidad en la oscuridad, tanto si esta es mágica como si no, a una distancia de hasta 120 pies.</p>"
 		},
 		"Invocation: Dreadful Word": {
-			"name": "Invocation: Dreadful Word",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.9hQXdMSmerkTsHDe]{Confusion} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+			"name": "Invocación: Palabra Aterradora (Dreadful Word)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.9hQXdMSmerkTsHDe]{Confusión} una vez utilizando un espacio de conjuro de brujo. Para volver a hacer esto tienes que finalizar primero un descanso largo.</p>"
 		},
 		"Invocation: Eldritch Sight": {
-			"name": "Invocation: Eldritch Sight",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detect Magic} at will, without expending a spell slot.</p>"
+			"name": "Invocación: Visión Sobrenatural (Eldritch Sight)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detectar magia} a voluntad, sin tener que gastar un espacio de conjuro.</p>"
 		},
 		"Invocation: Eldritch Spear": {
-			"name": "Invocation: Eldritch Spear",
-			"description": "<p>When you cast @Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Eldritch Blast}, its range is 300 feet.</p>"
+			"name": "Invocación: Lanza Sobrenatural (Eldritch Spear)",
+			"description": "<p>Cuando lanzas @Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Descarga sobrenatural} su alcance es de 300 pies.</p>"
 		},
 		"Invocation: Eyes of the Rune Keeper": {
-			"name": "Invocation: Eyes of the Rune Keeper",
-			"description": "<p>You can read all writing.</p>"
+			"name": "Invocación: Ojos del Guardian de las Runas (Eyes of the Rune Keeper)",
+			"description": "<p>Puedes leer cualquier escrito.</p>"
 		},
 		"Invocation: Fiendish Vigor": {
-			"name": "Invocation: Fiendish Vigor",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.7e3QXF10hLNDEdr6]{False Life} on yourself at will as a 1st-level spell, without expending a spell slot or material components.</p>"
+			"name": "Invocación: Vigor Infernal (Fiendish Vigor)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.7e3QXF10hLNDEdr6]{Falsa Vida} sobre ti mismo a voluntad como un conjuro de nivel 1, sin tener que gastar un espacio de conjuro ni componentes materiales</p>"
 		},
 		"Invocation: Gaze of Two Minds": {
-			"name": "Invocation: Gaze of Two Minds",
-			"description": "<p>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</p>"
+			"name": "Invocación: Mirada de las Dos Mentes (Gaze of Two Minds)",
+			"description": "<p>Puedes usar tu acción para tocar a un humanoide voluntario y percibir el mundo a través de sus sentidos hasta el final de tu siguiente turno. Mientras la criatura permanezca en el mismo plano de existencia que tú, podrás utilizar tu acción en cada uno de los turnos subsiguientes para mantener esta conexión, alargando la duración de este efecto hasta el final de tu siguiente turno. Cuando estás percibiendo el mundo a través de los sentidos de la otra criatura, ganas los beneficios de cualquier sentido especial que esta tenga, pero se te considera cegado y ensordecido en tu propio entorno.</p>"
 		},
 		"Invocation: Life Drinker": {
-			"name": "Invocation: Life Drinker",
-			"description": "<p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).</p>"
+			"name": "Invocación: Devorador de Vida (Life Drinker)",
+			"description": "<p>Cuando impactes a una criatura con tu arma de pacto, infligirás tanto daño necrótico adicional como tu modificador por Carisma (como mínimo 1).</p>"
 		},
 		"Invocation: Mask of Many Faces": {
-			"name": "Invocation: Mask of Many Faces",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.A3q2gTNqG6fvNGrv]{Disguise Self} at will, without expending a spell slot.</p>"
+			"name": "Invocación: Mascara de los Mil Rostros (Mask of Many Faces)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.A3q2gTNqG6fvNGrv]{Disfrazarse} a voluntad, sin tener que gastar un espacio de conjuro.</p>"
 		},
 		"Invocation: Master of Myriad Forms": {
-			"name": "Invocation: Master of Myriad Forms",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.8RTDOt80u8aBv9qx]{Alter Self} at will, without expending a spell slot.</p>"
+			"name": "Invocación: Maestro de las Formas Innumerables (Master of Myriad Forms)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.8RTDOt80u8aBv9qx]{Alterar el propio aspecto} a voluntad, sin tener que gastar un espacio de conjuro.</p>"
 		},
 		"Invocation: Minions of Chaos": {
-			"name": "Invocation: Minions of Chaos",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+			"name": "Invocación: Esbirros del Caos (Minions of Chaos)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar elemental} una vez utilizando un espacio de conjuro de brujo. Para volver a hacer esto tienes que finalizar primero un descanso largo.</p>"
 		},
 		"Invocation: Mire the Mind": {
-			"name": "Invocation: Mire the Mind",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.yqUDoxk4x0NWG5Bz]{Slow} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+			"name": "Invocación: Enfangar la Muerte (Mire the Mind)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.yqUDoxk4x0NWG5Bz]{Ralentizar} una vez utilizando un espacio de conjuro de brujo. Para volver a hacer esto tienes que finalizar primero un descanso largo.</p>"
 		},
 		"Invocation: Misty Visions": {
-			"name": "Invocation: Misty Visions",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.BrBZdCCrJRIVg7YX]{Silent Image} at will, without expending a spell slot or material components.</p>"
+			"name": "Invocación: Visiones Brumosas (Misty Visions)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.BrBZdCCrJRIVg7YX]{Imagen silenciosa} a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales. </p>"
 		},
 		"Invocation: One With Shadows": {
-			"name": "Invocation: One With Shadows",
-			"description": "<p>When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.</p>"
+			"name": "Invocación: Uno con las Sombras (One With Shadows)",
+			"description": "<p>Cuando estás en una zona de luz tenue u oscuridad, puedes usar tu acción para volverte invisible hasta que te muevas o realices una acción o una reacción.</p>"
 		},
 		"Invocation: Otherwordly Leap": {
-			"name": "Invocation: Otherwordly Leap",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{Jump} on yourself at will, without expending a spell slot or material components.</p>"
+			"name": "Invocación: Salto Sobrenatural (Otherwordly Leap)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{Salto} sobre ti mismo a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales.</p>"
 		},
 		"Invocation: Repelling Blast": {
-			"name": "Invocation: Repelling Blast",
-			"description": "<p>When you hit a creature with @Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Eldritch Blast}, you can push the creature up to 10 feet away from you in a straight line.</p>"
+			"name": "Invocación: Descarga Ahuyentadora (Repelling Blast)",
+			"description": "<p>Cuando impactes a una criatura con tu @Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Descarga sobrenatural}, puedes empujarla hasta 10 pies en dirección contraria a ti.</p>"
 		},
 		"Invocation: Sculptor of Flesh": {
-			"name": "Invocation: Sculptor of Flesh",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.04nMsTWkIFvkbXlY]{Polymorph} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+			"name": "Invocación: Escultor de Carne (Sculptor of Flesh)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.04nMsTWkIFvkbXlY]{Polimorfar} una vez utilizando un espacio de conjuro de brujo. Para volver a hacer esto tienes que finalizar primero un descanso largo.</p>"
 		},
 		"Invocation: Sign of Ill Omen": {
-			"name": "Invocation: Sign of Ill Omen",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.pO4zGe5LmFIYqJiL]{Bestow Curse} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+			"name": "Invocación: Marca del Mal Augurio (Sign of Ill Omen)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.pO4zGe5LmFIYqJiL]{Imponer maldición} una vez utilizando un espacio de conjuro de brujo. Para volver a hacer esto tienes que finalizar primero un descanso largo.</p>"
 		},
 		"Invocation: Thief of Five Fates": {
-			"name": "Invocation: Thief of Five Fates",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.95K2aUhAGV9qXjnf]{Bane} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+			"name": "Invocación: Ladrón de los Cinco Destinos (Thief of Five Fates)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.95K2aUhAGV9qXjnf]{Perdición} una vez utilizando un espacio de conjuro de brujo. Para volver a hacer esto tienes que finalizar primero un descanso largo.</p>"
 		},
 		"Invocation: Thirsting Blade": {
-			"name": "Invocation: Thirsting Blade",
-			"description": "<p>You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.</p>"
+			"name": "Invocación: Filo Sediento (Thirsting Blade)",
+			"description": "<p>Puedes atacar con tu arma de pacto dos veces, en lugar de una, cuando realices una acción de Atacar durante tu turno.</p>"
 		},
 		"Invocation: Visions of Distant Realms": {
-			"name": "Invocation: Visions of Distant Realms",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.ImlCJQwR1VL40Qem]{Arcane Eye} at will, without expending a spell slot.</p>"
+			"name": "Invocación: Visiones de Reinos Remotos (Visions of Distant Realms)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.ImlCJQwR1VL40Qem]{Ojo arcano} a voluntad, sin tener que gastar un espacio de conjuro.</p>"
 		},
 		"Invocation: Voice of the Chain Master": {
-			"name": "Invocation: Voice of the Chain Master",
-			"description": "<p>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</p>"
+			"name": "Invocación: Voz del Amo de la Cadena (Voice of the Chain Master)",
+			"description": "<p>Puedes comunicarte telepáticamente con tu familiar y percibir el mundo a través de sus sentidos siempre que los dos estéis en el mismo plano de existencia. Además, mientras estés percibiendo por medio de los sentidos de tu familiar también podrás hablar a través de él con tu propia voz, incluso aunque tu familiar sea incapaz de hablar normalmente.</p>"
 		},
 		"Invocation: Whispers of the Grave": {
-			"name": "Invocation: Whispers of the Grave",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.I2LUSF5ogc7Bj62e]{Speak with Dead} at will, without expending a spell slot.</p>"
+			"name": "Invocación: Susurros del Sepulcro (Whispers of the Grave)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.I2LUSF5ogc7Bj62e]{Hablar con los muertos} a voluntad, sin tener que gastar un espacio de conjuro.</p>"
 		},
 		"Invocation: Witch Sight": {
 			"name": "Invocation: Witch Sight",
@@ -614,88 +614,88 @@
 			"description": "<p>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).</p><p>To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Magic Missile} and @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{Scorching Ray} aren't eligible, but @Compendium[dnd5e.spells.ctW81uiX56xZR2c5]{Ray of Frost} is.</p>"
 		},
 		"Mindless Rage": {
-			"name": "Mindless Rage",
-			"description": "<p>Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your @Compendium[dnd5e.classfeatures.VoR0SUrNX5EJVPIO]{Rage}, the effect is suspended for the duration of the rage.</p>"
+			"name": "Furia Irracional (Mindless Rage)",
+			"description": "<p>A partir de nivel 6, no puedes ser asustado ni hechizado mientras estés @Compendium[dnd5e.classfeatures.VoR0SUrNX5EJVPIO]{Enfurecido}. Si estabas asustado o hechizado antes de enfurecerte, dejarás de estarlo temporalmente, mientras dure la furia.</p>"
 		},
 		"Monastic Tradition": {
-			"name": "Monastic Tradition",
-			"description": "<p>When you reach 3rd level, you commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>"
+			"name": "Tradición Monástica (Monastic Tradition)",
+			"description": "<p>Cuando alcanzas el nivel 3 te entregas a una tradición monástica, como puede ser el Camino de la Mano Abierta. Tu tradición te proporciona ciertos rasgos cuando alcanzas los niveles 3, 6, 11 y 17.</p>"
 		},
 		"Multiattack": {
 			"name": "Ataque múltiple",
-			"description": "<p>At 11th level, you gain one of the following features of your choice.</p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"l7W6JB9yWLLLtQKP\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Volley</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"1DY8w3CXeD7PHDXF\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Whirlwind Attack</a></p>\n        <p>You can drag your choice from the above onto your character sheet and it will automatically update.</p>"
+			"description": "<p>A nivel 11 obtienes uno de los siguientes rasgos, a tu elección.</p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"l7W6JB9yWLLLtQKP\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Andanada</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"1DY8w3CXeD7PHDXF\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Ataque Huracanado</a></p>\n        <p><em>**Nota de Foundry: Puedes arrastrar tu elección a la hoja de personaje y se actualizará automáticamente.</em></p>"
 		},
 		"Multiattack: Volley": {
-			"name": "Multiattack: Volley",
-			"description": "<p>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</p>"
+			"name": "Ataque Múltiple: Andanada (Volley)",
+			"description": "<p>Puedes usar tu acción para realizar un ataque a distancia contra cualquier cantidad de criaturas que se encuentren a 10 pies o menos de un punto que puedas ver dentro del alcance de tu arma. Debes tener munición suficiente para todos los objetivos y hacer una tirada de ataque para cada objetivo por separado.</p>"
 		},
 		"Multiattack: Whirlwind Attack": {
-			"name": "Multiattack: Whirlwind Attack",
-			"description": "<p>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</p>"
+			"name": "Ataque Múltiple: Ataque Huracanado (Whirlwind Attack)",
+			"description": "<p>Puedes emplear tu acción para realizar un ataque cuerpo a cuerpo contra cualquier cantidad de criaturas que se encuentren a 5 pies o menos de ti, haciendo una tirada de ataque para cada objetivo por separado.</p>"
 		},
 		"Mystic Arcanum (6th-Level Spell)": {
-			"name": "Mystic Arcanum (6th-Level Spell)",
-			"description": "<p>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p><p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</p><p>If you wish, manually edit this entry and make a note of your choice here:</p>\n<ul>\n<li><em>6th-level spell</em></li>\n</ul>"
+			"name": "Arcanum Místico de Nivel 6 (Mystic Arcanum)",
+			"description": "<p>A nivel 11, tu patrón te recompensa con un secreto mágico llamado arcanum. Escoge uno de los conjuros de nivel 6 de la lista del brujo como este arcanum.</p><p>Puedes lanzar tu conjuro de arcanum una vez sin gastar ningún espacio de conjuro, pero debes terminar un descanso largo para poder volver a hacerlo otra vez.</p><p>A niveles superiores puedes elegir más conjuros de brujo, que serás capaz de lanzar de esta forma: un conjuro de nivel 7 cuando subas a nivel 13, uno de nivel 8 cuando subas a nivel 15 y uno de nivel 9 cuando subas a nivel 17. Recuperas todos los usos de Arcanum Místico tras finalizar un descanso largo.</p><p>Puedes editar manualmente esta entrada y anotar tus opciones aquí:</p>\n<ul>\n<li><em>Conjuro de nivel 6</em></li>\n</ul>"
 		},
 		"Mystic Arcanum (7th-Level Spell)": {
-			"name": "Mystic Arcanum (7th-Level Spell)",
-			"description": "<p>Choose one 7th-level spell from the warlock spell list as an additional arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p><p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</p><p>If you wish, manually edit this entry and make a note of your choice here:</p>\n<ul>\n<li><em>7th-level spell</em></li>\n</ul>"
+			"name": "Arcanum Místico de Nivel 7 (Mystic Arcanum)",
+			"description": "<p>Elige un conjuro de nivel 7 de la lista de conjuros del brujo como un arcanum adicional.</p><p>Puedes lanzar tu conjuro de arcanum una vez sin gastar ningún espacio de conjuro, pero debes terminar un descanso largo para poder volver a hacerlo otra vez.</p><p>A niveles superiores puedes elegir más conjuros de brujo, que serás capaz de lanzar de esta forma: uno de nivel 8 cuando subas a nivel 15 y uno de nivel 9 cuando subas a nivel 17. Recuperas todos los usos de Arcanum Místico tras finalizar un descanso largo.</p><p>Puedes editar manualmente esta entrada y anotar tus opciones aquí:</p>\n<ul>\n<li><em>Conjuro de nivel 7</em></li>\n</ul>"
 		},
 		"Mystic Arcanum (8th-Level Spell)": {
-			"name": "Mystic Arcanum (8th-Level Spell)",
-			"description": "<p>Choose one 8th-level spell from the warlock spell list as an additional arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p><p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</p><p>If you wish, manually edit this entry and make a note of your choice here:</p>\n<ul>\n<li><em>8th-level spell</em></li>\n</ul>"
+			"name": "Arcanum Místico de Nivel 8 (Mystic Arcanum)",
+			"description": "<p>Elige un conjuro de nivel 8 de la lista de conjuros del brujo como un arcanum adicional.</p><p>Puedes lanzar tu conjuro de arcanum una vez sin gastar ningún espacio de conjuro, pero debes terminar un descanso largo para poder volver a hacerlo otra vez.</p><p>A niveles superiores puedes elegir más conjuros de brujo, que serás capaz de lanzar de esta forma: uno de nivel 9 cuando subas a nivel 17. Recuperas todos los usos de Arcanum Místico tras finalizar un descanso largo.</p><p>Puedes editar manualmente esta entrada y anotar tus opciones aquí:</p>\n<ul>\n<li><em>Conjuro de nivel 8</em></li>\n</ul>"
 		},
 		"Mystic Arcanum (9th-Level Spell)": {
-			"name": "Mystic Arcanum (9th-Level Spell)",
-			"description": "<p>Choose one 9th-level spell from the warlock spell list as an additional arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p><p>You regain all uses of your Mystic Arcanum when you finish a long rest.</p><p>If you wish, manually edit this entry and make a note of your choice here:</p>\n<ul>\n<li><em>9th-level spell</em></li>\n</ul>"
+			"name": "Arcanum Místico de Nivel 9 (Mystic Arcanum)",
+			"description": "<p>Elige un conjuro de nivel 9 de la lista de conjuros del brujo como un arcanum adicional.</p><p>Puedes lanzar tu conjuro de arcanum una vez sin gastar ningún espacio de conjuro, pero debes terminar un descanso largo para poder volver a hacerlo otra vez.</p><p>Recuperas todos los usos de Arcanum Místico tras finalizar un descanso largo.</p><p>Puedes editar manualmente esta entrada y anotar tus opciones aquí:</p>\n<ul>\n<li><em>Conjuro de nivel 9</em></li>\n</ul>"
 		},
 		"Natural Explorer": {
-			"name": "Natural Explorer",
-			"description": "<p>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</p><p>While traveling for an hour or more in your favored terrain, you gain the following benefits:</p>\n<ul>\n<li>Difficult terrain doesn't slow your group's travel.</li>\n<li>Your group can't become lost except by magical means.</li>\n<li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li>\n<li>If you are traveling alone, you can move stealthily at a normal pace.</li>\n<li>When you forage, you find twice as much food as you normally would.</li>\n<li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li>\n</ul>\n<p>You choose additional favored terrain types at 6th and 10th level.</p><p>If it would be helpful, manually edit this entry and make a note of your choices here:</p>\n<ul>\n<li><em>1st level</em></li>\n<li><em>6th level</em></li>\n<li><em>10th level</em></li>\n</ul>"
+			"name": "Explorador Nato (Natural Explorer)",
+			"description": "<p>Estás muy familiarizado con un tipo de entorno natural concreto, por lo que eres un experto en viajar por y sobrevivir en las regiones de ese tipo. Escoge un tipo de terreno predilecto: bosque, costa, desierto, montaña, pantano, pradera o polar. Cuando hagas una prueba de Inteligencia o Sabiduría que tenga relación con tu terreno predilecto, añadirás dos veces tu bonificador por competencia si estás usando una habilidad en la que eres competente.</p><p>Cuando viajas durante al menos una hora por tu terreno favorito, obtienes los siguientes beneficios:</p>\n<ul>\n<li>El terreno difícil no ralentiza el viaje de tu grupo.</li>\n<li>Tu grupo no puede perderse por causas no mágicas.</li>\n<li>Incluso aunque estés ocupado con otra actividad mientras viajas (como forrajear, orientarse o rastrear), permaneces atento al peligro.</li>\n<li>Si estás viajando en solitario, puedes moverte con sigilo a un ritmo de viaje normal.</li>\n<li>Cuando forrajeas, encuentras el doble de comida de lo normal.</li>\n<li>Cuando rastreas a otras criaturas, también descubres el número exacto de las mismas, sus tamaños y hace cuánto pasaron por la zona.</li>\n</ul>\n<p>Puedes elegir un terreno predilecto adicional cuando alcanzas los niveles 6 y 10.</p><p>Puedes editar manualmente esta entrada y anotar tus opciones aquí:</p>\n<ul>\n<li><em>Nivel 1</em></li>\n<li><em>Nivel 6</em></li>\n<li><em>Nivel 10</em></li>\n</ul>"
 		},
 		"Natural Recovery": {
-			"name": "Natural Recovery",
-			"description": "<p>Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature.</p><p>During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.</p><p>For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.</p>"
+			"name": "Recuperación Natural (Natural Recovery)",
+			"description": "<p>A partir de nivel 2, eres capaz de recuperar parte de tu energía mágica sentándote a meditar y comulgar con la naturaleza.</p><p>Durante un descanso corto, puedes elegir espacios de conjuro gastados y recuperarlos. La suma de niveles de estos espacios de conjuro debe ser igual o inferior a la mitad de tu nivel de druida (redondeando hacia arriba) y ninguno de los espacios puede ser de nivel 6 o más. No podrás volver a utilizar este rasgo hasta que termines un descanso largo.</p><p>Si, por ejemplo, eres un druida de nivel 4, podrás recuperar hasta dos niveles en espacios de conjuro: un espacio de nivel 2 o dos de nivel 1.</p>"
 		},
 		"Nature's Sanctuary": {
-			"name": "Nature's Sanctuary",
-			"description": "<p>When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you.</p><p>When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.</p><p>The creature is aware of this effect before it makes its attack against you.</p>"
+			"name": "Santuario de la Naturaleza (Nature's Sanctuary)",
+			"description": "<p>Una vez alcanzas el nivel 14, las criaturas del mundo natural sienten tu conexión con la naturaleza y se muestran reticentes a atacarte.</p><p>Cuando una bestia o criatura de tipo planta te ataque, deberá hacer una tirada de salvación de Sabiduría con la misma CD que las tiradas de salvación de tus conjuros de druida. Si falla, la criatura deberá elegir un nuevo objetivo o el ataque fallará automáticamente. Si tiene éxito, será inmune a este efecto durante 24 horas.</p><p>La criatura es consciente de este efecto antes de decidir si atacarte.</p>"
 		},
 		"Nature's Ward": {
-			"name": "Nature's Ward",
-			"description": "<p>When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.</p>"
+			"name": "Protección de la Naturaleza (Nature's Ward)",
+			"description": "<p>A partir de nivel 10, no puedes ser asustado ni hechizado por elementales o feéricos y eres inmune al veneno y la enfermedad.</p>"
 		},
 		"Open Hand Technique": {
-			"name": "Open Hand Technique",
-			"description": "<p>Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own.</p><p>Whenever you hit a creature with one of the attacks granted by your @Compendium[world.class-features-srd-v2.5MwNlVZK7m6VolOH]{Ki: Flurry of Blows}, you can impose one of the following effects on that target:</p>\n<ul>\n<li>It must succeed on a Dexterity saving throw or be knocked prone.</li>\n<li>It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</li>\n<li>It can’t take reactions until the end of your next turn.</li>\n</ul>"
+			"name": "Técnica de la Mano Abierta (Open Hand Technique)",
+			"description": "<p>A partir del momento en el que escoges esta tradición, a nivel 3, puedes manipular el ki de tus enemigos mientras dominas el tuyo propio.</p><p>Cuando impactas a una criatura con uno de los ataques que te proporciona @Compendium[world.class-features-srd-v2.5MwNlVZK7m6VolOH]{Ki: Ráfaga de Golpes}, puedes obligarla a sufrir uno de los siguientes efectos:</p>\n<ul>\n<li>Debe superar una tirada de salvación de Destreza o será derribado.</li>\n<li>Ha de hacer una tirada de salvación de Fuerza. Si falla, puedes empujarla hasta 15 pies en dirección contraria a ti.</li>\n<li>No puede realizar reacciones hasta el final de tu siguiente turno.</li>\n</ul>"
 		},
 		"Otherworldly Patron": {
-			"name": "Otherworldly Patron",
-			"description": "<p>At 1st level, you have struck a bargain with an otherworldly being, such as the Fiend. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.</p>"
+			"name": "Patrón Sobrenatural (Otherworldly Patron)",
+			"description": "<p>A nivel 1 has acordado un trato con un ser sobrenatural como puede ser el Infernal. Esta elección te proporciona ciertos rasgos cuando alcanzas los niveles 1, 6, 10 y 14.</p>"
 		},
 		"Overchannel": {
-			"name": "Overchannel",
-			"description": "<p>Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.</p><p>The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.</p><p><em>**Foundry note: Note the limited use is to track the first, safe instance of Overchanneling. The damage formula is set to the base default of 2d12. The Versatile roll is set to 1d12 to add any additional damage.</em></p>"
+			"name": "Sobrecanalizar (Overchannel)",
+			"description": "<p>A partir de nivel 14 puedes aumentar el poder de tus conjuros más sencillos. Cuando lanzas un conjuro de mago de niveles entre 1 y 5 que causa daño, este inflige el daño máximo posible.</p><p>La primera vez que hagas esto no sufrirás ningún efecto negativo, pero si usas este rasgo de nuevo sin haber finalizado un descanso largo antes, recibirás, inmediatamente después de lanzar el conjuro, 2d12 de daño necrótico por cada nivel del mismo. Cada vez que utilices este rasgo otra vez sin haber terminado un descanso largo, el daño necrótico por cada nivel del conjuro aumenta en 1d12. Este daño ignora cualquier resistencia e inmunidad.</p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados son para controlar el primer uso de Sobrecanalizar sin daño. La fórmula de daño base se ha fijado en 2d12 y 1d12 de Daño Versátil para añadir el daño adicional.</em></p>"
 		},
 		"Pact Boon": {
-			"name": "Pact Boon",
-			"description": "<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"9dSSa68mIPoX2ezA\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Pact of the Blade</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"Ic1CSjvbWKudVUv9\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Pact of the Chain</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"MYM908WLZ1lVvA1u\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Pact of the Tome</a></p>\n        <p>You can drag your choice from the above onto your character sheet and it will automatically update.</p>"
+			"name": "Beneficio del Pacto (Pact Boon)",
+			"description": "<p>A nivel 3 tu patrón sobrenatural le concede un regalo como recompensa por tus leales servicios. Obtienes uno de los siguientes rasgos, a tu elección.</p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"9dSSa68mIPoX2ezA\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Pacto del Filo</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"Ic1CSjvbWKudVUv9\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Pacto de la Cadena</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"MYM908WLZ1lVvA1u\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Pacto del Grimorio</a></p>\n        <p><em>**Nota de Foundry: Puedes arrastrar tu elección a la hoja de personaje y se actualizará automáticamente.</em></p>"
 		},
 		"Pact Magic": {
-			"name": "Pact Magic",
-			"description": "<p>Your arcane research and the magic bestowed on you by your patron have given you facility with spells.</p>\n<h3>Cantrips</h3>\n<p>You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.</p>\n<h3>Spell Slots</h3>\n<p>The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.</p><p>For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell thunderwave, you must spend one of those slots, and you cast it as a 3rd-level spell.</p>\n<h3>Spells Known of 1st Level and Higher</h3>\n<p>At 1st level, you know two 1st-level spells of your choice from the warlock spell list.</p><p>The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.</p><p>Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.</p>\n<table border=\"0\" cellspacing=\"0\">\n<thead>\n<tr>\n<td>Level</td>\n<td>Cantrips Known</td>\n<td>Spells Known</td>\n<td>Spell Slots</td>\n<td>Slot Level</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1st</td>\n<td>2</td>\n<td>2</td>\n<td>1</td>\n<td>1st</td>\n</tr>\n<tr>\n<td>2nd</td>\n<td>2</td>\n<td>3</td>\n<td>2</td>\n<td>1st</td>\n</tr>\n<tr>\n<td>3rd</td>\n<td>2</td>\n<td>4</td>\n<td>2</td>\n<td>2nd</td>\n</tr>\n<tr>\n<td>4th</td>\n<td>3</td>\n<td>5</td>\n<td>2</td>\n<td>2nd</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>3</td>\n<td>6</td>\n<td>2</td>\n<td>3rd</td>\n</tr>\n<tr>\n<td>6th</td>\n<td>3</td>\n<td>7</td>\n<td>2</td>\n<td>3rd</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>3</td>\n<td>8</td>\n<td>2</td>\n<td>4th</td>\n</tr>\n<tr>\n<td>8th</td>\n<td>3</td>\n<td>9</td>\n<td>2</td>\n<td>4th</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>3</td>\n<td>10</td>\n<td>2</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>10th</td>\n<td>4</td>\n<td>10</td>\n<td>2</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>11th</td>\n<td>4</td>\n<td>11</td>\n<td>3</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>12th</td>\n<td>4</td>\n<td>11</td>\n<td>3</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>13th</td>\n<td>4</td>\n<td>12</td>\n<td>3</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>14th</td>\n<td>4</td>\n<td>12</td>\n<td>3</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>15th</td>\n<td>4</td>\n<td>13</td>\n<td>3</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>16th</td>\n<td>4</td>\n<td>13</td>\n<td>3</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>17th</td>\n<td>4</td>\n<td>14</td>\n<td>4</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>18th</td>\n<td>4</td>\n<td>14</td>\n<td>4</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>19th</td>\n<td>4</td>\n<td>15</td>\n<td>4</td>\n<td>5th</td>\n</tr>\n<tr>\n<td>20th</td>\n<td>4</td>\n<td>15</td>\n<td>4</td>\n<td>5th</td>\n</tr>\n</tbody>\n</table>\n<h3>Spellcasting Ability</h3>\n<p>Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.</p><p><strong>Spell save DC</strong> = 8 + your proficiency bonus + your Charisma modifier</p><p><strong>Spell attack modifier </strong>= your proficiency bonus + your Charisma modifier</p>\n<h3>Spellcasting Focus</h3>\n<p>You can use an arcane focus as a spellcasting focus for your warlock spells.</p>"
+			"name": "Magia del Pacto (Pact Magic)",
+			"description": "<p>Tus investigaciones en lo arcano y la magia que te ha sido concedida por tu patrón te han dotado de cierta habilidad con los conjuros.</p>\n<h3>Trucos</h3>\n<p>Conoces dos trucos de tu elección escogidos de entre los de la lista de conjuros de brujo. Podrás elegir más trucos de brujo cuando llegues a niveles más altos, como se indica en la columna Trucos conocidos de la tabla del brujo.</p>\n<h3>Espacios de conjuro</h3>\n<p>La tabla del brujo muestra de cuántos espacios de conjuro dispones. Esta tabla también te indica de qué nivel son dichos espacios. Todos tus espacios son del mismo nivel. Para lanzar uno de tus conjuros de brujo de nivel 1 o superiores deberás gastar un espacio de conjuro. Recuperas todos los espacios utilizados tras finalizar un descanso corto o largo.</p><p>Así, si eres un brujo de nivel 5, dispondrás de dos espacios de conjuro de nivel 3. Para lanzar el conjuro de nivel 1rayo de hechicería deberás invertir uno de estos espacios, y lo lanzarás como un conjuro de nivel 3.</p>\n<h3>Conjuros conocidos de nivel 1 y superiores</h3>\n<p>A nivel 1 conoces dos conjuros de nivel 1 de tu elección, escogidos de entre la lista de conjuros de brujo.</p><p>La columna Conjuros conocidos de la tabla del brujo te indica cuándo podrás aprender más conjuros de brujo de nivel 1 o superiores. Siempre que elijas un conjuro, este debe ser de un nivel igual o inferior al que aparece en la columna Nivel de los espacios para tu nivel de brujo. Así, cuando subes a nivel 6 en esta clase puedes aprender un conjuro de brujo nuevo, que puede ser de nivel 1, 2 o 3.</p><p>Además, cada vez que subas un nivel de esta clase podrás elegir uno de los conjuros de brujo que ya conoces y reemplazarlo por otro de las que aparecen en la lista de conjuros de brujo. Este reemplazo deberá ser de un nivel para el que poseas espacios de conjuro.</p>\n<table border=\"0\" cellspacing=\"0\">\n<thead>\n<tr>\n<td>Nivel</td>\n<td>Trucos conocidos</td>\n<td>Conjuros conocidos</td>\n<td>Espacios de conjuros</td>\n<td>Nivel del espacio</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n<td>1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n</tr>\n<tr>\n<td>3</td>\n<td>2</td>\n<td>4</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>4</td>\n<td>3</td>\n<td>5</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>5</td>\n<td>3</td>\n<td>6</td>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>6</td>\n<td>3</td>\n<td>7</td>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>7</td>\n<td>3</td>\n<td>8</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>8</td>\n<td>3</td>\n<td>9</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td>9</td>\n<td>3</td>\n<td>10</td>\n<td>2</td>\n<td>5</td>\n</tr>\n<tr>\n<td>10</td>\n<td>4</td>\n<td>10</td>\n<td>2</td>\n<td>5</td>\n</tr>\n<tr>\n<td>11</td>\n<td>4</td>\n<td>11</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>12</td>\n<td>4</td>\n<td>11</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>13</td>\n<td>4</td>\n<td>12</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>14</td>\n<td>4</td>\n<td>12</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>15</td>\n<td>4</td>\n<td>13</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>16</td>\n<td>4</td>\n<td>13</td>\n<td>3</td>\n<td>5</td>\n</tr>\n<tr>\n<td>17</td>\n<td>4</td>\n<td>14</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>18</td>\n<td>4</td>\n<td>14</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>19</td>\n<td>4</td>\n<td>15</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td>20</td>\n<td>4</td>\n<td>15</td>\n<td>4</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n<h3>Aptitud mágica</h3>\n<p>El Carisma es tu aptitud mágica en lo que a conjuros de brujo respecta. Así, utilizarás tu Carisma siempre que un conjuro de brujo haga referencia a tu aptitud mágica. Además, también usarás tu modificador por Carisma para determinar la CD de las tiradas de salvación y las tiradas de ataque de los conjuros de brujo que lances.</p><p><strong>SCD tirada de salvación de conjuros</strong> = 8 + tu bonificador por competencia + tu modificador por Carisma</p><p><strong>Modificador de ataque de conjuros </strong>= tu bonificador por competencia + tu modificador por Carisma</p>\n<h3>Canalizador mágico</h3>\n<p>Puedes utilizar un canalizador arcano como canalizador mágico para los conjuros de brujo.</p>"
 		},
 		"Pact of the Blade": {
-			"name": "Pact of the Blade",
-			"description": "<p>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p><p>Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</p><p>You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.</p>"
+			"name": "Pacto del Filo (Pact of the Blade)",
+			"description": "<p>Puedes usar tu acción para crear un arma de pacto en tu mano vacía. Puedes elegir qué forma adopta esta arma cuerpo a cuerpo cada vez que la crees. Mientras la empuñes serás competente con ella. Esta arma cuenta como mágica a efectos de superar las resistencias e inmunidades a ataques y daño no mágicos.</p><p>Tu arma de pacto desaparecerá si se encuentra a más de 5 pies de distancia de ti durante al menos 1 minuto. También desaparecerá si usas este rasgo otra vez, si haces desaparecer el arma voluntariamente (no es necesaria acción) o si mueres.</p><p>Puedes transformar un arma mágica en tu arma de pacto llevando a cabo un ritual especial mientras la empuñas. Para ejecutar este ritual necesitas 1 hora, que puede ser la de un descanso corto. Puedes hacer desaparecer el arma, depositándola en un espacio extradimensional, y a partir de ese momento será esta arma la que aparezca cuando crees tu arma de pacto. Los artefactos o armas conscientes no pueden ser afectados de esta forma. Además, dicha arma mágica dejará de ser tu arma de pacto si mueres, si ejecutas el ritual de 1 hora con un arma distinta o si usas el ritual de hora para romper tu vínculo con ella. El arma aparecerá a tus pies si se encontraba en el espacio extradimensional cuando se rompe el vínculo.</p>"
 		},
 		"Pact of the Chain": {
-			"name": "Pact of the Chain",
-			"description": "<p>You learn the @Compendium[dnd5e.spells.JGT5bNqu9REL7Fuz]{Find Familiar} spell and can cast it as a ritual. The spell doesn't count against your number of spells known. When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: @Compendium[dnd5e.monsters.dLQiESMsfsXijD5c]{Imp}, pseudodragon, @Compendium[dnd5e.monsters.bwtkdzavdNHISgp4]{Quasit}, or @Compendium[dnd5e.monsters.MUpBNDoJEr09bLaO]{Sprite}.</p><p>Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its reaction.</p>"
+			"name": "Pacto de la Cadena (Pact of the Chain)",
+			"description": "<p>Aprendes el conjuro @Compendium[dnd5e.spells.JGT5bNqu9REL7Fuz]{Encontrar familiar} y puedes lanzarlo como ritual. Este conjuro no cuenta dentro de tu límite de conjuros conocidos. Cuando lo lances, escoge entre una de las formas habituales para un familiar o una de las siguientes formas especiales: @Compendium[dnd5e.monsters.dLQiESMsfsXijD5c]{Diablillo}, @Compendium[dnd5e.monsters.MUpBNDoJEr09bLaO]{duende}, pseudodragón o @Compendium[dnd5e.monsters.bwtkdzavdNHISgp4]{quasit}.</p><p>Además, cuando llevas a cabo la acción de Atacar, puedes renunciar a uno de tus ataques para permitir a tu familiar realizar uno de sus propios ataques utilizando su reacción.</p>"
 		},
 		"Pact of the Tome": {
-			"name": "Pact of the Tome",
-			"description": "<p>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you.</p><p>If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</p>"
+			"name": "Pacto del Grimorio (Pact of the Tome)",
+			"description": "<p>Tu patrón te hace entrega de un grimorio que recibe el nombre de Libro de las Sombras. Cuando obtengas este rasgo, elige tres trucos de la lista de conjuros de cualquier clase. No tienen por qué ser los tres de la misma lista. Mientras tengas el libro contigo, puedes lanzar esos trucos a voluntad y no cuentan dentro de tu límite de trucos conocidos. Además, aunque no aparezcan en la lista de conjuros de brujo, para ti sí que se considerarán como conjuros de brujo.</p><p>Si pierdes el Libro de las Sombras, puedes llevar a cabo una ceremonia de 1 hora a través de la cual tu patrón te proporcionará un reemplazo. Puedes ejecutarla como parte de un descanso corto o largo, y esta ceremonia destruye el libro anterior. El Libro de las Sombras se convierte en cenizas cuando mueres.</p>"
 		},
 		"Peerless Skill": {
 			"name": "Peerless Skill",
