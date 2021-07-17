@@ -510,15 +510,15 @@
 			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.I2LUSF5ogc7Bj62e]{Hablar con los muertos} a voluntad, sin tener que gastar un espacio de conjuro.</p>"
 		},
 		"Invocation: Witch Sight": {
-			"name": "Invocation: Witch Sight",
-			"description": "<p>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p>"
+			"name": "Invocación: Visión Bruja (Witch Sight)",
+			"description": "<p>Puedes contemplar la verdadera forma de cualquier cambiaformas o criatura oculta tras un efecto mágico de ilusionismo o transmutación, siempre y cuando esta se encuentre a 30 pies o menos de ti y en tu línea de visión.</p>"
 		},
 		"Jack of All Trades": {
 			"name": "Aprendiz de Mucho (Jack of All Trades)",
-			"description": "<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.</p>"
+			"description": "<p>A partir de nivel 2, puedes añadir la mitad de tu bonificador por competencia (redondeado hacia abajo) a cualquier prueba de característica que hagas que no se beneficie ya de tu bonificador por competencia.</p>"
 		},
 		"Ki": {
-			"name": "Ki",
+			"name": "Ki (Ki)",
 			"description": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level equals the number of ki points you have, so a 2nd level monk has 2 ki points, a 16th level monk has 16.</p><p>You can spend these points to fuel various ki features. You start knowing three such features: @Compendium[dnd5e.classfeatures.5MwNlVZK7m6VolOH]{Ki: Flurry of Blows}, @Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]{Ki: Patient Defense}, and @Compendium[dnd5e.classfeatures.yrSFIGTaQOH2PFRI]{Ki: Step of the Wind}. You learn more ki features as you gain levels in this class.</p><p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.</p><p>Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:</p><p><em><strong>Ki save DC</strong> = 8 + your proficiency bonus + your Wisdom modifier</em></p><p><em>**Foundry note: </em><em>Use this to track all the various uses of ki for the monk. </em><em>Note the limited uses is set to the base default of 2 per short or long rest. Please manually adjust as required.</em></p>"
 		},
 		"Ki-Empowered Strikes": {
