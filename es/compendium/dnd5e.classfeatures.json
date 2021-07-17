@@ -519,99 +519,99 @@
 		},
 		"Ki": {
 			"name": "Ki (Ki)",
-			"description": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level equals the number of ki points you have, so a 2nd level monk has 2 ki points, a 16th level monk has 16.</p><p>You can spend these points to fuel various ki features. You start knowing three such features: @Compendium[dnd5e.classfeatures.5MwNlVZK7m6VolOH]{Ki: Flurry of Blows}, @Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]{Ki: Patient Defense}, and @Compendium[dnd5e.classfeatures.yrSFIGTaQOH2PFRI]{Ki: Step of the Wind}. You learn more ki features as you gain levels in this class.</p><p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.</p><p>Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:</p><p><em><strong>Ki save DC</strong> = 8 + your proficiency bonus + your Wisdom modifier</em></p><p><em>**Foundry note: </em><em>Use this to track all the various uses of ki for the monk. </em><em>Note the limited uses is set to the base default of 2 per short or long rest. Please manually adjust as required.</em></p>"
+			"description": "<p>A partir de nivel 2, tu entrenamiento te permite controlar la energía mística llamada ki. Tu capacidad de emplearla se representa mediante una serie de puntos de ki. Tu nivel de monje determina cuántos de estos puntos posees. Así, un monje de nivel 2 tendrá 2 puntos de ki y a nivel 16, 16 puntos de ki.</p><p>Puedes utilizar estos puntos para alimentar varios rasgos ki. Empiezas con tres de estos rasgos: @Compendium[dnd5e.classfeatures.5MwNlVZK7m6VolOH]{Ráfaga de golpes}, @Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]{Defensa paciente} y @Compendium[dnd5e.classfeatures.yrSFIGTaQOH2PFRI]{Paso del viento}. Aprenderás más rasgos ki según vayas subiendo de nivel en esta clase.</p><p>Cuando uses un punto de ki, este dejará de estar disponible hasta que termines un descanso corto o largo, al final del cual volverás a reunir el ki en tu interior. Debes estar meditando durante al menos 30 minutos del descanso para poder recuperar los puntos de ki.</p><p>Algunos de tus rasgos ki exigen a tu objetivo hacer una tirada de salvación para resistir sus efectos. La CD para estas tiradas de salvación se calcula de la siguiente forma:</p><p><em><strong>CD tirada de salvación de ki</strong> = 8 + tu bonificador por competencia + tu modificador por Sabiduría</em></p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 2 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Ki-Empowered Strikes": {
-			"name": "Ki-Empowered Strikes",
-			"description": "<p>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>"
+			"name": "Golpes Potenciados con Ki (Ki-Empowered Strikes)",
+			"description": "<p>A partir de nivel 6, tus ataques sin armas cuentan como mágicos a efectos de superar las resistencias e inmunidades a ataques y daño no mágicos</p>"
 		},
 		"Ki: Diamond Soul": {
-			"name": "Ki: Diamond Soul",
-			"description": "<p>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws. Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.</p>"
+			"name": "Ki: Alma Diamantina (Diamond Soul)",
+			"description": "<p>partir de nivel 14, tu dominio del ki te otorga competencia en todas las tiradas de salvación. Además, cada vez que intentes hacer una tirada de salvación y falles, podrás gastar 1 punto de ki para repetir la tirada y quedarte con el nuevo resultado.</p>"
 		},
 		"Ki: Empty Body": {
-			"name": "Ki: Empty Body",
-			"description": "<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</p>\n<p>Additionally, you can spend 8 ki points to cast the @Compendium[dnd5e.spells.TIoadMIsUKD4edXi]{Astral Projection} spell, without needing material components. When you do so, you can’t take any other creatures with you.</p>"
+			"name": "Ki: Cuerpo Vacío (Empty Body)",
+			"description": "<p>A partir de nivel 18, puedes usar tu acción y gastar 4 puntos de ki para volverte invisible durante 1 minuto. Durante este periodo de tiempo, también tendrás resistencia a todo el daño excepto el de fuerza.</p><p>Asimismo, puedes gastar 8 puntos de ki para lanzar el conjuro @Compendium[dnd5e.spells.TIoadMIsUKD4edXi]{Proyección astral} sin tener que utilizar componente material alguno. Sin embargo, no podrás llevar contigo a ninguna otra criatura.</p>"
 		},
 		"Ki: Flurry of Blows": {
-			"name": "Ki: Flurry of Blows",
-			"description": "<p>Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.</p>"
+			"name": "Ki: Ráfaga de Golpes (Flurry of Blows)",
+			"description": "<p>Inmediatamente después de llevar a cabo la acción de Atacar durante tu turno, puedes gastar un 1 punto de ki para hacer dos ataques sin armas como acción adicional.</p>"
 		},
 		"Ki: Patient Defense": {
-			"name": "Ki: Patient Defense",
-			"description": "<p>You can spend 1 ki point to take the Dodge action as a bonus action on your turn.</p>"
+			"name": "Ki: Defensa Paciente (Patient Defense)",
+			"description": "<p>Puedes gastar 1 punto de ki para realizar la acción de Esquivar como acción adicional durante tu turno.</p>"
 		},
 		"Ki: Quivering Palm": {
-			"name": "Ki: Quivering Palm",
-			"description": "<p>At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</p><p>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</p>"
+			"name": "Ki: Palma Estremecedora (Quivering Palm)",
+			"description": "<p>A nivel 17 consigues la capacidad para transmitir vibraciones letales al cuerpo de un oponente. Cuando impactas a una criatura con un ataque sin armas, puedes gastar 3 puntos de ki para iniciar estas vibraciones imperceptibles, que durarán tantos días como tu nivel de monje. Las vibraciones son inofensivas, salvo si usas tu acción para hacer que terminen. Para poder realizar esto, tu objetivo debe estar en el mismo plano de existencia que tú. Cuando lleves a cabo esta acción, la criatura deberá hacer una tirada de salvación de Constitución. Si falla, sus puntos de golpe bajarán a 0. Si tiene éxito, recibirá 10d10 de daño necrótico.</p><p>Solo eres capaz de tener una criatura bajo los efectos de este rasgo al mismo tiempo. También puedes elegir dar por terminadas las vibraciones de forma inocua sin necesidad de usar ninguna acción.</p>"
 		},
 		"Ki: Step of the Wind": {
-			"name": "Ki: Step of the Wind",
-			"description": "<p>You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.</p>"
+			"name": "Ki: Paso del Viento (Step of the Wind)",
+			"description": "<p>Puedes gastar 1 punto de ki para llevar a cabo las acciones de Destrabarse o Correr como acción adicional durante tu turno. Además, tu distancia de salto se duplica durante este turno.</p>"
 		},
 		"Ki: Stunning Strike": {
-			"name": "Ki: Stunning Strike",
-			"description": "<p>Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.</p>"
+			"name": "Ki: Golpe Aturdidor (Stunning Strike)",
+			"description": "<p>A partir de nivel 5, puedes interferir con el flujo de ki del cuerpo de un oponente. Cuando impactes a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar 1 punto de ki para intentar realizar un golpe aturdidor. El objetivo debe tener éxito en una tirada de salvación de Constitución o quedará aturdido hasta el final de tu siguiente turno.</p>"
 		},
 		"Land's Stride (Circle of the Land)": {
-			"name": "Land's Stride (Circle of the Land)",
-			"description": "<p>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the @Compendium[dnd5e.spells.gMrWeG8fMDPRFiVe]{Entangle} spell.</p>"
+			"name": "Paso de la Tierra del Circulo de la Tierra (Land's Stride)",
+			"description": "<p>A partir de nivel 6, moverte a través de terreno difícil no mágico no le cuesta movimiento adicional. También puedes pasar a través de plantas no mágicas sin que éstas reduzcan tu velocidad y, aunque dichas plantas posean espinas, pinchos o peligros similares, no recibirás daño de ellas.</p><p>Además, tienes ventaja en las tiradas de salvación contra plantas que han sido creadas o manipuladas mágicamente con el fin de obstaculizar el movimiento, como las producidas por el conjuro @Compendium[dnd5e.spells.gMrWeG8fMDPRFiVe]{Enmarañar}.</p>"
 		},
 		"Land's Stride (Ranger)": {
-			"name": "Land's Stride (Ranger)",
-			"description": "<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the @Compendium[dnd5e.spells.gMrWeG8fMDPRFiVe]{Entangle} spell.</p>"
+			"name": "Paso de la Tierra del Explorador (Land's Stride)",
+			"description": "<p>A partir de nivel 8, moverte a través de terreno difícil no mágico no te cuesta movimiento adicional. También puedes pasar a través de plantas no mágicas sin que éstas reduzcan tu velocidad y, aunque dichas plantas posean espinas, pinchos o peligros similares, no recibirás daño de ellas.</p><p>Además, tienes ventaja en las tiradas de salvación contra plantas que han sido creadas o manipuladas mágicamente con el fin de obstaculizar el movimiento, como las producidas por el conjuro @Compendium[dnd5e.spells.gMrWeG8fMDPRFiVe]{Enmarañar}.</p>"
 		},
 		"Lay on Hands": {
 			"name": "Imponer las Manos (Lay on Hands)",
-			"description": "<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.</p><p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p><p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p><p>This feature has no effect on undead and constructs.</p><p><em>**Foundry note: Note the limited uses is set to the base default of 5 points of healing power per long rest. Please manually adjust as required.</em></p>"
+			"description": "<p>Tu toque bendito puede sanar heridas. Posees una reserva de poder curativo que se recupera cuando llevas a cabo un descanso largo. Puedes recurrir a esta reserva para restaurar tantos puntos de golpe como cinco veces tu nivel de paladín.</p><p>Como acción, puedes tocar a una criatura y tomar cierta cantidad de poder de tu reserva para hacer recuperar a la criatura los puntos de golpe que elijas, siempre que este número no supere la cantidad restante en tu reserva.</p><p>Como alternativa, puedes gastar 5 puntos de golpe de tu reserva para curar al objetivo de una enfermedad o neutralizar un veneno que le esté afectando. Eres capaz de curar varias enfermedades y neutralizar varios venenos con un solo uso de Imponer las Manos, pero deberás gastar los puntos de golpe necesarios para todos ellos.</p><p>Este rasgo no afecta a muertos vivientes ni a autómatas.</p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 5 de poder curativo por descanso largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Magical Secrets": {
-			"name": "Magical Secrets",
-			"description": "<p>By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines.</p><p>Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.</p><p>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.</p><p>You learn two additional spells from any class at 14th level and again at 18th level.</p>"
+			"name": "Secretos Mágicos (Magical Secrets)",
+			"description": "<p>Para cuando llegas a nivel 10 ya has saqueado conocimientos mágicos pertenecientes a un amplio espectro de disciplinas.</p><p>Escoge dos conjuros de cualquiera de las clases, incluyendo esta. Ambos conjuros deben ser de un nivel que puedas lanzar, tal y como se indica en la tabla del bardo, o un truco.</p><p>Estos conjuros se consideran, en lo que a ti respecta, conjuros de bardo, y cuentan para el número de conjuros conocidos que puedes tener (consulta la tabla del bardo).</p><p>Aprendes otros dos conjuros de cualquier clase cuando alcanzas los niveles 14 y 18.</p>"
 		},
 		"Martial Archetype": {
-			"name": "Martial Archetype",
-			"description": "<p>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>"
+			"name": "Arquetipo Marcial (Martial Archetype)",
+			"description": "<p>A nivel 3, escoges un arquetipo al que aspiras emular con tu estilo y técnicas de combate, como por ejemplo el Campeón. Esta elección te proporciona ciertos rasgos cuando alcanzas los niveles 3, 7, 10, 15 y 18.</p>"
 		},
 		"Martial Arts": {
-			"name": "Martial Arts",
-			"description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>\n<ul>\n<li>\n<p>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</p>\n</li>\n<li>\n<p>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</p>\n</li>\n<li>\n<p>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</p>\n</li>\n</ul>\n<p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.</p>"
+			"name": "Artes Marciales (Martial Arts)",
+			"description": "<p>A nivel 1 tu práctica de las artes marciales te ha otorgado un dominio de los estilos de combate que emplean ataques sin armas y armas de monje, que son las espadas cortas y cualquier arma sencilla que no posea las propiedades a dos manos o pesada. Obtienes los siguientes beneficios mientras no portes armadura ni escudo, y estés desarmado o empuñes únicamente armas de monje:</p>\n<ul>\n<li>\n<p>Puedes usar tu Destreza en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje.</p>\n</li>\n<li>\n<p>Puedes tirar 1d4 en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, tal y como se muestra en la columna Artes marciales de la tabla del monje.</p>\n</li>\n<li>\n<p>Cuando llevas a cabo la acción de Atacar con un ataque sin armas o un arma de monje durante tu turno, puedes utilizar tu acción adicional para hacer un ataque sin armas. De este modo, si empleas la acción de Atacar para atacar con un bastón, también puedes realizar un ataque sin armas con tu acción adicional, siempre y cuando no hayas usado ya está.</p>\n</li>\n</ul>\n<p>Ciertos monasterios utilizan armas de monje específicas. Por ejemplo, podrías usar un garrote llamado nunchaku, que está compuesto de dos trozos de madera unidos por una cadena corta, o una hoz con un filo más corto y recto, que recibe el nombre de kama. Independientemente del nombre que reciba el arma de monje, esta utilizará los valores de juego del arma de la que se deriva.</p>"
 		},
 		"Metamagic": {
-			"name": "Metamagic",
-			"description": "<p>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.&nbsp;You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"zElYrOcCFFMhB6Xl\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Careful Spell</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"DZpAa3LzMNBexbmX\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Distant Spell</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"IWpe0Y9uAStHGiH1\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Empowered Spell</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"tQxlKyAx9sgPrbgj\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Extended Spell</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"tNG2qi9zhmXEkecA\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Heightened Spell</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"nViGf6bZ6DQAJhkw\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Quickened Spell</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"fXa0DMhoVLtbBu9l\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Subtle Spell</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"Qb391hakCfmH4w8p\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Twinned Spell</a></p>\n        <p>You can drag your choices from the above onto your character sheet and it will automatically update.</p>"
+			"name": "Metamagia (Metamagic)",
+			"description": "<p>A nivel 3 obtienes la capacidad para retorcer tus conjuros, adaptándolos a tus necesidades. Consigues dos de las opciones de Metamagia que aparecen más adelante, a tu elección. Además, recibirás otra cuando alcances los niveles 10 y17.&nbsp;Cuando lanzas un conjuro solo puedes usar una opción de Metamagia, salvo que se especifique lo contrario.</p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"nViGf6bZ6DQAJhkw\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Acelerado</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"zElYrOcCFFMhB6Xl\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Cuidadoso</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"DZpAa3LzMNBexbmX\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Distante</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"tQxlKyAx9sgPrbgj\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Extendido</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"Qb391hakCfmH4w8p\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Gemelo</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"tNG2qi9zhmXEkecA\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Intensificado</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"IWpe0Y9uAStHGiH1\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Potenciado</a></p>\n        <p><a class=\"entity-link\" data-pack=\"dnd5e.classfeatures\" data-id=\"fXa0DMhoVLtbBu9l\" draggable=\"true\"><i class=\"fas fa-suitcase\"></i> Conjuro Sutil</a></p>\n        <p><em>**Nota de Foundry: Puedes arrastrar tus elecciones a la hoja de personaje y se actualizará automáticamente.</em></p>"
 		},
 		"Metamagic: Careful Spell": {
-			"name": "Metamagic: Careful Spell",
-			"description": "<p>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.</p>"
+			"name": "Metamagia: Conjuro Cuidadoso (Careful Spell)",
+			"description": "<p>Cuando lanzas un conjuro que obliga a otras criaturas a realizar una tirada de salvación, puedes proteger a algunas de esas criaturas de la fuerza completa del conjuro. Para hacer esto, debes gastar 1 punto de hechicería y escoger, como mucho, tantas criaturas como tu modificador por Carisma (como mínimo una criatura). Las criaturas elegidas tendrán éxito en sus tiradas de salvación contra el conjuro automáticamente.</p>"
 		},
 		"Metamagic: Distant Spell": {
-			"name": "Metamagic: Distant Spell",
-			"description": "<p>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.</p><p>When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.</p>"
+			"name": "Metamagia: Conjuro Distante (Distant Spell)",
+			"description": "<p>Cuando lanzas un conjuro que tenga un alcance de, como mínimo, 5 pies, puedes gastar 1 punto de hechicería para duplicar el alcance del conjuro.</p><p>Cuando lanzas un conjuro que posea un alcance de toque, puedes gastar 1 punto de hechicería para hacer que su alcance sea de 30 pies.</p>"
 		},
 		"Metamagic: Empowered Spell": {
-			"name": "Metamagic: Empowered Spell",
-			"description": "<p>When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</p><p>You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.</p>"
+			"name": "Metamagia: Conjuro Potenciado (Empowered Spell)",
+			"description": "<p>Cuando tiras el daño de un conjuro, puedes gastar 1 punto de hechicería para repetir la tirada de, como mucho, tantos dados de daño como tu modificador por Carisma (como mínimo un dado). Eso sí, deberás usar los nuevos resultados.</p><p>Puedes emplear Conjuro Potenciado incluso si ya has utilizado otra opción de Metamagia durante el lanzamiento del conjuro.</p>"
 		},
 		"Metamagic: Extended Spell": {
-			"name": "Metamagic: Extended Spell",
-			"description": "<p>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.</p>"
+			"name": "Metamagia: Conjuro Extendido (Extended Spell)",
+			"description": "<p>Cuando lanzas un conjuro que tenga una duración de al menos 1 minuto, puedes gastar 1 punto de hechicería para duplicar su duración, hasta un máximo de 24 horas.</p>"
 		},
 		"Metamagic: Heightened Spell": {
-			"name": "Metamagic: Heightened Spell",
-			"description": "<p>When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.</p>"
+			"name": "Metamagia: Conjuro Intensificado (Heightened Spell)",
+			"description": "<p>Cuando lanzas un conjuro que obliga a al menos una criatura a hacer una tirada de salvación para resistir sus efectos, puedes gastar 3 puntos de hechicería para conseguir que uno de los objetivos del conjuro tenga desventaja en la primer a tirada de salvación que realice contra el conjuro.</p>"
 		},
 		"Metamagic: Quickened Spell": {
-			"name": "Metamagic: Quickened Spell",
-			"description": "<p>When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</p>"
+			"name": "Metamagia: Conjuro Acelerado (Quickened Spell)",
+			"description": "<p>Cuando lanzas un conjuro con un tiempo de lanzamiento de 1 acción, puedes gastar 2 puntos de hechicería para hacer que el tiempo de lanzamiento sea solo de 1 acción adicional a efectos de este lanzamiento.</p>"
 		},
 		"Metamagic: Subtle Spell": {
-			"name": "Metamagic: Subtle Spell",
-			"description": "<p>When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.</p>"
+			"name": "Metamagia: Conjuro Sutil (Subtle Spell)",
+			"description": "<p>Cuando lanzas un conjuro, puedes gastar punto de hechicería para realizarlo sin tener que utilizar componentes somáticos ni verbales.</p>"
 		},
 		"Metamagic: Twinned Spell": {
-			"name": "Metamagic: Twinned Spell",
-			"description": "<p>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).</p><p>To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Magic Missile} and @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{Scorching Ray} aren't eligible, but @Compendium[dnd5e.spells.ctW81uiX56xZR2c5]{Ray of Frost} is.</p>"
+			"name": "Metamagia: Conjuro Gemelo (Twinned Spell)",
+			"description": "<p>Cuando lanzas un conjuro que tiene como objetivo a una sola criatura y no posee un alcance de lanzador, puedes gastar tantos puntos de hechicería como el nivel del conjuro para elegir también como objetivo del mismo conjuro a una segunda criatura dentro del alcance (1 punto de hechicería si el conjuro es un truco).</p><p>Para que un conjuro pueda beneficiarse de esta opción, este debe ser incapaz de escoger más de un objetivo al nivel al que lo lanzas. Así, @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Proyectil mágico} y @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{Rayo abrasador} no podrían verse afectados por Conjuro Gemelo, pero @Compendium[dnd5e.spells.ctW81uiX56xZR2c5]{Rayo de escarcha} sí.</p>"
 		},
 		"Mindless Rage": {
 			"name": "Furia Irracional (Mindless Rage)",
@@ -698,8 +698,8 @@
 			"description": "<p>Tu patrón te hace entrega de un grimorio que recibe el nombre de Libro de las Sombras. Cuando obtengas este rasgo, elige tres trucos de la lista de conjuros de cualquier clase. No tienen por qué ser los tres de la misma lista. Mientras tengas el libro contigo, puedes lanzar esos trucos a voluntad y no cuentan dentro de tu límite de trucos conocidos. Además, aunque no aparezcan en la lista de conjuros de brujo, para ti sí que se considerarán como conjuros de brujo.</p><p>Si pierdes el Libro de las Sombras, puedes llevar a cabo una ceremonia de 1 hora a través de la cual tu patrón te proporcionará un reemplazo. Puedes ejecutarla como parte de un descanso corto o largo, y esta ceremonia destruye el libro anterior. El Libro de las Sombras se convierte en cenizas cuando mueres.</p>"
 		},
 		"Peerless Skill": {
-			"name": "Peerless Skill",
-			"description": "<p>Starting at 14th level, when you make an ability check, you can expend one use of @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{Bardic Inspiraton}.</p><p>Roll a Bardic Inspiration die and add the number rolled to your ability check.</p><p>You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.</p>"
+			"name": "Habilidad sin Parangón (Peerless Skill)",
+			"description": "<p>A partir de nivel 14, cuando hagas una prueba de característica podrás gastar uno de tus usos de @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{Inspiración Bárdica}.</p><p>Tira el dado de Inspiración Bárdica y suma el número obtenido al resultado de la prueba.</p><p>Puedes elegir hacer esto después de haber hecho la tirada, pero antes de que el DM te diga si tienes éxito o no.</p>"
 		},
 		"Perfect Self": {
 			"name": "Yo perfecto (Perfect Self)",
