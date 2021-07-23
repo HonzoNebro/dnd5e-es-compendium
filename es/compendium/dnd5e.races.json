@@ -1,5 +1,5 @@
 {
-	"label": "Rasgos de Raza (SRD)",
+	"label": "Atributos raciales (SRD)",
 	"entries": {
 		"Artificer's Lore": {
 			"name": "Artificer's Lore",
@@ -74,7 +74,7 @@
 			"description": "<p><em>As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. </em></p>\n<p><em><strong>Ability Score Increase.</strong></em> Your Wisdom score increases by 1.</p>\n<p><em><strong>Dwarven Toughness.</strong></em> Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>"
 		},
 		"Human": {
-			"name": "Humano",
+			"name": "Humano (Human)",
 			"description": "<p><em>It’s hard to make generalizations about humans, but your human character has these traits. </em></p>\n<p><em><strong>Ability Score Increase.</strong></em> Your ability scores each increase by 1.</p>\n<p><em><strong>Age.</strong></em> Humans reach adulthood in their late teens and live less than a century.</p>\n<p><em><strong>Alignment. </strong></em>Humans tend toward no particular alignment. The best and the worst are found among them.</p>\n<p><em><strong>Size.</strong></em> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</p>\n<p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p>\n<p><em><strong>Languages. </strong></em>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</p>"
 		},
 		"Infernal Legacy": {
@@ -106,7 +106,7 @@
 			"description": "<p>When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.</p>\n<p><em><strong>Foundry Note:</strong> Enable this feature in the Special Traits section of the character sheet.</em></p>"
 		},
 		"Stonecunning": {
-			"name": "Afinidad con la piedra",
+			"name": "Afinidad con la piedra (Stonecunning)",
 			"description": "<p>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>"
 		},
 		"Tiefling": {
