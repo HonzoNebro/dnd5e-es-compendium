@@ -47,7 +47,7 @@
 		},
 		"Alchemist's supplies": {
 			"name": "Suministros de alquimista (Alchemist's supplies)",
-			"description": "<p> Estas herramientas especiales incluyen los elementos necesarios para perseguir un oficio o intercambiar alquimia. </p>\n<p> La competencia con un conjunto de herramientas de artesanos te permite agregar su bonificación de competencia a cualquier verificación de habilidad que realice utilizando las herramientas en dicho oficio. Cada tipo de herramientas artesanales requiere una competencia separada. </p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alquimista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Alchemy Jug": {
 			"name": "Vasija alquímica (Alchemy Jug)",
@@ -319,39 +319,39 @@
 		},
 		"Brass Horn of Valhalla": {
 			"name": "Cuerno del Valhalla de latón (Brass Horn of Valhalla)",
-			"description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.monsters\" data-id=\"kz1t6xeXVwODpYb2\"> Berserker</a>. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.</p>\n<p>Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th>Horn Type</th>\n<th>Berserkers Summoned</th>\n<th>Requirement</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Silver</td>\n<td>2d4 + 2</td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>41-75</strong></td>\n<td><strong>Brass</strong></td>\n<td><strong>3d4 + 3</strong></td>\n<td><strong>Proficiency with all simple weapons</strong></td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>Bronze</td>\n<td>4d4 + 4</td>\n<td>Proficiency with all medium armor</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Iron</td>\n<td>5d4 + 5</td>\n<td>Proficiency with all martial weapons</td>\n</tr>\n</tbody>\n</table>\n<p>If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.</p>"
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Puedes usar una acción para soplar este cuerno. Acudiendo a tu llamada, espíritus guerreros del plano del Valhalla aparecen a 60 pies o menos de ti. Su perfil es el del <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.monsters\" data-id=\"kz1t6xeXVwODpYb2\">Berserker</a>. Volverán al Valahalla después de 1 hora o cuando sus puntos de golpe desciendan a 0. Una vez empleado, el cuerno no podrá ser soplado hasta que pasen 7 días.</p>\n<p>Se conoce la existencia de cuatro tipos de cuerno del Valhalla, cada uno de un metal distinto. El material del cuerno determina cuantos berserkers responden a su llamada, así como el requisito para poder utilizarlo. El DM elige el tipo o lo determina al azar.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th>Tipo de cuerno</th>\n<th>Berserkers convocados</th>\n<th>Requisitos</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Plata</td>\n<td>2d4 + 2</td>\n<td>Ninguno</td>\n</tr>\n<tr>\n<td><strong>41-75</strong></td>\n<td><strong>Latón</strong></td>\n<td><strong>3d4 + 3</strong></td>\n<td><strong>Competencia con todas las armas sencillas</strong></td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>Bronce</td>\n<td>4d4 + 4</td>\n<td>Competencia con todas las armaduras medias</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Hierro</td>\n<td>5d4 + 5</td>\n<td>Competencia con todas las armas marciales</td>\n</tr>\n</tbody>\n</table>\n<p>Si soplas el cuerno sin cumplir el requisito, los berserkers convocados te atacarán. En cambio, si lo cumples, serán amistosos hacia ti y tus compañeros y seguirán tus órdenes.</p>"
 		},
 		"Brazier of Commanding Fire Elementals": {
-			"name": "Brazier of Commanding Fire Elementals",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While a fire burns in this brazier, you can use an action to speak the brazier's command word and summon a @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{Fire Elemental}, as if you had cast the <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</em> spell. The brazier can't be used this way again until the next dawn.</p>\n<p>The brazier weighs 5 pounds.</p>"
+			"name": "Brasero para controlar elementales de fuego (Brazier of Commanding Fire Elementals)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras arda un fuego en este brasero, puedes utilizar una acción para pronunciar su palabra de activación e invocar un @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{Elemental de fuego}, como si hubieras lanzado <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar elemental}</em>. El brasero no puede volver a utilizarse de esta forma hasta el siguiente amanecer.</p>\n<p>El brasero pesa 5 libras.</p>"
 		},
 		"Breastplate": {
 			"name": "Coraza (Breastplate)",
-			"description": "<p>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.</p>"
+			"description": "<p>Esta armadura consiste en una placa de metal ajustada al pecho mediante tiras de cuero flexible. Aunque deja las extremidades relativamente expuestas ofrece buena protección para los órganos vitales sin afectar en demasía la libertad de movimientos</p>"
 		},
 		"Breastplate +1": {
-			"name": "Breastplate +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"name": "Coraza +1 (Breastplate +1)",
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Breastplate +2": {
-			"name": "Breastplate +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"name": "Coraza +2 (Breastplate +2)",
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Breastplate +3": {
-			"name": "Breastplate +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"name": "Coraza +3 (Breastplate +3)",
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Breastplate Armor of Resistance": {
-			"name": "Breastplate Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"name": "Coraza de resistencia (Breastplate Armor of Resistance)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Brewer's Supplies": {
-			"name": "Brewer's Supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in brewing.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"name": "Suministros de cervecero (Brewer's Supplies)",
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cervecero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Bronze Horn of Valhalla": {
-			"name": "Bronze Horn of Valhalla",
-			"description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a @Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.</p>\n<p>Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th>Horn Type</th>\n<th>Berserkers Summoned</th>\n<th>Requirement</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Silver</td>\n<td>2d4 + 2</td>\n<td>None</td>\n</tr>\n<tr>\n<td>41-75</td>\n<td>Brass</td>\n<td>3d4 + 3</td>\n<td>Proficiency with all simple weapons</td>\n</tr>\n<tr>\n<td><strong>76-90</strong></td>\n<td><strong>Bronze</strong></td>\n<td><strong>4d4 + 4</strong></td>\n<td><strong>Proficiency with all medium armor</strong></td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Iron</td>\n<td>5d4 + 5</td>\n<td>Proficiency with all martial weapons</td>\n</tr>\n</tbody>\n</table>\n<p>If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.</p>"
+			"name": "Cuerno del Valhalla de bronce (Bronze Horn of Valhalla)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Puedes usar una acción para soplar este cuerno. Acudiendo a tu llamada, espíritus guerreros del plano del Valhalla aparecen a 60 pies o menos de ti. Su perfil es el del @Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}. Volverán al Valahalla después de 1 hora o cuando sus puntos de golpe desciendan a 0. Una vez empleado, el cuerno no podrá ser soplado hasta que pasen 7 días.</p>\n<p>Se conoce la existencia de cuatro tipos de cuerno del Valhalla, cada uno de un metal distinto. El material del cuerno determina cuantos berserkers responden a su llamada, así como el requisito para poder utilizarlo. El DM elige el tipo o lo determina al azar.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th>Tipo de cuerno</th>\n<th>Berserkers convocados</th>\n<th>Requisitos</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Plata</td>\n<td>2d4 + 2</td>\n<td>Ninguno</td>\n</tr>\n<tr>\n<td>41-75</td>\n<td>Latón</td>\n<td>3d4 + 3</td>\n<td>Competencia con todas las armas sencillas</td>\n</tr>\n<tr>\n<td><strong>76-90</strong></td>\n<td><strong>Bronce</strong></td>\n<td><strong>4d4 + 4</strong></td>\n<td><strong>Competencia con todas las armaduras medias</strong></td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Hierro</td>\n<td>5d4 + 5</td>\n<td>Competencia con todas las armas marciales</td>\n</tr>\n</tbody>\n</table>\n<p>Si soplas el cuerno sin cumplir el requisito, los berserkers convocados te atacarán. En cambio, si lo cumples, serán amistosos hacia ti y tus compañeros y seguirán tus órdenes.</p>"
 		},
 		"Brooch of Shielding": {
 			"name": "Brooch of Shielding",
@@ -371,7 +371,7 @@
 		},
 		"Calligrapher's Supplies": {
 			"name": "Calligrapher's Supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in calligraphy.</p>\n<p>Proficiency with a set of artisan&rsquo;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&rsquo;s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un calígrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Caltrops": {
 			"name": "Abrojos (Caltrops)",
@@ -391,7 +391,7 @@
 		},
 		"Carpenter's Tools": {
 			"name": "Carpenter's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in carpentry.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un carpintero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Carpet of Flying": {
 			"name": "Carpet of Flying",
@@ -399,7 +399,7 @@
 		},
 		"Cartographer's Tools": {
 			"name": "Cartographer's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cartography.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cartógrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Censer": {
 			"name": "Censer",
@@ -419,7 +419,7 @@
 		},
 		"Chain Mail +1": {
 			"name": "Chain Mail +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail +2": {
 			"name": "Chain Mail +2",
@@ -515,7 +515,7 @@
 		},
 		"Cobbler's Tools": {
 			"name": "Cobbler's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cobblery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un zapatero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Common Clothes": {
 			"name": "Common Clothes",
@@ -527,7 +527,7 @@
 		},
 		"Cook's Utensils": {
 			"name": "Cook's Utensils",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cookery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cocinero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Costume Clothes": {
 			"name": "Costume Clothes",
@@ -1023,7 +1023,7 @@
 		},
 		"Glassblower's Tools": {
 			"name": "Glassblower's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in glassblowing.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un soplador de vidrio.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Gloves of Missile Snaring": {
 			"name": "Gloves of Missile Snaring",
@@ -1123,15 +1123,15 @@
 		},
 		"Half Plate Armor +1": {
 			"name": "Half Plate Armor +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Half Plate Armor +2": {
 			"name": "Half Plate Armor +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Half Plate Armor +3": {
 			"name": "Half Plate Armor +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Half Plate Armor of Resistance": {
 			"name": "Half Plate Armor of Resistance",
@@ -1239,15 +1239,15 @@
 		},
 		"Hide Armor +1": {
 			"name": "Hide Armor +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Hide Armor +2": {
 			"name": "Hide Armor +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Hide Armor +3": {
 			"name": "Hide Armor +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Hide Armor of Resistance": {
 			"name": "Hide Armor of Resistance",
@@ -1415,7 +1415,7 @@
 		},
 		"Jeweler's Tools": {
 			"name": "Jeweler's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in jewelry.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un joyero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Jug": {
 			"name": "Jug",
@@ -1455,15 +1455,15 @@
 		},
 		"Leather Armor +1": {
 			"name": "Leather Armor +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Leather Armor +2": {
 			"name": "Leather Armor +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Leather Armor +3": {
 			"name": "Leather Armor +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Leather Armor of Resistance": {
 			"name": "Leather Armor of Resistance",
@@ -1471,7 +1471,7 @@
 		},
 		"Leatherworker's Tools": {
 			"name": "Leatherworker's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in leatherworking.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un curtidor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Light Crossbow": {
 			"name": "Ballesta ligera (Light Crossbow)",
@@ -1643,7 +1643,7 @@
 		},
 		"Mason's Tools": {
 			"name": "Mason's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in masonry.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un albañil.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Maul": {
 			"name": "Maul",
@@ -1819,15 +1819,15 @@
 		},
 		"Padded Armor +1": {
 			"name": "Padded Armor +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Padded Armor +2": {
 			"name": "Padded Armor +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Padded Armor +3": {
 			"name": "Padded Armor +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Padded Armor of Resistance": {
 			"name": "Padded Armor of Resistance",
@@ -1835,7 +1835,7 @@
 		},
 		"Painter's Supplies": {
 			"name": "Painter's Supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in painting.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un pintor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pan Flute": {
 			"name": "Pan Flute",
@@ -1911,15 +1911,15 @@
 		},
 		"Plate Armor +1": {
 			"name": "Plate Armor +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Plate Armor +2": {
 			"name": "Plate Armor +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Plate Armor +3": {
 			"name": "Plate Armor +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Plate Armor of Etherealness": {
 			"name": "Plate Armor of Etherealness",
@@ -2079,7 +2079,7 @@
 		},
 		"Potter's Tools": {
 			"name": "Potter's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in pottery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alfarero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pouch": {
 			"name": "Pouch",
@@ -2155,15 +2155,15 @@
 		},
 		"Ring Mail +1": {
 			"name": "Ring Mail +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Ring Mail +2": {
 			"name": "Ring Mail +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Ring Mail +3": {
 			"name": "Ring Mail +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Ring Mail Armor of Resistance": {
 			"name": "Ring Mail Armor of Resistance",
@@ -2371,15 +2371,15 @@
 		},
 		"Scale Mail +1": {
 			"name": "Scale Mail +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Scale Mail +2": {
 			"name": "Scale Mail +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Scale Mail +3": {
 			"name": "Scale Mail +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Scale Mail Armor of Resistance": {
 			"name": "Scale Mail Armor of Resistance",
@@ -2575,7 +2575,7 @@
 		},
 		"Smith's Tools": {
 			"name": "Smith's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in smithing.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un herrero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Soap": {
 			"name": "Jabón (Soap)",
@@ -2659,15 +2659,15 @@
 		},
 		"Splint Armor +1": {
 			"name": "Splint Armor +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Splint Armor +2": {
 			"name": "Splint Armor +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Splint Armor +3": {
 			"name": "Splint Armor +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Splint Armor of Resistance": {
 			"name": "Splint Armor of Resistance",
@@ -2755,15 +2755,15 @@
 		},
 		"Studded Leather Armor +1": {
 			"name": "Studded Leather Armor +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Studded Leather Armor +2": {
 			"name": "Studded Leather Armor +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Studded Leather Armor +3": {
 			"name": "Studded Leather Armor +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Studded Leather Armor of Resistance": {
 			"name": "Studded Leather Armor of Resistance",
@@ -2799,7 +2799,7 @@
 		},
 		"Tinker's Tools": {
 			"name": "Tinker's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in tinkering.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un manitas.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Tome of Clear Thought": {
 			"name": "Tome of Clear Thought",
@@ -3135,7 +3135,7 @@
 		},
 		"Weaver's Tools": {
 			"name": "Weaver's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in weaving.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un tejedor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Well of Many Worlds": {
 			"name": "Well of Many Worlds",
@@ -3175,7 +3175,7 @@
 		},
 		"Woodcarver's Tools": {
 			"name": "Woodcarver's Tools",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in woodcarving.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un ebanista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Wooden Staff": {
 			"name": "Wooden Staff",
