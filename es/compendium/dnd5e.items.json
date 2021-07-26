@@ -50,27 +50,27 @@
 			"description": "<p> Estas herramientas especiales incluyen los elementos necesarios para perseguir un oficio o intercambiar alquimia. </p>\n<p> La competencia con un conjunto de herramientas de artesanos te permite agregar su bonificación de competencia a cualquier verificación de habilidad que realice utilizando las herramientas en dicho oficio. Cada tipo de herramientas artesanales requiere una competencia separada. </p>"
 		},
 		"Alchemy Jug": {
-			"name": "Alchemy Jug",
-			"description": "<div><em>Wondrous item</em></div>\n<div> </div>\n<div>This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.</div>\n<div> </div>\n<div>You can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named. </div>\n<div> </div>\n<div>Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn. </div>\n<div><br>\n<table>\n<tbody>\n<tr>\n<th>Liquid</th>\n<th>Max Amount</th>\n</tr>\n<tr>\n<td>Acid</td>\n<td>8 ounces</td>\n</tr>\n<tr>\n<td>Basic poison</td>\n<td>1/2 ounce</td>\n</tr>\n<tr>\n<td>Beer</td>\n<td>4 gallons</td>\n</tr>\n<tr>\n<td>Honey</td>\n<td>1 gallon</td>\n</tr>\n<tr>\n<td>Mayonnaise</td>\n<td>2 gallons</td>\n</tr>\n<tr>\n<td>Oil</td>\n<td>1 quart</td>\n</tr>\n<tr>\n<td>Vinegar</td>\n<td>2 gallons</td>\n</tr>\n<tr>\n<td>Water, fresh</td>\n<td>8 gallons</td>\n</tr>\n<tr>\n<td>Water, salt</td>\n<td>12 gallons</td>\n</tr>\n<tr>\n<td>Wine</td>\n<td>1 gallon</td>\n</tr>\n</tbody>\n</table>\n</div>"
+			"name": "Vasija alquímica (Alchemy Jug)",
+			"description": "<div><em>Objeto maravilloso</em></div>\n<div> </div>\n<div>Esta vasija de cerámica parece capaz de contener un galón de líquido, y pesa 12 libras tanto si está llena como si no. Al agitarla se escucha un chapoteo proveniente del interior, incluso aunque esté vacía.</div>\n<div> </div>\n<div>Puedes usar una acción y nombrar un líquido de la tabla presentada abajo para que la vasija cree el líquido mencionado. Después, puedes descorcharla como una acción y verter el líquido, hasta 2 galones por minuto. La cantidad máxima de líquido que puede producir la vasija depende del que hayas nombrado. </div>\n<div> </div>\n<div>Una vez que la vasija ha comenzado a producir un líquido, no puede crear otro distinto (o más cantidad del líquido actual si ha alcanzado su máximo) hasta el amanecer siguiente. </div>\n<div><br>\n<table>\n<tbody>\n<tr>\n<th>Líquido</th>\n<th>Cantidad máxima</th>\n</tr>\n<tr>\n<td>Aceite</td>\n<td>1 cuarto de galón</td>\n</tr>\n<tr>\n<td>Ácido</td>\n<td>8 onzas</td>\n</tr>\n<tr>\n<td>Agua fresca</td>\n<td>8 galones</td>\n</tr>\n<tr>\n<td>Agua salada</td>\n<td>12 galones</td>\n</tr>\n<tr>\n<td>Cerveza</td>\n<td>4 galones</td>\n</tr>\n<tr>\n<td>Mayonesa</td>\n<td>2 galones</td>\n</tr>\n<tr>\n<td>Miel</td>\n<td>2 galones</td>\n</tr>\n<tr>\n<td>Veneno básico</td>\n<td>1/2 onza</td>\n</tr>\n<tr>\n<td>Vinagre</td>\n<td>2 galones</td>\n</tr>\n<tr>\n<td>Vino</td>\n<td>1 galón</td>\n</tr>\n</tbody>\n</table>\n</div>"
 		},
 		"Alms Box": {
-			"name": "Alms Box",
-			"description": "<p>A box with a money slot and detachable base mainly used by priests and the like to collect alms.</p>"
+			"name": "Caja para limosnas (Alms Box)",
+			"description": "<p>Una caja con un hueco para el dinero y una base desmontable, utilizada principalmente por los sacerdotes y similares para recoger las limosnas.</p>"
 		},
 		"Amulet": {
-			"name": "Amulet",
-			"description": "<p>An amulet depicting a symbol representing a deity through which a true believer can call forth their power and in doing so spread the faith.</p>\n<p><strong>Spellcasting Focus</strong>. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</p>"
+			"name": "Amuleto (Amulet)",
+			"description": "<p>Un amuleto con la forma del símbolo del dios a través del cual un verdadero creyente puede invocar su poder y así difundir la fe.</p>\n<p><strong>Canalizador mágico</strong>. Los clérigos y paladines pueden utilizar un símbolo sagrado como canalizador mágico. Para poder hacer esto, el lanzador deberá sostener el símbolo en la mano, llevarlo bien visible en alguna parte de su cuerpo o sujetar un escudo que lo tenga grabado.</p>"
 		},
 		"Amulet of Health": {
-			"name": "Amulet of Health",
-			"description": "<p><em>Wondrous item (requires attunement)</em></p>\n<p>Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher without it.</p>"
+			"name": "Amuleto de salud (Amulet of Health)",
+			"description": "<p><em>Objeto maravilloso (requiere sintonización)</em></p>\n<p>Tu puntuación de Constitución es de 19 mientras lleves puesto este amuleto. No tiene ningún efecto si tu Constitución es de 19 o más sin él.</p>"
 		},
 		"Amulet of Proof against Detection and Location": {
-			"name": "Amulet of Proof against Detection and Location",
-			"description": "<div>\n<div><em>Wondrous Item (requires attunement)</em></div>\n<div> </div>\n<div>While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.</div>\n</div>"
+			"name": "Amuleto a prueba de detección y localización (Amulet of Proof against Detection and Location)",
+			"description": "<div>\n<div><em>Objeto maravilloso (requiere sintonización)</em></div>\n<div> </div>\n<div>Mientras lleves puesto este amuleto, estarás oculto ante la magia de adivinación. No podrás ser objetivo de ningún efecto mágico de ese tipo o ser percibido mediante sensores mágicos de escudriñamiento.</div>\n</div>"
 		},
 		"Amulet of the Planes": {
-			"name": "Amulet of the Planes",
+			"name": "Amuleto de los planos (Amulet of the Planes)",
 			"description": "<div><em>Wondrous Item (requires attunement)</em></div>\n<div> </div>\n<div>While wearing this Amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the <em>@Compendium[dnd5e.spells.J6Jpw5XzB5aTeqnz]{Plane Shift}</em> spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1-60, you travel to a random location on the plane you named. On a 61-100, you travel to a randomly determined plane of existence.</div>"
 		},
 		"Animated Shield": {
