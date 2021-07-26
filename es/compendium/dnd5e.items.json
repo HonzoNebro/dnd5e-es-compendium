@@ -86,23 +86,23 @@
 			"description": "<div><em>Objeto maravilloso</em></div>\n<div> </div>\n<div>A primera vista, este objeto parece un barril de hierro sellado, Grande, que pesa 500 libras. Tiene un resorte escondido, que es posible encontrar teniendo éxito en una prueba de Inteligencia (Investigación) CD 20. Activar el resorte abre una escotilla en uno de los extremos del barril, permitiendo entrar arrastrándose a dos criaturas de tamaño Mediano o más pequeñas. Dentro, en el otro extremo, hay 10 palancas, todas ellas en posición neutra y que pueden ser movidas hacia arriba o hacia abajo. Cuando se pulsan ciertas palancas, el aparato se transforma hasta parecer una langosta gigante.</div>\n<div> </div>\n<div>El Aparato del Cangrejo es un objeto Grande con el siguiente perfil:</div>\n<div><strong>CA:</strong> 20<br><strong>Puntos de golpe:</strong> 200<br><strong>Velocidad:</strong> 30 pies, 30 pies nadando (o 0 pies en ambos casos si no se han extendido patas y cola)<br><strong>Inmunidad a daño:</strong> psíquico, veneno<br><br>El aparato puede ser usado como vehículo, pero para ello necesita un piloto. Mientras la escotilla esté cerrada, el compartimento es estanco y hermético. Contiene suficiente aire para respirar durante 10 horas, divididas entre el número de criaturas del interior que necesiten respirar.<br><br>El aparato flota en el agua. También puede sumergirse hasta una profundidad de 900 pies. Si desciende por debajo de ella, recibirá 2d6 de daño por minuto debido a la presión.<br><br>Una criatura en el compartimento puede emplear una acción para mover hasta dos de las palancas arriba o abajo. Después de cada uso, la palanca vuelve a la posición neutra. Cada palanca, de izquierda a derecha, funciona como se muestra en la tabla Palancas del Aparato del Cangrejo.<br><br>Tabla de Palancas del Aparato del Cangrejo:</div>\n<div> </div>\n<div>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Palanca</strong></td>\n<td><strong>Arriba</strong></td>\n<td><strong>Abajo</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>La cola y las patas se extienden, permitiendo que el aparato camine y nade</td>\n<td>Las patas y la cola se retraen, reduciendo la velocidad del aparato a 0 e impidiendo que se beneficie de ningún bonificador a su velocidad</td>\n</tr>\n<tr>\n<td>2</td>\n<td>La persiana de la ventana delantera se abre</td>\n<td>La persiana de la ventana delantera se cierra</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Las persianas de las ventanas laterales se abren (dos por lado)</td>\n<td>Las persianas de las ventanas laterales se cierran (dos por lado)</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Se extienden dos garras de la parte frontal del aparato</td>\n<td>Se retraen las garras</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Cada garra, si está extendida, hace el siguiente ataque con arma cuerpo a cuerpo: +8 a impactar, alcance 5 pies, un objetivo. Impacto: 7 (2d6) de daño contundente</td>\n<td>Cada garra, si está extendida, hace el siguiente ataque con arma cuerpo a cuerpo: +8 a impactar, alcance 5 pies, un objetivo. Impacto: la criatura es agarrada (CD 15 para escapar)</td>\n</tr>\n<tr>\n<td>6</td>\n<td>El aparato camina o nada hacia delante</td>\n<td>El aparato camina o nada hacia atrás</td>\n</tr>\n<tr>\n<td>7</td>\n<td>El aparato gira 90 grados a la izquierda</td>\n<td>El aparato gira 90 grados a la derecha</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Unas linternas con forma de ojo emiten luz brillante en un radio de 30 pies y luz tenue 30 pies más allá</td>\n<td>La luz se apaga</td>\n</tr>\n<tr>\n<td>9</td>\n<td>El aparato desciende hasta 20 pies en un medio líquido</td>\n<td>El aparato asciende hasta 20 pies en un medio líquido</td>\n</tr>\n<tr>\n<td>10</td>\n<td>La escotilla trasera se abre</td>\n<td>La escotilla trasera se cierra</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n</div>"
 		},
 		"Armor of Invulnerability": {
-			"name": "Armor of Invulnerability",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.</p>"
+			"name": "Armadura de invulnerabilidad (Armor of Invulnerability)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia al daño no mágico cuando llevas puesta esta armadura. Además, puedes utilizar una acción para hacerte inmune al daño no mágico durante 10 minutos o hasta que no vistas la armadura. Una vez empleas esta acción especial, no podrás volver a hacerlo hasta el siguiente amanecer.</p>"
 		},
 		"Armor of Vulnerability": {
-			"name": "Armor of Vulnerability",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>While wearing this armor, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The GM chooses the type or determines it randomly.</p>\n<p><strong>Curse</strong>. This armor is cursed, a fact that is revealed only when an identify spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by the remove curse spell or similar magic; removing the armor fails to end the curse. While cursed, you have vulnerability to two of the three damage types associated with the armor (not the one to which it grants resistance).</p>"
+			"name": "Armadura de vulnerabilidad (Armor of Vulnerability)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando llevas puesta esta armadura, tienes resistencia a un tipo de daño de entre los siguientes: contundente, cortante o perforante. El DM elige el tipo o lo determina al azar.</p>\n<p><strong>Maldición</strong>. Esta armadura esta maldita, circunstancia que solo se revela cuando se usa el conjuro de Identificar sobre ella o te sintonizas con ella. Sintonizarse con la armadura te maldice hasta que seas objetivo del conjuro levantar maldición o un efecto mágico similar. Quitarse la armadura no acaba con la maldición. Mientras estés maldito, de los tres tipos de daño mencionados arriba, eres vulnerable a los dos contra los que la armadura no te proporciona resistencia.</p>"
 		},
 		"Arrow +1": {
-			"name": "Arrow +1",
-			"description": "<p>Ammunition used for bows of all varieties.  It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+			"name": "Flecha +1 (Arrow +1)",
+			"description": "<p>Munición utilizada por arcos de cualquier tipo. Se ha imbuido con magia.</p>\n<p>Tienes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Arrow +2": {
-			"name": "Arrow +2",
-			"description": "<p>Ammunition used for bows of all varieties.  It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+			"name": "Flecha +2 (Arrow +2)",
+			"description": "<p>Munición utilizada por arcos de cualquier tipo. Se ha imbuido con magia.</p>\n<p>Tienes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Arrow +3": {
-			"name": "Arrow +3",
+			"name": "Flecha +3 (Arrow +3)",
 			"description": "<p>Ammunition used for bows of all varieties.  It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
 		},
 		"Arrow of Slaying": {
@@ -214,60 +214,60 @@
 			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, your Strength score changes to 23. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.</p>\n<p>The Belt of Stone Giant Strength and the Belt of Frost Giant Strength look different, but they have the same effect.</p>"
 		},
 		"Belt of Hill Giant Strength": {
-			"name": "Belt of Hill Giant Strength",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, your Strength score changes to 21. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.</p>"
+			"name": "Cinturón de fuerza de gigante de las colinas (Belt of Hill Giant Strength)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 23. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Belt of Stone Giant Strength": {
-			"name": "Belt of Stone Giant Strength",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, your Strength score changes to 23. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.</p>\n<p>The Belt of Stone Giant Strength and the Belt of Frost Giant Strength look different, but they have the same effect.</p>"
+			"name": "Cinturón de fuerza de gigante (Belt of Stone Giant Strength)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 21. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>\n<p>El Cinturón de fuerza de gigante de piedra y el Cinturón de fuerza de gigante de escarcha poseen apariencias diferentes, pero ambos producen el mismo efecto.</p>"
 		},
 		"Belt of Storm Giant Strength": {
-			"name": "Belt of Storm Giant Strength",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, your Strength score changes to 29. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.</p>"
+			"name": "Cinturón de fuerza de gigante de las tormentas (Belt of Storm Giant Strength)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 29. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Berserker Battleaxe": {
-			"name": "Berserker Battleaxe",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>\n<p><strong>Curse</strong>. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>\n<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target.</p>\n<p>If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>"
+			"name": "Hacha de guerra berserker (Berserker Battleaxe)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Además, mientras estés sintonizado con ella, tus puntos de golpe máximos se incrementan en 1 por cada nivel que poseas.</p>\n<p><strong>Maldición</strong>. Esta hacha está maldita y al sintonizarte con ella te afectará la maldición. Mientras estés maldito, no aceptarás alejarte del hacha y la mantendrás siempre a tu alcance. También tendrás desventaja en tiradas de ataque con otras armas, a menos que no haya ningún enemigo que puedas ver u oír a 60 pies o menos de distancia.</p>\n<p>Cuando una criatura hostil te dañe, si tienes el hacha en tu haber, deberás tener éxito en una tirada de salvación de Sabiduría CD 15 o sucumbirás a una furia berserker. Mientras estés bajo los efectos de esta furia, deberás utilizar tu acción cada asalto para atacar con el hacha a la criatura más cercana. Si puedes realizar ataques adicionales como parte de tu acción de Atacar, lo harás, prosiguiendo con la siguiente criatura después de derrotar a tu objetivo actual.</p>\n<p>Si tienes varios objetivos posibles, atacarás a uno al azar. Seguirás en este estado hasta que comience tu turno y no haya criaturas que puedas ver u oír a 60 pies o menos de ti.</p>"
 		},
 		"Berserker Greataxe": {
-			"name": "Berserker Greataxe",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>\n<p><strong>Curse</strong>. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>\n<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target.</p>\n<p>If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>"
+			"name": "Hacha a dos manos berserker (Berserker Greataxe)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Además, mientras estés sintonizado con ella, tus puntos de golpe máximos se incrementan en 1 por cada nivel que poseas.</p>\n<p><strong>Maldición</strong>. Esta hacha está maldita y al sintonizarte con ella te afectará la maldición. Mientras estés maldito, no aceptarás alejarte del hacha y la mantendrás siempre a tu alcance. También tendrás desventaja en tiradas de ataque con otras armas, a menos que no haya ningún enemigo que puedas ver u oír a 60 pies o menos de distancia.</p>\n<p>Cuando una criatura hostil te dañe, si tienes el hacha en tu haber, deberás tener éxito en una tirada de salvación de Sabiduría CD 15 o sucumbirás a una furia berserker. Mientras estés bajo los efectos de esta furia, deberás utilizar tu acción cada asalto para atacar con el hacha a la criatura más cercana. Si puedes realizar ataques adicionales como parte de tu acción de Atacar, lo harás, prosiguiendo con la siguiente criatura después de derrotar a tu objetivo actual.</p>\n<p>Si tienes varios objetivos posibles, atacarás a uno al azar. Seguirás en este estado hasta que comience tu turno y no haya criaturas que puedas ver u oír a 60 pies o menos de ti.</p>"
 		},
 		"Berserker Handaxe": {
-			"name": "Berserker Handaxe",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>\n<p><strong>Curse</strong>. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>\n<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target.</p>\n<p>If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>"
+			"name": "Hacha de mano berserker (Berserker Handaxe)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Además, mientras estés sintonizado con ella, tus puntos de golpe máximos se incrementan en 1 por cada nivel que poseas.</p>\n<p><strong>Maldición</strong>. Esta hacha está maldita y al sintonizarte con ella te afectará la maldición. Mientras estés maldito, no aceptarás alejarte del hacha y la mantendrás siempre a tu alcance. También tendrás desventaja en tiradas de ataque con otras armas, a menos que no haya ningún enemigo que puedas ver u oír a 60 pies o menos de distancia.</p>\n<p>Cuando una criatura hostil te dañe, si tienes el hacha en tu haber, deberás tener éxito en una tirada de salvación de Sabiduría CD 15 o sucumbirás a una furia berserker. Mientras estés bajo los efectos de esta furia, deberás utilizar tu acción cada asalto para atacar con el hacha a la criatura más cercana. Si puedes realizar ataques adicionales como parte de tu acción de Atacar, lo harás, prosiguiendo con la siguiente criatura después de derrotar a tu objetivo actual.</p>\n<p>Si tienes varios objetivos posibles, atacarás a uno al azar. Seguirás en este estado hasta que comience tu turno y no haya criaturas que puedas ver u oír a 60 pies o menos de ti.</p>"
 		},
 		"Blanket": {
-			"name": "Blanket",
-			"description": "<p>A sheet of blanket to keep you warm at night.</p>"
+			"name": "Manta (Blanket)",
+			"description": "<p>Una sábana o manta para mantenerte caliente por la noche.</p>"
 		},
 		"Block and Tackle": {
-			"name": "Block and Tackle",
-			"description": "<p>A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.</p>"
+			"name": "Polipasto o aparejo de poleas (Block and Tackle)",
+			"description": "<p>Un conjunto de poleas recorridas por un cable que termina en un gancho, que se puede fijar a un objeto. Un polipasto te permite alzar cuatro veces el peso que podrías levantar en condiciones normales.</p>"
 		},
 		"Block of Incense": {
-			"name": "Block of Incense",
-			"description": "<p>Frequently used by the rich and religious alike to scent the air for purposes of pleasure or ritual.</p>"
+			"name": "Paquete de incienso (Block of Incense)",
+			"description": "<p>Utilizado a menudo por ricos y religiosos para aromatizar el ambiente con fines placenteros o rituales.</p>"
 		},
 		"Blowgun": {
 			"name": "Cerbatana",
-			"description": "<p>A primitive, but deadly, weapon favored by tribes and guerrila fighters. The darts fired from this gun can puncture and deliver lethal doses of venom.</p>"
+			"description": "<p>Un arma primitiva, pero mortal, muy utilizada por las tribus y los guerrilleros. Los dardos que se disparan con esta arma pueden clavarse y suministrar dosis letales de veneno.</p>"
 		},
 		"Blowgun +1": {
-			"name": "Blowgun +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"name": "Cerbatana +1 (Blowgun +1)",
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Blowgun +2": {
-			"name": "Blowgun +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"name": "Cerbatana +2 (Blowgun +1)",
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Blowgun +3": {
-			"name": "Blowgun +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"name": "Cerbatana +3 (Blowgun +3)",
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Blowgun Needle": {
-			"name": "Blowgun Needle",
-			"description": "<p>This ammunition is designed to be fired through a blowgun using the force of the wielders lungs. These needles are frequently tipped with deadly or crippling venoms.</p>"
+			"name": "Dardo de cerbatana (Blowgun Needle)",
+			"description": "<p>Esta munición está diseñada para ser disparada a través de una cerbatana utilizando la fuerza de los pulmones del portador. Estas agujas suelen tener en la punta venenos mortales o incapacitantes.</p>"
 		},
 		"Bolt of Slaying": {
 			"name": "Bolt of Slaying",
