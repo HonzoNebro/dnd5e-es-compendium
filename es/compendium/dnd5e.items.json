@@ -270,51 +270,51 @@
 			"description": "<p>Esta munición está diseñada para ser disparada a través de una cerbatana utilizando la fuerza de los pulmones del portador. Estas agujas suelen tener en la punta venenos mortales o incapacitantes.</p>"
 		},
 		"Bolt of Slaying": {
-			"name": "Bolt of Slaying",
-			"description": "<p>A Bolt of Slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both Bolts of Dragon Slaying and Bolts of Blue Dragon Slaying. If a creature belonging to the type, race, or group associated with a bolt of slaying takes damage from the bolt, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.</p>\n<p>Once a Bolt of Slaying deals its extra damage to a creature, it becomes a nonmagical bolt.</p>"
+			"name": "Virote asesino",
+			"description": "<p>Un virote asesino es un arma mágica pensada para matar a un tipo concreto de criatura. Algunas son más específicas que otras. Por ejemplo, hay tanto flechas asesinas de dragones como flechas asesinas de dragones azules. Si una criatura perteneciente al tipo, raza o grupo asociado con una flecha asesina recibe daño de ella, deberá hacer una tirada de salvación de Constitución CD 17. Recibirá 6d10 de daño perforante adicional si falla la tirada o la mitad de ese daño si tiene éxito.</p>\n<p>En cuanto un virote asesino inflige su daño adicional a una criatura, se convierte en un virote no mágico.</p>"
 		},
 		"Book": {
-			"name": "Book",
-			"description": "<p>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook.</p>"
+			"name": "Libro (Book)",
+			"description": "<p>Un libro podría contener poemas, registros históricos, información específica a un área de conocimiento concreta, diagramas y notas sobre artilugios gnomos o prácticamente cualquier cosa que sea susceptible de ser representada usando texto o dibujos. Un libro que contenga conjuros recibe el nombre de libro de conjuros.</p>"
 		},
 		"Book of Lore": {
-			"name": "Book of Lore",
-			"description": "<p>A book containing historical accounts, information pertaining to a particular field of lore, myth, or legend.</p>"
+			"name": "Libro de leyendas (Book of Lore)",
+			"description": "<p>Un libro que contiene registros históricos, información pertinente a un campo de saber, mitos o leyendas.</p>"
 		},
 		"Book of Shadows": {
-			"name": "Book of Shadows",
-			"description": "<p>A grimoire given to you by your patron. Choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you. </p>\n<p>If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</p>"
+			"name": "Libro de las Sombras (Book of Shadows)",
+			"description": "<p>Un grimorio entregado por tu patrón. Elige tres trucos de la lista de conjuros de cualquier clase. No tienen por qué ser los tres de la misma lista. Mientras tengas el libro contigo, puedes lanzar esos trucos a voluntad y no cuentan dentro de tu límite de trucos conocidos. Además, aunque no aparezcan en la lista de conjuros de brujo, para ti sí que se considerarán como conjuros de brujo.</p>\n<p>Si pierdes el Libro de las Sombras, puedes llevar a cabo una ceremonia de 1 hora a través de la cual tu patrón te proporcionará un reemplazo. Puedes ejecutarla como parte de un descanso corto o largo, y esta ceremonia destruye el libro anterior. El Libro de las Sombras se convierte en cenizas cuando mueres.</p>"
 		},
 		"Boots of Elvenkind": {
-			"name": "Boots of Elvenkind",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.</p>"
+			"name": "Botas élficas (Boots of Elvenkind)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras calces estas botas, tus pasos no harán ruido, independientemente de la superficie que pises. También tendrás ventaja en pruebas de Destreza (Sigilo) que requieran moverse silenciosamente.</p>"
 		},
 		"Boots of Levitation": {
-			"name": "Boots of Levitation",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear these boots, you can use an action to cast the <em>@Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitate}</em> spell on yourself at will.</p>"
+			"name": "Botas de levitación (Boots of Levitation)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves estas botas, puedes utilizar una acción para lanzar a voluntad el conjuro <em>@Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitar}</em> sobre ti mismo.</p>"
 		},
 		"Boots of Speed": {
-			"name": "Boots of Speed",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.</p>\n<p>When the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.</p>"
+			"name": "Botas de velocidad (Boots of Speed)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras tengas estas botas puestas, puedes utilizar una acción adicional para hacer que los talones se toquen. Si haces esto, las botas duplicarán tu velocidad caminando y cualquier criatura que realice un ataque de oportunidad contra ti sufrirá desventaja en su tirada de ataque. Si vuelves a hacer que se toquen los talones, el efecto termina.</p>\n<p>Cuando has usado esta propiedad de las botas durante un total de 10 minutos, su magia deja de funcionar hasta que puedas terminar un descanso largo.</p>"
 		},
 		"Boots of Striding and Springing": {
-			"name": "Boots of Striding and Springing",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.</p>"
+			"name": "Botas de zancadas y brincos (Boots of Striding and Springing)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Tu velocidad caminando cuando llevas puestas estas botas es de 30 pies, salvo que normalmente fuera superior. Esta velocidad no se reduce por estar cargado o por vestir armadura pesada. Además, saltas tres veces la distancia normal, pero nunca más lejos que tu movimiento restante.</p>"
 		},
 		"Boots of the Winterlands": {
-			"name": "Boots of the Winterlands",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:</p>\n<ul>\n<li>You have resistance to cold damage.</li>\n<li>You ignore difficult terrain created by ice or snow. You can tolerate temperatures as low as &minus;50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as &minus;100 degrees Fahrenheit.</li>\n</ul>"
+			"name": "Botas de las tierras invernales (Boots of the Winterlands)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Estas botas forradas de pelaje son ceñidas y calentitas. Mientras las lleves puestas, obtendrás los siguientes beneficios:</p>\n<ul>\n<li>Resistencia al daño de frío.</li>\n<li>Ignoras el terreno difícil por nieve o hielo. Puedes aguantar temperaturas de hasta &minus;45 ºC sin más protección. Si llevas ropas pesadas, puedes soportar hasta &minus;75 ºC.</li>\n</ul>"
 		},
 		"Bowl of Commanding Water Elementals": {
-			"name": "Bowl of Commanding Water Elementals",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While this bowl is filled with water, you can use an action to speak the bowl's command word and summon a <em>@Compendium[dnd5e.monsters.namJz755U1EhvEJa]{Water Elemental}</em>, as if you had cast the <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</em> spell. The bowl can't be used this way again until the next dawn.</p>\n<p>The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.</p>"
+			"name": "Cuenco para controlar elementales de agua (Bowl of Commanding Water Elementals)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras este cuenco esté lleno de agua, puedes utilizar una acción para pronunciar la palabra de activación del cuenco e invocar un <em>@Compendium[dnd5e.monsters.namJz755U1EhvEJa]{Elemental de agua}</em>, como si hubieras lanzado <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar elemental}</em>. El cuenco no puede volver a usarse de esta manera hasta el siguiente amanecer.</p>\n<p>El cuenco tiene un pie de diámetro y la mitad de profundidad. Pesa 3 libras y puede contener unos 3 galones.</p>"
 		},
 		"Bracers of Archery": {
-			"name": "Bracers of Archery",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.</p>"
+			"name": "Brazales de arquería (Bracers of Archery)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves estos brazales, eres competente con arcos largos y arcos cortos y obtienes un bonificador de +2 a las tiradas de daño en ataques a distancia con estas armas.</p>"
 		},
 		"Bracers of Defense": {
-			"name": "Bracers of Defense",
+			"name": "Brazales de defensa (Bracers of Defense)",
 			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.</p>"
 		},
 		"Brass Horn of Valhalla": {
@@ -423,66 +423,66 @@
 		},
 		"Chain Mail +2": {
 			"name": "Chain Mail +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail +3": {
-			"name": "Chain Mail +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"name": "Cota de malla +3 (Chain Mail +3)",
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail Armor of Resistance": {
-			"name": "Chain Mail Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"name": "Cota de malla de resistencia (Chain Mail Armor of Resistance)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Chain Shirt": {
 			"name": "Camisote de mallas",
-			"description": "<p>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.</p>"
+			"description": "<p>La camisa de malla está hecha de anillos de metal entrelazados y se viste entre capas de tela o cuero. Esta armadura ofrece una protección razonable para el torso y es bastante silenciosa, pues el sonido de los anillos rozándose entre ellos es apagado por las capas más exteriores.</p>"
 		},
 		"Chain Shirt +1": {
-			"name": "Chain Shirt +1",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"name": "Camisa de malla +1 (Chain Shirt +1)",
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Shirt +2": {
-			"name": "Chain Shirt +2",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"name": "Camisa de malla +2 (Chain Shirt +2)",
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Shirt +3": {
-			"name": "Chain Shirt +3",
-			"description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
+			"name": "Camisa de malla +3 (Chain Shirt +3)",
+			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Shirt Armor of Resistance": {
-			"name": "Chain Shirt Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"name": "Camisa de malla de resistencia (Chain Mail Armor of Resistance)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Chalk": {
 			"name": "Tiza",
-			"description": "<p>It is soft white porous sedimentary acarbonate rock, a form of limestone composed of the mineral calcite. Can be used to draw shapes. </p>"
+			"description": "<p>Es una roca sedimentaria de acarbonato blanda y porosa, es decir, una especie de piedra caliza compuesta por el mineral calcita. Puede utilizarse para dibujar formas.</p>"
 		},
 		"Chest": {
 			"name": "Baúl",
-			"description": "<p>A chest holds 12 cubic feet or 300 pounds of gear.</p>"
+			"description": "<p>Un cofre contiene 12 pies cúbicos o 300 libras de equipo.</p>"
 		},
 		"Chime of Opening": {
-			"name": "Chime of Opening",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can't reach the object. If no locks or latches remain, the object itself opens.</p>\n<p>The chime can be used ten times. After the tenth time, it cracks and becomes useless.</p>"
+			"name": "Carillón de apertura (Chime of Opening)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este tubo de metal hueco mide alrededor de 1 pie de largo y pesa 1 libra. Puedes utilizar una acción para tocarlo y apuntarlo hacia un objeto que se encuentre a 120 pies o menos y que pueda ser abierto, como una puerta, tapa o cerradura. El carillón emite un tono prístino y un cierre o cerrojo en el objeto se abre, salvo si el sonido no puede alcanzarlo. Si no quedan cierres, el objeto mismo se abre.</p>\n<p>El carillón puede ser usado diez veces. Tras la décima vez, se resquebraja y se vuelve inútil.</p>"
 		},
 		"Circlet of Blasting": {
-			"name": "Circlet of Blasting",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While wearing this circlet, you can use an action to cast the <em>@Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{Scorching Ray}</em> spell with it. When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn.</p>"
+			"name": "Diadema de estallidos (Circlet of Blasting)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras lleves puesta esta diadema, puedes usar una acción para lanzar el conjuro <em>@Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{Rayo abrasador}</em>. Cuando hagas los ataques de este conjuro, tu bonificador de ataque será de +5. La diadema no puede volver a emplearse de esta manera hasta el siguiente amanecer.</p>"
 		},
 		"Climber's Kit": {
-			"name": "Climber's Kit",
-			"description": "<p>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.</p>"
+			"name": "Útiles de escalada (Climber's Kit)",
+			"description": "<p>Entre estos útiles se incluyen pitones especiales, puntas para las botas y un arnés. Puedes invertir una acción para anclarte empleando estos útiles. Una vez hecho esto, no podrás caer más de 25 pies desde el punto en el que te anclaste, pero tampoco podrás subir más de 25 pies sin deshacer el anclaje</p>"
 		},
 		"Cloak of Arachnida": {
-			"name": "Cloak of Arachnida",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:</p>\n<ul>\n<li>You have resistance to poison damage.</li>\n<li>You have a climbing speed equal to your walking speed.</li>\n<li>You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.</li>\n<li>You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.</li>\n<li>You can use an action to cast the @Compendium[dnd5e.spells.UJJu9c2UvCzVljiP]{Web} spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.</li>\n</ul>"
+			"name": "Capa arácnida (Cloak of Arachnida)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Esta delicada prenda está tejida con seda negra y tiene finas hebras plateadas entretejidas. Mientras la lleves, obtendrás los siguientes beneficios:</p>\n<ul>\n<li>Resistencia al daño de veneno.</li>\n<li>Una velocidad trepando igual a tu velocidad caminando.</li>\n<li>Podrás moverte hacia arriba, hacia abajo y por superficies verticales, así como colgarte del techo. Puedes realizar todos estos movimientos mientras mantienes tus manos libres.</li>\n<li>No puedes quedar atrapado en ningún tipo de redes o telarañas, y serás capaz de moverte a través de ellas como si fueran terreno difícil.</li>\n<li>Puedes usar una acción para lanzar el conjuro @Compendium[dnd5e.spells.UJJu9c2UvCzVljiP]{Telaraña} (CD de salvación 13). La telaraña creada por este conjuro tiene el doble del tamaño normal. Esta propiedad de la capa no puede volver a emplearse hasta el siguiente amanecer.</li>\n</ul>"
 		},
 		"Cloak of Displacement": {
-			"name": "Cloak of Displacement",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn.</p>\n<p>This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.</p>"
+			"name": "Capa de desplazamiento (Cloak of Displacement)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras la lleves, esta capa proyecta una ilusión que hace que parezcas estar en un sitio cercano a tu localización real, lo que provoca que las tiradas de ataque contra ti de cualquier criatura sufran desventaja. Si recibes daño, esta propiedad dejará de funcionar hasta el principio de tu próximo turno.</p>\n<p>Además, también quedará suprimida mientras estés incapacitado, apresado o seas incapaz de moverte por cualquier razón.</p>"
 		},
 		"Cloak of Elvenkind": {
-			"name": "Cloak of Elvenkind",
+			"name": "Capa élfica (Cloak of Elvenkind)",
 			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.</p>"
 		},
 		"Cloak of Protection": {
