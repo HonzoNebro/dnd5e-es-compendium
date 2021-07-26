@@ -110,108 +110,108 @@
 			"description": "<p>Una flecha asesina es un arma mágica pensada para matar a un tipo concreto de criatura. Algunas son más específicas que otras. Por ejemplo, hay tanto flechas asesinas de dragones como flechas asesinas de dragones azules. Si una criatura perteneciente al tipo, raza o grupo asociado con una flecha asesina recibe daño de ella, deberá hacer una tirada de salvación de Constitución CD 17. Recibirá 6d10 de daño perforante adicional si falla la tirada o la mitad de ese daño si tiene éxito.<br />En cuanto una flecha asesina inflige su daño adicional a una criatura, se convierte en una flecha no mágica.</p>"
 		},
 		"Arrow-Catching Shield": {
-			"name": "Arrow-Catching Shield",
-			"description": "<p>You gain a +2 bonus to AC against ranged attacks while you wield this shield. This bonus is in addition to the shield's normal bonus to AC. In addition, whenever an attacker makes a ranged attack against a target within 5 feet of you, you can use your reaction to become the target of the attack instead.</p>"
+			"name": "Escudo atrapaflechas (Arrow-Catching Shield)",
+			"description": "<p>Mientras empuñes este escudo, obtienes un bonificador de +2 a tu CA contra ataques a distancia. Es te bonificador se añade al bonificador a la CA normal del escudo. Además, cuando un atacante realice un ataque a distancia contra un objetivo que se encuentre a 5 pies o menos de ti, podrás usar tu reacción para convertirte en el objetivo del ataque.</p>"
 		},
 		"Arrows": {
-			"name": "Arrows",
-			"description": "<p>Standard ammunition used for bows of all varieties. These mundane arrows are made of smooth wooden shafts with goose feather fletching and hammer metal bodkins.</p>"
+			"name": "Flechas (Arrows)",
+			"description": "<p>Munición común utilizada por arcos de cualquier tipo. Estas flechas mundanas están hechas de lisas varas de madera con plumas de ganso y puntas de metal.</p>"
 		},
 		"Backpack": {
-			"name": "Backpack",
-			"description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+			"name": "Mochila (Backpack)",
+			"description": "<p>Una mochila puede contener un pie cúbico o 30 libras de equipo. También puede atar objetos, como un saco de dormir o un rollo de cuerda, en su exterior.</p>"
 		},
 		"Bag of Beans": {
-			"name": "Bag of Beans",
-			"description": "<p>Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains.</p>\n<p>If you dump the bag's contents out on the ground, they explode in a 10-foot radius, extending from the beans. Each creature in the area, including you, must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.</p>\n<p>If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Effect</strong></td>\n</tr>\n<tr>\n<td>01</td>\n<td>5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.</td>\n</tr>\n<tr>\n<td>02-10</td>\n<td>A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.</td>\n</tr>\n<tr>\n<td>11-20</td>\n<td>A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.</td>\n</tr>\n<tr>\n<td>21-30</td>\n<td>An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.</td>\n</tr>\n<tr>\n<td>31-40</td>\n<td>A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).</td>\n</tr>\n<tr>\n<td>41-50</td>\n<td>1d6 + 6 shriekers sprout.</td>\n</tr>\n<tr>\n<td>51-60</td>\n<td>1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.</td>\n</tr>\n<tr>\n<td>61-70</td>\n<td>A hungry bulette burrows up and attacks.</td>\n</tr>\n<tr>\n<td>71-80</td>\n<td>A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.</td>\n</tr>\n<tr>\n<td>81-90</td>\n<td>A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.</td>\n</tr>\n<tr>\n<td>91-99</td>\n<td>A pyramid with a 60-foot‐square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord's lair, and its sarcophagus contains treasure of the GM's choice.</td>\n</tr>\n<tr>\n<td>00</td>\n<td>A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or a different plane of existence.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"name": "Bolsa de judías (Bag of Beans)",
+			"description": "<p>Dentro de esta pesada bolsa de tela hay 3d4 judías secas. La bolsa pesa 1/2 libra, más 1/4 de libra adicional por cada judía que contenga.</p>\n<p>Si vacías el contenido de la bolsa en el suelo, este explotará en un radio de 10 pies al rededor de las judías. Todas las criaturas que se encuentren en el área deberán hacer una tirada de salvación de Destreza CD 15, su friendo 5d4 de daño de fuego si la fallan, o la mitad de ese daño si la superan. Los objetos en el área que no lleve o vista alguien arderán.</p>\n<p>Si coges una judía de la bolsa, la plantas en tierra o arena y la riegas, producirá un efecto en el suelo 1 minuto después de ser plantada. El DM puede escoger un efecto de la siguiente tabla, determinarlo al azar o crear uno nuevo.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Efecto</strong></td>\n</tr>\n<tr>\n<td>01</td>\n<td>Brotan 5d4 hongos venenosos. Si una criatura come uno de estos hongos, tira un dado. Si el resultado es impar, la criatura deberá superar una tirada de salvación de Constitución CD 15 o recibirá 5d6 de daño de veneno y quedará envenenada durante 1 hora. Con un resultado par, la criatura ganará 5d6 puntos de golpe temporales que duran una hora.</td>\n</tr>\n<tr>\n<td>02-10</td>\n<td>Un géiser surge del suelo, expulsando a borbotones agua, cerveza, zumo de bayas, té, vinagre, vino o aceite (a elección del DM). El chorro tiene una altura de 30 pies y dura 1d12 asaltos.</td>\n</tr>\n<tr>\n<td>11-20</td>\n<td>Del suelo brota un ent. Hay un 50 % de probabilidades de que esta criatura sea caótica malvada y ataque inmediatamente.</td>\n</tr>\n<tr>\n<td>21-30</td>\n<td>Aparece una estatua de piedra animada e inmóvil con tu apariencia. Te amenazará verbalmente. Si la abandonas y otros se acercan, la estatua te describirá como el más vil de los villanos y mandará a los recién llegados a buscarte y atacarte. Si estás en el mismo plano de existencia que la estatua, sabrá donde estás. Se volverá inanimada tras 24 horas.</td>\n</tr>\n<tr>\n<td>31-40</td>\n<td>Surge una hoguera de llamas azules, que arderá durante 24 horas (o hasta que sea extinguida).</td>\n</tr>\n<tr>\n<td>41-50</td>\n<td>Brotan del suelo 1d6 + 6 chillones.</td>\n</tr>\n<tr>\n<td>51-60</td>\n<td>Se arrastrarán, saliendo de entre la tierra, 1d4 + 8 sapos de color rosa brillante. Cuando se toque a uno, este se convertirá en un monstruo Grande o más pequeño a elección del DM. El monstruo permanecerá durante 1 minuto y después desaparecerá en una nube de humo rosa brillante.</td>\n</tr>\n<tr>\n<td>61-70</td>\n<td>Un bulette hambriento sale excavando de la tierra y ataca.</td>\n</tr>\n<tr>\n<td>71-80</td>\n<td>Un árbol frutal crece rápidamente en el sitio. Tiene 1d10 + 20 piezas de fruta, de las cuales 1d8 se comportan como pociones determinadas aleatoriamente y otra de ellas como un veneno ingerido a elección del DM. El árbol se desvanece en una hora. La fruta que haya sido recogida permanece y la magia se mantiene durante 30 días.</td>\n</tr>\n<tr>\n<td>81-90</td>\n<td>Aparece un nido con 1d4 + 3 huevos. Cualquier criatura que coma uno de estos huevos deberá realizar una tirada de salvación de Constitución CD 20. Si tiene éxito, incrementará su puntuación de característica más baja en 1, eligiendo al azar si hay varias puntuaciones empatadas por ser la más baja. Si falla, la criatura recibirá 10d6 de daño de fuerza de una explosión mágica interna.</td>\n</tr>\n<tr>\n<td>91-99</td>\n<td>Una pirámide con una base de 60 pies cuadrados surge del suelo. Dentro hay un sarcófago con un señor de las momias en su interior. La pirámide se considera la guarida del señor de las momias y su sarcófago contiene un tesoro a elección del DM.</td>\n</tr>\n<tr>\n<td>00</td>\n<td>Brota un tallo de judía gigante, que crece hasta la altura que el DM considere oportuno. La parte más alta da acceso a un sitio también a su elección, ya sea el castillo de un gigante de las nubes, una hermosa vista u otro plano de existencia.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Bag of Devouring": {
-			"name": "Bag of Devouring",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This bag superficially resembles a Bag of Holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.</p>\n<p>The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check.</p>\n<p>Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn't pulled inside the bag first).</p>\n<p>Any creature that starts its turn inside the bag is devoured, its body destroyed.</p>\n<p>Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The GM determines the time and plane.</p>\n<p>If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.</p>"
+			"name": "Bolsa devoradora (Bag of Devouring)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa tiene un parecido superficial con una bolsa de contención, pero en realidad es el orificio de alimentación de una criatura extradimensional gigante. Poner la bolsa del revés cierra el orificio.</p>\n<p>La criatura extradimensional enlazada con la bolsa puede sentir cualquier cosa que se ponga dentro de esta. La materia animal o vegetal que se coloque por completo en el interior de la bolsa es devorada y se pierde para siempre. Cuando se pone parte de una criatura viva en la bolsa, como cuando alguien mete la mano, hay un 50 % de probabilidades de que la criatura sea agarrada y metida en la bolsa a la fuerza. Una criatura dentro de la bolsa puede usar su acción para intentar escapar superando una prueba de Fuerza CD 15.</p>\n<p>Otra criatura puede emplear su acción para meter la mano en la bolsa y tratar de sacar a una criatura, y tendrá éxito si supera una prueba de fuerza CD 20 (suponiendo que no acabe siendo arrastrada también al interior de la bolsa).</p>\n<p>Una criatura será devorada si comienza su turno dentro de la bolsa. Si ocurre esto su cuerpo será destruido.</p>\n<p>Los objetos inanimados pueden ser guardados en la bolsa sin problemas. Esta puede contener un pie cúbico de ese tipo de materiales. Sin embargo, una vez al día, la bolsa se tragará cualquier objeto dentro de ella y lo escupirá en otro plano de existencia. El momento y el plano los determina el DM.</p>\n<p>Si la bolsa es perforada o rasgada, queda destruida, y cualquier cosa que contuviera es transportada a un lugar aleatorio del Plano Astral.</p>"
 		},
 		"Bag of Holding": {
-			"name": "Bag of Holding",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.</p>\n<p>If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again.</p>\n<p>Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.</p>\n<p>Placing a Bag of Holding inside an extradimensional space created by a Handy Haversack, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.</p>"
+			"name": "Bolsa de contención (Bag of Holding)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa posee un espacio interior considerablemente mayor que sus dimensiones exteriores, que son de 2 pies de diámetro en la abertura y 4 pies de profundidad. La bolsa puede contener hasta 500 libras, con un volumen máximo de 64 pies cúbicos. Siempre pesará 15 libras, independientemente del contenido. Sacar un objeto de la bolsa cuesta una acción.</p>\n<p>Si se sobrecarga, perfora o rasga la bolsa, esta se rompe por completo y queda destruida, quedando sus contenidos dispersos por el Plano Astral. Si se pone la bolsa del revés, los contenidos serán volcados al exterior, sin quedar dañados, pero la bolsa debe volver a ponerse en su posición inicial antes de poder ser usada de nuevo.</p>\n<p>Las criaturas dentro de la bolsa que necesiten respirar pueden sobrevivir un número de minutos igual a 10 dividido entre el número de criaturas albergadas (mínimo 1 minuto), tiempo tras el cual comenzarán a ahogarse.</p>\n<p>Poner una bolsa de contención dentro del espacio extradimensional creado por un Morral práctico, un Agujero portátil u objeto similar destruye instantáneamente ambos objetos y abre un portal al Plano Astral. Se creará en el sitio donde un objeto se metió dentro del otro. Cualquier criatura que se encuentre a 10 pies del portal será absorbida a través de este a una localización aleatoria en el Plano Astral. Después, el portal se cierra. Solo funciona en un sentido y no puede ser reabierto.</p>"
 		},
 		"Bag of Sand": {
-			"name": "Bag of Sand",
-			"description": "<p>A small bag of sand used by the scholarly to dry freshly inked letters and correspondence quickly and safely for quick dispatch.</p>"
+			"name": "Bolsa de arena (Bag of Sand)",
+			"description": "<p>Una pequeña bolsa de arena utilizada por los académicos para secar cartas y correspondencia recién entintadas de manera rápida y segura para enviarlas rápidamente.</p>"
 		},
 		"Bag of Tricks (Grey)": {
-			"name": "Bag of Tricks (Grey)",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This ordinary bag, made from gray cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.</p>\n<p>You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table.</p>\n<p>The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p>\n<p>Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Creature</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.WOdeacKCYVhgLDuN]{Weasel}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.q1YJIeIt6rK8fCKn]{Giant Rat}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.oQvORD924obyPdCc]{Badger}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.lZR4lhNmYSf89s4Q]{Boar}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.AijNdqMurWxDxUSl]{Panther}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.OSKoYxdiQ8jYqOGH]{Giant Badger}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.EYiQZ3rFL25fEJY5]{Dire Wolf}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.hQt3qIahnB1Odb40]{Giant Elk}</td>\n</tr>\n</tbody>\n</table>"
+			"name": "Bolsa de trucos gris (Bag of Tricks (Grey))",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa de aspecto ordinario, hecha de tela de color gris, parece vacía. Meter la mano dentro de la bolsa revela, sin embargo, que en su interior hay un objeto pequeño y peludo. La bolsa pesa 1/2 libra.</p>\n<p>Puedes usar una acción para sacar el objeto peludo de la bolsa y arrojarlo a un punto a 20 pies o menos de distancia. Cuando aterriza, se convierte en una criatura determinada al azar, tirando 1d8 y consultando la tabla.</p>\n<p>La criatura es amistosa hacia ti y tus compañeros y actúa en tu propio turno. Puedes emplear una acción adicional para decidir cómo se mueve la criatura, qué acción toma en su turno o para darle órdenes más generales, como atacar a tus enemigos. Si no recibe tales órdenes, se comportará de acuerdo a su naturaleza.</p>\n<p>Una vez que se han extraído tres objetos peludos de la bolsa, esta no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Criatura</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.WOdeacKCYVhgLDuN]{Comadreja}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.q1YJIeIt6rK8fCKn]{Rata gigante}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.oQvORD924obyPdCc]{Tejón}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.lZR4lhNmYSf89s4Q]{Jabalí}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.AijNdqMurWxDxUSl]{Pantera}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.OSKoYxdiQ8jYqOGH]{Tejón gigante}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.EYiQZ3rFL25fEJY5]{Lobo terrible}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.hQt3qIahnB1Odb40]{Alce gigante}</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Bag of Tricks (Rust)": {
-			"name": "Bag of Tricks (Rust)",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This ordinary bag, made from rust-colored cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.</p>\n<p>You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table.</p>\n<p>The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p>\n<p>Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Creature</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.pozQUPTnLZW8epox]{Rat}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.d0prpsGSAorDadec]{Owl}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastiff}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.y8sRU8Ks2lcrGsaf]{Goat}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.N3ahWNjmxk9Ro1aG]{Giant Goat}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.55z2VqYdUb8BWgyc]{Giant Boar}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.hjhERRzafCiFFVLA]{Lion}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.omcDpBoB69esCXeM]{Brown Bear}</td>\n</tr>\n</tbody>\n</table>"
+			"name": "Bolsa de trucos rojiza (Bag of Tricks (Rust))",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa de aspecto ordinario, hecha de tela de color rojiza, parece vacía. Meter la mano dentro de la bolsa revela, sin embargo, que en su interior hay un objeto pequeño y peludo. La bolsa pesa 1/2 libra.</p>\n<p>Puedes usar una acción para sacar el objeto peludo de la bolsa y arrojarlo a un punto a 20 pies o menos de distancia. Cuando aterriza, se convierte en una criatura determinada al azar, tirando 1d8 y consultando la tabla.</p>\n<p>La criatura es amistosa hacia ti y tus compañeros y actúa en tu propio turno. Puedes emplear una acción adicional para decidir cómo se mueve la criatura, qué acción toma en su turno o para darle órdenes más generales, como atacar a tus enemigos. Si no recibe tales órdenes, se comportará de acuerdo a su naturaleza.</p>\n<p>Una vez que se han extraído tres objetos peludos de la bolsa, esta no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Criatura</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.pozQUPTnLZW8epox]{Rata}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.d0prpsGSAorDadec]{Búho}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastín}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.y8sRU8Ks2lcrGsaf]{Cabra}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.N3ahWNjmxk9Ro1aG]{Cabra gigante}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.55z2VqYdUb8BWgyc]{Jabalí gigante}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.hjhERRzafCiFFVLA]{León}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.omcDpBoB69esCXeM]{Oso pardo}</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Bag of Tricks (Tan)": {
-			"name": "Bag of Tricks (Tan)",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This ordinary bag, made from tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.</p>\n<p>You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table.</p>\n<p>The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p>\n<p>Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Creature</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.MZYCPIVoBs918qGZ]{Jackal}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.K5cKmPoFkpuOotis]{Ape}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.JW8bXggOMBx1S6tF]{Baboon}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.SXXvwaLBNuzBymp3]{Axe Beak}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.D5WjGwKskeUT8HXa]{Black Bear}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.8VXxqeBvN54rPh81]{Giant Weasel}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.oBXgFDnwGehbpmKN]{Giant Hyena}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.FayqbnjBMszO6Pat]{Tiger}</td>\n</tr>\n</tbody>\n</table>"
+			"name": "Bolsa de trucos marrón (Bag of Tricks (Tan))",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa de aspecto ordinario, hecha de tela de color marrón, parece vacía. Meter la mano dentro de la bolsa revela, sin embargo, que en su interior hay un objeto pequeño y peludo. La bolsa pesa 1/2 libra.</p>\n<p>Puedes usar una acción para sacar el objeto peludo de la bolsa y arrojarlo a un punto a 20 pies o menos de distancia. Cuando aterriza, se convierte en una criatura determinada al azar, tirando 1d8 y consultando la tabla.</p>\n<p>La criatura es amistosa hacia ti y tus compañeros y actúa en tu propio turno. Puedes emplear una acción adicional para decidir cómo se mueve la criatura, qué acción toma en su turno o para darle órdenes más generales, como atacar a tus enemigos. Si no recibe tales órdenes, se comportará de acuerdo a su naturaleza.</p>\n<p>Una vez que se han extraído tres objetos peludos de la bolsa, esta no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Creature</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.MZYCPIVoBs918qGZ]{Chacal}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.K5cKmPoFkpuOotis]{Simio}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.JW8bXggOMBx1S6tF]{Babuino}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.SXXvwaLBNuzBymp3]{Pico de hacha}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.D5WjGwKskeUT8HXa]{Oso negro}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.8VXxqeBvN54rPh81]{Comadreja gigante}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.oBXgFDnwGehbpmKN]{Hiena gigante}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.FayqbnjBMszO6Pat]{Tigre}</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Bagpipes": {
-			"name": "Bagpipes",
-			"description": "<p>A set of bagpipes to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"name": "Gaita (Bagpipes)",
+			"description": "<p>Un juego de gaitas para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Ball Bearings": {
-			"name": "Ball Bearings",
-			"description": "<p>As an action, you can spill these 1,000 tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</p>"
+			"name": "Bolas de metal (Ball Bearings)",
+			"description": "<p>Puedes usar tu acción para esparcir estas pequeñas esferas metálicas, que vienen en una bolsita, sobre una superficie nivelada, cubriendo un cuadrado de 10 pies de lado. Las criaturas que se muevan a través de la zona afectada deberán superar una tirada de salvación de Destreza CD 10 o serán derribadas. Sin embargo, si una criatura se desplaza por la zona a la mitad de su velocidad, no tendrá que superar la tirada de salvación.</p>"
 		},
 		"Barrel": {
 			"name": "Barril (Barrel)",
-			"description": "<p>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</p>"
+			"description": "<p>Un barril puede contener 40 galones de líquido o 4 pies cúbicos de sólidos.</p>"
 		},
 		"Basic Poison": {
-			"name": "Basic Poison",
-			"description": "<p>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</p>"
+			"name": "Veneno básico (Basic Poison)",
+			"description": "<p>Puedes usar el veneno contenido en este vial para untar un arma cortante o perforante o hasta tres unidades de munición. Para hacer esto deberás invertir una acción. Cualquier criatura impactada por el arma o munición envenenadas deberá superar una tirada de salvación de Constitución CD 10 o sufrirá 1d4 de daño de veneno. Una vez aplicado al arma o munición, el veneno mantendrá su efectividad durante 1 minuto, tras el cual se habrá secado.</p>"
 		},
 		"Basket": {
 			"name": "Cesta (Basket)",
-			"description": "<p>A basket holds 2 cubic feet or 40 pounds of gear.</p>"
+			"description": "<p>Una cesta puede contener 2 pies cúbicos o 40 libras de equipo.</p>"
 		},
 		"Battleaxe": {
 			"name": "Hacha de guerra (Battleaxe)",
-			"description": "<p>A stout crescent blade mounted on a thick shaft wrapped in a sturdy grip. This axe is large enough to be wielded with two hands and is adorned with spikes upon the back-side of the blade and the top of the shaft.</p>"
+			"description": "<p>Una robusta hoja de media luna montada sobre un grueso mango envuelto en una firme empuñadura. Esta hacha es lo suficientemente grande como para ser empuñada a dos manos y está adornada con pinchos en el reverso de la hoja y en la parte superior del asta.</p>"
 		},
 		"Battleaxe +1": {
-			"name": "Battleaxe +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"name": "Hacha de guerra +1 (Battleaxe +1)",
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Battleaxe +2": {
-			"name": "Battleaxe +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"name": "Hacha de guerra +2 (Battleaxe +2)",
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Battleaxe +3": {
-			"name": "Battleaxe +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"name": "Hacha de guerra +3 (Battleaxe +3)",
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Bead of Force": {
-			"name": "Bead of Force",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 Beads of Force are found together.</p>\n<p>You can use an action to throw the bead up to 60 feet. The bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed the save and is completely within the area is trapped inside this sphere. Creatures that succeeded on the save, or are partially within the area, are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.</p>\n<p>An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.</p>"
+			"name": "Canica de fuerza (Bead of Force)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta pequeña esfera negra mide 3/4 de pulgada de diámetro y pesa una onza. Normalmente se encontrarán 1d4 + 4 Canicas de fuerza juntas.</p>\n<p>Puedes usar una acción para tirar la canica a un punto a 60 pies o menos de distancia. Explota al impactar y queda destruida. Cada criatura que se encuentre en un radio de 10 pies del lugar de impacto deberá tener éxito en una prueba de salvación de Destreza CD 15 o recibirá 5d4 de daño de fuerza. Después, el área quedará encerrada en una esfera transparente de fuerza durante 1 minuto. Cualquier criatura que haya fallado la tirada y esté totalmente dentro del área queda atrapada dentro de esta esfera. Las que solo estén parcialmente dentro del área o hayan superado la tirada de salvación son empujadas en dirección contraria al centro hasta que queden completamente fuera del área. A través de la superficie de la esfera solo puede pasar aire respirable, ningún otro ataque o efecto.</p>\n<p>Una criatura encerrada puede utilizar su acción para empujar la esfera desde dentro, haciéndola rodar a una velocidad máxima de la mitad de la velocidad de la criatura. La esfera puede ser cogida, y su magia hace que solo pese 1 libra, independientemente del número de criaturas en su interior.</p>"
 		},
 		"Bedroll": {
 			"name": "Petate (Bedroll)",
-			"description": "<p>Roll of cloth used by traveller to sleep in.</p>"
+			"description": "<p>Rollo de tela usado por los viajeros para dormir.</p>"
 		},
 		"Bell": {
 			"name": "Campana (Bell)",
-			"description": "<p>A small bell for you to ring.</p>"
+			"description": "<p>Una pequeña campana para hacerla sonar.</p>"
 		},
 		"Belt of Cloud Giant Strength": {
-			"name": "Belt of Cloud Giant Strength",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, your Strength score changes to 27. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.</p>"
+			"name": "Cinturón de fuerza de gigante de las nubes (Belt of Cloud Giant Strength)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 27. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Belt of Dwarvenkind": {
-			"name": "Belt of Dwarvenkind",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, you gain the following benefits:</p>\n<ul>\n<li>Your Constitution score increases by 2, to a maximum of 20.</li>\n<li>You have advantage on Charisma (Persuasion) checks made to interact with dwarves.</li>\n</ul>\n<p>In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.<br />If you aren't a dwarf, you gain the following additional benefits while wearing the belt:</p>\n<ul>\n<li>You have advantage on saving throws against poison, and you have resistance against poison damage.</li>\n<li>You have darkvision out to a range of 60 feet.</li>\n<li>You can speak, read, and write Dwarvish.</li>\n</ul>"
+			"name": "Cinturón enano (Belt of Dwarvenkind)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, obtendrás los siguientes beneficios:</p>\n<ul>\n<li>Tu puntuación de Constitución aumenta en 2, hasta un máximo de 20.</li>\n<li>Tienes ventaja en las pruebas de Carisma (Persuasión) en las que interactúes con enanos.</li>\n</ul>\n<p>Además, mientras permanezcas sintonizado con el cinturón, posees un 50 % de probabilidades de que cada día al alba te crezca una barba completa, si normalmente podrías tenerla. Si ya tienes una, se volverá considerablemente más densa.<br />Si no eres enano, obtendrás los siguientes beneficios adicionales:</p>\n<ul>\n<li>Tienes ventaja en las tiradas de salvación contra veneno y posees resistencia al daño de veneno.</li>\n<li>Visión en la Oscuridad hasta una distancia de 60 pies.</li>\n<li>Puedes hablar, leer y escribir en común y enano.</li>\n</ul>"
 		},
 		"Belt of Fire Giant Strength": {
-			"name": "Belt of Fire Giant Strength",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, your Strength score changes to 25. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.</p>"
+			"name": "Cinturón de fuerza de gigante de fuego (Belt of Fire Giant Strength)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 25. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Belt of Frost Giant Strength": {
-			"name": "Belt of Frost Giant Strength",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this belt, your Strength score changes to 23. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.</p>\n<p>The Belt of Stone Giant Strength and the Belt of Frost Giant Strength look different, but they have the same effect.</p>"
+			"name": "Cinturón de fuerza de gigante de escarcha (Belt of Frost Giant Strength)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 23. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>\n<p>El Cinturón de fuerza de gigante de piedra y el Cinturón de fuerza de gigante de escarcha poseen apariencias diferentes, pero ambos producen el mismo efecto.</p>"
 		},
 		"Belt of Hill Giant Strength": {
 			"name": "Cinturón de fuerza de gigante de las colinas (Belt of Hill Giant Strength)",
@@ -315,10 +315,10 @@
 		},
 		"Bracers of Defense": {
 			"name": "Brazales de defensa (Bracers of Defense)",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.</p>"
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves estos brazales, obtienes un bonificador de +2 a la CA si no vistes armadura ni empuñas un escudo.</p>"
 		},
 		"Brass Horn of Valhalla": {
-			"name": "Brass Horn of Valhalla",
+			"name": "Cuerno del Valhalla de latón (Brass Horn of Valhalla)",
 			"description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.monsters\" data-id=\"kz1t6xeXVwODpYb2\"> Berserker</a>. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.</p>\n<p>Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th>Horn Type</th>\n<th>Berserkers Summoned</th>\n<th>Requirement</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Silver</td>\n<td>2d4 + 2</td>\n<td>None</td>\n</tr>\n<tr>\n<td><strong>41-75</strong></td>\n<td><strong>Brass</strong></td>\n<td><strong>3d4 + 3</strong></td>\n<td><strong>Proficiency with all simple weapons</strong></td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>Bronze</td>\n<td>4d4 + 4</td>\n<td>Proficiency with all medium armor</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Iron</td>\n<td>5d4 + 5</td>\n<td>Proficiency with all martial weapons</td>\n</tr>\n</tbody>\n</table>\n<p>If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.</p>"
 		},
 		"Brazier of Commanding Fire Elementals": {
@@ -503,15 +503,15 @@
 		},
 		"Club +1": {
 			"name": "Club +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Club +2": {
 			"name": "Club +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Club +3": {
 			"name": "Club +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Cobbler's Tools": {
 			"name": "Cobbler's Tools",
@@ -591,15 +591,15 @@
 		},
 		"Dagger +1": {
 			"name": "Dagger +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dagger +2": {
 			"name": "Dagger +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dagger +3": {
 			"name": "Dagger +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dagger of Venom": {
 			"name": "Dagger of Venom",
@@ -631,15 +631,15 @@
 		},
 		"Dart +1": {
 			"name": "Dart +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dart +2": {
 			"name": "Dart +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dart +3": {
 			"name": "Dart +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Decanter of Endless Water": {
 			"name": "Decanter of Endless Water",
@@ -867,15 +867,15 @@
 		},
 		"Flail +1": {
 			"name": "Flail +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Flail +2": {
 			"name": "Flail +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Flail +3": {
 			"name": "Flail +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Flame Tongue Greatsword": {
 			"name": "Flame Tongue Greatsword",
@@ -1003,15 +1003,15 @@
 		},
 		"Glaive +1": {
 			"name": "Glaive +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Glaive +2": {
 			"name": "Glaive +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Glaive +3": {
 			"name": "Glaive +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Glamoured Studded Leather": {
 			"name": "Glamoured Studded Leather",
@@ -1047,15 +1047,15 @@
 		},
 		"Greataxe +1": {
 			"name": "Greataxe +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greataxe +2": {
 			"name": "Greataxe +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greataxe +3": {
 			"name": "Greataxe +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatclub": {
 			"name": "Garrote grande (Greatclub)",
@@ -1063,15 +1063,15 @@
 		},
 		"Greatclub +1": {
 			"name": "Greatclub +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatclub +2": {
 			"name": "Greatclub +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatclub +3": {
 			"name": "Greatclub +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword": {
 			"name": "Espadón (Greatsword)",
@@ -1079,15 +1079,15 @@
 		},
 		"Greatsword +1": {
 			"name": "Greatsword +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword +2": {
 			"name": "Greatsword +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword +3": {
 			"name": "Greatsword +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword of Life Stealing": {
 			"name": "Greatsword of Life Stealing",
@@ -1107,15 +1107,15 @@
 		},
 		"Halberd +1": {
 			"name": "Halberd +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Halberd +2": {
 			"name": "Halberd +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Halberd +3": {
 			"name": "Halberd +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Half Plate Armor": {
 			"name": "Half Plate Armor",
@@ -1151,15 +1151,15 @@
 		},
 		"Hand Crossbow +1": {
 			"name": "Hand Crossbow +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Hand Crossbow +2": {
 			"name": "Hand Crossbow +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Hand Crossbow +3": {
 			"name": "Hand Crossbow +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handaxe": {
 			"name": "Hacha de mano (Handaxe)",
@@ -1167,15 +1167,15 @@
 		},
 		"Handaxe +1": {
 			"name": "Handaxe +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handaxe +2": {
 			"name": "Handaxe +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handaxe +3": {
 			"name": "Handaxe +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handy Haversack": {
 			"name": "Handy Haversack",
@@ -1199,15 +1199,15 @@
 		},
 		"Heavy Crossbow +1": {
 			"name": "Heavy Crossbow +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Heavy Crossbow +2": {
 			"name": "Heavy Crossbow +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Heavy Crossbow +3": {
 			"name": "Heavy Crossbow +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Helm of Brilliance": {
 			"name": "Helm of Brilliance",
@@ -1399,15 +1399,15 @@
 		},
 		"Javelin +1": {
 			"name": "Javelin +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Javelin +2": {
 			"name": "Javelin +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Javelin +3": {
 			"name": "Javelin +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Javelin of Lightning": {
 			"name": "Javelin of Lightning",
@@ -1435,15 +1435,15 @@
 		},
 		"Lance +1": {
 			"name": "Lance +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Tendrás desventaja si usas una lanza de caballería para atacar a un objetivo que se encuentre a 5 pies o menos de ti. Además, si no estás sobre una montura necesitarás las dos manos para empuñarla.</p>"
 		},
 		"Lance +2": {
 			"name": "Lance +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Tendrás desventaja si usas una lanza de caballería para atacar a un objetivo que se encuentre a 5 pies o menos de ti. Además, si no estás sobre una montura necesitarás las dos manos para empuñarla.</p>"
 		},
 		"Lance +3": {
 			"name": "Lance +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Tendrás desventaja si usas una lanza de caballería para atacar a un objetivo que se encuentre a 5 pies o menos de ti. Además, si no estás sobre una montura necesitarás las dos manos para empuñarla.</p>"
 		},
 		"Lantern of Revealing": {
 			"name": "Lantern of Revealing",
@@ -1479,15 +1479,15 @@
 		},
 		"Light Crossbow +1": {
 			"name": "Light Crossbow +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Crossbow +2": {
 			"name": "Light Crossbow +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Crossbow +3": {
 			"name": "Light Crossbow +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Hammer": {
 			"name": "Martillo ligero (Light Hammer)",
@@ -1495,15 +1495,15 @@
 		},
 		"Light Hammer +1": {
 			"name": "Light Hammer +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Hammer +2": {
 			"name": "Light Hammer +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Hammer +3": {
 			"name": "Light Hammer +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Lock": {
 			"name": "Lock",
@@ -1515,15 +1515,15 @@
 		},
 		"Longbow +1": {
 			"name": "Longbow +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longbow +2": {
 			"name": "Longbow +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longbow +3": {
 			"name": "Longbow +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword": {
 			"name": "Espada larga (Longsword)",
@@ -1531,15 +1531,15 @@
 		},
 		"Longsword +1": {
 			"name": "Longsword +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword +2": {
 			"name": "Longsword +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword +3": {
 			"name": "Longsword +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword of Life Stealing": {
 			"name": "Longsword of Life Stealing",
@@ -1587,15 +1587,15 @@
 		},
 		"Mace +1": {
 			"name": "Mace +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Mace +2": {
 			"name": "Mace +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Mace +3": {
 			"name": "Mace +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Mace of Disruption": {
 			"name": "Mace of Disruption",
@@ -1651,15 +1651,15 @@
 		},
 		"Maul +1": {
 			"name": "Maul +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Maul +2": {
 			"name": "Maul +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Maul +3": {
 			"name": "Maul +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Medallion of Thoughts": {
 			"name": "Medallion of Thoughts",
@@ -1719,15 +1719,15 @@
 		},
 		"Morningstar +1": {
 			"name": "Morningstar +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Morningstar +2": {
 			"name": "Morningstar +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Morningstar +3": {
 			"name": "Morningstar +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Musical Instrument": {
 			"name": "Musical Instrument",
@@ -1755,15 +1755,15 @@
 		},
 		"Net +1": {
 			"name": "Net +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack rolls made with this magic weapon.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Una criatura de tamaño Grande o menor que sea impactada por una red estará apresada hasta ser liberada. Esta arma no tendrá efecto sobre objetivos sin forma definida o que sean de tamaño Enorme o mayor. Una criatura puede invertir su acción en hacer una prueba de Fuerza CD 10, logrando liberarse a sí misma o a otra criatura dentro de su alcance si tiene éxito. Infligir 5 de daño cortante a la red (CA 10) también liberará a la criatura sin causarle daño alguno, acabando este efecto y destruyendo la red. Cuando uses una acción, acción adicional o reacción para atacar con la red, solo podrás realizar un ataque, incluso aunque normalmente pudieras hacer más de uno.</p>"
 		},
 		"Net +2": {
 			"name": "Net +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack rolls made with this magic weapon.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Una criatura de tamaño Grande o menor que sea impactada por una red estará apresada hasta ser liberada. Esta arma no tendrá efecto sobre objetivos sin forma definida o que sean de tamaño Enorme o mayor. Una criatura puede invertir su acción en hacer una prueba de Fuerza CD 10, logrando liberarse a sí misma o a otra criatura dentro de su alcance si tiene éxito. Infligir 5 de daño cortante a la red (CA 10) también liberará a la criatura sin causarle daño alguno, acabando este efecto y destruyendo la red. Cuando uses una acción, acción adicional o reacción para atacar con la red, solo podrás realizar un ataque, incluso aunque normalmente pudieras hacer más de uno.</p>"
 		},
 		"Net +3": {
 			"name": "Net +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack rolls made with this magic weapon.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Una criatura de tamaño Grande o menor que sea impactada por una red estará apresada hasta ser liberada. Esta arma no tendrá efecto sobre objetivos sin forma definida o que sean de tamaño Enorme o mayor. Una criatura puede invertir su acción en hacer una prueba de Fuerza CD 10, logrando liberarse a sí misma o a otra criatura dentro de su alcance si tiene éxito. Infligir 5 de daño cortante a la red (CA 10) también liberará a la criatura sin causarle daño alguno, acabando este efecto y destruyendo la red. Cuando uses una acción, acción adicional o reacción para atacar con la red, solo podrás realizar un ataque, incluso aunque normalmente pudieras hacer más de uno.</p>"
 		},
 		"Nine Lives Stealer Greatsword": {
 			"name": "Nine Lives Stealer Greatsword",
@@ -1879,15 +1879,15 @@
 		},
 		"Pike +1": {
 			"name": "Pike +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Pike +2": {
 			"name": "Pike +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Pike +3": {
 			"name": "Pike +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Pipes of Haunting": {
 			"name": "Pipes of Haunting",
@@ -2099,15 +2099,15 @@
 		},
 		"Quarterstaff +1": {
 			"name": "Quarterstaff +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Quarterstaff +2": {
 			"name": "Quarterstaff +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Quarterstaff +3": {
 			"name": "Quarterstaff +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Quiver": {
 			"name": "Quiver",
@@ -2119,15 +2119,15 @@
 		},
 		"Rapier +1": {
 			"name": "Rapier +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Rapier +2": {
 			"name": "Rapier +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Rapier +3": {
 			"name": "Rapier +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Rapier of Life Stealing": {
 			"name": "Rapier of Life Stealing",
@@ -2395,15 +2395,15 @@
 		},
 		"Scimitar +1": {
 			"name": "Scimitar +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Scimitar +2": {
 			"name": "Scimitar +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Scimitar +3": {
 			"name": "Scimitar +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Scimitar of Life Stealing": {
 			"name": "Scimitar of Life Stealing",
@@ -2455,15 +2455,15 @@
 		},
 		"Shortbow +1": {
 			"name": "Shortbow +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Shortbow +2": {
 			"name": "Shortbow +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Shortbow +3": {
 			"name": "Shortbow +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Shortsword": {
 			"name": "Espada corta (Shortsword)",
@@ -2471,15 +2471,15 @@
 		},
 		"Shortsword +1": {
 			"name": "Shortsword +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Shortsword +2": {
 			"name": "Shortsword +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Shortsword +3": {
 			"name": "Shortsword +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Shortsword of Life Stealing": {
 			"name": "Shortsword of Life Stealing",
@@ -2499,15 +2499,15 @@
 		},
 		"Sickle +1": {
 			"name": "Sickle +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Sickle +2": {
 			"name": "Sickle +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Sickle +3": {
 			"name": "Sickle +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Signal Whistle": {
 			"name": "Signal Whistle",
@@ -2535,15 +2535,15 @@
 		},
 		"Sling +1": {
 			"name": "Sling +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Sling +2": {
 			"name": "Sling +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Sling +3": {
 			"name": "Sling +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Sling Bullet": {
 			"name": "Bala de honda (Sling Bullet)",
@@ -2591,15 +2591,15 @@
 		},
 		"Spear +1": {
 			"name": "Spear +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Spear +2": {
 			"name": "Spear +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Spear +3": {
 			"name": "Spear +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Spell Scroll 1st Level": {
 			"name": "Spell Scroll 1st Level",
@@ -2831,15 +2831,15 @@
 		},
 		"Trident +1": {
 			"name": "Trident +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Trident +2": {
 			"name": "Trident +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Trident +3": {
 			"name": "Trident +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Trident of Fish Command": {
 			"name": "Trident of Fish Command",
@@ -3103,15 +3103,15 @@
 		},
 		"War Pick +1": {
 			"name": "War Pick +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"War Pick +2": {
 			"name": "War Pick +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"War Pick +3": {
 			"name": "War Pick +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Warhammer": {
 			"name": "Martillo de guerra (Warhammer)",
@@ -3119,15 +3119,15 @@
 		},
 		"Warhammer +1": {
 			"name": "Warhammer +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Warhammer +2": {
 			"name": "Warhammer +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Warhammer +3": {
 			"name": "Warhammer +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Waterskin": {
 			"name": "Cantimplora (Waterskin)",
@@ -3151,15 +3151,15 @@
 		},
 		"Whip +1": {
 			"name": "Whip +1",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Whip +2": {
 			"name": "Whip +2",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Whip +3": {
 			"name": "Whip +3",
-			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
+			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Wind Fan": {
 			"name": "Wind Fan",
