@@ -78,7 +78,7 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Mientras sostengas este escudo, puedes emplear una acción adicional para pronunciar su palabra de activación y así hacer que se anime. El escudo saltará de tu mano y levitará en tu espacio, protegiéndote como si lo empuñaras, pero dejando tus manos libres. Permanecerá animado durante 1 minuto, hasta que uses una acción adicional para terminar este efecto, o hasta que quedes incapacitado o mueras. Cuando se dé alguna de estas circunstancias, el escudo caerá al suelo o volverá a tu mano si tienes una libre.</p>"
 		},
 		"Antitoxin": {
-			"name": "Antitoxina",
+			"name": "Antitoxina (Antitoxin)",
 			"description": "<p>La criatura que beba el contenido de este vial obtendrá ventaja en las tiradas de salvación contra veneno durante 1 hora. No obstante, no tendrá efecto en muertos vivientes o autómatas.</p>"
 		},
 		"Apparatus of the Crab": {
@@ -158,7 +158,7 @@
 			"description": "<p>As an action, you can spill these 1,000 tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</p>"
 		},
 		"Barrel": {
-			"name": "Barril",
+			"name": "Barril (Barrel)",
 			"description": "<p>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</p>"
 		},
 		"Basic Poison": {
@@ -166,11 +166,11 @@
 			"description": "<p>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</p>"
 		},
 		"Basket": {
-			"name": "Cesta",
+			"name": "Cesta (Basket)",
 			"description": "<p>A basket holds 2 cubic feet or 40 pounds of gear.</p>"
 		},
 		"Battleaxe": {
-			"name": "Hacha de batalla",
+			"name": "Hacha de guerra (Battleaxe)",
 			"description": "<p>A stout crescent blade mounted on a thick shaft wrapped in a sturdy grip. This axe is large enough to be wielded with two hands and is adorned with spikes upon the back-side of the blade and the top of the shaft.</p>"
 		},
 		"Battleaxe +1": {
@@ -194,7 +194,7 @@
 			"description": "<p>Roll of cloth used by traveller to sleep in.</p>"
 		},
 		"Bell": {
-			"name": "Campana",
+			"name": "Campana (Bell)",
 			"description": "<p>A small bell for you to ring.</p>"
 		},
 		"Belt of Cloud Giant Strength": {
@@ -250,7 +250,7 @@
 			"description": "<p>Utilizado a menudo por ricos y religiosos para aromatizar el ambiente con fines placenteros o rituales.</p>"
 		},
 		"Blowgun": {
-			"name": "Cerbatana",
+			"name": "Cerbatana (Blowgun)",
 			"description": "<p>Un arma primitiva, pero mortal, muy utilizada por las tribus y los guerrilleros. Los dardos que se disparan con esta arma pueden clavarse y suministrar dosis letales de veneno.</p>"
 		},
 		"Blowgun +1": {
@@ -326,7 +326,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>While a fire burns in this brazier, you can use an action to speak the brazier's command word and summon a @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{Fire Elemental}, as if you had cast the <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental}</em> spell. The brazier can't be used this way again until the next dawn.</p>\n<p>The brazier weighs 5 pounds.</p>"
 		},
 		"Breastplate": {
-			"name": "Coraza",
+			"name": "Coraza (Breastplate)",
 			"description": "<p>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.</p>"
 		},
 		"Breastplate +1": {
@@ -362,7 +362,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.</p>\n<p>You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.</p>"
 		},
 		"Bucket": {
-			"name": "Cubeta",
+			"name": "Cubo (Bucket)",
 			"description": "<p>A bucket holds 3 gallons of liquid or ½ cubic foot of solids.</p>"
 		},
 		"Bullseye Lantern": {
@@ -374,11 +374,11 @@
 			"description": "<p>These special tools include the items needed to pursue a craft or trade in calligraphy.</p>\n<p>Proficiency with a set of artisan&rsquo;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&rsquo;s tools requires a separate proficiency.</p>"
 		},
 		"Caltrops": {
-			"name": "Abrojos",
+			"name": "Abrojos (Caltrops)",
 			"description": "<p>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</p>"
 		},
 		"Candle": {
-			"name": "Vela",
+			"name": "Vela (Candle)",
 			"description": "<p>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p>"
 		},
 		"Candle of Invocation": {
@@ -434,7 +434,7 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Chain Shirt": {
-			"name": "Camisote de mallas",
+			"name": "Camisa de malla (Chain Shirt)",
 			"description": "<p>La camisa de malla está hecha de anillos de metal entrelazados y se viste entre capas de tela o cuero. Esta armadura ofrece una protección razonable para el torso y es bastante silenciosa, pues el sonido de los anillos rozándose entre ellos es apagado por las capas más exteriores.</p>"
 		},
 		"Chain Shirt +1": {
@@ -454,11 +454,11 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Chalk": {
-			"name": "Tiza",
+			"name": "Tiza (Chalk)",
 			"description": "<p>Es una roca sedimentaria de acarbonato blanda y porosa, es decir, una especie de piedra caliza compuesta por el mineral calcita. Puede utilizarse para dibujar formas.</p>"
 		},
 		"Chest": {
-			"name": "Baúl",
+			"name": "Cofre (Chest)",
 			"description": "<p>Un cofre contiene 12 pies cúbicos o 300 libras de equipo.</p>"
 		},
 		"Chime of Opening": {
@@ -483,7 +483,7 @@
 		},
 		"Cloak of Elvenkind": {
 			"name": "Capa élfica (Cloak of Elvenkind)",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.</p>"
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves esta capa y tengas la capucha puesta, las pruebas de Sabiduría (Percepción) para verte sufrirán desventaja, mientras que tú tendrás ventaja en pruebas de Destreza (Sigilo) para esconderte, ya que el color de la capa varía para camuflarte. Es necesaria una acción para ponerte o quitarte la capucha.</p>"
 		},
 		"Cloak of Protection": {
 			"name": "Cloak of Protection",
@@ -498,7 +498,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet.</p>\n<p>Pulling the hood up or down requires an action.</p>"
 		},
 		"Club": {
-			"name": "Porra",
+			"name": "Garrote (Club)",
 			"description": "<p>A stout knob of wood forms a simple, but effective, cudgel. These weapons are used to bludgeon foes, bruising flesh and breaking bones.</p>"
 		},
 		"Club +1": {
@@ -534,7 +534,7 @@
 			"description": "<p>A complete costume usually used by performers and artists in all manner of entertainment halls or for those that simply refuse to get out of character.</p>"
 		},
 		"Crossbow Bolt": {
-			"name": "Virote de ballesta",
+			"name": "Virote de ballesta (Crossbow Bolt)",
 			"description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip.</p>"
 		},
 		"Crossbow Bolt +1": {
@@ -554,7 +554,7 @@
 			"description": "<p>This wooden case can hold up to twenty crossbow bolts.</p>"
 		},
 		"Crowbar": {
-			"name": "Palanqueta",
+			"name": "Palanqueta (Crowbar)",
 			"description": "<p>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</p>"
 		},
 		"Crystal": {
@@ -586,7 +586,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.</p>\n<p>You can use an action to press one side of the cube to cast the @Compendium[dnd5e.spells.XbwGq5kDJNvAxNXV]{Gate} spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the @Compendium[dnd5e.spells.J6Jpw5XzB5aTeqnz]{Plane Shift} spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.</p>\n<p>The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn.</p>"
 		},
 		"Dagger": {
-			"name": "Daga",
+			"name": "Daga (Dagger)",
 			"description": "<p>A short metal blade mounted to a small hilt and crossguard. The dagger makes an effective side armament for hardened warriors or a hidden blade for assassins and thieves.</p>"
 		},
 		"Dagger +1": {
@@ -626,7 +626,7 @@
 			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
 		},
 		"Dart": {
-			"name": "Dardo",
+			"name": "Dardo (Dart)",
 			"description": "<p>A small thrown implement crafted with a short wooden shaft and crossed feathres with a sharp wooden or metal tip. Darts can be thrown with sufficient force to puncture the skin.</p>"
 		},
 		"Dart +1": {
@@ -862,7 +862,7 @@
 			"description": "<p>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.</p>"
 		},
 		"Flail": {
-			"name": "Mayal",
+			"name": "Flagelo (Flail)",
 			"description": "<p>A set of chain-linked spiked balls lashed to a stout wooden shaft. The flail deals devastating damage when whirled in a deadly arc.</p>"
 		},
 		"Flail +1": {
@@ -898,7 +898,7 @@
 			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
 		},
 		"Flask": {
-			"name": "Matraz",
+			"name": "Frasco (Flask)",
 			"description": "<p>A flask holds 1 pint of liquid.</p>"
 		},
 		"Flask of Holy Water": {
@@ -1038,11 +1038,11 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.</p>"
 		},
 		"Grappling Hook": {
-			"name": "Gancho",
+			"name": "Garfio de escalada (Grappling Hook)",
 			"description": "<p>A device with iron claws, can be used with rope for dragging or grasping.</p>"
 		},
 		"Greataxe": {
-			"name": "Gran hacha",
+			"name": "Hacha a dos manos (Greataxe)",
 			"description": "<p>This enormous axe features two twin crescent blades mounted on either side of a tall spiked shaft. Designed to be wielded with two hands and cleave foes in twain.</p>"
 		},
 		"Greataxe +1": {
@@ -1058,7 +1058,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Greatclub": {
-			"name": "Gran Clava",
+			"name": "Garrote grande (Greatclub)",
 			"description": "<p>A larger variant of the simple club, a hefty wooden shaft with an enormous knot of wood upon the end deals crippling bludgeoning damage to unfortunate foes.</p>"
 		},
 		"Greatclub +1": {
@@ -1074,7 +1074,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Greatsword": {
-			"name": "Gran espada",
+			"name": "Espadón (Greatsword)",
 			"description": "<p>A mighty two-handed blade is over four feet long an almost five inches wide. This weapon requires extensive martial training but those proficient in its use are formidable warriors.</p>"
 		},
 		"Greatsword +1": {
@@ -1102,7 +1102,7 @@
 			"description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
 		},
 		"Halberd": {
-			"name": "Alabarda",
+			"name": "Alabarda (Halberd)",
 			"description": "<p>A spear-tipped metal shaft accompanied by a crescent blade, the halberd is a strong defensive weapon which allows a warrior to fend off foes using the reach of the shaft to attack from safe distance.</p>"
 		},
 		"Halberd +1": {
@@ -1138,7 +1138,7 @@
 			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Hammer": {
-			"name": "Martillo",
+			"name": "Martillo (Hammer)",
 			"description": "<p>A tool with heavy metal head mounted ar the right angles at the end of a handle, used for job such as breaking things and driving in nails. </p>"
 		},
 		"Hammer of Thunderbolts": {
@@ -1146,7 +1146,7 @@
 			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon (maul).</p>\n<p><strong>Giant's Bane</strong> (<em>requires attunement</em>)</p>\n<p>You must be wearing a Belt of Giant Strength (any variety) and Gauntlets of Ogre Power to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30.</p>\n<p>When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.</p>\n<p>The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn.</p>"
 		},
 		"Hand Crossbow": {
-			"name": "Ballesta de mano",
+			"name": "Ballesta de mano (Hand Crossbow)",
 			"description": "<p>A lightweight crossbow designed to be held in one hand or strapped to one's wrist to fire light bolts.</p>"
 		},
 		"Hand Crossbow +1": {
@@ -1162,7 +1162,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Handaxe": {
-			"name": "Hacha de mano",
+			"name": "Hacha de mano (Handaxe)",
 			"description": "<p>This one-handed axe is light and balanced for throwing while remaining useful in hand combat.</p>"
 		},
 		"Handaxe +1": {
@@ -1194,7 +1194,7 @@
 			"description": "<p>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</p>"
 		},
 		"Heavy Crossbow": {
-			"name": "Ballesta pesada",
+			"name": "Ballesta pesada (Heavy Crossbow)",
 			"description": "<p>A large crossbow mounted on a sturdy block of wood which is loaded using a hand crank and fires thick steel bolts with deadly acceleration that punches through armor and flesh.</p>"
 		},
 		"Heavy Crossbow +1": {
@@ -1234,7 +1234,7 @@
 			"description": "<p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</p>"
 		},
 		"Hide Armor": {
-			"name": "Armadura de pieles",
+			"name": "Armadura de pieles (Hide Armor)",
 			"description": "<p>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.</p>"
 		},
 		"Hide Armor +1": {
@@ -1294,7 +1294,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above non-solid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.</p>"
 		},
 		"Hourglass": {
-			"name": "Reloj de arena",
+			"name": "Reloj de arena (Hourglass)",
 			"description": "<p>It is a device used to measure the psaage of time. It comprises two glass bulbs connected vertically by a narrow neck that allows a regulated trickle of sand from the upper bulb to the lower one.</p>"
 		},
 		"Hunting Trap": {
@@ -1394,7 +1394,7 @@
 			"description": "<p>A spike of 10 inches long made of iron. Can be improvised to block doors. Usually sold in bundles of 10.</p>"
 		},
 		"Javelin": {
-			"name": "Jabalina",
+			"name": "Jabalina (Javelin)",
 			"description": "<p>This light and flexible spear is designed for throwing, but is versatile enough to be used in melee combat as well.</p>"
 		},
 		"Javelin +1": {
@@ -1450,7 +1450,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.</p>"
 		},
 		"Leather Armor": {
-			"name": "Armadura de cuero",
+			"name": "Armadura de cuero (Leather Armor)",
 			"description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>"
 		},
 		"Leather Armor +1": {
@@ -1474,7 +1474,7 @@
 			"description": "<p>These special tools include the items needed to pursue a craft or trade in leatherworking.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
 		},
 		"Light Crossbow": {
-			"name": "Ballesta ligera",
+			"name": "Ballesta ligera (Light Crossbow)",
 			"description": "<p>A small crossbow with a wooden haft and a tense cord which is capable of firing a single bolt which can puncture even heavy armor at close range.</p>"
 		},
 		"Light Crossbow +1": {
@@ -1490,7 +1490,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Light Hammer": {
-			"name": "Martillo ligero",
+			"name": "Martillo ligero (Light Hammer)",
 			"description": "<p>This sturdy hammer is small enough to be nimbly wielded or used in combination with another weapon.</p>"
 		},
 		"Light Hammer +1": {
@@ -1510,7 +1510,7 @@
 			"description": "<p>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.</p>"
 		},
 		"Longbow": {
-			"name": "Arco",
+			"name": "Arco largo (Longbow)",
 			"description": "<p>A thick shaft of laminated wood is bowed by a taut string capable of launching deadly arrows at long distances.</p>"
 		},
 		"Longbow +1": {
@@ -1526,7 +1526,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Longsword": {
-			"name": "Espada larga",
+			"name": "Espada larga (Longsword)",
 			"description": "<p>A lengthy stright blade designed for slashing foes, the longsword is a highly versatile weapon that may also be wielded with two hands for more punishing strikes.</p>"
 		},
 		"Longsword +1": {
@@ -1614,7 +1614,7 @@
 			"description": "<p>This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.</p>"
 		},
 		"Manacles": {
-			"name": "Grilletes",
+			"name": "Esposas (Manacles)",
 			"description": "<p>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.</p>"
 		},
 		"Mantle of Spell Resistance": {
@@ -1714,7 +1714,7 @@
 			"description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
 		},
 		"Morningstar": {
-			"name": "Estrella de la mañana",
+			"name": "Lucero del alba (Morningstar)",
 			"description": "<p>A viciously spiked metal orb mounted upon the end of a stout haft makes for a deadly weapon which can puncture armor and flesh alike.</p>"
 		},
 		"Morningstar +1": {
@@ -1750,7 +1750,7 @@
 			"description": "<p><em>Wondrous item, (requires attunement by a cleric, druid, or paladin)</em></p>\n<p>This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.</p>\n<p>Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d20</strong></td>\n<td><strong>Bead of...</strong></td>\n<td><strong>Spell</strong></td>\n<td><strong>Guide Price per Bead (gp)</strong></td>\n</tr>\n<tr>\n<td>1-6</td>\n<td>Blessing</td>\n<td>@Compendium[dnd5e.spells.8dzaICjGy6mTUaUr]{Bless}</td>\n<td>2,000</td>\n</tr>\n<tr>\n<td>7-12</td>\n<td>Curing</td>\n<td>@Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Cure Wounds}  (2nd level) or  @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Lesser Restoration}</td>\n<td>4,000</td>\n</tr>\n<tr>\n<td>13-16</td>\n<td>Favor</td>\n<td>@Compendium[dnd5e.spells.WzvJ7G3cqvIubsLk]{Greater Restoration}</td>\n<td>32,000</td>\n</tr>\n<tr>\n<td>17-18</td>\n<td>Smiting</td>\n<td>@Compendium[dnd5e.spells.7UwUjJ6owIQkEPrs]{Branding Smite}</td>\n<td>1,500</td>\n</tr>\n<tr>\n<td>19</td>\n<td>Summons</td>\n<td>@Compendium[dnd5e.spells.fkREcytuZ8sngWtC]{Planar Ally}</td>\n<td>128,000</td>\n</tr>\n<tr>\n<td>20</td>\n<td>Wind Walking</td>\n<td>@Compendium[dnd5e.spells.8PJAsHmbu6UgDHC0]{Wind Walk}</td>\n<td>96,000</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Foundry note: the 6 charges reflect the maximum number of beads able to be found; please adjust as required. </em></p>\n<p><em>Additionally, the guide price is a guide only and should be adjusted accordingly to reflect the Dungeon Master's world.</em></p>"
 		},
 		"Net": {
-			"name": "Red",
+			"name": "Red (Net)",
 			"description": "<p>These thickly woven fibers are reinforced for use in combat to entrap and entangle even the most dangerous foes, rendering them vulnerable for assault with other weaponry.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>"
 		},
 		"Net +1": {
@@ -1814,7 +1814,7 @@
 			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>Ages past, elves and humans waged a terrible war against evil dragons. When the world seemed doomed, powerful wizards came together and worked their greatest magic, forging five Orbs of Dragonkind (or Dragon Orbs) to help them defeat the dragons. One orb was taken to each of the five wizard towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.</p>\n<p>As the wizard towers fell in later ages, the orbs were destroyed or faded into legend, and only three are thought to survive. Their magic has been warped and twisted over the centuries, so although their primary purpose of calling dragons still functions, they also allow some measure of control over dragons.</p>\n<p>Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax magic from it. Those lacking in force of personality might find themselves enslaved to an orb.</p>\n<p>An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.</p>\n<p>While attuned to an orb, you can use an action to peer into the orb's depths and speak its command word. You must then make a DC 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become charmed by the orb for as long as you remain attuned to it.</p>\n<p>While you are charmed by the orb, you can't voluntarily end your attunement to it, and the orb casts @Compendium[dnd5e.spells.zMAWdyc8UVb37BK4]{Suggestion} on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Tiamat, or something else the GM decides.</p>\n<h3 id=\"random-properties\"><strong>Random Properties</strong>. An Orb of Dragonkind has the following random properties (see DMG pg. 219-21): </h3>\n<ul>\n<li>2 minor beneficial properties </li>\n<li>1 minor detrimental property</li>\n<li>1 major detrimental property</li>\n</ul>\n<h3 id=\"spells\"><strong>Spells</strong>. The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: </h3>\n<ul>\n<li>@Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Cure Wounds} (5th-level version, 3 charges)</li>\n<li>@Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Daylight} (1 charge)</li>\n<li>@Compendium[dnd5e.spells.VtCXMdyM6mAdIJZb]{Death Ward} (2 charges)</li>\n<li>@Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Scrying} (3 charges).</li>\n<li>You can also use an action to cast the @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detect Magic} spell from the orb without using any charges.</li>\n</ul>\n<p><strong>Call Dragons</strong>. While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.</p>\n<p><strong>Destroying an Orb</strong>. An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A @Compendium[dnd5e.spells.HBHbOGKNVVprSlwn]{Disintegrate} spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.</p>"
 		},
 		"Padded Armor": {
-			"name": "Armadura acolchada",
+			"name": "Armadura acolchada (Padded Armor)",
 			"description": "<p>Padded armor consists of quilted layers of cloth and batting. Padded armor offers a comparable level of protection as stiffened leather but is somewhat less encumbering to the wearer.</p>"
 		},
 		"Padded Armor +1": {
@@ -1842,11 +1842,11 @@
 			"description": "<p>A set of panpipes to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
 		},
 		"Paper": {
-			"name": "Papel",
+			"name": "Papel (Paper)",
 			"description": "<p>A single sheet of paper.</p>"
 		},
 		"Parchment": {
-			"name": "Pergamino",
+			"name": "Pergamino (Parchment)",
 			"description": "<p>A single sheet of heavier parchment paper.</p>"
 		},
 		"Pearl of Power": {
@@ -1902,7 +1902,7 @@
 			"description": "<p>A pitcher holds 1 gallon of liquid.</p>"
 		},
 		"Piton": {
-			"name": "Pitón",
+			"name": "Pitón (Piton)",
 			"description": "<p>A metal spike that is drive into a seam in a climbing surface with a climbing hammer. It can also be used like iron spikes to block doors in a pinch.</p>"
 		},
 		"Plate Armor": {
@@ -2094,7 +2094,7 @@
 			"description": "<p>An aid for the faithful, this cylinder can be turned on a spindle made of metal, wood, bone, stone, leather, or coarse cotton as the user follows mantra or cantation carved or inlaid upon it. </p>"
 		},
 		"Quarterstaff": {
-			"name": "Bastón",
+			"name": "Bastón (Quarterstaff)",
 			"description": "<p>A thick shaft of wood wrapped with a sturdy grip makes a highly functional weapon in addition to a stout walking stick.</p>"
 		},
 		"Quarterstaff +1": {
@@ -2114,7 +2114,7 @@
 			"description": "<p>A quiver can hold up to 20 arrows.</p>"
 		},
 		"Rapier": {
-			"name": "Estoque",
+			"name": "Estoque (Rapier)",
 			"description": "<p>A thin tensile metal blade, light in weight but long in reach designed for quick darting attacks to target weak points in enemy defenses with lightning swiftness.</p>"
 		},
 		"Rapier +1": {
@@ -2362,12 +2362,12 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>This rope is 30 feet long and weighs 3 pounds. If you hold one end of the rope and use an action to speak its command word, the other end darts forward to entangle a creature you can see within 20 feet of you. The target must succeed on a DC 15 Dexterity saving throw or become restrained.</p>"
 		},
 		"Sack": {
-			"name": "Saco",
+			"name": "Saco (Sack)",
 			"description": "<p>A sack can hold up to 1 cubic foot or 30 pounds of gear.</p>"
 		},
 		"Scale Mail": {
-			"name": "Cota de escamas",
-			"description": "<p>esta armadura consiste en una cota y grebas de cuero (y quizá un faldar separado) cubiertas con piezas de metal superpuestas, a\nmodo de escamas de pez. Incluye guanteletes</p>"
+			"name": "Cota de escamas (Scale Mail)",
+			"description": "<p>Esta armadura está compuesta de un chaquetón y unas perneras (y a veces una falda aparte) de cuero cubiertos de trozos de metal superpuestos, parecidos a las escamas de un pez. Esta cota incluye guanteletes.</p>"
 		},
 		"Scale Mail +1": {
 			"name": "Scale Mail +1",
@@ -2390,7 +2390,7 @@
 			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:</p>\n<ul>\n<li>You have advantage on saving throws against spells.</li>\n<li>The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.</li>\n</ul>"
 		},
 		"Scimitar": {
-			"name": "Cimitarra",
+			"name": "Cimitarra (Scimitar)",
 			"description": "<p>This curved blade is wide near the wrapped handle but arcs and tapers towards a gleaming tip.</p>"
 		},
 		"Scimitar +1": {
@@ -2430,7 +2430,7 @@
 			"description": "<p>A shawm to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
 		},
 		"Shield": {
-			"name": "Escudo",
+			"name": "Escudo (Shield)",
 			"description": "<p>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</p>"
 		},
 		"Shield +1": {
@@ -2450,7 +2450,7 @@
 			"description": "<p><em>(Requires attunement)</em></p>\n<p>While holding this shield, you have resistance to damage from ranged weapon attacks.</p>\n<p><strong>Curse</strong>. This shield is cursed. Attuning to it curses you until you are targeted by the @Compendium[dnd5e.spells.XZhdgVK3cLoxNCQl]{Remove Curse} spell or similar magic. Removing the shield fails to end the curse on you. Whenever a ranged weapon attack is made against a target within 10 feet of you, the curse causes you to become the target instead.</p>"
 		},
 		"Shortbow": {
-			"name": "Arco corto",
+			"name": "Arco corto (Shortbow)",
 			"description": "<p>This two handed bow is somewhat smaller than the traditional longbow variant, making it well suited for rapid attacks while on the move or mounted from horseback.</p>"
 		},
 		"Shortbow +1": {
@@ -2466,7 +2466,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Shortsword": {
-			"name": "Espada corta",
+			"name": "Espada corta (Shortsword)",
 			"description": "<p>A medium sized blade with a firm crossguard and a leather-wrapped handle. A versatile weapon which makes up in versatility what it lacks in reach.</p>"
 		},
 		"Shortsword +1": {
@@ -2494,7 +2494,7 @@
 			"description": "<p>A tool resembling a spade with a broad blade and typically upturned sides, used for moving coals, earth, snow or other material.</p>"
 		},
 		"Sickle": {
-			"name": "Hoz",
+			"name": "Hoz (Sickle)",
 			"description": "<p>A crescent hooked blade mounted atop a short haft, light enough to be wielded in one hand for treshing crops or foes.</p>"
 		},
 		"Sickle +1": {
@@ -2530,7 +2530,7 @@
 			"description": "<p>A tool with a large, flat, often metal head, attached to a long handle. </p>"
 		},
 		"Sling": {
-			"name": "Honda",
+			"name": "Honda (Sling)",
 			"description": "<p>A flexible lash of leather affixed to a wooden handle which is capable of flinging rocks or metal bullets with deadly velocity.</p>"
 		},
 		"Sling +1": {
@@ -2546,7 +2546,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Sling Bullet": {
-			"name": "Bala de honda",
+			"name": "Bala de honda (Sling Bullet)",
 			"description": "<p>A hardened pebble of stone, bone, or metal which can be flung at high velocity using a sling.</p>\n<p><em>**Foundry note: It will usually be impossible to buy one sling bullet because they are worth less than a copper piece (5 bullets = 1 cp).</em></p>"
 		},
 		"Sling Bullet +1": {
@@ -2578,7 +2578,7 @@
 			"description": "<p>These special tools include the items needed to pursue a craft or trade in smithing.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
 		},
 		"Soap": {
-			"name": "Jabón",
+			"name": "Jabón (Soap)",
 			"description": "<p>Used to clean and wash.</p>"
 		},
 		"Sovereign Glue": {
@@ -2586,7 +2586,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, a container contains 1d6 + 1 ounces.</p>\n<p>One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of universal solvent or oil of etherealness, or with a @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell.</p>\n<p><em>Foundry note: the 7 charges reflect the maximum amount a character can find. Please adjust as required.</em></p>"
 		},
 		"Spear": {
-			"name": "Lanza",
+			"name": "Lanza (Spear)",
 			"description": "<p>A gleaming steel point mouted atop a stout wooden haft, the spear may be wielded in one hand or two and can puncture through the heaviest armor with deadly force.</p>"
 		},
 		"Spear +1": {
@@ -2642,7 +2642,7 @@
 			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 10. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 13<br><strong>Attack Bonus</strong>: +5.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
 		},
 		"Spellbook": {
-			"name": "Libro de conjuros",
+			"name": "Libro de conjuros (Spellbook)",
 			"description": "<p>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.</p>\n<p> </p>"
 		},
 		"Spellguard Shield": {
@@ -2678,7 +2678,7 @@
 			"description": "<p>A hardy sprig of mistletoe, holly, or some other sacred leaf, picked from a tree whose roots are sunken deep into a ley line. Those who heed nature's call are able to harness this connection to call forth the incredible power of nature.</p>\n<p><strong>Spellcasting Focus</strong>. A druidic focus is a special item designed to channel the power of spells from the druid's spell list. A druid can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
 		},
 		"Spyglass": {
-			"name": "Catalejo",
+			"name": "Catalejo (Spyglass)",
 			"description": "<p>Objects viewed through a spyglass are magnified to twice their size.</p>\n<p> </p>"
 		},
 		"Staff": {
@@ -2750,7 +2750,7 @@
 			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.</p>"
 		},
 		"Studded Leather Armor": {
-			"name": "Armadura de cuero tachonado",
+			"name": "Armadura de cuero tachonado (Studded Leather Armor)",
 			"description": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>"
 		},
 		"Studded Leather Armor +1": {
@@ -2814,7 +2814,7 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>This book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</p>"
 		},
 		"Torch": {
-			"name": "Antorcha",
+			"name": "Antorcha (Torch)",
 			"description": "<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</p>"
 		},
 		"Totem": {
@@ -2826,7 +2826,7 @@
 			"description": "<p>A set of clothes worn by travellers.</p>"
 		},
 		"Trident": {
-			"name": "Tridente",
+			"name": "Tridente (Trident)",
 			"description": "<p>A multi-pronged spear designed to impale a target in multiple locations, pinning them in place. Often used in combination with a net to entrap and harass foes.</p>"
 		},
 		"Trident +1": {
@@ -2854,11 +2854,11 @@
 			"description": "<p>A simple and portable canvas shelter, a tent sleeps two.</p>"
 		},
 		"Unarmed Strike": {
-			"name": "Golpe desarmado",
+			"name": "Golpe desarmado (Unarmed Strike)",
 			"description": "<p>A  punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.</p>"
 		},
 		"Unarmed Strike (Monk)": {
-			"name": "Impacto sin arma (Monje)",
+			"name": "Golpe desarmado del Monje (Unarmed Strike (Monk))",
 			"description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes.</p>\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:</p>\n<p>• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes</p>\n<p>• You can roll a d4 in place of the normal damage of your unarmed strike. This die changes as you gain monk levels, as shown in the Martial Arts column in the table below.</p>\n<p>• When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Monk Level</strong></td>\n<td><strong>Martial Arts</strong></td>\n</tr>\n<tr>\n<td>1st - 4th</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5th - 10th</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11th - 16th</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17th - 20th</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Foundry note: Note the damage die is set to the base default of 1d4. Please manually adjust as required.</em></p>"
 		},
 		"Universal Solvent": {
@@ -3114,7 +3114,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Warhammer": {
-			"name": "Martillo de guerra",
+			"name": "Martillo de guerra (Warhammer)",
 			"description": "<p>A heavy metal hammer capable of being wielded with a single hand with a shield or in two hands to deliver crushing concussive blows.</p>"
 		},
 		"Warhammer +1": {
@@ -3130,7 +3130,7 @@
 			"description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
 		},
 		"Waterskin": {
-			"name": "Cantimplora",
+			"name": "Cantimplora (Waterskin)",
 			"description": "<p>A leather hide sewn into an enclosed skin which can contain up to 4 pints of liquid. It weighs 5 pounds when full; a pint of water is approximately 1 pound.</p>"
 		},
 		"Weaver's Tools": {
@@ -3142,11 +3142,11 @@
 			"description": "<p><em>Wondrous item</em></p>\n<p>This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.</p>\n<p>You can use an action to unfold and place the Well of Many Worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the GM decides where it leads. You can use an action to close an open portal by taking hold of the edges of the cloth and folding it up. Once a Well of Many Worlds has opened a portal, it can't do so again for 1d8 hours.</p>"
 		},
 		"Whetstone": {
-			"name": "Piedra de afilar",
+			"name": "Piedra de afilar (Whetstone)",
 			"description": "<p>Whetstone is a sharpening stone. It is used to sharpen the edges of steel tools and implements through grinding and honing.</p>"
 		},
 		"Whip": {
-			"name": "Látigo",
+			"name": "Látigo (Whip)",
 			"description": "<p>A tensile lash made of leather, cord, or chain which can lash out at nearby enemies, dealing lacerations and harrying them from a distance.</p>"
 		},
 		"Whip +1": {
