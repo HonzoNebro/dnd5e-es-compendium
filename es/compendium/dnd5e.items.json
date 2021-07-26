@@ -2,52 +2,52 @@
 	"label": "Equipo (SRD)",
 	"entries": {
 		"Abacus": {
-			"name": "Abacus",
-			"description": "<p>The abacus, also called a counting frame, is a calculating tool.</p>"
+			"name": "Ábaco (Abacus)",
+			"description": "<p>El ábaco, también llamado marco de conteo, es una herramienta de cálculo.</p>"
 		},
 		"Acid (vial)": {
-			"name": "Acid (vial)",
-			"description": "<p>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.</p>"
+			"name": "Ácido - vial (Acid vial)",
+			"description": "<p>Como acción, puedes esparcir el contenido de este vial sobre una criatura que se encuentre a un máximo de 5 pies no lanzarlo hasta a 20 pies, rompiéndose el vial con el impacto. En ambos casos, haz un ataque a distancia contra la criatura o el objeto, tratando el ácido como un arma improvisada: si tienes éxito, el objetivo recibirá 2d6 de daño de ácido.</p>"
 		},
 		"Adamantine Breastplate": {
-			"name": "Adamantine Breastplate",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Coraza adamantina (Adamantine Breastplate)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Chain Mail": {
-			"name": "Adamantine Chain Mail",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Cota de malla adamantina (Adamantine Chain Mail)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Chain Shirt": {
-			"name": "Adamantine Chain Shirt",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Camisa de malla adamantina (Adamantine Chain Shirt)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Half Plate Armor": {
-			"name": "Adamantine Half Plate Armor",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Media armadura adamantina (Adamantine Half Plate Armor)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Plate Armor": {
-			"name": "Adamantine Plate Armor",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Armadura de placas adamantina (Adamantine Plate Armor)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Ring Mail": {
-			"name": "Adamantine Ring Mail",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Cota guarnecida adamantina (Adamantine Ring Mail)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Scale Mail": {
-			"name": "Adamantine Scale Mail",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Cota de escamas adamantina (Adamantine Scale Mail)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Splint Armor": {
-			"name": "Adamantine Splint Armor",
-			"description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
+			"name": "Armadura de bandas adamantina (Adamantine Splint Armor)",
+			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Alchemist's Fire": {
-			"name": "Alchemist's Fire",
-			"description": "<p>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</p>"
+			"name": "Fuego de alquimista (Alchemist's Fire)",
+			"description": "<p>Este fluido pegajoso y adherente prende al entrar en contacto con el aire. Como acción, puedes lanzar este frasco hasta a 20 pies, rompiéndose con el impacto. Haz un ataque a distancia contra la criatura o el objeto, tratando el fuego de alquimista como un arma improvisada: si tienes éxito, el objetivo recibirá 1d4 de daño de fuego al comienzo de cada uno de sus turnos. Una criatura puede utilizar su acción para extinguir las llamas y evitar que se siga produciendo este daño. Deberá superar una prueba de Destreza CD 10 para lograrlo.</p>"
 		},
 		"Alchemist's supplies": {
-			"name": "Alchemist's supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in alchemy.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+			"name": "Suministros de alquimista (Alchemist's supplies)",
+			"description": "<p> Estas herramientas especiales incluyen los elementos necesarios para perseguir un oficio o intercambiar alquimia. </p>\n<p> La competencia con un conjunto de herramientas de artesanos te permite agregar su bonificación de competencia a cualquier verificación de habilidad que realice utilizando las herramientas en dicho oficio. Cada tipo de herramientas artesanales requiere una competencia separada. </p>"
 		},
 		"Alchemy Jug": {
 			"name": "Alchemy Jug",
