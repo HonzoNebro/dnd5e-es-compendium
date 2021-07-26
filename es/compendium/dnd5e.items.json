@@ -103,11 +103,11 @@
 		},
 		"Arrow +3": {
 			"name": "Flecha +3 (Arrow +3)",
-			"description": "<p>Ammunition used for bows of all varieties.  It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+			"description": "<p>Munición utilizada por arcos de cualquier tipo. Se ha imbuido con magia.</p>\n<p>Tienes un bonificador a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Arrow of Slaying": {
-			"name": "Arrow of Slaying",
-			"description": "<p>An arrow of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both arrows of dragon slaying and arrows of blue dragon slaying. If a creature belonging to the type, race, or group associated with an arrow of slaying takes damage from the arrow, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.<br />Once an arrow of slaying deals its extra damage to a creature, it becomes a nonmagical arrow.</p>"
+			"name": "Flecha asesina (Arrow of Slaying)",
+			"description": "<p>Una flecha asesina es un arma mágica pensada para matar a un tipo concreto de criatura. Algunas son más específicas que otras. Por ejemplo, hay tanto flechas asesinas de dragones como flechas asesinas de dragones azules. Si una criatura perteneciente al tipo, raza o grupo asociado con una flecha asesina recibe daño de ella, deberá hacer una tirada de salvación de Constitución CD 17. Recibirá 6d10 de daño perforante adicional si falla la tirada o la mitad de ese daño si tiene éxito.<br />En cuanto una flecha asesina inflige su daño adicional a una criatura, se convierte en una flecha no mágica.</p>"
 		},
 		"Arrow-Catching Shield": {
 			"name": "Arrow-Catching Shield",
@@ -2854,11 +2854,11 @@
 			"description": "<p>A simple and portable canvas shelter, a tent sleeps two.</p>"
 		},
 		"Unarmed Strike": {
-			"name": "Golpe desarmado (Unarmed Strike)",
+			"name": "Ataque sin armas (Unarmed Strike)",
 			"description": "<p>A  punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.</p>"
 		},
 		"Unarmed Strike (Monk)": {
-			"name": "Golpe desarmado del Monje (Unarmed Strike (Monk))",
+			"name": "Ataque sin armas del Monje (Unarmed Strike (Monk))",
 			"description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes.</p>\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:</p>\n<p>• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes</p>\n<p>• You can roll a d4 in place of the normal damage of your unarmed strike. This die changes as you gain monk levels, as shown in the Martial Arts column in the table below.</p>\n<p>• When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Monk Level</strong></td>\n<td><strong>Martial Arts</strong></td>\n</tr>\n<tr>\n<td>1st - 4th</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5th - 10th</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11th - 16th</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17th - 20th</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Foundry note: Note the damage die is set to the base default of 1d4. Please manually adjust as required.</em></p>"
 		},
 		"Universal Solvent": {
