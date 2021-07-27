@@ -355,74 +355,74 @@
 		},
 		"Brooch of Shielding": {
 			"name": "Broche escudo (Brooch of Shielding)",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the <em>@Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Magic Missile}</em> spell.</p>"
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves prendido este broche, tienes resistencia al daño de fuerza e inmunidad al daño del conjuro <em>@Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Proyectil mágico}</em>.</p>"
 		},
 		"Broom of Flying": {
-			"name": "Broom of Flying",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.</p>\n<p>You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you.</p>"
+			"name": "Escoba voladora (Broom of Flying)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta escoba de madera, que pesa 3 libras, funcionará como una escoba normal hasta que te montes en ella y pronuncies su palabra de activación. Después, levitará y podrás utilizarla para viajar por el aire. Tiene una velocidad volando de 50 pies. Puede llevar hasta 400 libras, pero su velocidad volando baja a 30 pies si lleva más de 200 libras. La escoba deja de levitar cuando aterrices.</p>\n<p>Puedes ordenar a la escoba que viaje por sí misma a una localización que se encuentre a 1 milla de distancia si pronuncias la palabra de activación, nombras el lugar y estás familiarizado con el sitio en cuestión. Si sigue estando a 1 milla de distancia, la escoba volverá si pronuncias otra palabra de activación.</p>"
 		},
 		"Bucket": {
 			"name": "Cubo (Bucket)",
-			"description": "<p>A bucket holds 3 gallons of liquid or ½ cubic foot of solids.</p>"
+			"description": "<p>Un cubo puede contener 3 galones de líquido o ½ pie cúbico de sólidos.</p>"
 		},
 		"Bullseye Lantern": {
-			"name": "Bullseye Lantern",
-			"description": "<p>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</p>"
+			"name": "Linterna ojo de buey (Bullseye Lantern)",
+			"description": "<p>Esta linterna emite luz brillante en un cono de 60 pies y luz tenue 60 pies más allá. Puede estar encendida hasta 6 horas con un frasco (1 pinta, 0,45 l) de aceite.</p>"
 		},
 		"Calligrapher's Supplies": {
-			"name": "Calligrapher's Supplies",
+			"name": "Suministros de calígrafo (Calligrapher's Supplies)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un calígrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Caltrops": {
 			"name": "Abrojos (Caltrops)",
-			"description": "<p>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</p>"
+			"description": "<p>Puedes usar tu acción para esparcir una bolsa de abrojos sobre una superficie, cubriendo un cuadrado de 5 pies de lado. Una criatura que entre en la zona afectada deberá superar una tirada de salvación de Destreza CD 15 o no podrá moverse más este turno y sufrirá 1 de daño perforante. De recibir este daño, la velocidad caminando de la criatura se reducirá en 10 pies hasta que esta recupere al menos 1 punto de golpe. Sin embargo, si una criatura se desplaza por la zona a la mitad de su velocidad, no tendrá que superar la tirada de salvación.</p>"
 		},
 		"Candle": {
 			"name": "Vela (Candle)",
-			"description": "<p>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p>"
+			"description": "<p>Emite luz brillante en un radio de 5 pies y luz tenue 5 pies más allá durante 1 hora.</p>"
 		},
 		"Candle of Invocation": {
-			"name": "Candle of Invocation",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the Detect Evil and Good spell. The GM chooses the god and associated alignment or determines the alignment randomly.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d20</strong></td>\n<td><strong>Alignment</strong></td>\n</tr>\n<tr>\n<td>1-2</td>\n<td>Chaotic evil</td>\n</tr>\n<tr>\n<td>3-4</td>\n<td>Chaotic neutral</td>\n</tr>\n<tr>\n<td>5-7</td>\n<td>Chaotic good</td>\n</tr>\n<tr>\n<td>8-9</td>\n<td>Neutral evil</td>\n</tr>\n<tr>\n<td>10-11</td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td>12-13</td>\n<td>Neutral good</td>\n</tr>\n<tr>\n<td>14-15</td>\n<td>Lawful evil</td>\n</tr>\n<tr>\n<td>16-17</td>\n<td>Lawful neutral</td>\n</tr>\n<tr>\n<td>18-20</td>\n<td>Lawful good</td>\n</tr>\n</tbody>\n</table>\n<p>The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.</p>\n<p>While lit, the candle sheds dim light in a 30-foot radius. Any creature within that light whose alignment matches that of the candle makes attack rolls, saving throws, and ability checks with advantage. In addition, a cleric or druid in the light whose alignment matches the candle's can cast 1st- level spells he or she has prepared without expending spell slots, though the spell's effect is as if cast with a 1st-level slot.</p>\n<p>Alternatively, when you light the candle for the first time, you can cast the <em>@Compendium[dnd5e.spells.XbwGq5kDJNvAxNXV]{Gate}</em>spell with it. Doing so destroys the candle.</p>"
+			"name": "Vela de invocación (Candle of Invocation)",
+			"description": "<p><em>Objeto maravilloso (requiere sintonización)</em></p>\n<p>Esta candela delgada está dedicada a una deidad en concreto, por lo que comparte alineamiento con ella. Este último puede ser detectado con el conjuro detectar el bien y el mal. El DM elige el dios y el alineamiento asociado o lo determina al azar.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d20</strong></td>\n<td><strong>Alineamiento</strong></td>\n</tr>\n<tr>\n<td>1-2</td>\n<td>Caótico malvado</td>\n</tr>\n<tr>\n<td>3-4</td>\n<td>Caótico neutral</td>\n</tr>\n<tr>\n<td>5-7</td>\n<td>Caótico bueno</td>\n</tr>\n<tr>\n<td>8-9</td>\n<td>Neutral malvado</td>\n</tr>\n<tr>\n<td>10-11</td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td>12-13</td>\n<td>Neutral bueno</td>\n</tr>\n<tr>\n<td>14-15</td>\n<td>Legal malvado</td>\n</tr>\n<tr>\n<td>16-17</td>\n<td>Legal neutral</td>\n</tr>\n<tr>\n<td>18-20</td>\n<td>Legal bueno</td>\n</tr>\n</tbody>\n</table>\n<p>La magia de la vela se activa al encenderla, lo que requiere una acción. Después de arder durante 4 horas, es destruida. Puedes a pagarla antes de que pase este tiempo para seguir usándola después. Resta el tiempo que ha ardido del total, en intervalos de 1 minuto.</p>\n<p>Mientras permanezca encendida, la vela producirá luz tenue en un radio de 30 pies. Cualquier criatura dentro de esta luz cuyo alineamiento coincida con el de la vela realizará las tiradas de ataque, salvación y pruebas de característica con ventaja. Además, un clérigo o druida dentro de la luz y cuyo alineamiento coincida con el de la vela podrá lanzar conjuros de nivel 1 que tenga preparados sin gastar espacios de conjuro. El efecto de estos conjuros será el mismo que si se hubieran lanzado con un espacio de conjuro de nivel 1.</p>\n<p>De forma alternativa, la primera vez que enciendas la vela puedes utilizarla para lanzar el conjuro <em>@Compendium[dnd5e.spells.XbwGq5kDJNvAxNXV]{Portal}</em>. Hacer esto destruye la vela</p>"
 		},
 		"Cape of the Mountebank": {
-			"name": "Cape of the Mountebank",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This cape smells faintly of brimstone. While wearing it, you can use it to cast the @Compendium[dnd5e.spells.A4RsPuSvB9wFtz1j]{Dimension Door} spell as an action. This property of the cape can't be used again until the next dawn.</p>\n<p>When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.</p>"
+			"name": "Capa del charlatán (Cape of the Mountebank)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta capa tiene un ligero aroma a azufre. Mientras la lleves, puedes usar una acción para lanzar el conjuro @Compendium[dnd5e.spells.A4RsPuSvB9wFtz1j]{Puerta dimensional}. Esta propiedad de la capa no puede volver a emplearse hasta el siguiente amanecer.</p>\n<p>Cuando desapareces, dejas tras de ti una nube de humo. Cuando apareces, también te rodea una nube similar. Este humo hace que el espacio que abandonas, así como aquel del que surges, estén ligeramente oscuros. El humo se disipa al final de tu próximo turno, aunque un viento suave o más fuerte lo dispersará inmediatamente.</p>"
 		},
 		"Carpenter's Tools": {
-			"name": "Carpenter's Tools",
+			"name": "Herramientas de carpintero (Carpenter's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un carpintero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Carpet of Flying": {
-			"name": "Carpet of Flying",
-			"description": "<p><em>Wondrous item</em></p>\n<p>You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.</p>\n<p>Four sizes of carpet of flying exist. The GM chooses the size of a given carpet or determines it randomly.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Size</strong></td>\n<td><strong>Capacity</strong></td>\n<td><strong>Flying</strong> <strong>Speed</strong></td>\n</tr>\n<tr>\n<td>01-20</td>\n<td>3 ft. x 5 ft.</td>\n<td>200 lb.</td>\n<td>80 feet</td>\n</tr>\n<tr>\n<td>21-55</td>\n<td>4 ft. x 6 ft.</td>\n<td>400 lb.</td>\n<td>60 feet</td>\n</tr>\n<tr>\n<td>56-80</td>\n<td>5 ft. x 7 ft.</td>\n<td>600 lb.</td>\n<td>40 feet</td>\n</tr>\n<tr>\n<td>81-100</td>\n<td>6 ft. x 9 ft.</td>\n<td>800 lb.</td>\n<td>30 feet</td>\n</tr>\n</tbody>\n</table>\n<p>A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.</p>"
+			"name": "Alfombra voladora (Carpet of Flying)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Puedes utilizar una acción para pronunciar la palabra de activación de la alfombra y hacer que levite y vuele. Se moverá de acuerdo a tus instrucciones verbales, siempre que permanezcas a 30 pies de ella.</p>\n<p>Existen cuatro tamaños de alfombra voladora. El DM elige el tamaño o lo determina al azar.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Tamaño</strong></td>\n<td><strong>Capacidad</strong></td>\n<td><strong>Velocidad</strong> <strong>volando</strong></td>\n</tr>\n<tr>\n<td>01-20</td>\n<td>3 x 5 pies</td>\n<td>200 lb.</td>\n<td>80 pies</td>\n</tr>\n<tr>\n<td>21-55</td>\n<td>4 x 6 pies</td>\n<td>400 lb.</td>\n<td>60 pies</td>\n</tr>\n<tr>\n<td>56-80</td>\n<td>5 x 7 pies</td>\n<td>600 lb.</td>\n<td>40 pies</td>\n</tr>\n<tr>\n<td>81-100</td>\n<td>6 x 9 pies</td>\n<td>800 lb.</td>\n<td>30 pies</td>\n</tr>\n</tbody>\n</table>\n<p>La alfombra puede cargar hasta dos veces el peso mostrado en la tabla, pero volará a la mitad de velocidad si transporta un peso superior a su capacidad normal.</p>"
 		},
 		"Cartographer's Tools": {
-			"name": "Cartographer's Tools",
+			"name": "Herramientas de cartógrafo (Cartographer's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cartógrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Censer": {
-			"name": "Censer",
-			"description": "<p>Usually used in conjunction with blocks of incense to perfume the air.</p>"
+			"name": "Incensario (Censer)",
+			"description": "<p>Suele utilizarse junto con paquetes de incienso para perfumar el aire.</p>"
 		},
 		"Censer of Controlling Air Elementals": {
-			"name": "Censer of Controlling Air Elementals",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While incense is burning in this censer, you can use an action to speak the censer's command word and summon an @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{Air Elemental}, as if you had cast the @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} spell. The censer can't be used this way again until the next dawn.</p>\n<p>This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.</p>"
+			"name": "Incensario de controlar elementales de aire (Censer of Controlling Air Elementals)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras haya incienso ardiendo en este recipiente, puedes utilizar una acción para pronunciar la palabra de activación del cuenco e invocar un @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{Elemental de aire}, como si hubieras lanzado @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar elemental}. El incensario no puede volver a usarse de esta manera hasta el siguiente amanecer.</p>\n<p>Esta vasija de 6 pulgadas de ancho y 1 pie de alto se parece a un cáliz con tapa decorada. Pesa 1 libra.</p>"
 		},
 		"Chain (10 feet)": {
-			"name": "Chain (10 feet)",
-			"description": "<p>A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.</p>"
+			"name": "Cadena - 10 pies (Chain (10 feet))",
+			"description": "<p>Una cadena tiene 10 puntos de golpe y es necesario tener éxito en una prueba de Fuerza CD 20 para romperla.</p>"
 		},
 		"Chain Mail": {
-			"name": "Chain Mail",
-			"description": "<p>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.</p>"
+			"name": "Cota de malla (Chain Mail)",
+			"description": "<p>Esta armadura está fabricada a base de anillos metálicos entrelazados, que se apoyan sobre un gambesón que impide que la piel se irrite y amortigua el impacto de los golpes. Esta cota incluye los guanteletes.</p>"
 		},
 		"Chain Mail +1": {
-			"name": "Chain Mail +1",
+			"name": "Cota de malla +1 (Chain Mail +1)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail +2": {
-			"name": "Chain Mail +2",
+			"name": "Cota de malla +2 (Chain Mail +2)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail +3": {
@@ -486,167 +486,167 @@
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves esta capa y tengas la capucha puesta, las pruebas de Sabiduría (Percepción) para verte sufrirán desventaja, mientras que tú tendrás ventaja en pruebas de Destreza (Sigilo) para esconderte, ya que el color de la capa varía para camuflarte. Es necesaria una acción para ponerte o quitarte la capucha.</p>"
 		},
 		"Cloak of Protection": {
-			"name": "Cloak of Protection",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>You gain a +1 bonus to AC and saving throws while you wear this cloak.</p>"
+			"name": "Capa de protección (Cloak of Protection)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Obtienes un bonificador de +1 a la CA y a las tiradas de salvación mientras lleves puesta esta capa.</p>"
 		},
 		"Cloak of the Bat": {
-			"name": "Cloak of the Bat",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.</p>\n<p>While wearing the cloak in an area of dim light or darkness, you can use your action to cast @Compendium[dnd5e.spells.04nMsTWkIFvkbXlY]{Polymorph} on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores.</p>\n<p>The cloak can't be used this way again until the next dawn.</p>"
+			"name": "Capa de murciélago (Cloak of the Bat)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Tienes ventaja en las pruebas de Destreza (Sigilo) mientras lleves puesta esta capa. En un área de luz tenue o de oscuridad, puedes agarrar los extremos de la capa con ambas manos y usarla para volar a una velocidad de 40 pies. Si dejas de agarrar los extremos de la capa o si dejas de estar en una zona de oscuridad o luz tenue, pierdes esta velocidad volando.</p>\n<p>Además, mientras portes esta capa en un área de luz tenue u oscuridad, puedes emplear tu acción para lanzar @Compendium[dnd5e.spells.04nMsTWkIFvkbXlY]{Polimorfar} sobre ti mismo, transformándote en murciélago. Mantienes tus puntuaciones de Inteligencia, Sabiduría y Carisma mientras te encuentras convertido en murciélago.</p>\n<p>La capa no puede volver a utilizarse de esta manera hasta el siguiente amanecer.</p>"
 		},
 		"Cloak of the Manta Ray": {
-			"name": "Cloak of the Manta Ray",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet.</p>\n<p>Pulling the hood up or down requires an action.</p>"
+			"name": "Capa de la mantaraya (Cloak of the Manta Ray)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Siempre que lleves esta capa con la capucha puesta podrás respirar bajo el agua y poseerás una velocidad nadando de 60 pies.</p>\n<p>Es necesaria una acción para ponerte o quitarte la capucha.</p>"
 		},
 		"Club": {
 			"name": "Garrote (Club)",
-			"description": "<p>A stout knob of wood forms a simple, but effective, cudgel. These weapons are used to bludgeon foes, bruising flesh and breaking bones.</p>"
+			"description": "<p>Un robusto palo de madera forma un simple, pero eficaz, garrote. Estas armas se utilizan para aporrear a los enemigos, magullando la carne y rompiendo los huesos.</p>"
 		},
 		"Club +1": {
-			"name": "Club +1",
+			"name": "Garrote +1 (Club +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Club +2": {
-			"name": "Club +2",
+			"name": "Garrote +2 (Club +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Club +3": {
-			"name": "Club +3",
+			"name": "Garrote +3 (Club +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Cobbler's Tools": {
-			"name": "Cobbler's Tools",
+			"name": "Herramientas de zapatero (Cobbler's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un zapatero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Common Clothes": {
-			"name": "Common Clothes",
-			"description": "<p>Clothes worn by most commoners.</p>"
+			"name": "Ropas comunes (Common Clothes)",
+			"description": "<p>Ropa usada por la mayoría de los plebeyos.</p>"
 		},
 		"Component Pouch": {
-			"name": "Component Pouch",
-			"description": "<p>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</p>"
+			"name": "Saquito de componentes (Component Pouch)",
+			"description": "<p>Un saquito de componentes es una pequeña bolsa de cuero para el cinturón con bolsillos en los que contener todos los componentes materiales y otros objetos especiales necesarios para lanzar conjuros. No incluye los componentes que tienen un coste especifico (estos se indican en la descripción de cada conjuro).</p>"
 		},
 		"Cook's Utensils": {
-			"name": "Cook's Utensils",
+			"name": "Útiles de cocinero (Cook's Utensils)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cocinero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Costume Clothes": {
-			"name": "Costume Clothes",
-			"description": "<p>A complete costume usually used by performers and artists in all manner of entertainment halls or for those that simply refuse to get out of character.</p>"
+			"name": "Disfraz - Ropa (Costume Clothes)",
+			"description": "<p>Un disfraz completo que suelen utilizar los artistas en todo tipo de salas de espectáculos o para aquellos que simplemente se niegan a salir del personaje.</p>"
 		},
 		"Crossbow Bolt": {
 			"name": "Virote de ballesta (Crossbow Bolt)",
-			"description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip.</p>"
+			"description": "<p>Esta munición se utiliza en todos los tipos de ballestas y suele ser un astil de metal corto con una estrecha punta perforante.</p>"
 		},
 		"Crossbow Bolt +1": {
-			"name": "Crossbow Bolt +1",
-			"description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+			"name": "Virote de ballesta +1 (Crossbow Bolt +1)",
+			"description": "<p>Esta munición se utiliza en todos los tipos de ballestas y suele ser un astil de metal corto con una estrecha punta perforante. Se ha imbuido con magia.</p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Crossbow Bolt +2": {
-			"name": "Crossbow Bolt +2",
-			"description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+			"name": "Virote de ballesta +2 (Crossbow Bolt +2)",
+			"description": "<p>Esta munición se utiliza en todos los tipos de ballestas y suele ser un astil de metal corto con una estrecha punta perforante. Se ha imbuido con magia.</p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Crossbow Bolt +3": {
-			"name": "Crossbow Bolt +3",
-			"description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+			"name": "Virote de ballesta +3 (Crossbow Bolt +3)",
+			"description": "<p>Esta munición se utiliza en todos los tipos de ballestas y suele ser un astil de metal corto con una estrecha punta perforante. Se ha imbuido con magia.</p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Crossbow Bolt Case": {
-			"name": "Crossbow Bolt Case",
-			"description": "<p>This wooden case can hold up to twenty crossbow bolts.</p>"
+			"name": "Estuche para virotes de ballesta (Crossbow Bolt Case)",
+			"description": "<p>Esta caja de madera tiene capacidad para albergar hasta veinte virotes de ballesta.</p>"
 		},
 		"Crowbar": {
 			"name": "Palanqueta (Crowbar)",
-			"description": "<p>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</p>"
+			"description": "<p>Una palanqueta te da ventaja en aquellas pruebas de Fuerza en las que hacer palanca sea útil.</p>"
 		},
 		"Crystal": {
-			"name": "Crystal",
-			"description": "<p>This crystaline talisman serves as a spellcasting focus, helping the practitioner to channel arcane, primal, or divine energies.</p>\n<p><strong>Spellcasting Focus. </strong>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
+			"name": "Cristal (Crystal)",
+			"description": "<p>Este talismán cristalino sirve como foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador Arcano.</strong> Un foco arcano es un objeto especialmente diseñado para canalizar el poder de los hechizos arcanos. Un hechicero, un brujo o un mago pueden usar dicho elemento como foco de lanzamiento de hechizos, usándolo en lugar de cualquier componente material que no incluya un costo.</p>"
 		},
 		"Crystal Ball": {
-			"name": "Crystal Ball",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>The typical Crystal Ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Scrying} spell (save DC 17) with it.</p>"
+			"name": "Bola de cristal (Crystal Ball)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>La clásica Bola de cristal, un objeto muy raro, mide unas 6 pulgadas de diámetro. Si la estás tocando, puedes usarla para lanzar el conjuro @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Escudriñar} (tirada de salvación CD 17).</p>"
 		},
 		"Crystal Ball of Mind Reading": {
-			"name": "Crystal Ball of Mind Reading",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>The Crystal Ball is about 6 inches in diameter. While touching it, you can cast the @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Scrying}spell (save DC 17) with it.</p>\n<p>You can use an action to cast the @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detect Thoughts} spell (save DC 17) while you are Scrying with the Crystal Ball, targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this Detect Thoughts to maintain it during its duration, but it ends if Scrying ends.</p>"
+			"name": "Bola de cristal de leer mentes (Crystal Ball of Mind Reading)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>La Bola de cristal mide unas 6 pulgadas de diámetro. Si la estás tocando, puedes usarla para lanzar el conjuro @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Escudriñar} (tirada de salvación CD 17).</p>\n<p>Puedes emplear una acción para lanzar el conjuro @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detectar pensamientos} (tirada de salvación CD 17) mientras estás escudriñando con la bola de cristal, siendo posibles objetivos las criaturas que puedas ver y que se encuentren a 30 pies o menos del sensor del conjuro. No necesitas concentrarte en este detectar pensamientos para mantenerlo a lo largo de su duración, pero acabará si escudriñar termina.</p>"
 		},
 		"Crystal Ball of Telepathy": {
-			"name": "Crystal Ball of Telepathy",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>The crystal ball is about 6 inches in diameter. While touching it, you can cast the @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Scrying} spell (save DC 17) with it.</p>\n<p>While Scrying with the Crystal Ball, you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also use an action to cast the @Compendium[dnd5e.spells.zMAWdyc8UVb37BK4]{Suggestion} spell (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this Suggestion to maintain it during its duration, but it ends if Scrying ends.</p>\n<p>Once used, the Suggestion power of the Crystal Ball can't be used again until the next dawn.</p>"
+			"name": "Bola de cristal de telepatía (Crystal Ball of Telepathy)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>La Bola de cristal mide unas 6 pulgadas de diámetro. Si la estás tocando, puedes usarla para lanzar el conjuro @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Escudriñar} (tirada de salvación CD 17).</p>\n<p>Mientras escudriñas con la bola de cristal, podrás comunicarte telepáticamente con criaturas que puedas ver y que se encuentren a 30 pies o menos del sensor del conjuro. También puedes utilizar una acción para lanzar el conjuro @Compendium[dnd5e.spells.zMAWdyc8UVb37BK4]{Sugestión} (tirada de salvación CD 17) a través del sensor en una de esas criaturas. No necesitas concentrarte en esta sugestión para mantenerla a lo largo de su duración, pero acabará si Escudriñar termina.</p>\n<p>Una vez usado, este poder de sugestión de la bola de cristal no puede volver a emplearse hasta el siguiente amanecer.</p>"
 		},
 		"Crystal Ball of True Seeing": {
-			"name": "Crystal Ball of True Seeing",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>The Crystal Ball is about 6 inches in diameter. While touching it, you can cast the @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Scrying} spell (save DC 17) with it.</p>\n<p>While Scrying with the Crystal Ball, you have Truesight with a radius of 120 feet centered on the spell's sensor.</p>"
+			"name": "Bola de cristal de visión veraz (Crystal Ball of True Seeing)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>La Bola de cristal mide unas 6 pulgadas de diámetro. Si la estás tocando, puedes usarla para lanzar el conjuro @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Escudriñar} (tirada de salvación CD 17).</p>\n<p>Mientras escudriñas con la bolsa de cristal, posees visión verdadera en un radio de 120 pies alrededor del sensor del conjuro.</p>"
 		},
 		"Cube of Force": {
-			"name": "Cube of Force",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.</p>\n<p>You can use an action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier's effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.</p>\n<p>If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Face</strong></td>\n<td><strong>Charges</strong></td>\n<td><strong>Effect</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>Gases, wind, and fog can't pass through the barrier.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2</td>\n<td>Nonliving matter can't pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3</td>\n<td>Living matter can't pass through the barrier.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>4</td>\n<td>Spell effects can't pass through the barrier.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>5</td>\n<td>Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>0</td>\n<td>The barrier deactivates.</td>\n</tr>\n</tbody>\n</table>\n<p>The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Spell or Item</strong></td>\n<td><strong>Charges Lost</strong></td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.HBHbOGKNVVprSlwn]{Disintegrate}</td>\n<td>1d12</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.items.t7GfyRp3dB3lqS9i]{Horn of Blasting}</td>\n<td>1d10</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.d9MwcXi7Il3HROXd]{Passwall}</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{Prismatic Spray}</td>\n<td>1d20</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire}</td>\n<td>1d4</td>\n</tr>\n</tbody>\n</table>"
+			"name": "Cubo de fuerza (Cube of Force)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Este cubo mide una pulgada de lado. Cada cara tiene un signo específico, que puede ser pulsado. El cubo comienza con 36 cargas y recupera 1d20 cargas cada día, al amanecer.</p>\n<p>Puedes usar una acción para pulsar una de las caras del cubo, gastando un número de cargas que depende de la cara en cuestión, como se muestra en la tabla Caras del cubo de fuerza. Cada cara posee un efecto distinto. Si al cubo no le quedan suficientes cargas, no pasa nada. En caso contrario, surge una barrera de fuerza invisible, formando un cubo de 15 pies de lado. La barrera está centrada en ti, se mueve contigo y dura 1 minuto, hasta que emplees una acción para presionar la sexta cara del cubo o hasta que este se quede sin cargas. Puedes cambiar el efecto de la barrera presionando una cara distinta del cubo y gastando el número de cargas requerido, lo que reinicia la duración.</p>\n<p>Si tu movimiento hace que la barrera entre en contacto con un objeto sólido que no pueda atravesar el cubo, no serás capaz de acercarte más a ese objeto hasta que la barrera deje de existir.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Cara</strong></td>\n<td><strong>Cargas</strong></td>\n<td><strong>Efecto</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>Los gases, vientos y nieblas no pueden atravesar la barrera</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2</td>\n<td>La materia inerte no puede atravesar la barrera. Muros, suelos y techos pueden cruzarla a tu discreción</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3</td>\n<td>La materia viva no puede atravesar la barrera</td>\n</tr>\n<tr>\n<td>4</td>\n<td>4</td>\n<td>Los efectos de conjuros no pueden atravesar la barrera</td>\n</tr>\n<tr>\n<td>5</td>\n<td>5</td>\n<td>Nada puede atravesar la barrera. Muros, suelos y techos pueden cruzarla a tu discreción</td>\n</tr>\n<tr>\n<td>6</td>\n<td>0</td>\n<td>La barrera se desactiva</td>\n</tr>\n</tbody>\n</table>\n<p>El cubo pierde cargas cuando la barrera es objetivo de ciertos conjuros o entra en contacto con algunos efectos de conjuros u objetos mágicos, como se muestra en la siguiente tabla.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Conjuro u objeto</strong></td>\n<td><strong>Cargas perdidas</strong></td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.HBHbOGKNVVprSlwn]{Desintegrar}</td>\n<td>1d12</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.items.t7GfyRp3dB3lqS9i]{Cuerno de estallido}</td>\n<td>1d10</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.d9MwcXi7Il3HROXd]{Pasamuros}</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{Rociada prismática}</td>\n<td>1d20</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Muro de fuego}</td>\n<td>1d4</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Cubic Gate": {
-			"name": "Cubic Gate",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.</p>\n<p>You can use an action to press one side of the cube to cast the @Compendium[dnd5e.spells.XbwGq5kDJNvAxNXV]{Gate} spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the @Compendium[dnd5e.spells.J6Jpw5XzB5aTeqnz]{Plane Shift} spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.</p>\n<p>The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn.</p>"
+			"name": "Portal cúbico (Cubic Gate)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este cubo mide 3 pulgadas de lado y radia una energía mágica palpable. Cada una de sus seis caras está conectada a un plano de existencia diferente, entre ellos el Plano Material. Las otras conexiones son a planos determinados por el DM.</p>\n<p>Puedes usar una acción para pulsar una cara del cubo, lanzando el conjuro @Compendium[dnd5e.spells.XbwGq5kDJNvAxNXV]{Portal}, de modo que se abra una puerta al plano vinculado a ese lado. De forma alternativa, si utilizas una acción para pulsar una cara dos veces, lanzarás el conjuro @Compendium[dnd5e.spells.J6Jpw5XzB5aTeqnz]{Desplazamiento entre planos} (tirada de salvación CD 17) y transportarás a los objetivos al plano vinculado a ese lado.</p>\n<p>El cubo tiene 3 cargas. Cada uso gasta 1 carga. Recupera 1d3 cargas gastadas cada día, al amanecer.</p>"
 		},
 		"Dagger": {
 			"name": "Daga (Dagger)",
-			"description": "<p>A short metal blade mounted to a small hilt and crossguard. The dagger makes an effective side armament for hardened warriors or a hidden blade for assassins and thieves.</p>"
+			"description": "<p>Una corta hoja de metal montada en una pequeña empuñadura y una guarda cruzada. La daga es un arma secundaria eficaz para los guerreros curtidos o una hoja oculta para asesinos y ladrones.</p>"
 		},
 		"Dagger +1": {
-			"name": "Dagger +1",
+			"name": "Daga +1 (Dagger +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dagger +2": {
-			"name": "Dagger +2",
+			"name": "Daga +2 (Dagger +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dagger +3": {
-			"name": "Dagger +3",
+			"name": "Daga +3 (Dagger +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dagger of Venom": {
-			"name": "Dagger of Venom",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>You can use an action to cause thick, black poison to coat the blade. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 poison damage and become poisoned for 1 minute. The dagger can't be used this way again until the next dawn.</p>"
+			"name": "Daga de la ponzoña (Dagger of Venom)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Puedes usar una acción para que un veneno denso y negro cubra la hoja. El veneno permanecerá durante 1 minuto o hasta que un ataque con esta arma impacte a una criatura. La criatura impactada deberá tener éxito en una tirada de salvación de Constitución CD 15 o recibirá 2d10 de daño de veneno y quedará envenenada durante 1 minuto. La daga no puede volver a emplearse de esta manera hasta el siguiente amanecer.</p>"
 		},
 		"Dancing Greatsword": {
-			"name": "Dancing Greatsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
+			"name": "Espadón danzarín (Dancing Greatsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puedes usar una acción adicional para arrojar esta espada mágica al aire y pronunciar la palabra de activación. En ese momento, el arma comenzará a levitar, volando hasta 30 pies y atacando a una criatura de tu elección que se encuentre a 5 pies o menos de ella. Utiliza tu tirada de ataque y recurre a tu modificador por característica para las tiradas de daño.</p>\n<p>Mientras la espada esté levitando, puedes usar una acción adicional para que vuele a otro lugar situado a 30 pies o menos de ti. Como parte de la misma acción adicional, eres capaz de hacer que ataque a una criatura que se encuentre a 5 pies o menos de ella.</p>\n<p>Después de que la espada flotante ataque por cuarta vez, volará hasta 30 pies e intentará volver a tu mano. Si no posees ninguna mano libre, caerá al suelo a tus pies. Si no dispone de un camino sin obstáculos hasta ti, se acerca todo lo posible y después se desplomará sobre el suelo. También dejará de levitar si la agarras o te alejas más de 30 pies de ella.</p>"
 		},
 		"Dancing Longsword": {
-			"name": "Dancing Longsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
+			"name": "Espada larga danzarina (Dancing Longsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puedes usar una acción adicional para arrojar esta espada mágica al aire y pronunciar la palabra de activación. En ese momento, el arma comenzará a levitar, volando hasta 30 pies y atacando a una criatura de tu elección que se encuentre a 5 pies o menos de ella. Utiliza tu tirada de ataque y recurre a tu modificador por característica para las tiradas de daño.</p>\n<p>Mientras la espada esté levitando, puedes usar una acción adicional para que vuele a otro lugar situado a 30 pies o menos de ti. Como parte de la misma acción adicional, eres capaz de hacer que ataque a una criatura que se encuentre a 5 pies o menos de ella.</p>\n<p>Después de que la espada flotante ataque por cuarta vez, volará hasta 30 pies e intentará volver a tu mano. Si no posees ninguna mano libre, caerá al suelo a tus pies. Si no dispone de un camino sin obstáculos hasta ti, se acerca todo lo posible y después se desplomará sobre el suelo. También dejará de levitar si la agarras o te alejas más de 30 pies de ella.</p>"
 		},
 		"Dancing Rapier": {
-			"name": "Dancing Rapier",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
+			"name": "Estoque danzarín (Dancing Rapier)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puedes usar una acción adicional para arrojar esta espada mágica al aire y pronunciar la palabra de activación. En ese momento, el arma comenzará a levitar, volando hasta 30 pies y atacando a una criatura de tu elección que se encuentre a 5 pies o menos de ella. Utiliza tu tirada de ataque y recurre a tu modificador por característica para las tiradas de daño.</p>\n<p>Mientras la espada esté levitando, puedes usar una acción adicional para que vuele a otro lugar situado a 30 pies o menos de ti. Como parte de la misma acción adicional, eres capaz de hacer que ataque a una criatura que se encuentre a 5 pies o menos de ella.</p>\n<p>Después de que la espada flotante ataque por cuarta vez, volará hasta 30 pies e intentará volver a tu mano. Si no posees ninguna mano libre, caerá al suelo a tus pies. Si no dispone de un camino sin obstáculos hasta ti, se acerca todo lo posible y después se desplomará sobre el suelo. También dejará de levitar si la agarras o te alejas más de 30 pies de ella.</p>"
 		},
 		"Dancing Scimitar": {
-			"name": "Dancing Scimitar",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
+			"name": "Cimitarra danzarina (Dancing Scimitar)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puedes usar una acción adicional para arrojar esta espada mágica al aire y pronunciar la palabra de activación. En ese momento, el arma comenzará a levitar, volando hasta 30 pies y atacando a una criatura de tu elección que se encuentre a 5 pies o menos de ella. Utiliza tu tirada de ataque y recurre a tu modificador por característica para las tiradas de daño.</p>\n<p>Mientras la espada esté levitando, puedes usar una acción adicional para que vuele a otro lugar situado a 30 pies o menos de ti. Como parte de la misma acción adicional, eres capaz de hacer que ataque a una criatura que se encuentre a 5 pies o menos de ella.</p>\n<p>Después de que la espada flotante ataque por cuarta vez, volará hasta 30 pies e intentará volver a tu mano. Si no posees ninguna mano libre, caerá al suelo a tus pies. Si no dispone de un camino sin obstáculos hasta ti, se acerca todo lo posible y después se desplomará sobre el suelo. También dejará de levitar si la agarras o te alejas más de 30 pies de ella.</p>"
 		},
 		"Dancing Shortsword": {
-			"name": "Dancing Shortsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
+			"name": "Espada corta danzarina (Dancing Shortsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puedes usar una acción adicional para arrojar esta espada mágica al aire y pronunciar la palabra de activación. En ese momento, el arma comenzará a levitar, volando hasta 30 pies y atacando a una criatura de tu elección que se encuentre a 5 pies o menos de ella. Utiliza tu tirada de ataque y recurre a tu modificador por característica para las tiradas de daño.</p>\n<p>Mientras la espada esté levitando, puedes usar una acción adicional para que vuele a otro lugar situado a 30 pies o menos de ti. Como parte de la misma acción adicional, eres capaz de hacer que ataque a una criatura que se encuentre a 5 pies o menos de ella.</p>\n<p>Después de que la espada flotante ataque por cuarta vez, volará hasta 30 pies e intentará volver a tu mano. Si no posees ninguna mano libre, caerá al suelo a tus pies. Si no dispone de un camino sin obstáculos hasta ti, se acerca todo lo posible y después se desplomará sobre el suelo. También dejará de levitar si la agarras o te alejas más de 30 pies de ella.</p>"
 		},
 		"Dart": {
 			"name": "Dardo (Dart)",
-			"description": "<p>A small thrown implement crafted with a short wooden shaft and crossed feathres with a sharp wooden or metal tip. Darts can be thrown with sufficient force to puncture the skin.</p>"
+			"description": "<p>Pequeño instrumento arrojadizo fabricado con un asta corta de madera y plumas cruzadas con una punta afilada de madera o metal. Los dardos pueden lanzarse con la fuerza suficiente para perforar la piel.</p>"
 		},
 		"Dart +1": {
-			"name": "Dart +1",
+			"name": "Dardo +1 (Dart +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dart +2": {
-			"name": "Dart +2",
+			"name": "Dardo +2 (Dart +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Dart +3": {
-			"name": "Dart +3",
+			"name": "Dardo +3 (Dart +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Decanter of Endless Water": {
-			"name": "Decanter of Endless Water",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.</p>\n<p>You can use an action to remove the stopper and speak one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following options:</p>\n<p>&bull; \"Stream\" produces 1 gallon of water.</p>\n<p>&bull; \"Fountain\" produces 5 gallons of water.</p>\n<p>&bull; \"Geyser\" produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a Bonus Action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.</p>"
+			"name": "Decantador de agua interminable (Decanter of Endless Water)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este frasco con tapón suena cuando se agita, como si tuviera líquido dentro. Pesa 2 libras.</p>\n<p>Puedes usar una acción para quitar el corcho y pronunciar una de sus tres palabras de activación, momento en el cual cierta cantidad de agua dulce o salada (a tu elección) sale del frasco. Esta agua deja de brotar al principio de tu próximo turno. Elige una de las siguientes opciones:</p>\n<p>&bull;\"Arroyo\" produce 1 galón de agua.</p>\n<p>&bull;\"Fuente\" produce 5 galones de agua.</p>\n<p>&bull;\"Géiser\" produce 30 galones de agua que salen disparados en un géiser de 30 pies de largo y 1 pie de ancho. Puedes utilizar una acción adicional mientras sostienes el decantador para apuntar con el géiser a una criatura que puedas ver y que se encuentre a 30 pies o menos de ti. Dicha criatura deberá tener éxito en una tirada de salvación de Fuerza CD 13 o recibirá 1d4 de daño contundente y caerá derribada. En vez de una criatura, puedes apuntar a un objeto que no lleve o vista nadie y que no pese más de 200 libras. Ese objeto cae a suelo o es empujado hasta 15 pies en dirección contraria a ti.</p>"
 		},
 		"Deck of Illusions": {
-			"name": "Deck of Illusions",
+			"name": "Baraja de ilusiones (Deck of Illusions)",
 			"description": "<p><em>Wondrous item</em></p>\n<p>This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.<br>The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.</p>\n<p>An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence (Investigation) check. The creature then appears translucent.</p>\n<p>The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Playing Card</strong></td>\n<td><strong>Illusion</strong></td>\n</tr>\n<tr>\n<td>Ace of hearts</td>\n<td>@Compendium[dnd5e.monsters.ZyIBOoZZD0nDaO2s]{Adult Red Dragon}</td>\n</tr>\n<tr>\n<td>King of hearts</td>\n<td>@Compendium[dnd5e.monsters.D5UqYD1EnTrJaMTO]{Knight} and four @Compendium[dnd5e.monsters.E9CvDPDg5dFEpVjS]{Guard}s</td>\n</tr>\n<tr>\n<td>Queen of hearts</td>\n<td>Succubus or Incubus</td>\n</tr>\n<tr>\n<td>Jack of hearts</td>\n<td>@Compendium[dnd5e.monsters.K15Yl8JmB5iPircc]{Druid}</td>\n</tr>\n<tr>\n<td>Ten of hearts</td>\n<td>@Compendium[dnd5e.monsters.Aw2wmqGIatxe2ImI]{Cloud Giant}</td>\n</tr>\n<tr>\n<td>Nine of hearts</td>\n<td>@Compendium[dnd5e.monsters.KLCkHep28HBfdsky]{Ettin}</td>\n</tr>\n<tr>\n<td>Eight of hearts</td>\n<td>@Compendium[dnd5e.monsters.QtJairF0h18BRhEM]{Bugbear}</td>\n</tr>\n<tr>\n<td>Two of hearts</td>\n<td>@Compendium[dnd5e.monsters.TjWQOgI3A4UAl7lC]{Goblin}</td>\n</tr>\n<tr>\n<td>Ace of diamonds</td>\n<td>Beholder</td>\n</tr>\n<tr>\n<td>King of diamonds</td>\n<td>@Compendium[dnd5e.monsters.B7lBOr1AahNZs4a6]{Archmage} and Mage Apprentice</td>\n</tr>\n<tr>\n<td>Queen of diamonds</td>\n<td>@Compendium[dnd5e.monsters.xvh2UOKv1bh03Gih]{Night Hag}</td>\n</tr>\n<tr>\n<td>Jack of Diamonds</td>\n<td>@Compendium[dnd5e.monsters.EMvcuOpu7ABCmBWi]{Assassin}</td>\n</tr>\n<tr>\n<td>Ten of diamonds</td>\n<td>@Compendium[dnd5e.monsters.45Z5kogZEhawX1Ey]{Fire Giant}</td>\n</tr>\n<tr>\n<td>Nine of diamonds</td>\n<td>Ogre Mage</td>\n</tr>\n<tr>\n<td>Eight of diamonds</td>\n<td>@Compendium[dnd5e.monsters.R2GPY9BhRmmwZwkh]{Gnoll}</td>\n</tr>\n<tr>\n<td>Two of diamonds</td>\n<td>@Compendium[dnd5e.monsters.5ngbctIMeEnuC1p1]{Kobold}</td>\n</tr>\n<tr>\n<td>Ace of spades</td>\n<td>@Compendium[dnd5e.monsters.bfh29vIEoGzI240e]{Lich}</td>\n</tr>\n<tr>\n<td>King of spades</td>\n<td>@Compendium[dnd5e.monsters.PVD5wRdyO7iCJPs1]{Priest} and two @Compendium[dnd5e.monsters.CHEUjiYrVM9X0vIT]{Acolyte}s</td>\n</tr>\n<tr>\n<td>Jack of spades</td>\n<td>@Compendium[dnd5e.monsters.J8xjoG4Dxb8WkHtV]{Veteran}</td>\n</tr>\n<tr>\n<td>Ten of spades</td>\n<td>@Compendium[dnd5e.monsters.Buxe6dDK5Mw7kxe6]{Frost Giant}</td>\n</tr>\n<tr>\n<td>Nine of spades</td>\n<td>@Compendium[dnd5e.monsters.ZHAFrnCwCz17dmLc]{Troll}</td>\n</tr>\n<tr>\n<td>Eight of spades</td>\n<td>@Compendium[dnd5e.monsters.pYXovIksKvzswLCu]{Hobgoblin}</td>\n</tr>\n<tr>\n<td>Two of spades</td>\n<td>@Compendium[dnd5e.monsters.TjWQOgI3A4UAl7lC]{Goblin}</td>\n</tr>\n<tr>\n<td>Ace of clubs</td>\n<td>@Compendium[dnd5e.monsters.h98AuPfomEPcCibP]{Iron Golem}</td>\n</tr>\n<tr>\n<td>King of clubs</td>\n<td>@Compendium[dnd5e.monsters.rb7OJt822wIO52qY]{Bandit Captain} and three @Compendium[dnd5e.monsters.n4TEv7inVUkyZviN]{Bandit}s</td>\n</tr>\n<tr>\n<td>Queen of clubs</td>\n<td>@Compendium[dnd5e.monsters.3o2rQBqpzjIHmrBW]{Erinyes}</td>\n</tr>\n<tr>\n<td>Jack of clubs</td>\n<td>@Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}</td>\n</tr>\n<tr>\n<td>Ten of clubs</td>\n<td>@Compendium[dnd5e.monsters.9g4N9sjyh8Ql46to]{Hill Giant}</td>\n</tr>\n<tr>\n<td>Nine of clubs</td>\n<td>@Compendium[dnd5e.monsters.eIGowKTkEBC9gUzx]{Ogre}</td>\n</tr>\n<tr>\n<td>Eight of clubs</td>\n<td>@Compendium[dnd5e.monsters.LBf4Yyuv0i8pALW7]{Orc}</td>\n</tr>\n<tr>\n<td>Two of clubs</td>\n<td>@Compendium[dnd5e.monsters.5ngbctIMeEnuC1p1]{Kobold}</td>\n</tr>\n<tr>\n<td>Joker (2)</td>\n<td>You (the deck's owner)</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p> </p>"
 		},
 		"Deck of Many Things": {
