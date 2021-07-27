@@ -687,63 +687,63 @@
 		},
 		"Dragon Scale Mail": {
 			"name": "Cota de escamas de dragón (Dragon Scale Mail)",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>Dragon Scale Mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.</p>\n<p>While wearing this armor, you gain a +1 bonus to AC, you have advantage on saving throws against the Frightful Presence and Breath Weapons of dragons, and you have resistance to one damage type that is determined by the kind of dragon that provided the scales (see the table).</p>\n<p>Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Dragon</strong></td>\n<td><strong>Resistance</strong></td>\n</tr>\n<tr>\n<td>Black</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>Blue</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>Brass</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>Copper</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>Gold</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>Green</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>Red</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>Silver</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>White</td>\n<td>Cold</td>\n</tr>\n</tbody>\n</table>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>La cota de escamas de dragón está hecha de las escamas de un dragón de un tipo concreto. A veces los dragones recogen sus escamas caídas para regalárselas a humanoides. Otras veces, un cazador desuella cuidadosamente un cadáver de un dragón, preservando la piel. Sea cual sea el origen, la cota de escamas de dragón es muy valorada.</p>\n<p>Mientras lleves esta armadura, ganas un bonificador de +1 a tu CA, tienes ventaja en tiradas de salvación contra la presencia aterradora y los ataques de aliento de los dragones y disfrutas de resistencia contra un tipo de daño determinado por el dragón que proporcionó las escamas (ver tabla).</p>\n<p>Además, puedes utilizar una acción para concentrarte en tus sentidos y discernir mágicamente la distancia y dirección del dragón más cercano, que se encuentre a 30 millas o menos de ti y sea del mismo tipo que la armadura. Una vez usada esta acción especial, no podrás volver a utilizarla hasta el siguiente amanecer.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Dragón</strong></td>\n<td><strong>Resistencia</strong></td>\n</tr>\n<tr>\n<td>Azul</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>Blanco</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>Brass</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>Bronce</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>Cobre</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>Oro</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>Oropel</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>Plata</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>Rojo</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>Verde</td>\n<td>Veneno</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Dragon Slayer Greatsword": {
-			"name": "Dragon Slayer Greatsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
+			"name": "Espadón matadragones (Dragon Slayer Greatsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un dragón con esta arma, este recibe 3d6 de daño adicional del tipo del arma. En lo que concierne a esta arma, \"dragón\" se refiere a cualquier criatura con el tipo dragón, incluyendo seres como dragones tortuga o guivernos.</p>"
 		},
 		"Dragon Slayer Longsword": {
-			"name": "Dragon Slayer Longsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
+			"name": "Espada larga matadragones (Dragon Slayer Longsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un dragón con esta arma, este recibe 3d6 de daño adicional del tipo del arma. En lo que concierne a esta arma, \"dragón\" se refiere a cualquier criatura con el tipo dragón, incluyendo seres como dragones tortuga o guivernos.</p>"
 		},
 		"Dragon Slayer Rapier": {
-			"name": "Dragon Slayer Rapier",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
+			"name": "Estoque matadragones (Dragon Slayer Rapier)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un dragón con esta arma, este recibe 3d6 de daño adicional del tipo del arma. En lo que concierne a esta arma, \"dragón\" se refiere a cualquier criatura con el tipo dragón, incluyendo seres como dragones tortuga o guivernos.</p>"
 		},
 		"Dragon Slayer Scimitar": {
-			"name": "Dragon Slayer Scimitar",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
+			"name": "Cimitarra matadragones (Dragon Slayer Scimitar)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un dragón con esta arma, este recibe 3d6 de daño adicional del tipo del arma. En lo que concierne a esta arma, \"dragón\" se refiere a cualquier criatura con el tipo dragón, incluyendo seres como dragones tortuga o guivernos.</p>"
 		},
 		"Dragon Slayer Shortsword": {
-			"name": "Dragon Slayer Shortsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
+			"name": "Espada corta matadragones (Dragon Slayer Shortsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un dragón con esta arma, este recibe 3d6 de daño adicional del tipo del arma. En lo que concierne a esta arma, \"dragón\" se refiere a cualquier criatura con el tipo dragón, incluyendo seres como dragones tortuga o guivernos.</p>"
 		},
 		"Drum": {
-			"name": "Drum",
-			"description": "<p>A drum, of any variety, to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"name": "Tambor (Drum)",
+			"description": "<p>Un tambor para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Dulcimer": {
-			"name": "Dulcimer",
-			"description": "<p>A dulcimer to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"name": "Dulcémele (Dulcimer)",
+			"description": "<p>Un dulcémele para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Dust of Disappearance": {
-			"name": "Dust of Disappearance",
-			"description": "<p><em>Wondrous item</em></p>\n<p>Found in a small packet, this powder resembles very fine sand. There is enough of it for one use.</p>\n<p>When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect.</p>\n<p>If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.</p>"
+			"name": "Polvo de desaparición (Dust of Disappearance)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este polvo, que se encuentra en pequeños paquetes, parece arena muy fina. Hay suficiente para un solo uso.</p>\n<p>Cuando empleas una acción para esparcir el polvo, tú y cada criatura y objeto que se encuentre a 10 pies o menos de ti os volvéis invisibles durante 2d4 minutos. La duración es la misma para todos los afectados, y el polvo es consumido cuando la magia tiene efecto.</p>\n<p>Si una criatura afectada por el polvo ataca o lanza un conjuro, la invisibilidad termina para esa criatura.</p>"
 		},
 		"Dust of Dryness": {
-			"name": "Dust of Dryness",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This small packet contains 1d6 + 4 pinches of dust. You can use an action to sprinkle a pinch of it over water. The dust turns a cube of water 15 feet on a side into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet's weight is negligible.</p>\n<p>Someone can use an action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed. Doing so ends that pellet's magic.</p>\n<p>An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking 10d6 necrotic damage on a failed save, or half as much damage on a successful one.</p>"
+			"name": "Polvo de sequedad (Dust of Dryness)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este pequeño paquete contiene 1d6 + 4 pellizcos de polvo. Puedes usar una acción para echar un pellizco sobre agua. El polvo convertirá un cubo de agua de 15 pies de lado en una bolita del tamaño de una canica, que quedará flotando o en reposo donde se esparció el polvo. El peso de la bolita es despreciable.</p>\n<p>Cualquier criatura puede usar una acción para machacar la bolita contra una superficie dura, haciendo que estalle y libere el agua que el polvo había absorbido. Hacer esto acaba con la magia de la bolita.</p>\n<p>Un elemental que esté compuesto principalmente de agua y quede expuesto a un pellizco del polvo deberá realizar una tirada de salvación de Constitución CD 13, recibiendo 10d6 de daño necrótico si falla, o la mitad de ese daño en caso de éxito.</p>"
 		},
 		"Dust of Sneezing and Choking": {
-			"name": "Dust of Sneezing and Choking",
-			"description": "<p><em>Wondrous item</em></p>\n<p>Found in a small container, this powder resembles very fine sand. It appears to be dust of disappearance, and an <em>@Compendium[dnd5e.spells.3OZnNhunvRtPOQmH]{Identify} </em>spell reveals it to be such. There is enough of it for one use.</p>\n<p>When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Lesser Restoration} spell can also end the effect on a creature.</p>"
+			"name": "Polvo de estornudar y atragantarse (Dust of Sneezing and Choking)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este polvo, que se encuentra en un pequeño recipiente, parece arena muy fina. Aparentemente, se trata de polvo de desaparición, y un conjuro de <em>@Compendium[dnd5e.spells.3OZnNhunvRtPOQmH]{Identificar}</em> así lo señalará. Hay suficiente para un solo uso.</p>\n<p>Cuando uses tu acción para esparcir un puñado de polvo, todas las criaturas que necesiten respirar que se encuentren a 30 pies o menos, incluyéndote a ti, deberéis tener éxito en una tirada de salvación de Constitución CD 15 o seréis incapaces de respirar mientras estornudáis incontrolablemente. Una criatura afectada de esta manera estará incapacitada y ahogándose. Mientras permanezca consciente, podrá repetir la tirada de salvación al final de cada uno de sus turnos, terminando el efecto si tiene éxito. El conjuro @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Restablecimiento menor} también es capaz de terminar con este efecto.</p>"
 		},
 		"Dwarven Plate": {
-			"name": "Dwarven Plate",
-			"description": "<p>While wearing this plate armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.</p>"
+			"name": "Armadura de placas enana (Dwarven Plate)",
+			"description": "<p>Recibes un bonificador de +2 a la Clase de Armadura cuando llevas puesta esta armadura. Además, si cualquier efecto te desplaza sobre el suelo contra tu voluntad, puedes usar tu reacción para reducir la distancia que eres movido en 10 pies.</p>"
 		},
 		"Dwarven Thrower": {
-			"name": "Dwarven Thrower",
-			"description": "<p><em>(Requires attunement by a dwarf)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand.</p>\n<p><em>**Foundry note: to apply the additional damage to a giant, please use the Other Formula one more time.</em></p>"
+			"name": "Martillo arrojadizo enano (Dwarven Thrower)",
+			"description": "<p><em>(Requiere sintonización con un enano)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Tiene la propiedad arrojadiza, con un alcance normal de 20 pies y un alcance largo de 60 pies. Cuando impactas con un ataque a distancia con esta arma, infliges 1d8 de daño adicional o, si el objetivo es un gigante, 2d8. Inmediatamente después del ataque, el arma vuela de vuelta a tu mano.</p>\n<p><em>**Nota de Foundry: para aplicar el daño adicional a un gigante, utiliza Otra Fórmula una vez más.</em></p>"
 		},
 		"Efficient Quiver": {
-			"name": "Efficient Quiver",
-			"description": "<p><em>Wondrous item</em></p>\n<p>Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds.</p>\n<p>The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.</p>\n<p>You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.</p>"
+			"name": "Carcaj eficiente (Efficient Quiver)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Cada uno de los tres compartimentos de este objeto está conectado con un espacio extradimensional, lo que permite a esta aljaba contener muchos objetos sin pesar nunca más de 2 libras.</p>\n<p>El compartimento más pequeño puede guardar hasta sesenta flechas, virotes u objetos similares. El compartimento intermedio puede albergar hasta dieciocho jabalinas u objetos equivalentes. El compartimento más grande puede contener hasta seis objetos largos, como arcos, bastones o lanzas</p>\n<p>Puedes sacar cualquier objeto contenido en el carcaj como si lo hicieras de una aljaba o vaina normal.</p>"
 		},
 		"Efreeti Bottle": {
-			"name": "Efreeti Bottle",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an @Compendium[dnd5e.monsters.LTomFUTBrkRi0Pj5]{Efreeti} appears in an unoccupied space within 30 feet of you.</p>\n<p>The first time the bottle is opened, the GM rolls to determine what happens.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Effect</strong></td>\n</tr>\n<tr>\n<td>01-10</td>\n<td>The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.</td>\n</tr>\n<tr>\n<td>11-90</td>\n<td>The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.</td>\n</tr>\n</tbody>\n</table>"
+			"name": "Botella de ifrit (Efreeti Bottle)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta botella de latón pintado pesa 1 libra. Cuando usas una acción para quitar el tapón, una nube de humo espeso sale de ella. Al final de tu turno, el humo desaparece en un estallido inofensivo de fuego y en su lugar aparece un @Compendium[dnd5e.monsters.LTomFUTBrkRi0Pj5]{Ifrit} en un espacio libre a 30 pies o menos de ti.</p>\n<p>La primera vez que se abra la botella, el DM tira para determinar qué pasa.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Efecto</strong></td>\n</tr>\n<tr>\n<td>01-10</td>\n<td>El ifrit te ataca. Después de luchar durante 5 asaltos, el ifrit desaparece y la botella pierde su magia.</td>\n</tr>\n<tr>\n<td>11-90</td>\n<td>El ifrit te sirve durante 1 hora, cumpliendo tu voluntad. Después vuelve a la botella, donde un nuevo tapón le contendrá. El tapón no puede ser retirado durante 24 horas. Las dos próximas veces que se abra la botella ocurre el mismo efecto. Si se abre una cuarta, el ifrit se escapa y desaparece, perdiendo la botella su magia.</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>El ifrit puede lanzar el conjuro Deseo tres veces para ti. Desaparece cuando lanza el último de ellos o después de 1 hora, y la botella pierde su magia.</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Elemental Gem of Air": {
 			"name": "Elemental Gem of Air",
@@ -907,7 +907,7 @@
 		},
 		"Flute": {
 			"name": "Flute",
-			"description": "<p>A lute to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"description": "<p>Una flauta para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Folding Boat": {
 			"name": "Folding Boat",
@@ -1279,7 +1279,7 @@
 		},
 		"Horn": {
 			"name": "Horn",
-			"description": "<p>A horn, of any variety, to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"description": "<p>Un cuerno para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Horn of Blasting": {
 			"name": "Horn of Blasting",
@@ -1575,11 +1575,11 @@
 		},
 		"Lute": {
 			"name": "Lute",
-			"description": "<p>A lute to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"description": "<p>Un laúd para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Lyre": {
 			"name": "Lyre",
-			"description": "<p>A lyre to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"description": "<p>Una lira para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Mace": {
 			"name": "Mace",
@@ -1731,7 +1731,7 @@
 		},
 		"Musical Instrument": {
 			"name": "Musical Instrument",
-			"description": "<p>A musical instrument to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.</p>\n<p>Please note this is a generic placeholder. For the musical instruments given in the PHB table, please see immediately below this entry in the compendium. However, feel free to use any of them as a guide for an original entry by editing them or even starting from scratch, given DM permission.</p>\n<p>Specific musical instruments are available in the Items (SRD) compendium:</p>\n<p>@Compendium[dnd5e.items.yxHi57T5mmVt0oDr]{Bagpipes}</p>\n<p>@Compendium[dnd5e.items.69Dpr25pf4BjkHKb]{Drum}</p>\n<p>@Compendium[dnd5e.items.NtdDkjmpdIMiX7I2]{Dulcimer}</p>\n<p>@Compendium[dnd5e.items.eJOrPcAz9EcquyRQ]{Flute}</p>\n<p>@Compendium[dnd5e.items.aa9KuBy4dst7WIW9]{Horn}</p>\n<p>@Compendium[dnd5e.items.qBydtUUIkv520DT7]{Lute}</p>\n<p>@Compendium[dnd5e.items.EwG1EtmbgR3bM68U]{Lyre}</p>\n<p>@Compendium[dnd5e.items.G5m5gYIx9VAUWC3J]{Pan Flute}</p>\n<p>@Compendium[dnd5e.items.G3cqbejJpfB91VhP]{Shawm}</p>\n<p>@Compendium[dnd5e.items.baoe3U5BfMMMxhCU]{Viol}</p>"
+			"description": "<p>Un instrumento musical para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>\n<p>Ten en cuenta que este es un espacio genérico. Para los instrumentos musicales que se dan en la tabla de la GdJ, consulta a continuación las entradas del compendio. Sin embargo, siéntete libre de usar cualquiera de ellos como guía para una entrada propia, editándolos o incluso empezando desde cero, con el permiso del DM.</p>\n<p>Los instrumentos musicales concretos están disponibles en el compendio de Equipo (SRD).</p>\n<p>@Compendium[dnd5e.items.yxHi57T5mmVt0oDr]{Gaita}</p>\n<p>@Compendium[dnd5e.items.69Dpr25pf4BjkHKb]{Tambor}</p>\n<p>@Compendium[dnd5e.items.NtdDkjmpdIMiX7I2]{Dulcémele}</p>\n<p>@Compendium[dnd5e.items.eJOrPcAz9EcquyRQ]{Flauta}</p>\n<p>@Compendium[dnd5e.items.aa9KuBy4dst7WIW9]{Cuerno}</p>\n<p>@Compendium[dnd5e.items.qBydtUUIkv520DT7]{Laúd}</p>\n<p>@Compendium[dnd5e.items.EwG1EtmbgR3bM68U]{Lira}</p>\n<p>@Compendium[dnd5e.items.G5m5gYIx9VAUWC3J]{Flauta de pan}</p>\n<p>@Compendium[dnd5e.items.G3cqbejJpfB91VhP]{Chirimía}</p>\n<p>@Compendium[dnd5e.items.baoe3U5BfMMMxhCU]{Viola}</p>"
 		},
 		"Navigator’s Tools": {
 			"name": "Navigator’s Tools",
@@ -1839,7 +1839,7 @@
 		},
 		"Pan Flute": {
 			"name": "Pan Flute",
-			"description": "<p>A set of panpipes to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"description": "<p>Una flauta de pan para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Paper": {
 			"name": "Papel (Paper)",
@@ -2427,7 +2427,7 @@
 		},
 		"Shawm": {
 			"name": "Shawm",
-			"description": "<p>A shawm to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"description": "<p>Una chirimía para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Shield": {
 			"name": "Escudo (Shield)",
@@ -3019,7 +3019,7 @@
 		},
 		"Viol": {
 			"name": "Viol",
-			"description": "<p>A viol to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+			"description": "<p>Una viola para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Vorpal Greatsword": {
 			"name": "Vorpal Greatsword",
