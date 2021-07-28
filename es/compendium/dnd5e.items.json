@@ -1091,7 +1091,7 @@
 		},
 		"Greatsword of Life Stealing": {
 			"name": "Espadón ladrón de vida (Greatsword of Life Stealing)",
-			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 10 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 3d6 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Greatsword of Sharpness": {
 			"name": "Greatsword of Sharpness",
@@ -1423,162 +1423,162 @@
 		},
 		"Ladder (10-foot)": {
 			"name": "Escalera de 10 pies (Ladder (10-foot))",
-			"description": "<p>A ladder 10-foot long, as sturdy or rickety as the hand that crafted or bodged it together.</p>"
+			"description": "<p>Una escalera de 10 pies de largo, tan robusta o desvencijada como la mano que la haya fabricado o montado.</p>"
 		},
 		"Lamp": {
-			"name": "Lamp",
-			"description": "<p>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil</p>"
+			"name": "Lámpara (Lamp)",
+			"description": "<p>Esta lámpara emite luz brillante en un radio de 15 pies y luz tenue 30 pies más allá. Puede estar encendida hasta 6 horas con un frasco (1 pinta) de aceite.</p>"
 		},
 		"Lance": {
 			"name": "Lanza de caballería (Lance)",
-			"description": "<p>A shining steel tip to puncture the hardiest of foe's defences, driven in by the force of a galloping steed. Although best suited for mounted combat, the lance can be brought to lethal effect on foot in the right hands.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
+			"description": "<p>Una punta de acero brillante que perfora las defensas del enemigo más resistente, impulsada por la fuerza de un corcel al galope. Aunque es más adecuada para el combate a caballo, la lanza puede tener un efecto letal a pie en las manos adecuadas.</p>\n<p><strong>Especial.</strong> Tienes desventaja cuando usas una lanza para atacar a un objetivo a menos de 5 pies de ti. Además, una lanza requiere dos manos para empuñar cuando no estás montado.</p>"
 		},
 		"Lance +1": {
-			"name": "Lance +1",
+			"name": "Lanza de caballería +1 (Lance +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Tendrás desventaja si usas una lanza de caballería para atacar a un objetivo que se encuentre a 5 pies o menos de ti. Además, si no estás sobre una montura necesitarás las dos manos para empuñarla.</p>"
 		},
 		"Lance +2": {
-			"name": "Lance +2",
+			"name": "Lanza de caballería +2 (Lance +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Tendrás desventaja si usas una lanza de caballería para atacar a un objetivo que se encuentre a 5 pies o menos de ti. Además, si no estás sobre una montura necesitarás las dos manos para empuñarla.</p>"
 		},
 		"Lance +3": {
-			"name": "Lance +3",
+			"name": "Lanza de caballería +3 (Lance +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>\n<p><strong>Especial.</strong> Tendrás desventaja si usas una lanza de caballería para atacar a un objetivo que se encuentre a 5 pies o menos de ti. Además, si no estás sobre una montura necesitarás las dos manos para empuñarla.</p>"
 		},
 		"Lantern of Revealing": {
-			"name": "Lantern of Revealing",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.</p>"
+			"name": "Linterna de revelación (Lantern of Revealing)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Siempre que esté encendida, esta linterna sorda luce durante 6 horas con una pinta de aceite, iluminando un radio de 30 pies con luz brillante y otros 30 pies con luz tenue. Las criaturas y objetos invisibles son visibles mientras estén iluminados por la linterna. Puedes utilizar una acción para cubrir la abertura con una tapa, haciendo que la linterna solo emita luz tenue en un radio de 5 pies.</p>"
 		},
 		"Leather Armor": {
 			"name": "Armadura de cuero (Leather Armor)",
-			"description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>"
+			"description": "<p>Los protectores de peto y hombros de esta armadura están hechos de cuero que se ha endurecido al hervirlos en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
 		},
 		"Leather Armor +1": {
-			"name": "Leather Armor +1",
+			"name": "Armadura de cuero +1 (Leather Armor +1)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Leather Armor +2": {
-			"name": "Leather Armor +2",
+			"name": "Armadura de cuero +2 (Leather Armor +2)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Leather Armor +3": {
-			"name": "Leather Armor +3",
+			"name": "Armadura de cuero +3 (Leather Armor +3)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Leather Armor of Resistance": {
-			"name": "Leather Armor of Resistance",
+			"name": "Armadura de cuero de Resistencia (Leather Armor of Resistance)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Leatherworker's Tools": {
-			"name": "Leatherworker's Tools",
+			"name": "Herramientas de curtidor (Leatherworker's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un curtidor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Light Crossbow": {
 			"name": "Ballesta ligera (Light Crossbow)",
-			"description": "<p>A small crossbow with a wooden haft and a tense cord which is capable of firing a single bolt which can puncture even heavy armor at close range.</p>"
+			"description": "<p>Una pequeña ballesta con un mango de madera y una cuerda tensa que es capaz de disparar un virote que puede perforar incluso armaduras pesadas a corta distancia.</p>"
 		},
 		"Light Crossbow +1": {
-			"name": "Light Crossbow +1",
+			"name": "Ballesta ligera +1 (Light Crossbow +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Crossbow +2": {
-			"name": "Light Crossbow +2",
+			"name": "Ballesta ligera +2 (Light Crossbow +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Crossbow +3": {
-			"name": "Light Crossbow +3",
+			"name": "Ballesta ligera +3 (Light Crossbow +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Hammer": {
 			"name": "Martillo ligero (Light Hammer)",
-			"description": "<p>This sturdy hammer is small enough to be nimbly wielded or used in combination with another weapon.</p>"
+			"description": "<p>Este robusto martillo es lo suficientemente pequeño como para ser blandido ágilmente o usado en combinación con otra arma.</p>"
 		},
 		"Light Hammer +1": {
-			"name": "Light Hammer +1",
+			"name": "Martillo ligero +1 (Light Hammer +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Hammer +2": {
-			"name": "Light Hammer +2",
+			"name": "Martillo ligero +2 (Light Hammer +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Light Hammer +3": {
-			"name": "Light Hammer +3",
+			"name": "Martillo ligero +3 (Light Hammer +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Lock": {
-			"name": "Lock",
-			"description": "<p>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.</p>"
+			"name": "Cerradura (Lock)",
+			"description": "<p>La cerradura viene acompañada de una llave. Si no se dispone de ella, una criatura competente con herramientas de ladrón puede forzar la cerradura superando una prueba de Destreza CD 15. Tu DM podría decidir que hay cerraduras mejores disponibles, pero serán más caras.</p>"
 		},
 		"Longbow": {
 			"name": "Arco largo (Longbow)",
-			"description": "<p>A thick shaft of laminated wood is bowed by a taut string capable of launching deadly arrows at long distances.</p>"
+			"description": "<p>Un grueso astil de madera laminada es arqueado por una cuerda tensa capaz de lanzar flechas mortales a largas distancias.</p>"
 		},
 		"Longbow +1": {
-			"name": "Longbow +1",
+			"name": "Arco largo +1 (Longbow +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longbow +2": {
-			"name": "Longbow +2",
+			"name": "Arco largo +2 (Longbow +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longbow +3": {
-			"name": "Longbow +3",
+			"name": "Arco largo +3 (Longbow +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword": {
 			"name": "Espada larga (Longsword)",
-			"description": "<p>A lengthy stright blade designed for slashing foes, the longsword is a highly versatile weapon that may also be wielded with two hands for more punishing strikes.</p>"
+			"description": "<p>Una hoja larga y recta diseñada para asestar tajos a los enemigos. La espada larga es un arma muy versátil que también puede blandirse a dos manos para dar golpes más demoledores.</p>"
 		},
 		"Longsword +1": {
-			"name": "Longsword +1",
+			"name": "Espada larga +1 (Longsword +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword +2": {
-			"name": "Longsword +2",
+			"name": "Espada larga +2 (Longsword +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword +3": {
-			"name": "Longsword +3",
+			"name": "Espada larga +3 (Longsword +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Longsword of Life Stealing": {
-			"name": "Longsword of Life Stealing",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
+			"name": "Espada larga ladrona de vida (Longsword of Life Stealing)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 3d6 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Longsword of Sharpness": {
-			"name": "Longsword of Sharpness",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.</p>\n<p>When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.</p>\n<p>In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.</p>"
+			"name": "Espada larga de hoja afilada (Longsword of Sharpness)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a un objetivo con esta espada mágica e impactas, toma el resultado máximo de los dados de daño contra el objetivo.</p>\n<p>Además, cuando atacas a una criatura con esta arma y obtienes un 20 en la tirada de ataque, el objetivo recibe 4d6 de daño cortante adicional. Una vez suceda esto, tira otro d20. Si obtienes un 20, seccionarás uno de los miembros del objetivo. Los efectos de esta pérdida son determinados por el DM. Si la criatura no tiene miembros que amputar, cortas una porción de su cuerpo.</p>\n<p>Además, puedes pronunciar la palabra de activación de la espada para que la hoja emita luz brillante en un radio de 10 pies y luz tenue 10 pies más allá. Pronunciar la palabra de activación de nuevo o envainar la espada apaga la luz.</p>"
 		},
 		"Longsword of Wounding": {
-			"name": "Longsword of Wounding",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
+			"name": "Espada larga hiriente (Longsword of Wounding)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Los puntos de golpe perdidos por el daño de esta arma solo pueden ser recuperados mediante un descanso corto o largo, no mediante regeneración, magia o de cualquier otro modo.</p>\n<p>Una vez por turno, cuando golpeas a una criatura con un ataque usando esta arma mágica, puedes herirla. Al principio de cada uno de los turnos de la criatura herida, esta recibe 1d4 de daño necrótico por cada vez que la hayas herido, tras lo cual puede realizar una tirada de salvación de Constitución CD 15. Tener éxito en esta tirada terminará los efectos de todas estas heridas sobre la criatura. De forma alternativa, la criatura herida o una criatura que se encuentre a 5 pies o menos de ella puede emplear una acción para realizar una prueba de Sabiduría (Medicina) CD 15, acabando con el efecto de estas heridas si la supera.</p>"
 		},
 		"Luck Blade Greatsword": {
-			"name": "Luck Blade Greatsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>. If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
+			"name": "Espadón filo de la fortuna (Luck Blade Greatsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Mientras lleves esta espada encima, también ganas un bonificador de +1 a tus tiradas de salvación.</p>\n<p><strong>Fortuna.</strong> Si la espada está contigo, puedes usar su suerte (no necesita acción) para repetir una tirada de ataque, prueba de característica o tirada de salvación cuyo resultado no te guste. Deberás emplear el nuevo resultado. Esta propiedad no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<p><strong>Deseo.</strong> La espada tiene 1d4 – 1 cargas. Si la estás empuñando, puedes usar una acción y gastar 1 carga para lanzar el conjuro @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Deseo}. Una vez utilizada, esta propiedad no puede volver a emplearse hasta el siguiente amanecer. La espada pierde esta propiedad si no le quedan cargas.</p>"
 		},
 		"Luck Blade Longsword": {
-			"name": "Luck Blade Longsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>. If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
+			"name": "Espada larga filo de la fortuna (Luck Blade Longsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Mientras lleves esta espada encima, también ganas un bonificador de +1 a tus tiradas de salvación.</p>\n<p><strong>Fortuna.</strong> Si la espada está contigo, puedes usar su suerte (no necesita acción) para repetir una tirada de ataque, prueba de característica o tirada de salvación cuyo resultado no te guste. Deberás emplear el nuevo resultado. Esta propiedad no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<p><strong>Deseo.</strong> La espada tiene 1d4 – 1 cargas. Si la estás empuñando, puedes usar una acción y gastar 1 carga para lanzar el conjuro @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Deseo}. Una vez utilizada, esta propiedad no puede volver a emplearse hasta el siguiente amanecer. La espada pierde esta propiedad si no le quedan cargas.</p>"
 		},
 		"Luck Blade Rapier": {
-			"name": "Luck Blade Rapier",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>. If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
+			"name": "Estoque filo de la fortuna (Luck Blade Rapier)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Mientras lleves esta espada encima, también ganas un bonificador de +1 a tus tiradas de salvación.</p>\n<p><strong>Fortuna.</strong> Si la espada está contigo, puedes usar su suerte (no necesita acción) para repetir una tirada de ataque, prueba de característica o tirada de salvación cuyo resultado no te guste. Deberás emplear el nuevo resultado. Esta propiedad no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<p><strong>Deseo.</strong> La espada tiene 1d4 – 1 cargas. Si la estás empuñando, puedes usar una acción y gastar 1 carga para lanzar el conjuro @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Deseo}. Una vez utilizada, esta propiedad no puede volver a emplearse hasta el siguiente amanecer. La espada pierde esta propiedad si no le quedan cargas.</p>"
 		},
 		"Luck Blade Scimitar": {
-			"name": "Luck Blade Scimitar",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>. If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
+			"name": "Cimitarra filo de la fortuna (Luck Blade Scimitar)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Mientras lleves esta espada encima, también ganas un bonificador de +1 a tus tiradas de salvación.</p>\n<p><strong>Fortuna.</strong> Si la espada está contigo, puedes usar su suerte (no necesita acción) para repetir una tirada de ataque, prueba de característica o tirada de salvación cuyo resultado no te guste. Deberás emplear el nuevo resultado. Esta propiedad no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<p><strong>Deseo.</strong> La espada tiene 1d4 – 1 cargas. Si la estás empuñando, puedes usar una acción y gastar 1 carga para lanzar el conjuro @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Deseo}. Una vez utilizada, esta propiedad no puede volver a emplearse hasta el siguiente amanecer. La espada pierde esta propiedad si no le quedan cargas.</p>"
 		},
 		"Luck Blade Shortsword": {
-			"name": "Luck Blade Shortsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>. If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
+			"name": "Espada corta filo de la fortuna (Luck Blade Shortsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Mientras lleves esta espada encima, también ganas un bonificador de +1 a tus tiradas de salvación.</p>\n<p><strong>Fortuna.</strong> Si la espada está contigo, puedes usar su suerte (no necesita acción) para repetir una tirada de ataque, prueba de característica o tirada de salvación cuyo resultado no te guste. Deberás emplear el nuevo resultado. Esta propiedad no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<p><strong>Deseo.</strong> La espada tiene 1d4 – 1 cargas. Si la estás empuñando, puedes usar una acción y gastar 1 carga para lanzar el conjuro @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Deseo}. Una vez utilizada, esta propiedad no puede volver a emplearse hasta el siguiente amanecer. La espada pierde esta propiedad si no le quedan cargas.</p>"
 		},
 		"Lute": {
-			"name": "Lute",
+			"name": "Laúd (Lute)",
 			"description": "<p>Un laúd para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Lyre": {
-			"name": "Lyre",
+			"name": "Lira (Lyre)",
 			"description": "<p>Una lira para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Mace": {
@@ -2131,7 +2131,7 @@
 		},
 		"Rapier of Life Stealing": {
 			"name": "Rapier of Life Stealing",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 3d6 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Rapier of Wounding": {
 			"name": "Rapier of Wounding",
@@ -2407,7 +2407,7 @@
 		},
 		"Scimitar of Life Stealing": {
 			"name": "Scimitar of Life Stealing",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 3d6 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Scimitar of Sharpness": {
 			"name": "Scimitar of Sharpness",
@@ -2483,7 +2483,7 @@
 		},
 		"Shortsword of Life Stealing": {
 			"name": "Shortsword of Life Stealing",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 3d6 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Shortsword of Wounding": {
 			"name": "Shortsword of Wounding",
