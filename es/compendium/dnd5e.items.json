@@ -966,132 +966,132 @@
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Esta gema tiene 3 cargas. Puedes utilizar una acción para pronunciar la palabra de activación de la gema y gastar 1 carga. Durante los siguientes 10 minutos, tienes visión verdadera hasta 120 pies si miras a través de la gema.</p>\n<p>La gema recupera 1d3 cargas empleadas cada día, al amanecer.</p>"
 		},
 		"Giant Slayer Battleaxe": {
-			"name": "Giant Slayer Battleaxe",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Hacha de guerra matagigantes (Giant Slayer Battleaxe)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Giant Slayer Greataxe": {
-			"name": "Giant Slayer Greataxe",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Hacha a dos manos matagigantes (Giant Slayer Greataxe)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Giant Slayer Greatsword": {
-			"name": "Giant Slayer Greatsword",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Espadón matagigantes (Giant Slayer Greatsword)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Giant Slayer Handaxe": {
-			"name": "Giant Slayer Handaxe",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Hacha de mano matagigantes (Giant Slayer Handaxe)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Giant Slayer Longsword": {
-			"name": "Giant Slayer Longsword",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Espada larga matagigantes (Giant Slayer Longsword)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Giant Slayer Rapier": {
-			"name": "Giant Slayer Rapier",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Estoque matagigantes (Giant Slayer Rapier)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Giant Slayer Scimitar": {
-			"name": "Giant Slayer Scimitar",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Cimitarra matagigantes (Giant Slayer Scimitar)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Giant Slayer Shortsword": {
-			"name": "Giant Slayer Shortsword",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
+			"name": "Espada corta matagigantes (Giant Slayer Shortsword)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica.</p>\n<p>Cuando impactes a un gigante con ella, este recibe 2d6 de daño adicional del tipo del arma y deberá tener éxito en una tirada de salvación de Fuerza CD 15 o caerá derribado. En lo que concierne a esta arma, \"gigante\", se refiere a cualquier criatura con el tipo \"gigante\", incluyendo ettins y trolls.</p>"
 		},
 		"Glaive": {
 			"name": "Guja (Glaive)",
-			"description": "<p>A crescent blade is mounted on the end of a tall metal shaft. This polearm provies the ability to attack with deadly efficiency from greater range than typical melee weapons.</p>"
+			"description": "<p>Una hoja de media luna montada en el extremo de un largo mango de metal. Esta arma de asta proporciona la capacidad de atacar con una eficacia mortal desde una mayor distancia que las típicas armas de cuerpo a cuerpo.</p>"
 		},
 		"Glaive +1": {
-			"name": "Glaive +1",
+			"name": "Guja +1 (Glaive +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Glaive +2": {
-			"name": "Glaive +2",
+			"name": "Guja +2 (Glaive +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Glaive +3": {
-			"name": "Glaive +3",
+			"name": "Guja +3 (Glaive +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Glamoured Studded Leather": {
-			"name": "Glamoured Studded Leather",
-			"description": "<p>While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.</p>"
+			"name": "Cuero tachonado encantado (Glamoured Studded Leather)",
+			"description": "<p>Recibes un bonificador de +1 a la Clase de Armadura cuando llevas puesta esta armadura. También puedes usar una acción adicional para pronunciar la palabra de activación y hacer que la armadura tome el aspecto de una vestimenta normal o de otro tipo de armadura. Tú decides qué apariencia tiene, incluyendo color, estilo y accesorios, pero la armadura mantiene su peso y tamaño normal. La apariencia ilusoria dura hasta que utilices esta propiedad de nuevo o te quites la armadura.</p>"
 		},
 		"Glass Bottle": {
-			"name": "Glass Bottle",
-			"description": "<p>A bottle holds 1½ pints of liquid.</p>"
+			"name": "Botella de cristal (Glass Bottle)",
+			"description": "<p>Una botella contiene 1½ pintas de líquido.</p>"
 		},
 		"Glassblower's Tools": {
-			"name": "Glassblower's Tools",
+			"name": "Herramientas de soplador de vidrio (Glassblower's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un soplador de vidrio.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Gloves of Missile Snaring": {
-			"name": "Gloves of Missile Snaring",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand.</p>"
+			"name": "Guantes atrapaflechas (Gloves of Missile Snaring)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Estos guantes parecen fundirse con tus manos cuando los vistes. Cuando un ataque con arma a distancia te impacte llevándolos puestos, podrás usar tu reacción para reducir el daño en 1d10 + tu bonificador de Destreza, siempre y cuando tengas una mano libre. Si reduces el daño a 0, podrás atrapar el proyectil, aunque solo cuando este sea lo bastante pequeño como para que puedas sujetarlo con una mano.</p>"
 		},
 		"Gloves of Swimming and Climbing": {
-			"name": "Gloves of Swimming and Climbing",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.</p>"
+			"name": "Guantes de natación y escalada (Gloves of Swimming and Climbing)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves estos guantes, nadar y escalar no te cuesta movimiento adicional y, además, obtienes un bonificador de +5 a tus pruebas de Fuerza (Atletismo) para nadar o escalar.</p>"
 		},
 		"Goggles of Night": {
-			"name": "Goggles of Night",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.</p>"
+			"name": "Anteojos de la noche (Goggles of Night)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras lleves estas lentes oscuras, tienes visión en la oscuridad hasta 60 pies. Si ya posees visión en la oscuridad, estos anteojos aumentan su alcance en 60 pies.</p>"
 		},
 		"Grappling Hook": {
 			"name": "Garfio de escalada (Grappling Hook)",
-			"description": "<p>A device with iron claws, can be used with rope for dragging or grasping.</p>"
+			"description": "<p>Un dispositivo con garras de hierro, que se puede usar con una cuerda para arrastrar o agarrar.</p>"
 		},
 		"Greataxe": {
 			"name": "Hacha a dos manos (Greataxe)",
-			"description": "<p>This enormous axe features two twin crescent blades mounted on either side of a tall spiked shaft. Designed to be wielded with two hands and cleave foes in twain.</p>"
+			"description": "<p>Esta enorme hacha cuenta con dos hojas gemelas en forma de media luna montadas a ambos lados de un largo mango con púas. Está diseñada para ser blandida a dos manos y partir a los enemigos en dos.</p>"
 		},
 		"Greataxe +1": {
-			"name": "Greataxe +1",
+			"name": "Hacha a dos manos +1 (Greataxe +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greataxe +2": {
-			"name": "Greataxe +2",
+			"name": "Hacha a dos manos +2 (Greataxe +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greataxe +3": {
-			"name": "Greataxe +3",
+			"name": "Hacha a dos manos +3 (Greataxe +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatclub": {
 			"name": "Garrote grande (Greatclub)",
-			"description": "<p>A larger variant of the simple club, a hefty wooden shaft with an enormous knot of wood upon the end deals crippling bludgeoning damage to unfortunate foes.</p>"
+			"description": "<p>Una versión más grande del garrote común, un enorme palo de madera con un gran nudo de madera en el extremo que inflige un terrible daño contundente a los desafortunados enemigos.</p>"
 		},
 		"Greatclub +1": {
-			"name": "Greatclub +1",
+			"name": "Garrote grande +1 (Greatclub +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatclub +2": {
-			"name": "Greatclub +2",
+			"name": "Garrote grande +2 (Greatclub +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatclub +3": {
-			"name": "Greatclub +3",
+			"name": "Garrote grande +3 (Greatclub +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword": {
 			"name": "Espadón (Greatsword)",
-			"description": "<p>A mighty two-handed blade is over four feet long an almost five inches wide. This weapon requires extensive martial training but those proficient in its use are formidable warriors.</p>"
+			"description": "<p>Una poderosa espada a dos manos de más de metro y medio de largo y casi diez centímetros de ancho. Esta arma requiere un gran entrenamiento marcial, pero los que dominan su uso se convierten en extraordinarios guerreros.</p>"
 		},
 		"Greatsword +1": {
-			"name": "Greatsword +1",
+			"name": "Espadón +1 (Greatsword +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword +2": {
-			"name": "Greatsword +2",
+			"name": "Espadón +2 (Greatsword +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword +3": {
-			"name": "Greatsword +3",
+			"name": "Espadón +3 (Greatsword +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Greatsword of Life Stealing": {
-			"name": "Greatsword of Life Stealing",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
+			"name": "Espadón ladrón de vida (Greatsword of Life Stealing)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 10 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Greatsword of Sharpness": {
 			"name": "Greatsword of Sharpness",
@@ -1135,7 +1135,7 @@
 		},
 		"Half Plate Armor of Resistance": {
 			"name": "Half Plate Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Hammer": {
 			"name": "Martillo (Hammer)",
@@ -1235,94 +1235,94 @@
 		},
 		"Hide Armor": {
 			"name": "Armadura de pieles (Hide Armor)",
-			"description": "<p>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.</p>"
+			"description": "<p>Esta primitiva armadura está fabricada a partir de pelajes y pieles gruesas. Es común verla en tribus bárbaras, humanoides malvados y, en general, cualquiera que no disponga de las herramientas o materiales necesarios para crear una armadura mejor.</p>"
 		},
 		"Hide Armor +1": {
-			"name": "Hide Armor +1",
+			"name": "Armadura de pieles +1 (Hide Armor +1)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Hide Armor +2": {
-			"name": "Hide Armor +2",
+			"name": "Armadura de pieles +2 (Hide Armor +2)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Hide Armor +3": {
-			"name": "Hide Armor +3",
+			"name": "Armadura de pieles +3 (Hide Armor +3)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Hide Armor of Resistance": {
-			"name": "Hide Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"name": "Armadura de pieles de resistencia (Hide Armor of Resistance)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Holy Avenger Greatsword": {
 			"name": "Holy Avenger Greatsword",
-			"description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
+			"description": "<p><em>(Requiere sintonización con un paladín)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Cuando impactes a un infernal o muerto viviente con ella, este recibe 2d10 de daño radiante adicional.</p>\n<p>Mientras empuñes la espada, esta crea un aura de 10 pies de radio a tu alrededor. Las criaturas amistosas que se encuentre en el área (incluido tú) tenéis ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos. Si posees 17 o más niveles de paladín, el radio del aura crece hasta 30 pies.</p>"
 		},
 		"Holy Avenger Longsword": {
-			"name": "Holy Avenger Longsword",
-			"description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
+			"name": "Espada larga vengadora sagrada (Holy Avenger Longsword)",
+			"description": "<p><em>(Requiere sintonización con un paladín)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Cuando impactes a un infernal o muerto viviente con ella, este recibe 2d10 de daño radiante adicional.</p>\n<p>Mientras empuñes la espada, esta crea un aura de 10 pies de radio a tu alrededor. Las criaturas amistosas que se encuentre en el área (incluido tú) tenéis ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos. Si posees 17 o más niveles de paladín, el radio del aura crece hasta 30 pies.</p>"
 		},
 		"Holy Avenger Rapier": {
-			"name": "Holy Avenger Rapier",
-			"description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
+			"name": "Estoque vengador sagrado (Holy Avenger Rapier)",
+			"description": "<p><em>(Requiere sintonización con un paladín)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Cuando impactes a un infernal o muerto viviente con ella, este recibe 2d10 de daño radiante adicional.</p>\n<p>Mientras empuñes la espada, esta crea un aura de 10 pies de radio a tu alrededor. Las criaturas amistosas que se encuentre en el área (incluido tú) tenéis ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos. Si posees 17 o más niveles de paladín, el radio del aura crece hasta 30 pies.</p>"
 		},
 		"Holy Avenger Scimitar": {
-			"name": "Holy Avenger Scimitar",
-			"description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
+			"name": "Cimitarra vengadora sagrada (Holy Avenger Scimitar)",
+			"description": "<p><em>(Requiere sintonización con un paladín)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Cuando impactes a un infernal o muerto viviente con ella, este recibe 2d10 de daño radiante adicional.</p>\n<p>Mientras empuñes la espada, esta crea un aura de 10 pies de radio a tu alrededor. Las criaturas amistosas que se encuentre en el área (incluido tú) tenéis ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos. Si posees 17 o más niveles de paladín, el radio del aura crece hasta 30 pies.</p>"
 		},
 		"Holy Avenger Shortsword": {
-			"name": "Holy Avenger Shortsword",
-			"description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
+			"name": "Espada corta vengadora sagrada (Holy Avenger Shortsword)",
+			"description": "<p><em>(Requiere sintonización con un paladín)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Cuando impactes a un infernal o muerto viviente con ella, este recibe 2d10 de daño radiante adicional.</p>\n<p>Mientras empuñes la espada, esta crea un aura de 10 pies de radio a tu alrededor. Las criaturas amistosas que se encuentre en el área (incluido tú) tenéis ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos. Si posees 17 o más niveles de paladín, el radio del aura crece hasta 30 pies.</p>"
 		},
 		"Hooded Lantern": {
-			"name": "Hooded Lantern",
-			"description": "<p>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</p>"
+			"name": "Linterna sorda (Hooded Lantern)",
+			"description": "<p>Esta linterna emite luz brillante en un radio de 30 pies y luz tenue 30 pies más allá. Puede estar encendida hasta 6 horas con un frasco (1 pinta) de aceite. Como acción, puedes cubrir la abertura con una tapa haciendo que la linterna solo emita luz tenue en un radio de 5 pies.</p>"
 		},
 		"Horn": {
-			"name": "Horn",
+			"name": "Cuerno (Horn)",
 			"description": "<p>Un cuerno para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Horn of Blasting": {
-			"name": "Horn of Blasting",
-			"description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes 5d6 thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn't deafened. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take 10d6 thunder damage instead of 5d6.</p>\n<p>Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn.</p>"
+			"name": "Cuerno de estallido (Horn of Blasting)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Si usas una acción para pronunciar la palabra de activación del cuerno y después lo soplas, emitirá un estallido estruendoso en un cono de 30 pies, audible a 600 pies de distancia. Cada criatura en el cono deberá hacer una tirada de salvación de Constitución CD 15. Si falla la tirada, sufrirá 5d6 de daño de trueno y quedará ensordecida durante 1 minuto. Si la supera, recibirá la mitad del daño y no estará ensordecida. Los objetos y criaturas hechos de cristal o vidrio tienen desventaja en la tirada de salvación y reciben 10d6 de daño de trueno en vez de 5d6.</p>\n<p>Cada empleo de la magia del cuerno posee un 20% de probabilidades de hacer explotar el cuerno. Esta explosión inflige 10d6 de daño de fuego al soplador y destruye el cuerno.</p>"
 		},
 		"Horseshoes of Speed": {
-			"name": "Horseshoes of Speed",
-			"description": "<p><em>Wondrous item</em></p>\n<p>These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.</p>"
+			"name": "Herraduras de velocidad (Horseshoes of Speed)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Estas herraduras de hierro vienen de cuatro en cuatro. Mientras cuatro de ellas estén fijadas a los cascos de un caballo o criatura similar, este aumentará su velocidad caminando en 30 pies.</p>"
 		},
 		"Horseshoes of a Zephyr": {
-			"name": "Horseshoes of a Zephyr",
-			"description": "<p><em>Wondrous item</em></p>\n<p>These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above non-solid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.</p>"
+			"name": "Herraduras del céfiro (Horseshoes of a Zephyr)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Estas herraduras de hierro vienen de cuatro en cuatro. Mientras cuatro de ellas estén fijadas a los cascos de un caballo o criatura similar, permitirán a esta moverse con normalidad, pero flotando 4 pulgadas sobre el suelo. Este efecto implica que la criatura puede cruzar o permanecer sobre superficies no sólidas o inestables, como agua o lava. Además, no deja huellas e ignora terreno difícil. Por último, podrá moverse a velocidad normal hasta 12 horas al día sin sufrir el cansancio por hacer marchas forzadas.</p>"
 		},
 		"Hourglass": {
 			"name": "Reloj de arena (Hourglass)",
-			"description": "<p>It is a device used to measure the psaage of time. It comprises two glass bulbs connected vertically by a narrow neck that allows a regulated trickle of sand from the upper bulb to the lower one.</p>"
+			"description": "<p>Este dispositivo se utiliza para medir el paso del tiempo. Consta de dos globos de cristal conectados verticalmente por un cuello estrecho que permite un goteo regulado de arena desde el globo superior al inferior.</p>"
 		},
 		"Hunting Trap": {
-			"name": "Hunting Trap",
-			"description": "<p>When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.</p>"
+			"name": "Trampa para cazar (Hunting Trap)",
+			"description": "<p>Puedes usar tu acción para preparar esta trampa: un anillo de afilados dientes de acero que se cierra cuando una criatura pisa la placa de presión que está en su centro. La trampa está fijada mediante una pesada cadena a cualquier objeto inmóvil, como un árbol o una estaca clavada en el suelo. Si una criatura pisa la placa deberá superar una tirada de salvación de Destreza CD 13 o su movimiento terminará y sufrirá 1d4 de daño perforante. A partir de ese momento, y hasta que la criatura se libre de la trampa, su movimiento se verá limitado por la longitud de la cadena (normalmente 3 pies). Una criatura puede invertir su acción en hacer una prueba de Fuerza CD 13, logrando liberarse a sí misma o a otra criatura dentro de su alcance si tiene éxito. Cada prueba fallida causa 1 de daño perforante a la criatura atrapada.</p>"
 		},
 		"Immovable Rod": {
-			"name": "Immovable Rod",
-			"description": "<p>This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.</p>"
+			"name": "Vara inamovible (Immovable Rod)",
+			"description": "<p>Esta vara de hierro posee un botón en uno de sus extremos. Puedes usar una acción para pulsar el botón, haciendo que la vara se fije mágicamente en el sitio. Hasta que otra criatura o tú utilicéis una acción para pulsar de nuevo el botón, la vara no se moverá, desafiando a la gravedad si es necesario. Puede aguantar hasta 8.000 libras de peso; una cantidad mayor provocará que se desactive y caiga. Una criatura puede invertir su acción en realizar una prueba de Fuerza CD 30, moviendo la vara hasta 10 pies si tiene éxito.</p>"
 		},
 		"Ink Bottle": {
-			"name": "Ink Bottle",
-			"description": "<p>A small bottle of ink for writing upon parchment.</p>"
+			"name": "Botella de tinta (Ink Bottle)",
+			"description": "<p>Un pequeño frasco de tinta para escribir sobre pergamino.</p>"
 		},
 		"Ink Pen": {
-			"name": "Ink Pen",
-			"description": "<p>A deviced used in combination with ink to write or draw on a sheet of paper.</p>"
+			"name": "Pluma para escribir (Ink Pen)",
+			"description": "<p>Utensilio utilizado en combinación con la tinta para escribir o dibujar en una hoja de papel.</p>"
 		},
 		"Instant Fortress": {
-			"name": "Instant Fortress",
-			"description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.</p>\n<p>The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the @Compendium[dnd5e.spells.1nhIxh0DsJsntCfj]{Knock} spell and similar magic, such as that of a @Compendium[dnd5e.items.vZdLYfHlLcZqQ8zc]{Chime of Opening}.</p>\n<p>Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking 10d10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren't being worn or carried take this damage and are pushed automatically.</p>\n<p>The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of Wish causes the roof, the door, or one wall to regain 50 hit points.</p>"
+			"name": "Fortaleza instantánea (Instant Fortress)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Puedes usar una acción para colocar este cubo de metal de 1 pulgada de lado en el suelo y pronunciar su palabra de activación. El cubo crecerá rápidamente hasta convertirse en una fortaleza, que permanecerá hasta que emplees una acción para desconvocarla, lo cual solo funciona si está vacía.</p>\n<p>Esta fortificación es una torre cuadrada de 20 pies de lado y 30 de altura, con aspilleras en todos los lados y almenas en la parte superior. El interior está dividido en dos plantas, conectadas por una escalera construida en el muro. Esta escalera acaba en una trampilla que da al techo. Cuando se activa, la torre tiene una pequeña puerta en el lado que te encara. Esta entrada solo se abre bajo tus órdenes, que puedes dar utilizando una acción adicional. Es inmune al conjuro @Compendium[dnd5e.spells.1nhIxh0DsJsntCfj]{Abrir} o efectos mágicos similares, como el de un @Compendium[dnd5e.items.vZdLYfHlLcZqQ8zc]{Carrillón de apertura}.</p>\n<p>Cada criatura que se encuentre en el área cuando aparece la fortaleza deberá realizar una tirada de salvación de Destreza CD 15, recibiendo 10d10 de daño contundente si falla o la mitad si tiene éxito. En cualquier caso, será empujada a un espacio desocupado justo al lado de la fortaleza, pero fuera de esta. Los objetos situados en el área que no lleve o vista alguien, reciben este daño y son empujados automáticamente.</p>\n<p>La torre está hecha de adamantina y su magia impide que sea derribada. El techo, puerta y muros poseen cada uno 100 puntos de golpe, inmunidad al daño de armas no mágicas (excepto las de asedio) y resistencia a todo el resto de daño. Solo un conjuro de @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Deseo} puede reparar esta fortaleza. Utilizar el conjuro de esta manera cuenta como replicar el efecto de un conjuro de nivel 8 o menor. Cada vez que se lance deseo, el techo, puerta o un muro recuperan 50 puntos de golpe.</p>"
 		},
 		"Ioun Stone of Absorption": {
-			"name": "Ioun Stone of Absorption",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p>When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p>A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p><strong>Stone of Absorption</strong>. While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.</p>\n<p>Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.</p>"
+			"name": "Piedra Ioun de absorción (Ioun Stone of Absorption)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Las piedras loun se llaman así por Ioun, un dios del conocimiento y la profecía adorado en algunos mundos. Existen muchos tipos de estas piedras, cada una de ellas con una combinación distinta de forma y color.</p>\n<p>Si usas una acción para lanzar una de estas piedras al aire, esta se quedará orbitando alrededor de tu cabeza, a una distancia de 1d3 pies, y te proporcionará un beneficio. En cualquier momento posterior, otra criatura podrá emplear una acción para intentar agarrar o atrapar la piedra y separarla de ti, ya sea con una tirada de ataque con éxito contra CA 24 o superando una prueba de Destreza (Acrobacias) CD 24. Puedes utilizar una acción para coger y guardar la piedra, finalizando así su efecto.</p>\n<p>Una piedra tiene CA 24, 10 puntos de golpe y resistencia a todo el daño. Mientras orbite sobre tu cabeza, se considera un objeto que llevas puesto.</p>\n<p><strong>Piedra de Absorción.</strong> Cuando este elipsoide de color lavanda claro orbita alrededor de tu cabeza, puedes usar tu reacción para cancelar un conjuro de nivel 4 o inferior que lance una criatura que puedas ver y del cual seas el único objetivo.</p>\n<p>Una vez haya cancelado 20 niveles de conjuros, la piedra se volverá gris, pues su magia se habrá agotado. Si eres objetivo de un conjuro cuyo nivel es mayor que el número de niveles de conjuro restantes en la piedra, esta no podrá cancelarlo.</p>"
 		},
 		"Ioun Stone of Agility": {
-			"name": "Ioun Stone of Agility",
+			"name": "Piedra Ioun de agilidad (Ioun Stone of Agility)",
 			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p>When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p>A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p><strong>Stone of Agility</strong>. Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.</p>"
 		},
 		"Ioun Stone of Awareness": {
@@ -1467,7 +1467,7 @@
 		},
 		"Leather Armor of Resistance": {
 			"name": "Leather Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Leatherworker's Tools": {
 			"name": "Leatherworker's Tools",
@@ -1831,7 +1831,7 @@
 		},
 		"Padded Armor of Resistance": {
 			"name": "Padded Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Painter's Supplies": {
 			"name": "Painter's Supplies",
@@ -1927,7 +1927,7 @@
 		},
 		"Plate Armor of Resistance": {
 			"name": "Plate Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Poisoner’s Kit": {
 			"name": "Poisoner’s Kit",
@@ -2167,7 +2167,7 @@
 		},
 		"Ring Mail Armor of Resistance": {
 			"name": "Ring Mail Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Ring of Acid Resistance": {
 			"name": "Ring of Acid Resistance",
@@ -2383,7 +2383,7 @@
 		},
 		"Scale Mail Armor of Resistance": {
 			"name": "Scale Mail Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Scarab of Protection": {
 			"name": "Scarab of Protection",
@@ -2671,7 +2671,7 @@
 		},
 		"Splint Armor of Resistance": {
 			"name": "Splint Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Sprig of Mistletoe": {
 			"name": "Sprig of Mistletoe",
@@ -2767,7 +2767,7 @@
 		},
 		"Studded Leather Armor of Resistance": {
 			"name": "Studded Leather Armor of Resistance",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Force</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Lightning</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrotic</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psychic</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiant</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Thunder</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Sun Blade": {
 			"name": "Sun Blade",
