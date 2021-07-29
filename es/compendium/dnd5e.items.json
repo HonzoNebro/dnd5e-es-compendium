@@ -559,7 +559,7 @@
 		},
 		"Crystal": {
 			"name": "Cristal (Crystal)",
-			"description": "<p>Este talismán cristalino sirve como foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador Arcano.</strong> Un foco arcano es un objeto especialmente diseñado para canalizar el poder de los hechizos arcanos. Un hechicero, un brujo o un mago pueden usar dicho elemento como foco de lanzamiento de hechizos, usándolo en lugar de cualquier componente material que no incluya un costo.</p>"
+			"description": "<p>Este talismán cristalino sirve como foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador arcano.</strong> Un foco arcano es un objeto especialmente diseñado para canalizar el poder de los hechizos arcanos. Un hechicero, un brujo o un mago pueden usar dicho elemento como foco de lanzamiento de hechizos, usándolo en lugar de cualquier componente material que no incluya un costo.</p>"
 		},
 		"Crystal Ball": {
 			"name": "Bola de cristal (Crystal Ball)",
@@ -1791,83 +1791,83 @@
 		},
 		"Oil Flask": {
 			"name": "Aceite (frasco) (Oil Flask)",
-			"description": "<p>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon.</p>\n<p>On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level.</p>\n<p>If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</p>"
+			"description": "<p>El aceite suele venir en frascos de arcilla con capacidad para 1 pinta. Como acción, puedes esparcir el aceite de este frasco sobre una criatura que se encuentre a un máximo de 5 pies o lanzarlo hasta a 20 pies, rompiendo el frasco con el impacto. En ambos casos, haz un ataque a distancia contra la criatura o el objeto, tratando el aceite como un arma improvisada.</p>\n<p>Si tienes éxito, quedará cubierto de aceite. Si el objetivo recibe daño de fuego antes de que el aceite se seque (tras 1 minuto), sufrirá 5 de daño de fuego adicional debido al aceite ardiendo. También puedes derramar el aceite sobre el suelo, cubriendo un área de 5 pies cuadrados, siempre y cuando la superficie este nivelada.</p>\n<p>Si se prende, el aceite arderá durante dos asaltos y causará 5 de daño de fuego a cualquier criatura que entre en la zona o acabe su turno en ella. Una criatura solo puede recibir daño de esta forma una vez por turno.</p>"
 		},
 		"Oil of Etherealness": {
-			"name": "Oil of Etherealness",
-			"description": "<p><em>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate.  </em></p>\n<p>The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium).  Applying the oil takes 10 minutes.  The affected creature then gains the effect of the @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Etherealness} spell for 1 hour.</p>"
+			"name": "Aceite de etereidad (Oil of Etherealness)",
+			"description": "<p><em>En el exterior de este recipiente se forman y evaporan rápidamente gotitas de un aceite turbio y gris.</em></p>\n<p>Este aceite puede cubrir completamente a una criatura Mediana o más pequeña, así como el equipo que vista y cargue. Es necesario un vial adicional por cada categoría de tamaño por encima de Mediano. Se tarda 10 minutos en aplicar este aceite. La criatura afectada gana los efectos del conjuro @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Excursión etérea} durante 1 hora.</p>"
 		},
 		"Oil of Sharpness": {
-			"name": "Oil of Sharpness",
-			"description": "<p><em>This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. </em></p>\n<p>The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.</p>"
+			"name": "Aceite de afilado (Oil of Sharpness)",
+			"description": "<p><em>Este aceite transparente y gelatinoso brilla debido a las minúsculas esquirlas de plata que contiene.</em></p>\n<p>Puedes cubrir un arma cortante o perforante o hasta 5 unidades de munición cortante o perforante. Se tarda 1 minuto en aplicar este aceite. Durante 1 hora, el arma recubierta se considera mágica y tiene un bonificador de +3 a las tiradas de ataque y daño.</p>"
 		},
 		"Oil of Slipperiness": {
-			"name": "Oil of Slipperiness",
-			"description": "<p><em>This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. </em></p>\n<p>The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium).  Applying the oil takes 10 minutes.  The affected creature then gains the effect of a @Compendium[dnd5e.spells.da0a1t2FqaTjRZGT]{Freedom of Movement} spell for 8 hours.</p>\n<p>Alternatively, the oil can be poured on the ground as an action, where it covers a 10‑foot square, duplicating the effect of the @Compendium[dnd5e.spells.etgcR9wqmrhyZ0tx]{Grease} spell in that area for 8 hours.</p>"
+			"name": "Aceite escurridizo (Oil of Slipperiness)",
+			"description": "<p><em>Este ungüento negro y pegajoso parece denso y pesado dentro del recipiente, pero fluye rápidamente al verterlo.</em></p>\n<p>El aceite puede cubrir completamente a una criatura Mediana o más pequeña, así como el equipo que vista y cargue. Es necesario un vial adicional por cada categoría de tamaño por encima de Mediano. Se tarda 10 minutos en aplicarlo. La criatura afectada gana los efectos del conjuro @Compendium[dnd5e.spells.da0a1t2FqaTjRZGT]{Libertad de movimiento} durante 8 horas.</p>\n<p>De forma alternativa, puede utilizarse una acción para derramar el contenido del frasco, cubriendo una zona de 10 por 10 pies de aceite y replicando los efectos del conjuro @Compendium[dnd5e.spells.etgcR9wqmrhyZ0tx]{Grasa} durante 8 horas.</p>"
 		},
 		"Orb": {
-			"name": "Orb",
-			"description": "<p>This spherical talisman serves as a spellcasting focus, helping the practitioner to channel arcane, primal, or divine energies.</p>\n<p><strong>Spellcasting Focus. </strong>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
+			"name": "Orbe (Orb)",
+			"description": "<p>Este talismán esférico sirve como un foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador Arcano.</strong> Un canalizador arcano es un objeto especial, diseñado para conducir el poder de los conjuros arcanos. Los brujos, hechiceros y magos pueden utilizar este objeto como canalizador mágico, en lugar de los componentes indicados en el conjuro.</p>"
 		},
 		"Orb of Dragonkind": {
-			"name": "Orb of Dragonkind",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>Ages past, elves and humans waged a terrible war against evil dragons. When the world seemed doomed, powerful wizards came together and worked their greatest magic, forging five Orbs of Dragonkind (or Dragon Orbs) to help them defeat the dragons. One orb was taken to each of the five wizard towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.</p>\n<p>As the wizard towers fell in later ages, the orbs were destroyed or faded into legend, and only three are thought to survive. Their magic has been warped and twisted over the centuries, so although their primary purpose of calling dragons still functions, they also allow some measure of control over dragons.</p>\n<p>Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax magic from it. Those lacking in force of personality might find themselves enslaved to an orb.</p>\n<p>An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.</p>\n<p>While attuned to an orb, you can use an action to peer into the orb's depths and speak its command word. You must then make a DC 15 Charisma check. On a successful check, you control the orb for as long as you remain attuned to it. On a failed check, you become charmed by the orb for as long as you remain attuned to it.</p>\n<p>While you are charmed by the orb, you can't voluntarily end your attunement to it, and the orb casts @Compendium[dnd5e.spells.zMAWdyc8UVb37BK4]{Suggestion} on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of Tiamat, or something else the GM decides.</p>\n<h3 id=\"random-properties\"><strong>Random Properties</strong>. An Orb of Dragonkind has the following random properties (see DMG pg. 219-21): </h3>\n<ul>\n<li>2 minor beneficial properties </li>\n<li>1 minor detrimental property</li>\n<li>1 major detrimental property</li>\n</ul>\n<h3 id=\"spells\"><strong>Spells</strong>. The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: </h3>\n<ul>\n<li>@Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Cure Wounds} (5th-level version, 3 charges)</li>\n<li>@Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Daylight} (1 charge)</li>\n<li>@Compendium[dnd5e.spells.VtCXMdyM6mAdIJZb]{Death Ward} (2 charges)</li>\n<li>@Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Scrying} (3 charges).</li>\n<li>You can also use an action to cast the @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detect Magic} spell from the orb without using any charges.</li>\n</ul>\n<p><strong>Call Dragons</strong>. While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.</p>\n<p><strong>Destroying an Orb</strong>. An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A @Compendium[dnd5e.spells.HBHbOGKNVVprSlwn]{Disintegrate} spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.</p>"
+			"name": "Orbe de los dragones (Orb of Dragonkind)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>En otra era, en el mundo de Krynn, los elfos y los humanos libraban una terrible guerra contra los dragones malvados. Cuando el mundo ya parecía estar condenado, los magos de las Torres de la Alta Hechicería se unieron y utilizaron su mejor magia, forjando cinco Orbes de los Dragones (u Orbes Dragón) para ayudarles a derrotar a los dragones. Se llevó cada orbe a una de las cinco torres, donde fueron empleados para conducir el cauce de la guerra hacia la victoria. Los magos usaron los orbes para atraer dragones, a los que mataron con magia poderosa.</p>\n<p>Al caer las Torres de la Alta Hechicería en eras posteriores, los orbes fueron destruidos o desaparecieron en la leyenda. Se cree que solo tres de ellos han sobrevivido. Su magia ha sido distorsionada y pervertida a lo largo de los siglos, por lo que aunque su propósito principal de llamar a los dragones todavía funciona, también permiten tener algo de control sobre ellos.</p>\n<p>Cada orbe contiene la esencia de un dragón malvado, una presencia que se molestará ante cualquier intento de extraer poder mágico de ella. Aquellas criaturas con personalidad débil podrían acabar siendo esclavas del orbe.</p>\n<p>Un orbe es un globo de cristal grabado de unas 10 pulgadas de diámetro. Cuando se usa, se expande hasta alcanzar unas 20 pulgadas de diámetro y una niebla se arremolina en su interior.</p>\n<p>Siempre que estés sintonizado con un orbe, puedes utilizar una acción para mirar en las profundidades del objeto y pronunciar su palabra de activación. Después, debes realizar una prueba de Carisma CD 15. Si tienes éxito, controlarás el orbe mientras sigas sintonizado con él. Si fracasas, quedarás hechizado por el objeto mientras te mantengas sintonizado con él.</p>\n<p>Mientras permanezcas hechizado por el orbe, no podrás acabar voluntariamente la sintonización y el orbe lanzará @Compendium[dnd5e.spells.zMAWdyc8UVb37BK4]{Sugestión} sobre ti a voluntad (tirada de salvación CD 18), exhortándote para que trabajes para hacer realidad sus malvados fines. La esencia del dragón confinada en el orbe podría querer muchas cosas: la aniquilación de un pueblo específico, ser liberada del orbe, crear sufrimiento en el mundo, extender el culto a Takhisis (el nombre de Tiamat en Krynn) o cualquier otro deseo que el DM decida.</p>\n<h3 id=\"random-properties\"><strong>Propiedades aleatorias.</strong> Un Orbe de los Dragones tiene las siguientes propiedades aleatorias: (ver GdDM pg. 226): </h3>\n<ul>\n<li>2 propiedades beneficiosas menores.</li>\n<li>1 propiedad perjudicial menor.</li>\n<li>1 propiedad perjudicial mayor.</li>\n</ul>\n<h3 id=\"spells\"><strong>Conjuros.</strong> El orbe tiene 7 cargas y recupera 1d4 + 3 cargas empleadas cada día, al amanecer. Si controlas el orbe, puedes usar una acción y gastar 1 o más cargas para lanzar uno de los siguientes conjuros (tirada de salvación CD 18) desde él:</h3>\n<ul>\n<li>@Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Curar heridas} (versión de nivel 5, 3 cargas)</li>\n<li>@Compendium[dnd5e.spells.fVbCxFRaORalHB20]{Escudriñar} (3 cargas)</li>\n<li>@Compendium[dnd5e.spells.VtCXMdyM6mAdIJZb]{Guarda contra la muerte} (2 cargas)</li>\n<li>@Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Luz del día} (1 carga)</li>\n<li>También puedes emplear una acción para lanzar el conjuro @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detectar magia} desde el orbe sin utilizar ninguna carga.</li>\n</ul>\n<p><strong>Llamar a los dragones.</strong> Mientras controles el orbe, puedes usar una acción para hacer que el artefacto lance una llamada telepática que se extiende en todas direcciones hasta una distancia de 40 millas. Los dragones malvados dentro del alcance se ven obligados a acudir hasta el orbe tan pronto como sea posible y por el camino más directo. Las deidades dragón, como Tiamat, no se ven afectadas por esta llamada. Los dragones atraídos hacia el orbe pueden ser hostiles hacia ti por haber forzado su voluntad. Una vez hayas usado esta propiedad, no puede ser empleada de nuevo durante 1 hora.</p>\n<p><strong>Destruir un Orbe.</strong> Un Orbe de los Dragones parece frágil, pero es invulnerable a la mayoría del daño, incluyendo los ataques, también los de aliento, de los dragones. Sin embargo, el conjuro @Compendium[dnd5e.spells.HBHbOGKNVVprSlwn]{Desintegrar} o un buen golpe con un arma mágica +3 es suficiente para destruirlo.</p>"
 		},
 		"Padded Armor": {
 			"name": "Armadura acolchada (Padded Armor)",
-			"description": "<p>Padded armor consists of quilted layers of cloth and batting. Padded armor offers a comparable level of protection as stiffened leather but is somewhat less encumbering to the wearer.</p>"
+			"description": "<p>La armadura acolchada está hecha de varias capas de tela guateada. La armadura acolchada ofrece un nivel de protección comparable al del cuero rígido, pero es algo menos molesto para el usuario.</p>"
 		},
 		"Padded Armor +1": {
-			"name": "Padded Armor +1",
+			"name": "Armadura acolchada +1 (Padded Armor +1)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Padded Armor +2": {
-			"name": "Padded Armor +2",
+			"name": "Armadura acolchada +2 (Padded Armor +2)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Padded Armor +3": {
-			"name": "Padded Armor +3",
+			"name": "Armadura acolchada +3 (Padded Armor +3)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Padded Armor of Resistance": {
-			"name": "Padded Armor of Resistance",
+			"name": "Armadura acolchada de resistencia (Padded Armor of Resistance)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Painter's Supplies": {
-			"name": "Painter's Supplies",
+			"name": "Suministros de pintor (Painter's Supplies)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un pintor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pan Flute": {
-			"name": "Pan Flute",
+			"name": "Flauta de pan (Pan Flute)",
 			"description": "<p>Una flauta de pan para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Paper": {
 			"name": "Papel (Paper)",
-			"description": "<p>A single sheet of paper.</p>"
+			"description": "<p>Una única hoja de papel.</p>"
 		},
 		"Parchment": {
 			"name": "Pergamino (Parchment)",
-			"description": "<p>A single sheet of heavier parchment paper.</p>"
+			"description": "<p>Una única hoja de papel de pergamino más grueso.</p>"
 		},
 		"Pearl of Power": {
-			"name": "Pearl of Power",
-			"description": "<p><em>Wondrous item, (requires attunement by a spellcaster)</em></p>\n<p>While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn.</p>"
+			"name": "Perla de poder (Pearl of Power)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización con un lanzador de conjuros)</em></p>\n<p>Mientras esta perla esté en tu poder, puedes usar una acción para pronunciar su palabra de activación y recuperar un espacio de conjuro empleado. Si el espacio era de nivel 4 o más, el que recuperas es de nivel 3. Esta propiedad no puede volver a utilizarse hasta el siguiente amanecer.</p>"
 		},
 		"Perfume": {
-			"name": "Perfume",
-			"description": "<p>A vial of aromatic perfume.</p>"
+			"name": "Perfume (Perfume)",
+			"description": "<p>Un frasco de perfume aromático.</p>"
 		},
 		"Periapt of Health": {
-			"name": "Periapt of Health",
-			"description": "<p><em>Wondrous item</em></p>\n<p>You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant.</p>"
+			"name": "Talismán de la salud (Periapt of Health)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>No podrás verte afectado por ninguna enfermedad mientras vistas este colgante. Si ya estabas enfermo, los efectos de esa enfermedad quedan suprimidos mientras lo lleves puesto.</p>"
 		},
 		"Periapt of Proof against Poison": {
-			"name": "Periapt of Proof against Poison",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.</p>"
+			"name": "Colgante de inmunidad al veneno (Periapt of Proof against Poison)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta fina cadena de plata lleva un colgante con un brillante negro incrustado. Mientras lo lleves puesto, los venenos no tienen efecto sobre ti. Eres inmune al estado envenenado y posees inmunidad al daño de veneno.</p>"
 		},
 		"Periapt of Wound Closure": {
-			"name": "Periapt of Wound Closure",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.</p>"
+			"name": "Talismán de cerrar heridas (Periapt of Wound Closure)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este talismán, te estabilizas automáticamente si al principio de tu turno estás agonizando. Además, cuando tires un Dado de Golpe para recuperar puntos de golpe, duplica el número de puntos de golpe que recuperas.</p>"
 		},
 		"Philter of Love": {
 			"name": "Philter of Love",
