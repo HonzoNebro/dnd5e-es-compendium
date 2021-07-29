@@ -859,103 +859,103 @@
 		},
 		"Fishing Tackle": {
 			"name": "Caña de pescar (Fishing Tackle)",
-			"description": "<p>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.</p>"
+			"description": "<p>La caña viene acompañada de un sedal, corchos de pesca, anzuelos de acero, plomos, cebos de terciopelo y una sacadera.</p>"
 		},
 		"Flail": {
 			"name": "Flagelo (Flail)",
-			"description": "<p>A set of chain-linked spiked balls lashed to a stout wooden shaft. The flail deals devastating damage when whirled in a deadly arc.</p>"
+			"description": "<p>Un conjunto de bolas con púas unidas a un robusto mango de madera. El mayal inflige un daño devastador al girar en un arco mortal.</p>"
 		},
 		"Flail +1": {
-			"name": "Flail +1",
+			"name": "Flagelo +1 (Flail +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Flail +2": {
-			"name": "Flail +2",
+			"name": "Flagelo +2 (Flail +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Flail +3": {
-			"name": "Flail +3",
+			"name": "Flagelo +3 (Flail +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Flame Tongue Greatsword": {
-			"name": "Flame Tongue Greatsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
+			"name": "Espadón lengua de fuego (Flame Tongue Greatsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puede usar una acción adicional para pronunciar la palabra de activación de la espada, haciendo que se cubra de llamas. Este fuego emite luz brillante en un radio de 40 pies y luz tenue 40 pies más allá. Mientras la espada esté en llamas, infligirá 2d6 de daño de fuego adicional a cualquier objetivo golpeado. Las llamas permanecen hasta que emplees una acción adicional para pronunciar la palabra de activación de nuevo o hasta que sueltes o envaines el arma.</p>"
 		},
 		"Flame Tongue Longsword": {
-			"name": "Flame Tongue Longsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
+			"name": "Espada larga lengua de fuego (Flame Tongue Longsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puede usar una acción adicional para pronunciar la palabra de activación de la espada, haciendo que se cubra de llamas. Este fuego emite luz brillante en un radio de 40 pies y luz tenue 40 pies más allá. Mientras la espada esté en llamas, infligirá 2d6 de daño de fuego adicional a cualquier objetivo golpeado. Las llamas permanecen hasta que emplees una acción adicional para pronunciar la palabra de activación de nuevo o hasta que sueltes o envaines el arma.</p>"
 		},
 		"Flame Tongue Rapier": {
-			"name": "Flame Tongue Rapier",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
+			"name": "Estoque lengua de fuego (Flame Tongue Rapier)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puede usar una acción adicional para pronunciar la palabra de activación de la espada, haciendo que se cubra de llamas. Este fuego emite luz brillante en un radio de 40 pies y luz tenue 40 pies más allá. Mientras la espada esté en llamas, infligirá 2d6 de daño de fuego adicional a cualquier objetivo golpeado. Las llamas permanecen hasta que emplees una acción adicional para pronunciar la palabra de activación de nuevo o hasta que sueltes o envaines el arma.</p>"
 		},
 		"Flame Tongue Scimitar": {
-			"name": "Flame Tongue Scimitar",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
+			"name": "Cimitarra lengua de fuego (Flame Tongue Scimitar)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puede usar una acción adicional para pronunciar la palabra de activación de la espada, haciendo que se cubra de llamas. Este fuego emite luz brillante en un radio de 40 pies y luz tenue 40 pies más allá. Mientras la espada esté en llamas, infligirá 2d6 de daño de fuego adicional a cualquier objetivo golpeado. Las llamas permanecen hasta que emplees una acción adicional para pronunciar la palabra de activación de nuevo o hasta que sueltes o envaines el arma.</p>"
 		},
 		"Flame Tongue Shortsword": {
-			"name": "Flame Tongue Shortsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
+			"name": "Espada corta lengua de fuego (Flame Tongue Shortsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Puede usar una acción adicional para pronunciar la palabra de activación de la espada, haciendo que se cubra de llamas. Este fuego emite luz brillante en un radio de 40 pies y luz tenue 40 pies más allá. Mientras la espada esté en llamas, infligirá 2d6 de daño de fuego adicional a cualquier objetivo golpeado. Las llamas permanecen hasta que emplees una acción adicional para pronunciar la palabra de activación de nuevo o hasta que sueltes o envaines el arma.</p>"
 		},
 		"Flask": {
 			"name": "Frasco (Flask)",
-			"description": "<p>A flask holds 1 pint of liquid.</p>"
+			"description": "<p>Un frasco puede contener 1 pinta de líquido.</p>"
 		},
 		"Flask of Holy Water": {
-			"name": "Flask of Holy Water",
-			"description": "<p>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged Attack against a target creature, treating the holy water as an Improvised Weapon. If the target is a fiend or Undead, it takes 2d6 radiant damage. A Cleric or Paladin may create holy water by performing a Special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</p>"
+			"name": "Frasco de agua bendita (Flask of Holy Water)",
+			"description": "<p>Como acción, puedes esparcir el contenido de este frasco sobre una criatura que se encuentre a un máximo de 5 pies o lanzarlo hasta a 20 pies, rompiéndose el frasco con el impacto. En ambos casos, haz un ataque a distancia contra la criatura, tratando el agua bendita como un arma improvisada: si el objetivo es un infernal o un muerto viviente, sufrirá 2d6 de daño radiante. Los clérigos y paladines pueden crear agua bendita ejecutando un ritual especial. Este ritual lleva 1 hora, consume 25 po de plata en polvo y obliga al lanzador a gastar un espacio de conjuro de nivel 1.</p>"
 		},
 		"Flute": {
-			"name": "Flute",
+			"name": "Flauta (Flute)",
 			"description": "<p>Una flauta para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Folding Boat": {
-			"name": "Folding Boat",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.</p>\n<p>One command word causes the box to unfold into a boat 10 feet long, 4 feet wide, and 2 feet deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four Medium creatures comfortably.</p>\n<p>The second command word causes the box to unfold into a ship 24 feet long, 8 feet wide, and 6 feet deep. The ship has a deck, rowing seats, five sets of oars, a steering oar, an anchor, a deck cabin, and a mast with a square sail. The ship can hold fifteen Medium creatures comfortably.</p>\n<p>When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.</p>\n<p>The third command word causes the folding boat to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.</p>"
+			"name": "Bote plegable (Folding Boat)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este objeto parece una caja de madera que mide 12 pulgadas de largo, 6 pulgadas de ancho y 6 de profundidad. Pesa 4 libras y flota. Puede abrirse para guardar objetos dentro. El objeto posee tres palabras de activación y cada una de ellas necesita una acción para ser pronunciada.</p>\n<p>La primera hace que la caja se despliegue para formar un bote de 10 pies de largo, 4 de ancho y 2 de profundidad. Este bote tiene un par de remos, un ancla, un mástil y una vela latina. El bote puede alojar a cuatro criaturas Medianas con comodidad.</p>\n<p>La segunda hace que la caja se despliegue con la forma de un barco de 24 pies de largo, 8 pies de ancho y 6 pies de profundidad. Este barco posee cubierta, bancadas de remo, 5 juegos de remos, un timón de espadilla, ancla, camarote de cubierta y un mástil con vela cuadrada. El barco puede alojar a quince criaturas Medianas con comodidad.</p>\n<p>Cuando la caja se convierte en bote o barco, su peso pasa a ser el de una nave de su tamaño y cualquier cosa que estuviera guardada en la caja permanece en el interior de la embarcación.</p>\n<p>La tercera palabra de activación hace que el bote plegable se convierta de nuevo en caja, siempre que no haya criaturas a bordo. Cualquier objeto en la embarcación que no quepa dentro de la caja quedará fuera al plegarse esta. Los que sí lo hagan permanecerán dentro.</p>"
 		},
 		"Forgery Kit": {
-			"name": "Forgery Kit",
-			"description": "<p>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</p>"
+			"name": "Útiles para falsificar (Forgery Kit)",
+			"description": "<p>Esta cajita contiene varios tipos de papeles y pergaminos, plumas y tintas, sellos y lacres, y láminas de oro y plata, además de otros materiales necesarios para crear falsificaciones de documentos que resulten convincentes. La competencia con estos útiles te permite añadir tu bonificador por competencia a las pruebas de característica para falsificar un documento.</p>"
 		},
 		"Frost Brand Greatsword": {
-			"name": "Frost Brand Greatsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
+			"name": "Espadón hierro de escarcha (Frost Brand Greatsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando impactas con un ataque con esta arma mágica, infliges 1d6 de daño de frío adicional. Además, mientras empuñes la espada tendrás resistencia al daño de fuego.</p>\n<p>En temperaturas bajo cero, la espada emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá.</p>\n<p>Cuando desenvainas esta arma, puedes extinguir todas las llamas no mágicas que se encuentren a 30 pies o menos de ti. Esta propiedad no puede ser usada más de una vez por hora.</p>"
 		},
 		"Frost Brand Longsword": {
-			"name": "Frost Brand Longsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
+			"name": "Espada larga hierro de escarcha (Frost Brand Longsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando impactas con un ataque con esta arma mágica, infliges 1d6 de daño de frío adicional. Además, mientras empuñes la espada tendrás resistencia al daño de fuego.</p>\n<p>En temperaturas bajo cero, la espada emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá.</p>\n<p>Cuando desenvainas esta arma, puedes extinguir todas las llamas no mágicas que se encuentren a 30 pies o menos de ti. Esta propiedad no puede ser usada más de una vez por hora.</p>"
 		},
 		"Frost Brand Rapier": {
-			"name": "Frost Brand Rapier",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
+			"name": "Estoque hierro de escarcha (Frost Brand Rapier)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando impactas con un ataque con esta arma mágica, infliges 1d6 de daño de frío adicional. Además, mientras empuñes la espada tendrás resistencia al daño de fuego.</p>\n<p>En temperaturas bajo cero, la espada emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá.</p>\n<p>Cuando desenvainas esta arma, puedes extinguir todas las llamas no mágicas que se encuentren a 30 pies o menos de ti. Esta propiedad no puede ser usada más de una vez por hora.</p>"
 		},
 		"Frost Brand Scimitar": {
-			"name": "Frost Brand Scimitar",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
+			"name": "Cimitarra hierro de escarcha (Frost Brand Scimitar)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando impactas con un ataque con esta arma mágica, infliges 1d6 de daño de frío adicional. Además, mientras empuñes la espada tendrás resistencia al daño de fuego.</p>\n<p>En temperaturas bajo cero, la espada emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá.</p>\n<p>Cuando desenvainas esta arma, puedes extinguir todas las llamas no mágicas que se encuentren a 30 pies o menos de ti. Esta propiedad no puede ser usada más de una vez por hora.</p>"
 		},
 		"Frost Brand Shortsword": {
-			"name": "Frost Brand Shortsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
+			"name": "Espada corta hierro de escarcha (Frost Brand Shortsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando impactas con un ataque con esta arma mágica, infliges 1d6 de daño de frío adicional. Además, mientras empuñes la espada tendrás resistencia al daño de fuego.</p>\n<p>En temperaturas bajo cero, la espada emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá.</p>\n<p>Cuando desenvainas esta arma, puedes extinguir todas las llamas no mágicas que se encuentren a 30 pies o menos de ti. Esta propiedad no puede ser usada más de una vez por hora.</p>"
 		},
 		"Gaming Set": {
-			"name": "Gaming Set",
-			"description": "<p>This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante).</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>\n<p>Please note this is a generic placeholder. For the gaming sets given in the PHB table, please see immediately below this entry in the compendium. However, feel free to use any of them as a guide for an original entry by editing them or even starting from scratch, given DM permission.</p>"
+			"name": "Juegos (Gaming Set)",
+			"description": "<p>Esta categoría de objetos incluye varios tipos de juegos de azar, normalmente basados en dados o cartas (como la Apuesta de los Tres Dragones).</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>\n<p>Ten en cuenta que este es un espacio genérico. Para los juegos que se dan en la tabla de la GdJ, consulta las siguientes entradas del compendio. Sin embargo, siéntete libre de usar cualquiera de ellos como guía para una entrada propia, editándolos o incluso creándolos de cero, con el permiso del DM.</p>"
 		},
 		"Gaming Set of Chess": {
-			"name": "Gaming Set of Chess",
-			"description": "<p>This item is a complete set of chess pieces and board. The board can also be used for variations of draughts and checkers.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"name": "Juego de Ajedrez de Dragón (Gaming Set of Chess)",
+			"description": "<p>Este objeto es un juego completo de piezas y tablero de ajedrez. El tablero también se puede utilizar para las distintas variantes de damas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Gaming Set of Dice": {
-			"name": "Gaming Set of Dice",
-			"description": "<p>This item encompasses a wide range of dice, both straight and weighted.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"name": "Juego de Dados (Gaming Set of Dice)",
+			"description": "<p>Este elemento abarca una amplia gama de dados, tanto normales como cargados.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Gaming Set of Playing Cards": {
-			"name": "Gaming Set of Playing Cards",
-			"description": "<p>This item encompasses a wide range of playing card types, both unmarked and marked.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"name": "Juego de naipes (Gaming Set of Playing Cards)",
+			"description": "<p>Este equipo abarca una amplia gama de tipos de naipes, tanto sin marcar como marcados.</p>\n<p>Si eres competente con un set de juego, puedes agregar tu bonificación de habilidad a las pruebas de habilidad que realizas con ese juego. Cada tipo de juego de juegos requiere una competencia separada.</p>"
 		},
 		"Gauntlets of Ogre Power": {
-			"name": "Gauntlets of Ogre Power",
-			"description": "<p><em>Wondrous item</em></p>\n<p>Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher.</p>"
+			"name": "Guanteletes de fuerza de ogro (Gauntlets of Ogre Power)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Tu Fuerza pasa a ser de 19 cuando llevas estos guanteletes. No tienen efecto si tu Fuerza ya era de 19 o mayor sin ellos.</p>"
 		},
 		"Gem of Brightness": {
 			"name": "Gema del resplandor (Gem of Brightness)",
@@ -1094,128 +1094,128 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 3d6 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Greatsword of Sharpness": {
-			"name": "Greatsword of Sharpness",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.</p>\n<p>When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.</p>\n<p>In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.</p>"
+			"name": "Espadón de hoja afilada (Greatsword of Sharpness)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a un objetivo con esta espada mágica e impactas, toma el resultado máximo de los dados de daño contra el objetivo.</p>\n<p>Además, cuando atacas a una criatura con esta arma y obtienes un 20 en la tirada de ataque, el objetivo recibe 4d6 de daño cortante adicional. Una vez suceda esto, tira otro d20. Si obtienes un 20, seccionarás uno de los miembros del objetivo. Los efectos de esta pérdida son determinados por el DM. Si la criatura no tiene miembros que amputar, cortas una porción de su cuerpo.</p>\n<p>Además, puedes pronunciar la palabra de activación de la espada para que la hoja emita luz brillante en un radio de 10 pies y luz tenue 10 pies más allá. Pronunciar la palabra de activación de nuevo o envainar la espada apaga la luz.</p>"
 		},
 		"Greatsword of Wounding": {
-			"name": "Greatsword of Wounding",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
+			"name": "Espadón hiriente (Greatsword of Wounding)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Los puntos de golpe perdidos por el daño de esta arma solo pueden ser recuperados mediante un descanso corto o largo, no mediante regeneración, magia o de cualquier otro modo.</p>\n<p>Una vez por turno, cuando golpeas a una criatura con un ataque usando esta arma mágica, puedes herirla. Al principio de cada uno de los turnos de la criatura herida, esta recibe 1d4 de daño necrótico por cada vez que la hayas herido, tras lo cual puede realizar una tirada de salvación de Constitución CD 15. Tener éxito en esta tirada terminará los efectos de todas estas heridas sobre la criatura. De forma alternativa, la criatura herida o una criatura que se encuentre a 5 pies o menos de ella puede emplear una acción para realizar una prueba de Sabiduría (Medicina) CD 15, acabando con el efecto de estas heridas si la supera.</p>"
 		},
 		"Halberd": {
 			"name": "Alabarda (Halberd)",
-			"description": "<p>A spear-tipped metal shaft accompanied by a crescent blade, the halberd is a strong defensive weapon which allows a warrior to fend off foes using the reach of the shaft to attack from safe distance.</p>"
+			"description": "<p>La alabarda, un asta de metal con punta de lanza acompañada de una hoja de media luna, es un arma defensiva resistente que permite al guerrero rechazar a los enemigos utilizando el alcance del asta para atacar desde una distancia segura.</p>"
 		},
 		"Halberd +1": {
-			"name": "Halberd +1",
+			"name": "Alabarda +1 (Halberd +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Halberd +2": {
-			"name": "Halberd +2",
+			"name": "Alabarda +2 (Halberd +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Halberd +3": {
-			"name": "Halberd +3",
+			"name": "Alabarda +3 (Halberd +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Half Plate Armor": {
-			"name": "Half Plate Armor",
-			"description": "<p>Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.</p>"
+			"name": "Media armadura (Half Plate Armor)",
+			"description": "<p>Esta armadura está compuesta de placas de metal forjadas para ajustarse a la forma del cuerpo y cubre la mayor parte de este. Sin embargo, no incluye protección para las piernas más allá de unas grebas sujetas con tiras de cuero.</p>"
 		},
 		"Half Plate Armor +1": {
-			"name": "Half Plate Armor +1",
+			"name": "Media armadura +1 (Half Plate Armor +1)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Half Plate Armor +2": {
-			"name": "Half Plate Armor +2",
+			"name": "Media armadura +2 (Half Plate Armor +2)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Half Plate Armor +3": {
-			"name": "Half Plate Armor +3",
+			"name": "Media armadura +3 (Half Plate Armor +3)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Half Plate Armor of Resistance": {
-			"name": "Half Plate Armor of Resistance",
+			"name": "Media armadura de resistencia (Half Plate Armor of Resistance)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Hammer": {
 			"name": "Martillo (Hammer)",
-			"description": "<p>A tool with heavy metal head mounted ar the right angles at the end of a handle, used for job such as breaking things and driving in nails. </p>"
+			"description": "<p>Herramienta con cabeza metálica pesada montada en ángulo recto en el extremo de un mango, utilizada para trabajos como romper cosas y clavar clavos.</p>"
 		},
 		"Hammer of Thunderbolts": {
-			"name": "Hammer of Thunderbolts",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon (maul).</p>\n<p><strong>Giant's Bane</strong> (<em>requires attunement</em>)</p>\n<p>You must be wearing a Belt of Giant Strength (any variety) and Gauntlets of Ogre Power to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30.</p>\n<p>When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.</p>\n<p>The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn.</p>"
+			"name": "Martillo de rayos (Hammer of Thunderbolts)",
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma mágica (maza a dos manos).</p>\n<p><strong>Matagigantes</strong> (<em>requiere sintonización</em>)</p>\n<p>Debes llevar un Cinturón de fuerza de gigante (cualquier variedad) y unos Guanteletes de fuerza de ogro para poder sintonizarte con esta arma. La sintonización acaba inmediatamente si te quitas uno de estos objetos. Mientras estés sintonizado con esta arma y la empuñes, tu atributo de Fuerza aumentará en 4 y podrá superar 20, aunque no 30.</p>\n<p>Si obtienes un 20 en una tirada de ataque con esta arma contra un gigante, este deberá superar una tirada de salvación de Constitución CD 17 o morirá.</p>\n<p>Además, el martillo tiene 5 cargas. Mientras estés sintonizado con él, podrás gastar 1 carga y realizar un ataque de arma a distancia con el martillo, lanzándolo como si tuviera la propiedad arrojadiza, con un alcance normal de 20 pies y un alcance largo de 60 pies. Si el ataque impacta, el martillo libera un trueno audible a 300 pies. El objetivo y cada criatura que se encuentre a 30 pies de él deberán tener éxito en una tirada de salvación de Constitución CD 17 o quedarán aturdidos hasta el final de tu siguiente turno. El martillo recupera 1d4 + 1 cargas empleadas cada día, al amanecer.</p>"
 		},
 		"Hand Crossbow": {
 			"name": "Ballesta de mano (Hand Crossbow)",
-			"description": "<p>A lightweight crossbow designed to be held in one hand or strapped to one's wrist to fire light bolts.</p>"
+			"description": "<p>Una ballesta liviana diseñada para ser sostenida en una mano o atada a la muñeca para disparar virotes pequeños.</p>"
 		},
 		"Hand Crossbow +1": {
-			"name": "Hand Crossbow +1",
+			"name": "Ballesta de mano +1 (Hand Crossbow +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Hand Crossbow +2": {
-			"name": "Hand Crossbow +2",
+			"name": "Ballesta de mano +2 (Hand Crossbow +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Hand Crossbow +3": {
-			"name": "Hand Crossbow +3",
+			"name": "Ballesta de mano +3 (Hand Crossbow +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handaxe": {
 			"name": "Hacha de mano (Handaxe)",
-			"description": "<p>This one-handed axe is light and balanced for throwing while remaining useful in hand combat.</p>"
+			"description": "<p>Esta hacha de una mano es ligera y equilibrada para lanzarla sin dejar de ser útil en el combate cuerpo a cuerpo.</p>"
 		},
 		"Handaxe +1": {
-			"name": "Handaxe +1",
+			"name": "Hacha de mano +1 (Handaxe +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handaxe +2": {
-			"name": "Handaxe +2",
+			"name": "Hacha de mano +2 (Handaxe +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handaxe +3": {
-			"name": "Handaxe +3",
+			"name": "Hacha de mano +3 (Handaxe +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Handy Haversack": {
-			"name": "Handy Haversack",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.</p>\n<p>Placing an object in the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires you to use an action. When you reach into the haversack for a specific item, the item is always magically on top.</p>\n<p>The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.</p>\n<p>Placing the haversack inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.</p>"
+			"name": "Morral práctico (Handy Haversack)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta mochila posee un bolsillo central y dos laterales, cada uno de los cuales es un espacio extradimensional. Cada bolsillo lateral puede contener hasta 20 libras de materia que no exceda un volumen de 2 pies cúbicos. En el bolsillo central caben hasta 8 pies cúbicos u 80 libras de materia. El morral siempre pesará 5 libras, independientemente del contenido.</p>\n<p>Colocar un objeto dentro sigue las reglas normales de interacción con objetos. Sacar un objeto de la bolsa cuesta una acción. Cuando metes la mano para extraer un objeto concreto, este siempre se encontrará arriba del todo.</p>\n<p>El morral tiene algunas limitaciones. Si se sobrecarga, o si un objeto punzante lo perfora o rasga, se romperá y quedará destruido. Si es destruido, sus contenidos se perderán para siempre, aunque un artefacto siempre acabará volviendo a aparecer en alguna parte. Si se da la vuelta a la mochila completamente, los contenidos serán volcados al exterior, sin quedar dañados, pero la mochila deberá devolverse a su posición inicial antes de poder ser usada de nuevo. Si una criatura que necesite respirar es colocada dentro del morral, podrá sobrevivir durante 10 minutos, tiempo tras el cual empezará a ahogarse.</p>\n<p>Poner el morral dentro del espacio extradimensional creado por una bolsa de contención, un agujero portátil u otro objeto similar destruye instantáneamente ambos objetos y abre un portal al Plano Astral, que se creará en el sitio donde un objeto se metió dentro del otro. Cualquier criatura que se encuentre a 10 pies del portal será absorbida a través de este a una localización aleatoria en el Plano Astral. Después, el portal se cierra. Solo funciona en un sentido y no puede ser reabierto.</p>"
 		},
 		"Hat of Disguise": {
-			"name": "Hat of Disguise",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this hat, you can use an action to cast the @Compendium[dnd5e.spells.A3q2gTNqG6fvNGrv]{Disguise Self} spell from it at will. The spell ends if the hat is removed.</p>"
+			"name": "Sombrero de disfraz (Hat of Disguise)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este sombrero, puedes utilizar una acción para lanzar a voluntad el conjuro @Compendium[dnd5e.spells.A3q2gTNqG6fvNGrv]{Disfrazarse} sobre ti mismo. El conjuro termina si dejas de vestir el sombrero.</p>"
 		},
 		"Headband of Intellect": {
-			"name": "Headband of Intellect",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher.</p>"
+			"name": "Diadema de intelecto (Headband of Intellect)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Tu puntuación de Inteligencia es 19 mientras lleves esta diadema. No tiene ningún efecto si tu Inteligencia era de 19 o más sin ella.</p>"
 		},
 		"Healer's Kit": {
-			"name": "Healer's Kit",
-			"description": "<p>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</p>"
+			"name": "Útiles de sanador (Healer's Kit)",
+			"description": "<p>Este saquito de cuero contiene vendas, ungüentos y tablillas. Puedes utilizarlo diez veces. Como acción, puedes gastar uno de estos diez usos para estabilizar a una criatura que tenga 0 puntos de golpe, sin necesidad de hacer una prueba de Sabiduría (Medicina).</p>"
 		},
 		"Heavy Crossbow": {
 			"name": "Ballesta pesada (Heavy Crossbow)",
-			"description": "<p>A large crossbow mounted on a sturdy block of wood which is loaded using a hand crank and fires thick steel bolts with deadly acceleration that punches through armor and flesh.</p>"
+			"description": "<p>Una ballesta de gran tamaño montada sobre un robusto soporte de madera que se carga mediante una manivela y dispara gruesos virotes de acero con una aceleración mortal que atraviesa armaduras y carne.</p>"
 		},
 		"Heavy Crossbow +1": {
-			"name": "Heavy Crossbow +1",
+			"name": "Ballesta pesada +1 (Heavy Crossbow +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Heavy Crossbow +2": {
-			"name": "Heavy Crossbow +2",
+			"name": "Ballesta pesada +2 (Heavy Crossbow +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Heavy Crossbow +3": {
-			"name": "Heavy Crossbow +3",
+			"name": "Ballesta pesada +3 (Heavy Crossbow +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Helm of Brilliance": {
-			"name": "Helm of Brilliance",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.</p>\n<p>You gain the following benefits while wearing it:</p>\n<ul>\n<li>You can use an action to cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: @Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Daylight} (opal), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball} (fire opal), @Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{Prismatic Spray} (diamond), or @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire} (ruby). The gem is destroyed when the spell is cast and disappears from the helm.</li>\n<li>As long as it has at least one diamond, the helm emits dim light in a 30-foot radius when at least one undead is within that area. Any undead that starts its turn in that area takes 1d6 radiant damage.</li>\n<li>As long as the helm has at least one ruby, you have resistance to fire damage.</li>\n<li>As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are holding to burst into flames. The flames emit bright light in a 10-foot radius and dim light for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra 1d6 fire damage. The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon.</li>\n</ul>\n<p>Roll a d20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed.</p>"
+			"name": "Yelmo de fulgor (Helm of Brilliance)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Este deslumbrante yelmo tiene incrustados 1d10 diamantes, 2d10 rubíes, 3d10 ópalos de fuego y 4d10 ópalos. Cualquier gema retirada del yelmo se convierte en polvo. Si todas ellas son retiradas o destruidas, el yelmo pierde su magia.</p>\n<p>Mientras lo lleves, obtendrás los siguientes beneficios:</p>\n<ul>\n<li>Puedes usar una acción para lanzar uno de los siguientes conjuros (tirada de salvación CD 18) utilizando una de las gemas del tipo especificado como componente: @Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{Luz del día} (ópalo), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Bola de fuego} (ópalo de fuego), @Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{Rociada prismática} (diamante) o @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Muro de fuego} (rubí). La gema es destruida cuando el conjuro sea lanzado, por lo que desaparecerá del yelmo.</li>\n<li>Mientras quede al menos un diamante, el yelmo emitirá luz tenue en un radio de 30 pies si hay algún muerto viviente en esa área. Cualquier muerto viviente que comience su turno en la zona recibe 1d6 de daño radiante.</li>\n<li>Siempre que el yelmo tenga al menos un rubí, posees resistencia al daño de fuego.</li>\n<li>Mientras el yelmo todavía tenga incrustado un ópalo de fuego, podrás utilizar una acción para pronunciar una palabra de activación y hacer que un arma que sujetes se vea envuelta en llamas. Las llamas emiten luz brillante en un radio de 10 pies y luz tenue 10 pies más allá. Además, son inofensivas para ti y tu arma. Cuando impactas con un ataque con esta arma llameante, infligirás 1d6 de daño de fuego adicional. Las llamas duran hasta que uses una acción adicional para pronunciar la palabra de activación de nuevo, sueltes o envaines la espada.</li>\n</ul>\n<p>Tira 1d20 si llevas puesto el yelmo y recibes daño de fuego como consecuencia de fallar una tirada de salvación contra un conjuro. Si obtienes un 1, el yelmo emitirá un rayo de luz de cada gema restante. Todas las criaturas que se encuentren a 60 pies del yelmo, aparte de ti, deberán tener éxito en una tirada de salvación de Destreza (CD 17) o serán golpeadas por un rayo, recibiendo daño radiante igual al número de gemas en el yelmo. El yelmo y las gemas serán destruidos.</p>"
 		},
 		"Helm of Comprehending Languages": {
-			"name": "Helm of Comprehending Languages",
-			"description": "<p><em>Wondrous item</em></p>\n<p>While wearing this helm, you can use an action to cast the @Compendium[dnd5e.spells.4dSvfvTy2ZIJ3K4k]{Comprehend Languages} spell from it at will.</p>"
+			"name": "Yelmo de entender idiomas (Helm of Comprehending Languages)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras lleves este yelmo, puedes utilizar una acción para lanzar a voluntad el conjuro @Compendium[dnd5e.spells.4dSvfvTy2ZIJ3K4k]{Entender idiomas}.</p>"
 		},
 		"Helm of Telepathy": {
 			"name": "Helm of Telepathy",
@@ -1731,7 +1731,7 @@
 		},
 		"Musical Instrument": {
 			"name": "Musical Instrument",
-			"description": "<p>Un instrumento musical para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>\n<p>Ten en cuenta que este es un espacio genérico. Para los instrumentos musicales que se dan en la tabla de la GdJ, consulta a continuación las entradas del compendio. Sin embargo, siéntete libre de usar cualquiera de ellos como guía para una entrada propia, editándolos o incluso empezando desde cero, con el permiso del DM.</p>\n<p>Los instrumentos musicales concretos están disponibles en el compendio de Equipo (SRD).</p>\n<p>@Compendium[dnd5e.items.yxHi57T5mmVt0oDr]{Gaita}</p>\n<p>@Compendium[dnd5e.items.69Dpr25pf4BjkHKb]{Tambor}</p>\n<p>@Compendium[dnd5e.items.NtdDkjmpdIMiX7I2]{Dulcémele}</p>\n<p>@Compendium[dnd5e.items.eJOrPcAz9EcquyRQ]{Flauta}</p>\n<p>@Compendium[dnd5e.items.aa9KuBy4dst7WIW9]{Cuerno}</p>\n<p>@Compendium[dnd5e.items.qBydtUUIkv520DT7]{Laúd}</p>\n<p>@Compendium[dnd5e.items.EwG1EtmbgR3bM68U]{Lira}</p>\n<p>@Compendium[dnd5e.items.G5m5gYIx9VAUWC3J]{Flauta de pan}</p>\n<p>@Compendium[dnd5e.items.G3cqbejJpfB91VhP]{Chirimía}</p>\n<p>@Compendium[dnd5e.items.baoe3U5BfMMMxhCU]{Viola}</p>"
+			"description": "<p>Un instrumento musical para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>\n<p>Ten en cuenta que este es un espacio genérico. Para los instrumentos musicales que se dan en la tabla de la GdJ, consulta las siguientes entradas del compendio. Sin embargo, siéntete libre de usar cualquiera de ellos como guía para una entrada propia, editándolos o incluso creándolos de cero, con el permiso del DM.</p>\n<p>Los instrumentos musicales concretos están disponibles en el compendio de Equipo (SRD).</p>\n<p>@Compendium[dnd5e.items.yxHi57T5mmVt0oDr]{Gaita}</p>\n<p>@Compendium[dnd5e.items.69Dpr25pf4BjkHKb]{Tambor}</p>\n<p>@Compendium[dnd5e.items.NtdDkjmpdIMiX7I2]{Dulcémele}</p>\n<p>@Compendium[dnd5e.items.eJOrPcAz9EcquyRQ]{Flauta}</p>\n<p>@Compendium[dnd5e.items.aa9KuBy4dst7WIW9]{Cuerno}</p>\n<p>@Compendium[dnd5e.items.qBydtUUIkv520DT7]{Laúd}</p>\n<p>@Compendium[dnd5e.items.EwG1EtmbgR3bM68U]{Lira}</p>\n<p>@Compendium[dnd5e.items.G5m5gYIx9VAUWC3J]{Flauta de pan}</p>\n<p>@Compendium[dnd5e.items.G3cqbejJpfB91VhP]{Chirimía}</p>\n<p>@Compendium[dnd5e.items.baoe3U5BfMMMxhCU]{Viola}</p>"
 		},
 		"Navigator’s Tools": {
 			"name": "Navigator’s Tools",
