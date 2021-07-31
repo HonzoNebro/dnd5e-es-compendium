@@ -1254,7 +1254,7 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Holy Avenger Greatsword": {
-			"name": "Holy Avenger Greatsword",
+			"name": "Espadón vengador sagrado (Holy Avenger Greatsword)",
 			"description": "<p><em>(Requiere sintonización con un paladín)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Cuando impactes a un infernal o muerto viviente con ella, este recibe 2d10 de daño radiante adicional.</p>\n<p>Mientras empuñes la espada, esta crea un aura de 10 pies de radio a tu alrededor. Las criaturas amistosas que se encuentre en el área (incluido tú) tenéis ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos. Si posees 17 o más niveles de paladín, el radio del aura crece hasta 30 pies.</p>"
 		},
 		"Holy Avenger Longsword": {
@@ -1582,27 +1582,27 @@
 			"description": "<p>Una lira para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Mace": {
-			"name": "Mace",
-			"description": "<p>A heavy bludgeoning weapon mounted to the end of a metal club. The head features spikes and blades designed to puncture armor and shatter the bones below.</p>"
+			"name": "Maza (Mace)",
+			"description": "<p>Una pesada arma contundente montada sobre un mango de metal. La cabeza tiene pinchos y cuchillas diseñadas para perforar la armadura y destrozar los huesos.</p>"
 		},
 		"Mace +1": {
-			"name": "Mace +1",
+			"name": "Maza +1 (Mace +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Mace +2": {
-			"name": "Mace +2",
+			"name": "Maza +2 (Mace +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Mace +3": {
-			"name": "Mace +3",
+			"name": "Maza +3 (Mace +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Mace of Disruption": {
-			"name": "Mace of Disruption",
-			"description": "<p>(<em>Requires attunement</em>)</p>\n<p>When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.</p>\n<p>While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.</p>"
+			"name": "Maza disruptiva (Mace of Disruption)",
+			"description": "<p>(<em>Requiere sintonización</em>)</p>\n<p>Cuando impactes a un infernal o muerto viviente con esta maza, el objetivo recibirá 2d6 de daño radiante adicional. Si al objetivo le quedan 25 puntos de golpe o menos tras sufrir este daño, deberá superar una tirada de salvación CD 15 o quedará destruido. Si tiene éxito en esta tirada, estará asustado de ti hasta el final de su siguiente turno.</p>\n<p>Mientras la empuñes, esta arma, emitirá luz brillante en un radio de 20 pies y luz tenue 20 pies más allá</p>"
 		},
 		"Mace of Smiting": {
-			"name": "Mace of Smiting",
+			"name": "Maza castigadora (Mace of Smiting)",
 			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.</p>\n<p>When you roll a 20 on an attack roll made with this weapon, the target takes an extra 2d6 bludgeoning damage, or 4d6 bludgeoning damage if it's a construct. If a construct has 25 hit points or fewer after taking this damage, it is destroyed.</p>\n<p><em>**Foundry note: the bonus to attack and damage rolls has been set at the +1 . In the instances of hitting a construct, please remember to +2 to both of these results. Additionally, on a hit of 20 against a construct, please use the Other Formula one more time.</em></p>"
 		},
 		"Mace of Terror": {
