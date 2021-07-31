@@ -1603,110 +1603,110 @@
 		},
 		"Mace of Smiting": {
 			"name": "Maza castigadora (Mace of Smiting)",
-			"description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.</p>\n<p>When you roll a 20 on an attack roll made with this weapon, the target takes an extra 2d6 bludgeoning damage, or 4d6 bludgeoning damage if it's a construct. If a construct has 25 hit points or fewer after taking this damage, it is destroyed.</p>\n<p><em>**Foundry note: the bonus to attack and damage rolls has been set at the +1 . In the instances of hitting a construct, please remember to +2 to both of these results. Additionally, on a hit of 20 against a construct, please use the Other Formula one more time.</em></p>"
+			"description": "<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Este bonificador aumenta a +3 cuando usas esta maza para atacar a un autómata.</p>\n<p>Si obtienes un 20 en una tirada de ataque con esta arma, el objetivo recibirá 2d6 de daño contundente adicional, 4d6 si es un autómata. Si al objetivo le quedan 25 puntos de golpe o menos tras sufrir este daño, será destruido.</p>\n<p><em>**Nota de Foundry: Se ha establecido valor para ataques y daño en +1. Cuando golpees a un constructo, añade +2 al ataque y el daño. Además, cuando impactes a un constructo con un 20, utiliza Otra fórmula.</em></p>"
 		},
 		"Mace of Terror": {
-			"name": "Mace of Terror",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror. Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute.</p>\n<p>While it is frightened in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can use the Dodge action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.</p>\n<p>The mace regains 1d3 expended charges daily at dawn.</p>"
+			"name": "Maza del terror (Mace of Terror)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Esta arma mágica tiene 3 cargas. Si la estás empuñando, puedes utilizar una acción y gastar 1 carga para crear una ola de terror. Todas las criaturas de tu elección que se encuentren a 30 pies o menos de ti y sean conscientes de tu presencia, deberán superar una tirada de salvación de Sabiduría CD 15 o estarán asustadas durante 1 minuto.</p>\n<p>Una criatura asustada de esta manera deberá dedicar su turno a moverse lo más lejos posible del portador de la maza, si es que puede, y no podrá acercarse a ningún espacio situado a 30 pies o menos de dicho portador. Además, tampoco podrá llevar a cabo reacciones. Solo será capaz de realizar la acción de Correr o intentar escapar de un efecto que le impida moverse. Si no tiene a dónde desplazarse, llevará a cabo la acción de Esquivar. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>\n<p>La maza recupera 1d3 cargas gastadas cada día, al amanecer.</p>"
 		},
 		"Magnifying Glass": {
-			"name": "Magnifying Glass",
-			"description": "<p>This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.</p>"
+			"name": "Lupa (Magnifying Glass)",
+			"description": "<p>Esta lente permite ver de cerca los objetos pequeños. También es útil como sustituto del pedernal y el acero a la hora de encender el fuego. Encender un fuego con una lupa requiere una luz tan brillante como la del sol para enfocar, yesca para encender y unos 5 minutos para que el fuego se encienda. Una lupa otorga ventaja en cualquier tirada de habilidad realizada para valorar o inspeccionar un objeto que sea pequeño o muy detallado.</p>"
 		},
 		"Manacles": {
 			"name": "Esposas (Manacles)",
-			"description": "<p>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.</p>"
+			"description": "<p>Estos grilletes de metal pueden sujetar a una criatura Pequeña o Mediana. Para escapar de ellos es necesaria una prueba de Destreza CD 20 y para romperlos una de Fuerza CD 20. Las esposas vienen con una llave. Si no se dispone de ella, una criatura competente con herramientas de ladrón puede forzar la cerradura superando una prueba de Destreza CD 15. Los grilletes tienen 15 puntos de golpe.</p>"
 		},
 		"Mantle of Spell Resistance": {
-			"name": "Mantle of Spell Resistance",
-			"description": "<p>(<em>Requires attunement</em>)</p>\n<p>You have advantage on saving throws against spells while you wear this cloak.</p>"
+			"name": "Manto de resistencia a conjuros (Mantle of Spell Resistance)",
+			"description": "<p>(<em>Requiere sintonización</em>)</p>\n<p>Mientras vistas esta capa tienes ventaja en las tiradas de salvación contra conjuros.</p>"
 		},
 		"Manual of Bodily Health": {
-			"name": "Manual of Bodily Health",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This book contains health and diet tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Constitution score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</p>"
+			"name": "Manual de la salud corporal (Manual of Bodily Health)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este libro contiene consejos de salud y alimentación, y sus palabras están cargadas de magia. Si inviertes 48 horas durante un periodo de, como mucho, 6 días e n estudiar el contenido del libro y poner en práctica sus indicaciones, tu puntuación de Constitución aumentará en 2, así como tu máximo para esa puntuación. Después, el manual perderá su magia, recuperándola tras un siglo.</p>"
 		},
 		"Manual of Gainful Exercise": {
-			"name": "Manual of Gainful Exercise",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Strength score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</p>"
+			"name": "Manual del ejercicio beneficioso (Manual of Gainful Exercise)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este libro, con sus palabras cargadas de magia, describe diferentes ejercicios para mantenerse en forma. Si inviertes 48 horas durante un periodo de, como mucho, 6 días en estudiar el contenido del libro y poner en práctica sus indicaciones, tu puntuación de Fuerza aumentará en 2, así como tu máximo para esa puntuación. Después, el manual perderá su magia, recuperándola tras un siglo.</p>"
 		},
 		"Manual of Golems": {
-			"name": "Manual of Golems",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a Manual of Golems and attempts to read it takes 6d6 psychic damage.</p>\n<table>\n<thead>\n<tr>\n<th>d20</th>\n<th>Golem</th>\n<th>Time</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1-5</td>\n<td>@Compendium[dnd5e.monsters.YOqhbf8WsX0jH9Fu]{Clay Golem}</td>\n<td>30 days</td>\n<td>65,000 gp</td>\n</tr>\n<tr>\n<td>6-17</td>\n<td>@Compendium[dnd5e.monsters.Hm4o2FgPZsdbXjLq]{Flesh Golem}</td>\n<td>60 days</td>\n<td>50,000 gp</td>\n</tr>\n<tr>\n<td>18</td>\n<td>@Compendium[dnd5e.monsters.h98AuPfomEPcCibP]{Iron Golem}</td>\n<td>120 days</td>\n<td>100,000 gp</td>\n</tr>\n<tr>\n<td>19-20</td>\n<td>@Compendium[dnd5e.monsters.z3gSIXHHWYaHjfBT]{Stone Golem}</td>\n<td>90 days</td>\n<td>80,000 gp</td>\n</tr>\n</tbody>\n</table>\n<p>To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.</p>\n<p>Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.</p>"
+			"name": "Manual de gólems (Manual of Golems)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este tomo contiene la información y los ensalmos necesarios para hacer un tipo concreto de gólem. El DM elige el tipo o lo determina al azar. Para poder descifrar y usar el manual, tienes que ser un lanzador de conjuros con al menos dos espacios de conjuro de nivel 5. Una criatura que no pueda usar el manual de gólems pero intente leerlo, recibirá 6d6 de daño psíquico.</p>\n<table>\n<thead>\n<tr>\n<th>d20</th>\n<th>Gólem</th>\n<th>Tiempo</th>\n<th>Coste</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1-5</td>\n<td>@Compendium[dnd5e.monsters.YOqhbf8WsX0jH9Fu]{Gólem de arcilla}</td>\n<td>30 días</td>\n<td>65.000 po</td>\n</tr>\n<tr>\n<td>6-17</td>\n<td>@Compendium[dnd5e.monsters.Hm4o2FgPZsdbXjLq]{Gólem de carne}</td>\n<td>60 días</td>\n<td>50.000 po</td>\n</tr>\n<tr>\n<td>18</td>\n<td>@Compendium[dnd5e.monsters.h98AuPfomEPcCibP]{Gólem de hierro}</td>\n<td>120 días</td>\n<td>100.000 po</td>\n</tr>\n<tr>\n<td>19-20</td>\n<td>@Compendium[dnd5e.monsters.z3gSIXHHWYaHjfBT]{Gólem de piedra}</td>\n<td>90 días</td>\n<td>80.000 po</td>\n</tr>\n</tbody>\n</table>\n<p>Para crear un gólem, debes emplear la cantidad de tiempo mostrada en la tabla, trabajando sin interrupción con el libro a mano y sin descansar más de 8 horas al día. También has de pagar el coste indicado para comprar suministros.</p>\n<p>Una vez terminas de crear el gólem, el libro arde en llamas arcanas. El gólem se vuelve animado cuando se esparcen sobre él las cenizas del manual. Estará bajo tu control, y entenderá y obedecerá tus órdenes verbales. Su perfil se encuentra en el Monster Manual.</p>"
 		},
 		"Manual of Quickness of Action": {
-			"name": "Manual of Quickness of Action",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</p>"
+			"name": "Manual de rapidez de acción (Manual of Quickness of Action)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este libro contiene consejos de coordinación y equilibrio, y sus palabras están cargadas de magia. Si inviertes 48 horas durante un periodo de, como mucho, 6 días en estudiar el contenido del libro y poner en práctica sus indicaciones, tu puntuación de Destreza aumentará en 2, así como tu máximo para esa puntuación. Después, el manual perderá su magia, recuperándola tras un siglo.</p>"
 		},
 		"Map or Scroll Case": {
-			"name": "Map or Scroll Case",
-			"description": "<p>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</p>"
+			"name": "Estuche para mapa o pergamino (Map or Scroll Case)",
+			"description": "<p>Esta caja de cuero cilíndrica puede contener hasta diez hojas de papel o cinco hojas de pergamino, enrolladas en ambos casos.</p>"
 		},
 		"Mason's Tools": {
-			"name": "Mason's Tools",
+			"name": "Herramientas de albañil (Mason's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un albañil.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Maul": {
-			"name": "Maul",
-			"description": "<p>This heavy two-handed mace crushes metal and bone with thunderous force.</p>"
+			"name": "Maza a dos manos (Maul)",
+			"description": "<p>Esta pesada maza a dos manos aplasta el metal y el hueso con una fuerza demoledora.</p>"
 		},
 		"Maul +1": {
-			"name": "Maul +1",
+			"name": "Maza a dos manos +1 (Maul +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Maul +2": {
-			"name": "Maul +2",
+			"name": "Maza a dos manos +2 (Maul +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Maul +3": {
-			"name": "Maul +3",
+			"name": "Maza a dos manos +3 (Maul +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Medallion of Thoughts": {
-			"name": "Medallion of Thoughts",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detect Thoughts} spell (save DC 13) from it. The medallion regains 1d3 expended charges daily at dawn.</p>"
+			"name": "Medallón de los pensamientos (Medallion of Thoughts)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>El medallón tiene 3 cargas. Mientras lo lleves puesto, podrás utilizar una acción para gastar 1 carga y lanzar el conjuro @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detectar pensamientos} (tirada de salvación CD 13) desde él. Recupera 1d3 cargas empleadas cada día, al amanecer.</p>"
 		},
 		"Merchant's Scale": {
-			"name": "Merchant's Scale",
-			"description": "<p>A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.</p>"
+			"name": "Balanza de mercader (Merchant's Scale)",
+			"description": "<p>Esta balanza incluye bandejas para depositar objetos y un juego de pesas que llega hasta las 5 libras. Puedes utilizarla para calcular el peso exacto de objetos pequeños, como pueden ser metales preciosos o mercancías, para así poder determinar su valor.</p>"
 		},
 		"Mess Kit": {
-			"name": "Mess Kit",
-			"description": "<p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</p>"
+			"name": "Utensilios de cocina (Mess Kit)",
+			"description": "<p>Esta cajita de latón contiene una taza y unos cubiertos básicos. La caja se sujeta con abrazaderas, y un lado puede usarse como sartén y el otro como plato o cuenco poco profundo.</p>"
 		},
 		"Miner's Pick": {
-			"name": "Miner's Pick",
-			"description": "<p>It is a hand tool with a hard head atached perpendiocular to the handle.</p>"
+			"name": "Pico de minero (Miner's Pick)",
+			"description": "<p>Se trata de una herramienta de mano con una cabeza sólida unida perpendicularmente al mango.</p>"
 		},
 		"Mirror of Life Trapping": {
-			"name": "Mirror of Life Trapping",
-			"description": "<p><em>Wondrous item</em></p>\n<p>When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.</p>\n<p>If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can use an action to speak its command word and activate it. It remains activated until you use an action to speak the command word again.</p>\n<p>Any creature other than you that sees its reflection in the activated mirror while within 30 feet of it must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. This saving throw is made with advantage if the creature knows the mirror's nature, and constructs succeed on the saving throw automatically.</p>\n<p>An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.</p>\n<p>If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.</p>\n<p>While within 5 feet of the mirror, you can use an action to speak the name of one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate normally.</p>\n<p>In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.</p>"
+			"name": "Espejo atrapavidas (Mirror of Life Trapping)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Cuando miras a este espejo de 4 pies de altura de forma indirecta, su superficie muestra tenues imágenes de criaturas. Pesa 50 libras, tiene CA 11, 10 puntos de golpe y es vulnerable al daño contundente. Se fragmenta y destruye si sus puntos de golpe descienden a 0.</p>\n<p>Si el espejo cuelga de una superficie vertical y estás a 5 pies del mismo, puedes usar una acción para pronunciar su palabra de activación. Permanecerá activo hasta que emplees otra acción para pronunciar de nuevo la palabra de activación.</p>\n<p>Cualquier criatura, aparte de ti, que se encuentre a menos de 30 pies y que vea su reflejo en el espejo, estando este activado, deberá tener éxito en una tirada de salvación de Carisma CD 15 o quedará atrapado, junto con cualquier cosa que lleve o vista, en una de las doce celdas extradimensionales que posee el espejo. La tirada se realiza con ventaja si la criatura conoce la naturaleza del espejo. Los autómatas tienen éxito automáticamente.</p>\n<p>Una celda extradimensional es una extensión infinita llena de una densa niebla que impide ver a más de 10 pies de distancia. Las criaturas apresadas en las celdas del espejo no envejecen y no necesitan comer, beber o dormir. Podrán escapar utilizando magia que permita el viaje interplanar. De otro modo, quedarán confinadas en la celda hasta que sean liberadas.</p>\n<p>Si el espejo atrapa a una criatura, pero sus doce celdas extradimensionales están llenas, liberará a una de las criaturas apresadas al azar para hacer hueco al nuevo prisionero. La criatura liberada aparecerá en un espacio desocupado a la vista del espejo, pero de espaldas a él. Si el espejo es destruido, todas las criaturas contenidas serán liberadas y aparecerán en espacios cercanos.</p>\n<p>Mientras estés a 5 pies del espejo, puedes utilizar una acción para pronunciar el nombre de una criatura atrapada o el número de una celda concreta. La criatura mencionada o contenida en la celda especificada aparecerá como imagen en la superficie del espejo. Tú y la criatura podréis comunicaros con normalidad.</p>\n<p>De forma similar, puedes usar una acción para pronunciar una segunda palabra de activación y liberar a una de las criaturas atrapadas en el espejo. La criatura liberada aparece en un espacio desocupado a la vista del espejo, pero de espaldas a él.</p>"
 		},
 		"Mithral Breastplate": {
-			"name": "Mithral Breastplate",
+			"name": "Coraza de mithral (Mithral Breastplate)",
 			"description": "<p>El mithral es un metal ligero y flexible. Se puede usar una camisa de malla o un una coraza de mithral debajo de la ropa normal. Si la armadura normalmente impone desventaja en los controles de Destreza (Sigilo) o tiene un requisito de Fuerza, la versión mithral de la armadura no lo tiene.</p>"
 		},
 		"Mithral Chain Mail": {
-			"name": "Mithral Chain Mail",
+			"name": "Cota de malla de mithral (Mithral Chain Mail)",
 			"description": "<p>El mithral es un metal ligero y flexible. Se puede usar una camisa de malla o un una coraza de mithral debajo de la ropa normal. Si la armadura normalmente impone desventaja en los controles de Destreza (Sigilo) o tiene un requisito de Fuerza, la versión mithral de la armadura no lo tiene.</p>"
 		},
 		"Mithral Chain Shirt": {
-			"name": "Mithral Chain Shirt",
+			"name": "Camisa de malla de mithral (Mithral Chain Shirt)",
 			"description": "<p>El mithral es un metal ligero y flexible. Se puede usar una camisa de malla o un una coraza de mithral debajo de la ropa normal. Si la armadura normalmente impone desventaja en los controles de Destreza (Sigilo) o tiene un requisito de Fuerza, la versión mithral de la armadura no lo tiene.</p>"
 		},
 		"Mithral Half Plate Armor": {
-			"name": "Mithral Half Plate Armor",
+			"name": "Media armadura de mithral (Mithral Half Plate Armor)",
 			"description": "<p>El mithral es un metal ligero y flexible. Se puede usar una camisa de malla o un una coraza de mithral debajo de la ropa normal. Si la armadura normalmente impone desventaja en los controles de Destreza (Sigilo) o tiene un requisito de Fuerza, la versión mithral de la armadura no lo tiene.</p>"
 		},
 		"Mithral Plate Armor": {
-			"name": "Mithral Plate Armor",
+			"name": "Armadura de placas de mithral (Mithral Plate Armor)",
 			"description": "<p>El mithral es un metal ligero y flexible. Se puede usar una camisa de malla o un una coraza de mithral debajo de la ropa normal. Si la armadura normalmente impone desventaja en los controles de Destreza (Sigilo) o tiene un requisito de Fuerza, la versión mithral de la armadura no lo tiene.</p>"
 		},
 		"Mithral Ring Mail": {
-			"name": "Mithral Ring Mail",
+			"name": "Cota guarnecida de mithral (Mithral Ring Mail)",
 			"description": "<p>El mithral es un metal ligero y flexible. Se puede usar una camisa de malla o un una coraza de mithral debajo de la ropa normal. Si la armadura normalmente impone desventaja en los controles de Destreza (Sigilo) o tiene un requisito de Fuerza, la versión mithral de la armadura no lo tiene.</p>"
 		},
 		"Mithral Scale Mail": {
-			"name": "Mithral Scale Mail",
+			"name": "Cota de escamas de mithral (Mithral Scale Mail)",
 			"description": "<p>El mithral es un metal ligero y flexible. Se puede usar una camisa de malla o un una coraza de mithral debajo de la ropa normal. Si la armadura normalmente impone desventaja en los controles de Destreza (Sigilo) o tiene un requisito de Fuerza, la versión mithral de la armadura no lo tiene.</p>"
 		},
 		"Mithral Splint Armor": {
@@ -1870,68 +1870,68 @@
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este talismán, te estabilizas automáticamente si al principio de tu turno estás agonizando. Además, cuando tires un Dado de Golpe para recuperar puntos de golpe, duplica el número de puntos de golpe que recuperas.</p>"
 		},
 		"Philter of Love": {
-			"name": "Philter of Love",
-			"description": "<p><em>This potion’s rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.</em></p>\n<p>The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed.</p>\n<p> </p>"
+			"name": "Filtro de amor (Philter of Love)",
+			"description": "<p><em>El líquido efervescente y de tonalidad rosa de esta poción contiene una burbuja, difícil de encontrar, con forma de corazón.</em></p>\n<p>Quedas hechizado durante una hora de la próxima criatura que veas en los 10 minutos posteriores a beber este filtro. Si la criatura es de un género y especie que normalmente te atraería, la considerarás tu amor verdadero mientras permanezcas hechizado.</p>\n<p> </p>"
 		},
 		"Pike": {
-			"name": "Pike",
-			"description": "<p>A sturdy blade mounted upon the end of a long metal haft. Designed as a defensive weapon with considerable reach to both fend off and menace foes.</p>"
+			"name": "Pica (Pike)",
+			"description": "<p>Una robusta hoja montada en el extremo de un largo mango de metal. Diseñada como arma defensiva con un alcance considerable para rechazar y amenazar a los enemigos.</p>"
 		},
 		"Pike +1": {
-			"name": "Pike +1",
+			"name": "Pica +1 (Pike +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Pike +2": {
-			"name": "Pike +2",
+			"name": "Pica +2 (Pike +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Pike +3": {
-			"name": "Pike +3",
+			"name": "Pica +3 (Pike +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Pipes of Haunting": {
-			"name": "Pipes of Haunting",
-			"description": "<p><em>Wondrous item</em></p>\n<p>You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours.</p>\n<p>The pipes regain 1d3 expended charges daily at dawn.</p>"
+			"name": "Flauta de la aparición (Pipes of Haunting)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Debes ser competente con instrumentos de viento para poder usar esta flauta. Tiene 3 cargas. Puedes emplear una acción para tocarla y gastar 1 carga, creando una melodía inquietante pero a la vez fascinante. Todas las criaturas que se encuentren a 30 pies o menos de ti y que te escuchen tocar deberán tener éxito en una tirada de salvación de Sabiduría CD 15 o quedarán asustadas durante 1 minuto. Si así lo deseas, todas las criaturas del área que no sean hostiles hacia ti tendrán éxito automáticamente en esta tirada. Una criatura que haya fallado puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito. Una criatura que supere la tirada de salvación es inmune al efecto de la flauta durante 24 horas.</p>\n<p>La flauta recupera 1d3 cargas utilizadas cada día, al amanecer.</p>"
 		},
 		"Pipes of the Sewers": {
-			"name": "Pipes of the Sewers",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.</p>\n<p>The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one @Compendium[dnd5e.monsters.8ihbbjkaOFTPbI73]{Swarm of Rats} with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren't enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren't under your control otherwise. The pipes regain 1d3 expended charges daily at dawn.</p>\n<p>Whenever a swarm of rats that isn't under another creature's control comes within 30 feet of you while you are playing the pipes, you can make a Charisma check contested by the swarm's Wisdom check. If you lose the contest, the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes' music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can't hear the pipes' music, your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours.</p>"
+			"name": "Flauta de las cloacas (Pipes of the Sewers)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Debes ser competente con instrumentos de viento para poder usar esta flauta. Mientras estés sintonizado con ella, las ratas ordinarias y gigantes se mostrarán indiferentes hacia ti, y no te atacarán a menos que las dañes o amenaces.</p>\n<p>La flauta tiene 3 cargas. Si empleas una acción para tocar la flauta, puedes además utilizar una acción adicional para gastar de 1 a 3 cargas, convocando a un @Compendium[dnd5e.monsters.8ihbbjkaOFTPbI73]{Enjambre de ratas} por cada carga usada, suponiendo que haya suficientes ratas a media milla de ti como para ser convocadas de esta manera. Si no hay suficientes ratas para formar un enjambre, la carga se desperdicia. Los enjambres convocados se desplazan hacia la música por el camino más corto, pero por lo demás no están bajo tu control. La flauta recupera 1d3 cargas empleadas cada día, al amanecer.</p>\n<p>Cuando un enjambre de ratas que no esté bajo el control de otra criatura se acerque a 30 pies o menos de ti mientras tocas la flauta, puedes hacer una tirada enfrentada de Carisma contra la Sabiduría del enjambre. Si fallas esta tirada, el enjambre se comporta de forma normal y no puede ser influido por la música de la flauta en las próximas 24 horas. Si la superas, el enjambre se ve influenciado por la música de la flauta y se vuelve amistoso hacia ti y tus compañeros mientras sigas tocando la flauta cada asalto, utilizando una acción para ello. Un enjambre amistoso obedece tus órdenes. Si no les das ninguna, se defenderá de criaturas hostiles pero no realizará ninguna otra acción. Si un enjambre amistoso no puede oír la música de la flauta al principio de su turno, perderás el control sobre él, pasará a comportarse normalmente y no podrá ser influenciado de nuevo de esta manera durante 24 horas.</p>"
 		},
 		"Pitcher": {
-			"name": "Pitcher",
-			"description": "<p>A pitcher holds 1 gallon of liquid.</p>"
+			"name": "Jarra (Pitcher)",
+			"description": "<p>Una jarra contiene 1 galón de líquido.</p>"
 		},
 		"Piton": {
 			"name": "Pitón (Piton)",
-			"description": "<p>A metal spike that is drive into a seam in a climbing surface with a climbing hammer. It can also be used like iron spikes to block doors in a pinch.</p>"
+			"description": "<p>Una punta de metal que se introduce en una superficie de escalada con un martillo. También se puede usar como puntas de hierro para bloquear las puertas en caso de necesidad.</p>"
 		},
 		"Plate Armor": {
-			"name": "Plate Armor",
-			"description": "<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</p>"
+			"name": "Armadura de placas (Plate Armor)",
+			"description": "<p>También llamada armadura completa, está compuesta de placas de metal enganchadas entre sí, que se ajustan a la forma del cuerpo para cubrirlo por completo. La armadura de placas incluye guanteletes, un par de resistentes botas de cuero y un yelmo con visor, y se viste encima de un gambesón. El peso de esta armadura queda distribuido por todo el cuerpo mediante numerosas tiras y hebillas.</p>"
 		},
 		"Plate Armor +1": {
-			"name": "Plate Armor +1",
+			"name": "Armadura de placas +1 (Plate Armor +1)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Plate Armor +2": {
-			"name": "Plate Armor +2",
+			"name": "Armadura de placas +2 (Plate Armor +2)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Plate Armor +3": {
-			"name": "Plate Armor +3",
+			"name": "Armadura de placas +3 (Plate Armor +3)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Plate Armor of Etherealness": {
-			"name": "Plate Armor of Etherealness",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body. This particular armor has been inscribed with certain magical runes or other means to imbue power upon it.</p>\n<p>While you're wearing this armor, you can speak its command word as an action to gain the effect of the @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Etherealness} spell, which last for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn.</p>"
+			"name": "Armadura de placas de etereidad (Plate Armor of Etherealness)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>También llamada armadura completa, está compuesta de placas de metal enganchadas entre sí, que se ajustan a la forma del cuerpo para cubrirlo por completo. La armadura de placas incluye guanteletes, un par de resistentes botas de cuero y un yelmo con visor, y se viste encima de un gambesón. El peso de esta armadura queda distribuido por todo el cuerpo mediante numerosas tiras y hebillas.</p>\n<p>Mientras vistas esta armadura, puedes emplear una acción para pronunciar su palabra de activación y así obtener los efectos del conjuro @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Excursión etérea}, que durarán 10 minutos, hasta que te quites la armadura o hasta que digas la palabra de activación de nuevo. Esta propiedad de la armadura no puede volver a usarse hasta el siguiente amanecer.</p>"
 		},
 		"Plate Armor of Resistance": {
-			"name": "Plate Armor of Resistance",
+			"name": "Armadura de placas de resistencia (Plate Armor of Resistance)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Poisoner’s Kit": {
-			"name": "Poisoner’s Kit",
-			"description": "<p>A poisoner’s kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</p>"
+			"name": "Útiles de envenenador (Poisoner’s Kit)",
+			"description": "<p>Este juego de útiles incluye los viales, productos químicos y todo el equipo necesario para producir venenos. La competencia con ellos te permite añadir tu bonificador por competencia a las pruebas de característica para fabricar o usar venenos</p>"
 		},
 		"Pole": {
 			"name": "Pole",
