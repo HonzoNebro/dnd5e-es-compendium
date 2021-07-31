@@ -1934,80 +1934,80 @@
 			"description": "<p>Este juego de útiles incluye los viales, productos químicos y todo el equipo necesario para producir venenos. La competencia con ellos te permite añadir tu bonificador por competencia a las pruebas de característica para fabricar o usar venenos</p>"
 		},
 		"Pole": {
-			"name": "Pole",
-			"description": "<p>A ten-foot long pole of sturdy wood.</p>"
+			"name": "Vara (Pole)",
+			"description": "<p>Una vara de diez pies de largo de madera robusta.</p>"
 		},
 		"Portable Hole": {
-			"name": "Portable Hole",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.</p>\n<p>You can use an action to unfold a Portable Hole and place it on or against a solid surface, whereupon the Portable Hole creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open Portable Hole can exit the hole by climbing out of it.</p>\n<p>You can use an action to close a Portable Hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.</p>\n<p>If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed Portable Hole can survive for up to 10 minutes, after which time it begins to suffocate.</p>\n<p>Placing a portable hole inside an extradimensional space created by a bag of holding, handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.</p>"
+			"name": "Agujero portátil (Portable Hole)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta delicada tela negra, suave como la seda, está doblada hasta ocupar el espacio de un pañuelo. Se despliega en una sábana circular de 6 pies de diámetro.</p>\n<p>Puedes usar una acción para extender un agujero portátil y colocarlo en una superficie sólida, donde creará un hueco extradimensional de 10 pies de profundidad. El espacio cilíndrico en el que existe el agujero está en otro plano, por lo que no puede emplearse para crear pasadizos. Una criatura dentro de un agujero portátil puede salir del agujero escalando.</p>\n<p>Puedes utilizar una acción para cerrar un agujero portátil cogiendo los bordes de la tela y doblándola. Plegarla cierra el agujero, de modo que las criaturas u objetos que estuvieran dentro permanecerán ahí. Independientemente de su contenido, el agujero no pesa nada.</p>\n<p>Si este se pliega, una criatura situada dentro del espacio extradimensional podrá usar una acción para hacer una prueba de Fuerza CD 10. Si tiene éxito, consigue salir a la fuerza y aparece en un espacio a 5 pies del agujero o de la criatura que lo lleve consigo. Si una criatura que necesite respirar es colocada dentro, podrá sobrevivir durante 10 minutos, tras lo cual empieza a ahogarse.</p>\n<p>Poner un agujero portátil dentro del espacio extradimensional creado por un morral práctico, bolsa de contención u otro objeto similar destruye instantáneamente ambos objetos y abre un portal al Plano Astral. Se creará en el sitio donde un objeto se metió dentro del otro. Cualquier criatura que se encuentre a 10 pies del portal será absorbida a través de este a una localización aleatoria en el Plano Astral. Después, el portal se cierra. Solo funciona en un sentido y no puede ser reabierto.</p>"
 		},
 		"Portable Ram": {
-			"name": "Portable Ram",
-			"description": "<p>You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.</p>"
+			"name": "Ariete portátil (Portable Ram)",
+			"description": "<p>Puedes usar este ariete portátil para echar puertas abajo. Te proporcionará un bonificador de +4 a tus pruebas de Fuerza dedicadas a este fin. Además, si otro personaje te ayuda a usar el ariete tendrás ventaja en estas pruebas.</p>"
 		},
 		"Potion of Acid Resistance": {
-			"name": "Potion of Acid Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Acidic type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al ácido (Potion of Acid Resistance)",
+			"description": "<p><em>La poción es de un color indiscriminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño acido durante 1 hora.</p>\n<p> </p>"
 		},
 		"Potion of Animal Friendship": {
-			"name": "Potion of Animal Friendship",
-			"description": "<p><em>Agitating this muddy liquid brings little bits into view: a fish scale, hummingbird tongue, a cat claw, or a squirrel hair.</em></p>\n<p>When you drink this potion, you can cast the @Compendium[dnd5e.spells.hDOENzjuj5WpLq7B]{Animal Friendship}  spell (save DC 13) for 1 hour at will.</p>"
+			"name": "Poción de amistad animal (Potion of Animal Friendship)",
+			"description": "<p><em>Agitar este líquido turbio permite ver diferentes trocitos: una escama de pez, una lengua de colibrí, una garra de gato o un pelo de ardilla.</em></p>\n<p>Después de beber esta poción podrás lanzar el conjuro @Compendium[dnd5e.spells.hDOENzjuj5WpLq7B]{Encantar animal} (tirada de salvación CD 13) a voluntad durante 1 hora.</p>"
 		},
 		"Potion of Clairvoyance": {
-			"name": "Potion of Clairvoyance",
-			"description": "<p><em>An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.cg50KpBkBdPK6vPL]{Clairvoyance} spell.</p>"
+			"name": "Poción de clarividencia (Potion of Clairvoyance)",
+			"description": "<p><em>Una esfera ocular flota en el líquido amarillento, pero se desvanece en cuanto se abre el frasco de la poción.</em></p>\n<p>Cuando bebes esta poción, ganas el efecto del conjuro @Compendium[dnd5e.spells.cg50KpBkBdPK6vPL]{Clarividencia}.</p>"
 		},
 		"Potion of Climbing": {
-			"name": "Potion of Climbing",
-			"description": "<p><em>The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.</em></p>\n<p>When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. </p>"
+			"name": "Poción de trepar (Potion of Climbing)",
+			"description": "<p><em> La poción parece separada en tres bandas; marrón, plateada y gris, como si fueran estratos. Agitar la botella no mezcla los colores.</em></p>\n<p>Beber esta poción te dota durante 1 hora de una velocidad trepando igual a tu velocidad caminando. Además, disfrutarás durante el mismo tiempo de ventaja en las pruebas de Fuerza (Atletismo) que realices para escalar.</p>"
 		},
 		"Potion of Cloud Giant Strength": {
-			"name": "Potion of Cloud Giant Strength",
-			"description": "<p><em>This potion’s transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 27 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"name": "Poción de fuerza de gigante de las nubes (Potion of Cloud Giant Strength)",
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 27 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>\n<p> </p>"
 		},
 		"Potion of Cold Resistance": {
-			"name": "Potion of Cold Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Cold type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al frío (Potion of Cold Resistance)",
+			"description": "<p><em>La poción es de un color indiscriminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño de frío durante 1 hora.</p>\n<p> </p>"
 		},
 		"Potion of Diminution": {
-			"name": "Potion of Diminution",
-			"description": "<p><em>The red in the potion’s liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it.  Shaking the bottle fails to interrupt this process.</em></p>\n<p>When you drink this potion, you gain the “reduce” effect of the @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Enlarge/Reduce} spell for 1d4 hours (no concentration required). </p>\n<p> </p>\n<p> </p>\n<p> </p>"
+			"name": "Poción de encoger (Potion of Diminution)",
+			"description": "<p><em>En el recipiente, el rojo de la poción se contrae continuamente hasta una pequeña gota, expandiéndose después para teñir el líquido a su alrededor. Agitar la botella no perturba este proceso.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto de \"reducir\" del conjuro @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Agrandar/Reducir} durante  1d4 horas (no requiere concentración).</p>"
 		},
 		"Potion of Fire Giant Strength": {
-			"name": "Potion of Fire Giant Strength",
-			"description": "<p><em>This potion’s transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 25 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"name": "Poción de fuerza de gigante de fuego (Potion of Fire Giant Strength)",
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 25 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Fire Resistance": {
-			"name": "Potion of Fire Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Fire type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al fuego (Potion of Fire Resistance)",
+			"description": "<p><em>La poción es de un color indiscriminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño de fuego durante 1 hora.</p>"
 		},
 		"Potion of Flying": {
-			"name": "Potion of Flying",
-			"description": "<p><em>This potion’s clear liquid floats at the top of its container and has cloudy white impurities drifting in it.</em></p>\n<p>When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you’re in the air when the potion wears off, you fall unless you have some other means of staying aloft. </p>\n<p> </p>\n<p> </p>"
+			"name": "Poción de vuelo (Potion of Flying)",
+			"description": "<p><em>El líquido de esta poción flota en la parte superior del frasco, surcado por impurezas blancas con forma de nubes.</em></p>\n<p>Beber esta poción te dota durante 1 hora de una velocidad volando igual a tu velocidad caminando. Si estás en el aire cuando el efecto de la poción termina, caerás a menos que tengas algún otro método para permanecer a flote.</p>"
 		},
 		"Potion of Force Resistance": {
-			"name": "Potion of Force Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Force type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia a la fuerza (Potion of Force Resistance)",
+			"description": "<p><em>La poción es de un color indiscriminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño de fuerza durante 1 hora.</p>"
 		},
 		"Potion of Frost Giant Strength": {
-			"name": "Potion of Frost Giant Strength",
-			"description": "<p><em>This potion’s transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 23 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"name": "Poción de fuerza de gigante de escarcha (Potion of Frost Giant Strength)",
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 23 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Gaseous Form": {
-			"name": "Potion of Gaseous Form",
-			"description": "<p><em>This potion’s container seems to hold fog that moves and pours like water.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.2IWiZAJtOGDoKjiz]{Gaseous Form} spell for 1 hour (no concentration required) or until you end the effect as a bonus action. </p>\n<p> </p>"
+			"name": "Poción de forma gaseosa (Potion of Gaseous Form)",
+			"description": "<p><em>El frasco parece contener una niebla que se mueve y derrama como si fuera agua.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto del conjuro @Compendium[dnd5e.spells.2IWiZAJtOGDoKjiz]{Forma gaseosa} durante 1 hora (no requiere concentración) o hasta que lo des por terminado utilizando una acción adicional.</p>"
 		},
 		"Potion of Greater Healing": {
-			"name": "Potion of Greater Healing",
-			"description": "<p><em>The potion's red liquid glimmers when agitated.</em></p>\n<p>You regain 4d4+4 hit points when you drink this potion.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+			"name": "Poción de curación mayor (Potion of Greater Healing)",
+			"description": "<p><em>El rojo líquido de la poción destella cuando es agitado.</em></p>\n<p>Cuando bebes esta poción recuperas 4d4 + 4 puntos de golpe.</p>"
 		},
 		"Potion of Growth": {
-			"name": "Potion of Growth",
-			"description": "<p><em>The red in the potion’s liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts.  Shaking the bottle fails to interrupt this process.</em></p>\n<p>When you drink this potion, you gain the “enlarge” effect of the @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Enlarge/Reduce} spell for 1d4 hours (no concentration required).</p>"
+			"name": "Poción de crecimiento (Potion of Growth)",
+			"description": "<p><em>En el recipiente, el rojo de la poción se expande continuamente para teñir el líquido a su alrededor, contrayéndose después hasta una pequeña gota. Agitar la botella no perturba este proceso.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto de \"agrandar\" del conjuro @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Agrandar/Reducir} durante 1d4 horas (no requiere concentración).</p>"
 		},
 		"Potion of Healing": {
-			"name": "Potion of Healing",
-			"description": "<p><em>The potion's red liquid glimmers when agitated.</em></p>\n<p>You regain 2d4+2 hit points when you drink this potion.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+			"name": "Poción de curación (Potion of Healing)",
+			"description": "<p><em>El rojo líquido de la poción destella cuando es agitado.</em></p>\n<p>Cuando bebes esta poción recuperas 2d4 + 2 puntos de golpe.</p>"
 		},
 		"Potion of Heroism": {
 			"name": "Potion of Heroism",
