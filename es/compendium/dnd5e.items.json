@@ -1807,7 +1807,7 @@
 		},
 		"Orb": {
 			"name": "Orbe (Orb)",
-			"description": "<p>Este talismán esférico sirve como un foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador Arcano.</strong> Un canalizador arcano es un objeto especial, diseñado para conducir el poder de los conjuros arcanos. Los brujos, hechiceros y magos pueden utilizar este objeto como canalizador mágico, en lugar de los componentes indicados en el conjuro.</p>"
+			"description": "<p>Este talismán esférico sirve como un foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador arcano.</strong> Un canalizador arcano es un objeto especial, diseñado para conducir el poder de los conjuros arcanos. Los brujos, hechiceros y magos pueden utilizar este objeto como canalizador mágico, en lugar de los componentes indicados en el conjuro.</p>"
 		},
 		"Orb of Dragonkind": {
 			"name": "Orbe de los dragones (Orb of Dragonkind)",
@@ -2675,15 +2675,15 @@
 		},
 		"Sprig of Mistletoe": {
 			"name": "Rama de muérdago (Sprig of Mistletoe)",
-			"description": "<p>A hardy sprig of mistletoe, holly, or some other sacred leaf, picked from a tree whose roots are sunken deep into a ley line. Those who heed nature's call are able to harness this connection to call forth the incredible power of nature.</p>\n<p><strong>Spellcasting Focus</strong>. A druidic focus is a special item designed to channel the power of spells from the druid's spell list. A druid can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
+			"description": "<p>Una ramita resistente de muérdago, acebo o alguna otra hoja sagrada, recogida de un árbol cuyas raíces se hunden profundamente en una línea de recta. Aquellos que prestan atención al llamado de la naturaleza pueden aprovechar esta conexión para invocar su increíble poder.</p>\n<p><strong>Canalizador druídico.</strong> Un canalizador druídico es un elemento especial diseñado para canalizar el poder de los conjuros de la lista de conjuros de druida. Un druida puede utilizar dicho objeto como canalizador mágico, utilizándolo en lugar de cualquier componente material que no tenga coste.</p>"
 		},
 		"Spyglass": {
 			"name": "Catalejo (Spyglass)",
-			"description": "<p>Objects viewed through a spyglass are magnified to twice their size.</p>\n<p> </p>"
+			"description": "<p>Los objetos observados a través de un catalejo se ven al doble de su tamaño real.</p>"
 		},
 		"Staff": {
-			"name": "Staff",
-			"description": "<p>A gnarled or polished staff of wood, bone, or more exotic materials like crystal. Such implements are frequently used by spellcasters to hone their arcane focus.</p>\n<p><strong>Spellcasting Focus.</strong> An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
+			"name": "Bastón (Staff)",
+			"description": "<p>Un bastón nudoso o pulido de madera, hueso o materiales más exóticos como el cristal. Los lanzadores de conjuros suelen utilizar este tipo de instrumentos para potenciar su foco arcano.</p>\n<p><strong>Canalizador arcano.</strong> Un foco arcano es un objeto especialmente diseñado para canalizar el poder de los hechizos arcanos. Un hechicero, un brujo o un mago pueden usar dicho elemento como foco de lanzamiento de hechizos, usándolo en lugar de cualquier componente material que no incluya un costo.</p>"
 		},
 		"Staff of Charming": {
 			"name": "Staff of Charming",
