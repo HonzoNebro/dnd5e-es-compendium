@@ -2043,55 +2043,55 @@
 		},
 		"Potion of Psychic Resistance": {
 			"name": "Poción de resistencia al psíquico (Potion of Psychic Resistance)",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Psychic type damage for 1 hour.</p>\n<p> </p>"
+			"description": "<p><em>La poción es de un color indeterminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño psíquico durante 1 hora.</p>"
 		},
 		"Potion of Radiant Resistance": {
-			"name": "Potion of Radiant Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Radiant type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al radiante (Potion of Radiant Resistance)",
+			"description": "<p><em>La poción es de un color indeterminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño radiante durante 1 hora.</p>"
 		},
 		"Potion of Speed": {
-			"name": "Potion of Speed",
-			"description": "<p><em>The potion’s yellow fluid is streaked with black and swirls on its own.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.Szvk5FEVQW3uhJi5]{Haste} spell for 1 minute (no concentration required).</p>\n<p> </p>"
+			"name": "Poción de velocidad (Potion of Speed)",
+			"description": "<p><em>El líquido amarillo de este brebaje tiene vetas negras y forma remolinos.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto del conjuro @Compendium[dnd5e.spells.Szvk5FEVQW3uhJi5]{Acelerar} durante 1 minuto (no requiere concentración).</p>"
 		},
 		"Potion of Stone Giant Strength": {
-			"name": "Potion of Stone Giant Strength",
-			"description": "<p><em>This potion’s transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 23 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"name": "Poción de fuerza de gigante de piedra (Potion of Stone Giant Strength)",
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 23 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Storm Giant Strength": {
-			"name": "Potion of Storm Giant Strength",
-			"description": "<p><em>This potion’s transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 29 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"name": "Poción de fuerza de gigante de las tormentas (Potion of Storm Giant Strength)",
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 29 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Superior Healing": {
-			"name": "Potion of Superior Healing",
-			"description": "<p><em>The potion's red liquid glimmers when agitated.</em></p>\n<p>You regain 8d4+8 hit points when you drink this potion.</p>"
+			"name": "Poción de curación superior (Potion of Superior Healing)",
+			"description": "<p><em>El rojo líquido de la poción destella cuando es agitado.</em></p>\n<p>Cuando bebes esta poción recuperas 8d4 + 8 puntos de golpe.</p>"
 		},
 		"Potion of Supreme Healing": {
-			"name": "Potion of Supreme Healing",
-			"description": "<p><em>The potion's red liquid glimmers when agitated.</em></p>\n<p>You regain 10d4+20 hit points when you drink this potion.</p>"
+			"name": "Poción de curación suprema (Potion of Supreme Healing)",
+			"description": "<p><em>El rojo líquido de la poción destella cuando es agitado.</em></p>\n<p>Cuando bebes esta poción recuperas 10d4 + 20 puntos de golpe.</p>"
 		},
 		"Potion of Thunder Resistance": {
-			"name": "Potion of Thunder Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Thunder type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al trueno (Potion of Thunder Resistance)",
+			"description": "<p><em>La poción es de un color indeterminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño de trueno durante 1 hora.</p>"
 		},
 		"Potion of Water Breathing": {
-			"name": "Potion of Water Breathing",
-			"description": "<p><em>Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.</em></p>\n<p>You can breathe underwater for 1 hour after drinking this potion. </p>\n<p> </p>"
+			"name": "Poción de respirar bajo el agua (Potion of Water Breathing)",
+			"description": "<p><em>Se trata de un fluido verde turbio que huele a mar y en el que flota una burbuja en forma de medusa.</em></p>\n<p>Puedes respirar debajo del agua durante 1 hora tras beber esta poción.</p>"
 		},
 		"Potter's Tools": {
-			"name": "Potter's Tools",
+			"name": "Herramientas de alfarero (Potter's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alfarero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pouch": {
-			"name": "Pouch",
-			"description": "<p>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch. A pouch can hold up to ⅕ cubic foot or 6 pounds of gear.</p>"
+			"name": "Bolsa (Pouch)",
+			"description": "<p>Una bolsita de cuero o tela que puede contener hasta 20 balas de honda o 50 dardos de cerbatana, entre otras cosas. Las bolsas con compartimentos para componentes de conjuros reciben el nombre de saquitos de componentes. Puede contener ⅕ pies cúbicos o 6 libras de equipo.</p>"
 		},
 		"Prayer Book": {
-			"name": "Prayer Book",
-			"description": "<p>A book containing prayers and incantations dedicated to a specific power for the faithful to follow.</p>"
+			"name": "Devocionario (Prayer Book)",
+			"description": "<p>Un libro que contiene oraciones y encantamientos dedicados a un dios específico para que los fieles lo sigan.</p>"
 		},
 		"Prayer Wheel": {
-			"name": "Prayer Wheel",
-			"description": "<p>An aid for the faithful, this cylinder can be turned on a spindle made of metal, wood, bone, stone, leather, or coarse cotton as the user follows mantra or cantation carved or inlaid upon it. </p>"
+			"name": "Rueda de oraciones (Prayer Wheel)",
+			"description": "<p>Este cilindro, una ayuda para los fieles, puede girar en un huso de metal, madera, hueso, piedra, cuero o algodón grueso mientras el usuario sigue el mantra o el cántico grabado o inscrito en él.</p>"
 		},
 		"Quarterstaff": {
 			"name": "Bastón (Quarterstaff)",
