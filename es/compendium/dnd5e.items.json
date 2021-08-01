@@ -767,7 +767,7 @@
 		},
 		"Emblem": {
 			"name": "Emblema (Emblem)",
-			"description": "<p>Un símbolo grabado o cuidadosamente incrustado en un escudo o algún otro dispositivo que representa una deidad a través de la cual un verdadero creyente puede invocar su poder y al hacerlo difundir la fe.</p>\n<p><strong>Catalizador mágico.</strong> Un clérigo o paladín puede usar un símbolo sagrado como foco de lanzamiento. Para usar el símbolo de esta manera, el lanzador debe sostenerlo en la mano, usarlo visiblemente o llevarlo en el escudo.</p>"
+			"description": "<p>Un símbolo grabado o cuidadosamente incrustado en un escudo o algún otro dispositivo que representa una deidad a través de la cual un verdadero creyente puede invocar su poder y al hacerlo difundir la fe.</p>\n<p><strong>Canalizador mágico.</strong> Un clérigo o paladín puede usar un símbolo sagrado como foco de lanzamiento. Para usar el símbolo de esta manera, el lanzador debe sostenerlo en la mano, usarlo visiblemente o llevarlo en el escudo.</p>"
 		},
 		"Eversmoking Bottle": {
 			"name": "Botella siemprehumeante (Eversmoking Bottle)",
@@ -2095,82 +2095,82 @@
 		},
 		"Quarterstaff": {
 			"name": "Bastón (Quarterstaff)",
-			"description": "<p>A thick shaft of wood wrapped with a sturdy grip makes a highly functional weapon in addition to a stout walking stick.</p>"
+			"description": "<p>Un grueso palo de madera envuelto con una firme empuñadura hace que sea un arma muy funcional, además de un robusto bastón para caminar.</p>"
 		},
 		"Quarterstaff +1": {
-			"name": "Quarterstaff +1",
+			"name": "Bastón +1 (Quarterstaff +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Quarterstaff +2": {
-			"name": "Quarterstaff +2",
+			"name": "Bastón +2 (Quarterstaff +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Quarterstaff +3": {
-			"name": "Quarterstaff +3",
+			"name": "Bastón +3 (Quarterstaff +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Quiver": {
-			"name": "Quiver",
-			"description": "<p>A quiver can hold up to 20 arrows.</p>"
+			"name": "Aljaba (Quiver)",
+			"description": "<p>Una aljaba puede contener hasta 20 flechas</p>"
 		},
 		"Rapier": {
 			"name": "Estoque (Rapier)",
-			"description": "<p>A thin tensile metal blade, light in weight but long in reach designed for quick darting attacks to target weak points in enemy defenses with lightning swiftness.</p>"
+			"description": "<p>Una fina hoja de metal flexible, ligera pero de gran alcance, diseñada para realizar rápidos ataques en los puntos débiles de las defensas enemigas con la mayor rapidez.</p>"
 		},
 		"Rapier +1": {
-			"name": "Rapier +1",
+			"name": "Estoque +1 (Rapier +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Rapier +2": {
-			"name": "Rapier +2",
+			"name": "Estoque +2 (Rapier +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Rapier +3": {
-			"name": "Rapier +3",
+			"name": "Estoque +3 (Rapier +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Rapier of Life Stealing": {
-			"name": "Rapier of Life Stealing",
+			"name": "Estoque ladrón de vida (Rapier of Life Stealing)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando atacas a una criatura con esta espada mágica y obtienes un 20 en la tirada de ataque, el objetivo recibe 3d6 de daño necrótico adicional si no es un autómata o muerto viviente. Además, tú ganas 10 puntos de golpe temporales.</p>"
 		},
 		"Rapier of Wounding": {
-			"name": "Rapier of Wounding",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
+			"name": "Estoque hiriente (Rapier of Wounding)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Los puntos de golpe perdidos por el daño de esta arma solo pueden ser recuperados mediante un descanso corto o largo, no mediante regeneración, magia o de cualquier otro modo.</p>\n<p>Una vez por turno, cuando golpeas a una criatura con un ataque usando esta arma mágica, puedes herirla. Al principio de cada uno de los turnos de la criatura herida, esta recibe 1d4 de daño necrótico por cada vez que la hayas herido, tras lo cual puede realizar una tirada de salvación de Constitución CD 15. Tener éxito en esta tirada terminará los efectos de todas estas heridas sobre la criatura. De forma alternativa, la criatura herida o una criatura que se encuentre a 5 pies o menos de ella puede emplear una acción para realizar una prueba de Sabiduría (Medicina) CD 15, acabando con el efecto de estas heridas si la supera.</p>"
 		},
 		"Rations": {
-			"name": "Rations",
-			"description": "<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p>"
+			"name": "Raciones (Rations)",
+			"description": "<p>Raciones compactas y secas que resisten viajes largos. Incluyen cecina, fruta deshidratada, galletas y nueces.</p>"
 		},
 		"Reliquary": {
-			"name": "Reliquary",
-			"description": "<p>A tiny box or other container holding a fragment of a precious relic, saint, or other historical figure that dedicated their life to walk the path of a true believer. A deity imbues the bearer of this artifact with the ability to call forth their power and in doing so spread the faith once more.</p>\n<p><strong>Spellcasting Focus</strong>. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</p>"
+			"name": "Relicario (Reliquary)",
+			"description": "<p>Una pequeña caja u otro contenedor que contiene un fragmento de una preciosa reliquia de un santo, u otra figura histórica que dedicó su vida a recorrer el camino de un verdadero creyente. Una deidad imbuye al portador de este artefacto con la capacidad de invocar su poder y, al hacerlo, difundir la fe una vez más.</p>\n<p><strong>Canalizador mágico.</strong> Un clérigo o paladín puede usar un símbolo sagrado como foco de lanzamiento. Para usar el símbolo de esta manera, el lanzador debe sostenerlo en la mano, usarlo visiblemente o llevarlo en el escudo.</p>"
 		},
 		"Restorative Ointment": {
-			"name": "Restorative Ointment",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.</p>\n<p>As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.</p>\n<p><em>Foundry note: the 5 charges reflect the maximum number of doses possible. </em><em>Similarly, the guide price of 600 gp is calculated at 120 gp per dose. A</em><em>djust both as required.</em></p>"
+			"name": "Ungüento reconstituyente (Restorative Ointment)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta jarra de cristal, de 3 pulgadas de diámetro, contiene 1d4 + 1 dosis de una pasta densa que huele ligeramente a aloe. La jarra y sus contenidos pesan 1/2 libra.</p>\n<p>Puedes usar una acción para tragar o aplicar a la piel una dosis del ungüento. La criatura beneficiada recuperará 2d8 + 2 puntos de golpe, dejará de estar envenenada y será curada de cualquier enfermedad.</p>\n<p><em>**Nota de Foundry: las 5 cargas reflejan el número máximo de dosis posibles. Del mismo modo, el precio orientativo de 600 po se calcula a 120 po por carga. Ajusta ambos según sea necesario.</em></p>"
 		},
 		"Ring Mail": {
-			"name": "Ring Mail",
-			"description": "<p>This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.</p>"
+			"name": "Cota guarnecida (Ring Mail)",
+			"description": "<p>Esta armadura está hecha de una base de cuero sobre la que se cosen pesados anillos de metal, que ayudan a reforzarla contra los golpes de espadas y hachas. La cota guarnecida es inferior a la cota de malla, por lo que solo suelen llevarla aquellos que no se pueden permitir una armadura mejor.</p>"
 		},
 		"Ring Mail +1": {
-			"name": "Ring Mail +1",
+			"name": "Cota guarnecida +1 (Ring Mail +1)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Ring Mail +2": {
-			"name": "Ring Mail +2",
+			"name": "Cota guarnecida +2 (Ring Mail +2)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Ring Mail +3": {
-			"name": "Ring Mail +3",
+			"name": "Cota guarnecida +3 (Ring Mail +3)",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Ring Mail Armor of Resistance": {
-			"name": "Ring Mail Armor of Resistance",
+			"name": "Cota guarnecida de resistencia (Ring Mail Armor of Resistance)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Ring of Acid Resistance": {
-			"name": "Ring of Acid Resistance",
+			"name": "Anillo de resistencia al ácido (Ring of Acid Resistance)",
 			"description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a pearl that shimmers when it catches the light.</em></p>\n<p>You have resistance to acid damage while wearing this ring.</p>"
 		},
 		"Ring of Air Elemental Command": {
@@ -2419,7 +2419,7 @@
 		},
 		"Scimitar of Wounding": {
 			"name": "Scimitar of Wounding",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Los puntos de golpe perdidos por el daño de esta arma solo pueden ser recuperados mediante un descanso corto o largo, no mediante regeneración, magia o de cualquier otro modo.</p>\n<p>Una vez por turno, cuando golpeas a una criatura con un ataque usando esta arma mágica, puedes herirla. Al principio de cada uno de los turnos de la criatura herida, esta recibe 1d4 de daño necrótico por cada vez que la hayas herido, tras lo cual puede realizar una tirada de salvación de Constitución CD 15. Tener éxito en esta tirada terminará los efectos de todas estas heridas sobre la criatura. De forma alternativa, la criatura herida o una criatura que se encuentre a 5 pies o menos de ella puede emplear una acción para realizar una prueba de Sabiduría (Medicina) CD 15, acabando con el efecto de estas heridas si la supera.</p>"
 		},
 		"Sealing Wax": {
 			"name": "Sealing Wax",
@@ -2487,7 +2487,7 @@
 		},
 		"Shortsword of Wounding": {
 			"name": "Shortsword of Wounding",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Los puntos de golpe perdidos por el daño de esta arma solo pueden ser recuperados mediante un descanso corto o largo, no mediante regeneración, magia o de cualquier otro modo.</p>\n<p>Una vez por turno, cuando golpeas a una criatura con un ataque usando esta arma mágica, puedes herirla. Al principio de cada uno de los turnos de la criatura herida, esta recibe 1d4 de daño necrótico por cada vez que la hayas herido, tras lo cual puede realizar una tirada de salvación de Constitución CD 15. Tener éxito en esta tirada terminará los efectos de todas estas heridas sobre la criatura. De forma alternativa, la criatura herida o una criatura que se encuentre a 5 pies o menos de ella puede emplear una acción para realizar una prueba de Sabiduría (Medicina) CD 15, acabando con el efecto de estas heridas si la supera.</p>"
 		},
 		"Shovel": {
 			"name": "Shovel",
