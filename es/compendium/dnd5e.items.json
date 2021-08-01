@@ -2010,39 +2010,39 @@
 			"description": "<p><em>El rojo líquido de la poción destella cuando es agitado.</em></p>\n<p>Cuando bebes esta poción recuperas 2d4 + 2 puntos de golpe.</p>"
 		},
 		"Potion of Heroism": {
-			"name": "Potion of Heroism",
-			"description": "<p><em>This blue potion bubbles and steams as if boiling.</em></p>\n<p>For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the @Compendium[dnd5e.spells.8dzaICjGy6mTUaUr]{Bless} spell (no concentration required)  </p>\n<p><em>Foundry note: the Other Formula button can be used to roll the bonus 1d4 received from Bless.</em></p>"
+			"name": "Poción de heroísmo (Potion of Heroism)",
+			"description": "<p><em>Esta poción azul burbujea y se evapora como si estuviera hirviendo.</em></p>\n<p>Obtienes 10 puntos de golpe temporales que duran 1 hora a partir del momento en el que bebes esta poción. Durante ese periodo también estarás bajo los efectos del conjuro @Compendium[dnd5e.spells.8dzaICjGy6mTUaUr]{Bendición} (no requiere concentración).</p>\n<p><em>**Nota de Foundry: puedes utilizar el botón Otra fórmula para tirar el bonificador de 1d4 recibido por Bendición.</em></p>"
 		},
 		"Potion of Hill Giant Strength": {
-			"name": "Potion of Hill Giant Strength",
-			"description": "<p><em>This potion’s transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 21 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"name": "Poción de fuerza de gigante de las colinas (Potion of Hill Giant Strength)",
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 21 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Invisibility": {
-			"name": "Potion of Invisibility",
-			"description": "<p><em>This potion’s container looks empty but feels as though it holds liquid. </em></p>\n<p>When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.</p>\n<p> </p>"
+			"name": "Poción de invisibilidad (Potion of Invisibility)",
+			"description": "<p><em>El frasco de esta poción parece vacío, pero al mismo tiempo da la impresión de tener líquido dentro.</em></p>\n<p>Al beberlo te vuelves invisible durante 1 hora. Mientras estés en ese estado, cualquier cosa que vistas o lleves encima será también invisible. El efecto termina si atacas o lanzas un conjuro.</p>"
 		},
 		"Potion of Lightning Resistance": {
-			"name": "Potion of Lightning Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Lightning type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al relámpago (Potion of Lightning Resistance)",
+			"description": "<p><em>La poción es de un color indiscriminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño de relámpago durante 1 hora.</p>"
 		},
 		"Potion of Mind Reading": {
-			"name": "Potion of Mind Reading",
-			"description": "<p><em>The potion’s dense, purple liquid has an ovoid cloud of pink floating in it.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detect Thoughts} spell (save DC 13). </p>"
+			"name": "Poción de leer mentes (Potion of Mind Reading)",
+			"description": "<p><em>El líquido denso y púrpura de esta poción tiene una nube rosa ovoide flotando encima.</em></p>\n<p>Cuando bebes esta poción, ganas el efecto del conjuro @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detectar pensamientos} (tirada de salvación CD 13).</p>"
 		},
 		"Potion of Necrotic Resistance": {
-			"name": "Potion of Necrotic Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Necrotic type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al necrótico (Potion of Necrotic Resistance)",
+			"description": "<p><em>La poción es de un color indeterminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño necrótico durante 1 hora.</p>"
 		},
 		"Potion of Poison": {
-			"name": "Potion of Poison",
-			"description": "<p><em>This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. </em></p>\n<p>However, it is actually poison masked by illusion magic.  An identify spell reveals its true nature.</p>\n<p>If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0.</p>\n<p><em>Foundry note: to apply the reduced damage from a successful Constitution save, please use the Other Formula (set at 1d6) as required.</em></p>"
+			"name": "Poción de veneno (Potion of Poison)",
+			"description": "<p><em>Este menjunje parece, huele y sabe como una poción de curación o cualquier otra poción beneficiosa.</em></p>\n<p>No obstante, en realidad es un veneno enmascarado con magia de ilusionismo. El conjuro identificar revelará su verdadera naturaleza.</p>\n<p>Si la bebes, recibirás 3d6 de daño de veneno y deberás tener éxito en una tirada de salvación de Constitución CD 13 o quedarás envenenado. Mientras estés envenenado de esta forma, sufrirás 3d6 de daño de veneno al principio de cada uno de tus turnos. Puedes repetir la tirada de salvación al final de cada uno de tus turnos. Si tienes éxito, el daño de veneno que recibes en los próximos turnos se reduce en 1d6. El veneno acaba cuando el daño se reduce a 0.</p>\n<p><em>**Nota de Fundry: para aplicar el daño reducido de una salvación de Constitución exitosa, utiliza la Otra fórmula (establecida en 1d6) según sea necesario.</em></p>"
 		},
 		"Potion of Poison Resistance": {
-			"name": "Potion of Poison Resistance",
-			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Poison type damage for 1 hour.</p>\n<p> </p>"
+			"name": "Poción de resistencia al veneno (Potion of Poison Resistance)",
+			"description": "<p><em>La poción es de un color indeterminado y huele un poco mal.</em></p>\n<p>Cuando bebes esta poción, ganas resistencia al daño de veneno durante 1 hora.</p>"
 		},
 		"Potion of Psychic Resistance": {
-			"name": "Potion of Psychic Resistance",
+			"name": "Poción de resistencia al psíquico (Potion of Psychic Resistance)",
 			"description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Psychic type damage for 1 hour.</p>\n<p> </p>"
 		},
 		"Potion of Radiant Resistance": {
