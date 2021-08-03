@@ -559,7 +559,7 @@
 		},
 		"Crystal": {
 			"name": "Cristal (Crystal)",
-			"description": "<p>Este talismán cristalino sirve como foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador arcano.</strong> Un foco arcano es un objeto especialmente diseñado para canalizar el poder de los hechizos arcanos. Un hechicero, un brujo o un mago pueden usar dicho elemento como foco de lanzamiento de hechizos, usándolo en lugar de cualquier componente material que no incluya un costo.</p>"
+			"description": "<p>Este talismán cristalino sirve como foco de lanzamiento de hechizos, ayudando al practicante a canalizar energías arcanas, primarias o divinas.</p>\n<p><strong>Canalizador arcano.</strong> Un canalizador arcano es un objeto especial, diseñado para conducir el poder de los conjuros arcanos. Los brujos, hechiceros y magos pueden utilizar este objeto como canalizador mágico, en lugar de los componentes indicados en el conjuro.</p>"
 		},
 		"Crystal Ball": {
 			"name": "Bola de cristal (Crystal Ball)",
@@ -2331,7 +2331,7 @@
 		},
 		"Rod": {
 			"name": "Vara (Rod)",
-			"description": "<p>Una vara de hueso, piedra, metal o materiales más exóticos, tallada o diseñada de forma elaborada. Los lanzadores de conjuros utilizan estas varas para concentrar su atención y su energía arcana.</p>\n<p><strong>Canalizador arcano.</strong> Un foco arcano es un objeto especialmente diseñado para canalizar el poder de los hechizos arcanos. Un hechicero, un brujo o un mago pueden usar dicho elemento como foco de lanzamiento de hechizos, usándolo en lugar de cualquier componente material que no incluya un costo.</p>"
+			"description": "<p>Una vara de hueso, piedra, metal o materiales más exóticos, tallada o diseñada de forma elaborada. Los lanzadores de conjuros utilizan estas varas para concentrar su atención y su energía arcana.</p>\n<p><strong>Canalizador arcano.</strong> Un canalizador arcano es un objeto especial, diseñado para conducir el poder de los conjuros arcanos. Los brujos, hechiceros y magos pueden utilizar este objeto como canalizador mágico, en lugar de los componentes indicados en el conjuro.</p>"
 		},
 		"Rod of Absorption": {
 			"name": "Vara de la absorción (Rod of Absorption)",
@@ -2683,7 +2683,7 @@
 		},
 		"Staff": {
 			"name": "Bastón (Staff)",
-			"description": "<p>Un bastón nudoso o pulido de madera, hueso o materiales más exóticos como el cristal. Los lanzadores de conjuros suelen utilizar este tipo de instrumentos para potenciar su foco arcano.</p>\n<p><strong>Canalizador arcano.</strong> Un foco arcano es un objeto especialmente diseñado para canalizar el poder de los hechizos arcanos. Un hechicero, un brujo o un mago pueden usar dicho elemento como foco de lanzamiento de hechizos, usándolo en lugar de cualquier componente material que no incluya un costo.</p>"
+			"description": "<p>Un bastón nudoso o pulido de madera, hueso o materiales más exóticos como el cristal. Los lanzadores de conjuros suelen utilizar este tipo de instrumentos para potenciar su foco arcano.</p>\n<p><strong>Canalizador arcano.</strong> Un canalizador arcano es un objeto especial, diseñado para conducir el poder de los conjuros arcanos. Los brujos, hechiceros y magos pueden utilizar este objeto como canalizador mágico, en lugar de los componentes indicados en el conjuro.</p>"
 		},
 		"Staff of Charming": {
 			"name": "Bastón del cautivador (Staff of Charming)",
@@ -2778,268 +2778,268 @@
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización con una criatura de alineamiento bueno)</em></p>\n<p>Este talismán es un poderoso símbolo del bien. Una criatura cuyo alineamiento no sea ni bueno ni malo recibe 6d6 de daño radiante si lo toca. En cambio, si es de alineamiento malo, sufrirá 8d6 de daño radiante. En cualquiera de los dos casos, reciben el daño de nuevo cada vez que terminan su turno y están sosteniendo o llevando el talismán.</p>\n<p>Si eres un clérigo o paladín bueno, puedes usar el talismán como símbolo sagrado y obtienes un bonificador de +2 a las tiradas de ataque con conjuros mientras lo vistas o lo sostengas.</p>\n<p>El talismán tiene 7 cargas. Si lo llevas puesto o lo estás sosteniendo, puedes emplear una acción para gastar 1 carga y elegir una criatura sobre el suelo, que puedas ver, y que se encuentre a 120 pies o menos de ti. Si el objetivo es de alineamiento malvado, una grieta ardiente se abrirá bajo él. El objetivo deberá tener éxito en una tirada de salvación de Destreza CD 20 o caerá en la grieta y será destruido, sin dejar ningún resto mortal. Después, la grieta se cerrará, sin quedar señal alguna de su existencia. Cuando gastas la última carga, el talismán se convierte en motas de luz dorada y queda destruido.</p>"
 		},
 		"Talisman of Ultimate Evil": {
-			"name": "Talisman of Ultimate Evil",
-			"description": "<p><em>Wondrous item, (requires attunement by a creature of evil alignment)</em></p>\n<p>This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6d6 necrotic damage upon touching the talisman. A good creature takes 8d6 necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.</p>\n<p>If you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.</p>\n<p>The talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 feet of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed.</p>"
+			"name": "Talismán del mal definitivo (Talisman of Ultimate Evil)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización con una criatura de alineamiento malvado)</em></p>\n<p>Este objetivo simboliza el mal impenitente. Una criatura cuyo alineamiento no sea ni bueno ni malo recibe 6d6 de daño necrótico si lo toca. En cambio, si es de alineamiento bueno, sufrirá 8d6 de daño necrótico. En cualquiera de los dos casos, reciben el daño de nuevo cada vez que terminan su turno y están sosteniendo o llevando el talismán.</p>\n<p>Si eres un clérigo o paladín malvado, puedes usar el talismán como símbolo sagrado y consigues un bonificador de +2 a las tiradas de ataque con conjuros mientras lo vistas o lo sostengas.</p>\n<p>El talismán tiene 6 cargas. Si lo llevas puesto o lo estás sosteniendo, puedes emplear una acción para gastar 1 carga y elegir una criatura situada en el suelo, que puedas ver, y que se encuentre a 120 pies o menos de ti. Si el objetivo es de alineamiento bueno, una grieta ardiente se abrirá bajo él. El objetivo deberá tener éxito en una tirada de salvación de Destreza CD 20 o caerá en la grieta y será destruido, sin dejar ningún resto mortal. Después, la grieta se cerrará, sin quedar señal alguna de su existencia. Cuando gastas la última carga, el talismán se disuelve en una baba apestosa y queda destruido.</p>"
 		},
 		"Talisman of the Sphere": {
-			"name": "Talisman of the Sphere",
-			"description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>When you make an Intelligence (Arcana) check to control a Sphere of Annihilation while you are holding this talisman, you double your proficiency bonus on the check. In addition, when you start your turn with control over a Sphere of Annihilation, you can use an action to levitate it 10 feet plus a number of additional feet equal to 10 × your Intelligence modifier.</p>"
+			"name": "Talismán de la esfera (Talisman of the Sphere)",
+			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Cuando hagas una prueba de Inteligencia (Conocimiento Arcano) para controlar una esfera de aniquilación y sostengas este talismán, duplica tu bonificador por competencia en la prueba. Además, siempre que comienzas tu turno controlando una esfera de aniquilación, puedes usar una acción para hacer que levite 10 pies más tantos pies como 10 veces tu modificador por Inteligencia.</p>"
 		},
 		"Tankard": {
-			"name": "Tankard",
-			"description": "<p>It is a form of drinkware consisting of a large, roughly cynlindrical, drinking cup with a single handle.</p>"
+			"name": "Jarra (Tankard)",
+			"description": "<p>Es un tipo de recipiente para beber que consiste en un vaso grande, más o menos cilíndrico, con una sola asa.</p>"
 		},
 		"Thieves’ Tools": {
-			"name": "Thieves’ Tools",
-			"description": "<p>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</p>"
+			"name": "Herramientas de ladrón (Thieves’ Tools)",
+			"description": "<p>Este conjunto de herramientas incluye una pequeña lima, un juego de ganzúas, un espejito montado en un asa metálica, una serie de tijeras de punta estrecha y unas tenazas. La competencia con estas herramientas te permite añadir tu bonificador por competencia a las pruebas de característica para desarmar trampas o forzar cerraduras.</p>"
 		},
 		"Tinderbox": {
-			"name": "Tinderbox",
-			"description": "<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch - or anything else with abundant, exposed fuel - takes an action. Lighting any other fire takes 1 minute.</p>\n<p> </p>"
+			"name": "Yesquero (Tinderbox)",
+			"description": "<p>Esta pequeña caja contiene pedernal, chispero y yescas (normalmente ropa seca untada en aceite); todo lo necesario para encender fuego. Puedes utilizarla para prender una antorcha (o alguna otra cosa altamente inflamable) gastando una acción. Se tarda 1 minuto en encender cualquier otro tipo de fuego.</p>"
 		},
 		"Tinker's Tools": {
-			"name": "Tinker's Tools",
+			"name": "Herramientas de manitas (Tinker's Tools)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un manitas.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Tome of Clear Thought": {
-			"name": "Tome of Clear Thought",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This book contains memory and logic exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Intelligence score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</p>"
+			"name": "Tomo de pensamiento claro (Tome of Clear Thought)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este libro contiene ejercicios de lógica y de memoria, con palabras cargadas de magia. Si inviertes 48 horas durante un periodo de, como mucho, 6 días en estudiar el contenido del libro y poner en práctica sus indicaciones, tu puntuación de Inteligencia aumentará en 2, así como tu máximo para esa puntuación. Después, el manual perderá su magia, recuperándola tras un siglo.</p>"
 		},
 		"Tome of Leadership and Influence": {
-			"name": "Tome of Leadership and Influence",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This book contains guidelines for influencing and charming others, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Charisma score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</p>"
+			"name": "Tomo de liderazgo e influencia (Tome of Leadership and Influence)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este libro contiene indicaciones para influir y embelesar a otros, con palabras cargadas de magia. Si inviertes 48 horas durante un periodo de, como mucho, 6 días en estudiar el contenido del libro y poner en práctica sus indicaciones, tu puntuación de Carisma aumentará en 2, así como tu máximo para esa puntuación. Después, el manual perderá su magia, recuperándola tras un siglo.</p>"
 		},
 		"Tome of Understanding": {
-			"name": "Tome of Understanding",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.</p>"
+			"name": "Tomo de entendimiento (Tome of Understanding)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este libro contiene ejercicios de intuición y perspicacia, con palabras cargadas de magia. Si inviertes 48 horas durante un periodo de, como mucho, 6 días en estudiar el contenido del libro y poner en práctica sus indicaciones, tu puntuación de Sabiduría aumentará en 2, así como tu máximo para esa puntuación. Después, el manual pe rderá su magia, recuperándola tras un siglo.</p>"
 		},
 		"Torch": {
 			"name": "Antorcha (Torch)",
-			"description": "<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</p>"
+			"description": "<p>Arde durante 1 hora emitiendo luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. Si haces un ataque cuerpo a cuerpo con una antorcha encendida e impactas, causarás 1 de daño de fuego</p>"
 		},
 		"Totem": {
-			"name": "Totem",
-			"description": "<p>A totem incorporating feathers, fur, bones, and teeth from an animal sacred to the user. Those who heed nature's call are able to harness this to call forth the incredible power of nature.</p>\n<p><strong>Spellcasting Focus</strong>. A druidic focus is a special item designed to channel the power of spells from the druid's spell list. A druid can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
+			"name": "Tótem (Totem)",
+			"description": "<p>Un tótem que incorpora plumas, pieles, huesos y dientes de un animal sagrado. Aquellos que prestan atención al llamado de la naturaleza pueden aprovechar esta conexión para invocar su increíble poder.</p>\n<p><strong>Canalizador druídico.</strong> Un foco druídico es un elemento especial diseñado para canalizar el poder de los hechizos de la lista de hechizos del druida. Un druida puede usar un elemento como foco de lanzamiento de hechizos, en lugar de cualquier componente material que no incluya un costo.</p>"
 		},
 		"Traveler's Clothes": {
-			"name": "Traveler's Clothes",
-			"description": "<p>A set of clothes worn by travellers.</p>"
+			"name": "Ropa de viajero (Traveler's Clothes)",
+			"description": "<p>Un conjunto de ropa que usan los viajeros.</p>"
 		},
 		"Trident": {
 			"name": "Tridente (Trident)",
-			"description": "<p>A multi-pronged spear designed to impale a target in multiple locations, pinning them in place. Often used in combination with a net to entrap and harass foes.</p>"
+			"description": "<p>Una lanza con varias puntas diseñada para empalar a un objetivo en varios lugares, inmovilizándolo. A menudo se utiliza en combinación con una red para atrapar y hostigar a los enemigos.</p>"
 		},
 		"Trident +1": {
-			"name": "Trident +1",
+			"name": "Tridente +1 (Trident +1)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Trident +2": {
-			"name": "Trident +2",
+			"name": "Tridente +2 (Trident +2)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Trident +3": {
-			"name": "Trident +3",
+			"name": "Tridente +3 (Trident +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Trident of Fish Command": {
-			"name": "Trident of Fish Command",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast @Compendium[dnd5e.spells.LrPvWHBPmiMQQsKB]{Dominate Beast} (save DC 15) from it on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.</p>"
+			"name": "Tridente de comandar peces (Trident of Fish Command)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Este tridente es un arma mágica. Tiene 3 cargas. Mientras lo lleves, puedes usar una acción y gastar 1 carga para lanzar @Compendium[dnd5e.spells.LrPvWHBPmiMQQsKB]{Dominar bestia} (tirada de salvación CD 15) desde él sobre una bestia que tenga una velocidad nadando innata. El tridente recupera 1d3 cargas gastadas cada día, al amanecer.</p>"
 		},
 		"Trinket": {
-			"name": "Trinket",
-			"description": "<p>A placeholder for the non-SRD items introduced on pg. 159, with the d100 table on 160-161.</p>"
+			"name": "Bagatelas (Trinket)",
+			"description": "<p>Un espacio para los elementos no-SRD introducidos en la página 159, con la tabla d100 en la 160-161.</p>"
 		},
 		"Two-Person Tent": {
-			"name": "Two-Person Tent",
-			"description": "<p>A simple and portable canvas shelter, a tent sleeps two.</p>"
+			"name": "Tienda para dos (Two-Person Tent)",
+			"description": "<p>Una lona bajo la que guarecerse, sencilla y transportable, en la que pueden dormir dos personas</p>"
 		},
 		"Unarmed Strike": {
 			"name": "Ataque sin armas (Unarmed Strike)",
-			"description": "<p>A  punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.</p>"
+			"description": "<p>Puedes atacar en cuerpo a cuerpo estando desarmado mediante un ataque sin armas, ya se trate de un puñetazo, patada, cabezazo o cualquier otro impacto enérgico. En caso de impactar, causarás 1 + tu modificador de Fuerza de daño contundente. Siempre eres competente con tus ataques sin armas.</p>"
 		},
 		"Unarmed Strike (Monk)": {
 			"name": "Ataque sin armas del Monje (Unarmed Strike (Monk))",
-			"description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes.</p>\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:</p>\n<p>• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes</p>\n<p>• You can roll a d4 in place of the normal damage of your unarmed strike. This die changes as you gain monk levels, as shown in the Martial Arts column in the table below.</p>\n<p>• When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Monk Level</strong></td>\n<td><strong>Martial Arts</strong></td>\n</tr>\n<tr>\n<td>1st - 4th</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5th - 10th</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11th - 16th</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17th - 20th</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Foundry note: Note the damage die is set to the base default of 1d4. Please manually adjust as required.</em></p>"
+			"description": "<p>A nivel 1 tu práctica de las artes marciales te ha otorgado un dominio de los estilos de combate que emplean ataques sin armas.</p>\n<p>Obtienes los siguientes beneficios mientras no portes armadura ni escudo, y estés desarmado o empuñes únicamente armas de monje.</p>\n<p>• Puedes usar tu Destreza en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje.</p>\n<p>• Puedes tirar 1d4 en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, tal y como se muestra en la columna “artes marciales” de la tabla del monje.</p>\n<p>• Cuando llevas a cabo la acción de Atacar con un ataque sin armas o un arma de monje durante tu turno, puedes utilizar tu acción adicional para hacer un ataque sin armas. De este modo, si empleas la acción de Atacar para atacar con un bastón, también puedes realizar un ataque sin armas con tu acción adicional, siempre y cuando no hayas usado ya esta.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Nivel de Monje</strong></td>\n<td><strong>Artes Marciales</strong></td>\n</tr>\n<tr>\n<td>1 - 4</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5 - 10</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11 - 16</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17 - 20</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Nota de Foundry: por defecto, el dado de daño se ha fijado en 1d4. Ajústalo manualmente cuando sea necesario.</em></p>"
 		},
 		"Universal Solvent": {
-			"name": "Universal Solvent",
-			"description": "<p><em>Wondrous item</em></p>\n<p>This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including Sovereign Glue.</p>"
+			"name": "Disolvente universal (Universal Solvent)",
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este tubo contiene un líquido lechoso con un fuerte olor a alcohol. Puedes usar una acción para verter el contenido del tubo en una superficie dentro de tu alcance. El líquido disuelve de manera instantánea hasta 1 pie cuadrado de adhesivo que pueda tocar, incluyendo Pegamento soberano.</p>"
 		},
 		"Vestments": {
-			"name": "Vestments",
-			"description": "<p>Simple or ostentacious wear, often used by priests and other religious figures for use in rituals and ceremonies.</p>"
+			"name": "Vestiduras (Vestments)",
+			"description": "<p>Ropa simple u ostentosa, a menudo utilizada por sacerdotes y otras figuras religiosas para su uso en rituales y ceremonias.</p>"
 		},
 		"Vial": {
-			"name": "Vial",
-			"description": "<p>A vial can hold up to 4 ounces of liquid.</p>"
+			"name": "Vial (Vial)",
+			"description": "<p>Un vial puede contener hasta 4 onzas de líquido.</p>"
 		},
 		"Vicious Battleaxe": {
-			"name": "Vicious Battleaxe",
-			"description": "<p>A stout crescent blade mounted on a thick shaft wrapped in a sturdy grip. This axe is large enough to be wielded with two hands and is adorned with spikes upon the back-side of the blade and the top of the shaft.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Hacha de guerra feroz (Vicious Battleaxe)",
+			"description": "<p>Una robusta hoja de media luna montada sobre un grueso mango envuelto en una firme empuñadura. Esta hacha es lo suficientemente grande como para ser empuñada a dos manos y está adornada con pinchos en el reverso de la hoja y en la parte superior del asta.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Blowgun": {
-			"name": "Vicious Blowgun",
-			"description": "<p>A primitive, but deadly, weapon favored by tribes and guerrila fighters. The darts fired from this gun can puncture and deliver lethal doses of venom.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Cerbatana feroz (Vicious Blowgun)",
+			"description": "<p>Un arma primitiva, pero mortal, muy utilizada por las tribus y los guerrilleros. Los dardos que se disparan con esta arma pueden clavarse y suministrar dosis letales de veneno.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Club": {
-			"name": "Vicious Club",
-			"description": "<p>A stout knob of wood forms a simple, but effective, cudgel. These weapons are used to bludgeon foes, bruising flesh and breaking bones.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Garrote feroz (Vicious Club)",
+			"description": "<p>Un robusto palo de madera forma un simple, pero eficaz, garrote. Estas armas se utilizan para aporrear a los enemigos, magullando la carne y rompiendo los huesos.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Dagger": {
-			"name": "Vicious Dagger",
-			"description": "<p>A short metal blade mounted to a small hilt and crossguard. The dagger makes an effective side armament for hardened warriors or a hidden blade for assassins and thieves.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Daga feroz (Vicious Dagger)",
+			"description": "<p>Una corta hoja de metal montada en una pequeña empuñadura y una guarda cruzada. La daga es un arma secundaria eficaz para los guerreros curtidos o una hoja oculta para asesinos y ladrones.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Dart": {
-			"name": "Vicious Dart",
-			"description": "<p>A small thrown implement crafted with a short wooden shaft and crossed feathres with a sharp wooden or metal tip. Darts can be thrown with sufficient force to puncture the skin.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Dardo feroz (Vicious Dart)",
+			"description": "<p>Pequeño instrumento arrojadizo fabricado con un asta corta de madera y plumas cruzadas con una punta afilada de madera o metal. Los dardos pueden lanzarse con la fuerza suficiente para perforar la piel.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Flail": {
-			"name": "Vicious Flail",
-			"description": "<p>A set of chain-linked spiked balls lashed to a stout wooden shaft. The flail deals devastating damage when whirled in a deadly arc.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Flagelo feroz (Vicious Flail)",
+			"description": "<p>Un conjunto de bolas con púas unidas a un robusto mango de madera. El mayal inflige un daño devastador al girar en un arco mortal.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Glaive": {
-			"name": "Vicious Glaive",
-			"description": "<p>A crescent blade is mounted on the end of a tall metal shaft. This polearm provies the ability to attack with deadly efficiency from greater range than typical melee weapons.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Guja feroz (Vicious Glaive)",
+			"description": "<p>Una hoja de media luna montada en el extremo de un largo mango de metal. Esta arma de asta proporciona la capacidad de atacar con una eficacia mortal desde una mayor distancia que las típicas armas de cuerpo a cuerpo.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Greataxe": {
-			"name": "Vicious Greataxe",
-			"description": "<p>This enormous axe features two twin crescent blades mounted on either side of a tall spiked shaft. Designed to be wielded with two hands and cleave foes in twain.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Hacha a dos manos feroz (Vicious Greataxe)",
+			"description": "<p>Esta enorme hacha cuenta con dos hojas gemelas en forma de media luna montadas a ambos lados de un largo mango con púas. Está diseñada para ser blandida a dos manos y partir a los enemigos en dos.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Greatclub": {
-			"name": "Vicious Greatclub",
-			"description": "<p>A larger variant of the simple club, a hefty wooden shaft with an enormous knot of wood upon the end deals crippling bludgeoning damage to unfortunate foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Garrote grande feroz (Vicious Greatclub)",
+			"description": "<p>Una versión más grande del garrote común, un enorme palo de madera con un gran nudo de madera en el extremo que inflige un terrible daño contundente a los desafortunados enemigos.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Greatsword": {
-			"name": "Vicious Greatsword",
-			"description": "<p>A mighty two-handed blade is over four feet long an almost five inches wide. This weapon requires extensive martial training but those proficient in its use are formidable warriors.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Espadón feroz (Vicious Greatsword)",
+			"description": "<p>Una poderosa espada a dos manos de más de metro y medio de largo y casi diez centímetros de ancho. Esta arma requiere un gran entrenamiento marcial, pero los que dominan su uso se convierten en extraordinarios guerreros.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Halberd": {
-			"name": "Vicious Halberd",
-			"description": "<p>A spear-tipped metal shaft accompanied by a crescent blade, the halberd is a strong defensive weapon which allows a warrior to fend off foes using the reach of the shaft to attack from safe distance.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Alabarda feroz (Vicious Halberd)",
+			"description": "<p>La alabarda, un asta de metal con punta de lanza acompañada de una hoja de media luna, es un arma defensiva resistente que permite al guerrero rechazar a los enemigos utilizando el alcance del asta para atacar desde una distancia segura.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Hand Crossbow": {
-			"name": "Vicious Hand Crossbow",
-			"description": "<p>A lightweight crossbow designed to be held in one hand or strapped to one's wrist to fire light bolts.</p>"
+			"name": "Ballesta de mano feroz (Vicious Hand Crossbow)",
+			"description": "<p>Una ballesta liviana diseñada para ser sostenida en una mano o atada a la muñeca para disparar virotes pequeños.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Handaxe": {
-			"name": "Vicious Handaxe",
-			"description": "<p>This one-handed axe is light and balanced for throwing while remaining useful in hand combat.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Hacha de mano feroz (Vicious Handaxe)",
+			"description": "<p>Esta hacha de una mano es ligera y equilibrada para lanzarla sin dejar de ser útil en el combate cuerpo a cuerpo.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Heavy Crossbow": {
-			"name": "Vicious Heavy Crossbow",
-			"description": "<p>A large crossbow mounted on a sturdy block of wood which is loaded using a hand crank and fires thick steel bolts with deadly acceleration that punches through armor and flesh.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Ballesta pesada feroz (Vicious Heavy Crossbow)",
+			"description": "<p>Una ballesta de gran tamaño montada sobre un robusto soporte de madera que se carga mediante una manivela y dispara gruesos virotes de acero con una aceleración mortal que atraviesa armaduras y carne.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Javelin": {
-			"name": "Vicious Javelin",
-			"description": "<p>This light and flexible spear is designed for throwing, but is versatile enough to be used in melee combat as well.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Jabalina feroz (Vicious Javelin)",
+			"description": "<p>Esta lanza ligera y flexible está diseñada para ser lanzada, pero es lo suficientemente versátil como para ser utilizada también en el combate cuerpo a cuerpo.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Lance": {
-			"name": "Vicious Lance",
-			"description": "<p>A shining steel tip to puncture the hardiest of foe's defences, driven in by the force of a galloping steed. Although best suited for mounted combat, the lance can be brought to lethal effect on foot in the right hands.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
+			"name": "Lanza feroz (Vicious Spear)",
+			"description": "<p>Una punta de acero brillante que perfora las defensas del enemigo más resistente, impulsada por la fuerza de un corcel al galope. Aunque es más adecuada para el combate a caballo, la lanza puede tener un efecto letal a pie en las manos adecuadas.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>\n<p><strong>Especial.</strong> Tienes desventaja cuando usas una lanza para atacar a un objetivo a menos de 5 pies de ti. Además, una lanza requiere dos manos para empuñar cuando no estás montado.</p>"
 		},
 		"Vicious Light Crossbow": {
-			"name": "Vicious Light Crossbow",
-			"description": "<p>A small crossbow with a wooden haft and a tense cord which is capable of firing a single bolt which can puncture even heavy armor at close range.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Ballesta ligera feroz (Vicious Light Crossbow)",
+			"description": "<p>Una pequeña ballesta con un mango de madera y una cuerda tensa que es capaz de disparar un virote que puede perforar incluso armaduras pesadas a corta distancia.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Light Hammer": {
-			"name": "Vicious Light Hammer",
-			"description": "<p>This sturdy hammer is small enough to be nimbly wielded or used in combination with another weapon.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Martillo ligero feroz (Vicious Light Hammer)",
+			"description": "<p>Este robusto martillo es lo suficientemente pequeño como para ser blandido ágilmente o usado en combinación con otra arma.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Longbow": {
-			"name": "Vicious Longbow",
-			"description": "<p>A thick shaft of laminated wood is bowed by a taut string capable of launching deadly arrows at long distances.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Arco largo feroz (Vicious Longbow)",
+			"description": "<p>Un grueso astil de madera laminada es arqueado por una cuerda tensa capaz de lanzar flechas mortales a largas distancias.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Longsword": {
-			"name": "Vicious Longsword",
-			"description": "<p>A lengthy stright blade designed for slashing foes, the longsword is a highly versatile weapon that may also be wielded with two hands for more punishing strikes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Espada larga feroz (Vicious Longsword)",
+			"description": "<p>Una hoja larga y recta diseñada para asestar tajos a los enemigos. La espada larga es un arma muy versátil que también puede blandirse a dos manos para dar golpes más demoledores.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Mace": {
-			"name": "Vicious Mace",
-			"description": "<p>A heavy bludgeoning weapon mounted to the end of a metal club. The head features spikes and blades designed to puncture armor and shatter the bones below.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Maza feroz (Vicious Mace)",
+			"description": "<p>Una pesada arma contundente montada sobre un mango de metal. La cabeza tiene pinchos y cuchillas diseñadas para perforar la armadura y destrozar los huesos.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Maul": {
-			"name": "Vicious Maul",
-			"description": "<p>This heavy two-handed mace crushes metal and bone with thunderous force.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Maza a dos manos feroz (Vicious Maul)",
+			"description": "<p>Esta pesada maza a dos manos aplasta el metal y el hueso con una fuerza demoledora.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Morningstar": {
-			"name": "Vicious Morningstar",
-			"description": "<p>A viciously spiked metal orb mounted upon the end of a stout haft makes for a deadly weapon which can puncture armor and flesh alike.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Lucero del alba feroz (Vicious Morningstar)",
+			"description": "<p>Una esfera de metal con pinchos montada en el extremo de un robusto mango, hace que sea un arma mortal que puede perforar la armadura y la carne por igual.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Pike": {
-			"name": "Vicious Pike",
-			"description": "<p>A sturdy blade mounted upon the end of a long metal haft. Designed as a defensive weapon with considerable reach to both fend off and menace foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Pica feroz (Vicious Pike)",
+			"description": "<p>Una robusta hoja montada en el extremo de un largo mango de metal. Diseñada como arma defensiva con un alcance considerable para rechazar y amenazar a los enemigos.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Quarterstaff": {
-			"name": "Vicious Quarterstaff",
-			"description": "<p>A thick shaft of wood wrapped with a sturdy grip makes a highly functional weapon in addition to a stout walking stick.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Bastón feroz (Vicious Quarterstaff)",
+			"description": "<p>Un grueso palo de madera envuelto con una firme empuñadura hace que sea un arma muy funcional, además de un robusto bastón para caminar.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Rapier": {
-			"name": "Vicious Rapier",
-			"description": "<p>A thin tensile metal blade, light in weight but long in reach designed for quick darting attacks to target weak points in enemy defenses with lightning swiftness.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Estoque feroz (Vicious Rapier)",
+			"description": "<p>Una fina hoja de metal flexible, ligera pero de gran alcance, diseñada para realizar rápidos ataques en los puntos débiles de las defensas enemigas con la mayor rapidez.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Scimitar": {
-			"name": "Vicious Scimitar",
-			"description": "<p>This curved blade is wide near the wrapped handle but arcs and tapers towards a gleaming tip.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Cimitarra feroz (Vicious Scimitar)",
+			"description": "<p>Esta espada curvada es ancha cerca de la empuñadura envolvente, pero se arquea y se estrecha hacia la brillante punta.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Shortbow": {
-			"name": "Vicious Shortbow",
-			"description": "<p>This two handed bow is somewhat smaller than the traditional longbow variant, making it well suited for rapid attacks while on the move or mounted from horseback.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Arco corto feroz (Vicious Shortbow)",
+			"description": "<p>Este arco a dos manos es algo más pequeño que la variante tradicional del arco largo, lo que lo hace muy adecuado para ataques rápidos en movimiento o montado a caballo.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Shortsword": {
-			"name": "Vicious Shortsword",
-			"description": "<p>A medium sized blade with a firm crossguard and a leather-wrapped handle. A versatile weapon which makes up in versatility what it lacks in reach.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Espada corta feroz (Vicious Shortsword)",
+			"description": "<p>Una hoja de tamaño medio con una firme guarda cruzada y una empuñadura forrada de cuero. Un arma versátil que compensa en versatilidad lo que le falta en alcance.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Sickle": {
-			"name": "Vicious Sickle",
-			"description": "<p>A crescent hooked blade mounted atop a short haft, light enough to be wielded in one hand for treshing crops or foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Hoz feroz (Vicious Sickle)",
+			"description": "<p>Una cuchilla con forma de gancho montada sobre un mango corto, lo suficientemente ligera como para manejarla con una sola mano para segar cultivos o enemigos.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Sling": {
-			"name": "Vicious Sling",
-			"description": "<p>A flexible lash of leather affixed to a wooden handle which is capable of flinging rocks or metal bullets with deadly velocity.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Honda feroz (Vicious Sling)",
+			"description": "<p>Una tira de cuero flexible fijado a un mango de madera que es capaz de arrojar rocas o balas de metal con una velocidad mortal.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Spear": {
-			"name": "Vicious Spear",
-			"description": "<p>A gleaming steel point mouted atop a stout wooden haft, the spear may be wielded in one hand or two and can puncture through the heaviest armor with deadly force.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Lanza feroz (Vicious Spear)",
+			"description": "<p>Con una punta de acero reluciente sobre un robusto mango de madera, la lanza puede blandirse con una o dos manos y puede atravesar la armadura más pesada con una fuerza mortal.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Trident": {
-			"name": "Vicious Trident",
-			"description": "<p>A multi-pronged spear designed to impale a target in multiple locations, pinning them in place. Often used in combination with a net to entrap and harass foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Tridente feroz (Vicious Trident)",
+			"description": "<p>Una lanza con varias puntas diseñada para empalar a un objetivo en varios lugares, inmovilizándolo. A menudo se utiliza en combinación con una red para atrapar y hostigar a los enemigos.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious War Pick": {
-			"name": "Vicious War Pick",
-			"description": "<p>A brutal curved spike mounted on the back of a sturdy haft - designed for puncturing armor with deadly force.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Pico de guerra feroz (Vicious War Pick)",
+			"description": "<p>Un brutal pico curvo montado en la parte posterior de un robusto mango, diseñado para perforar armaduras con una fuerza letal.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Warhammer": {
-			"name": "Vicious Warhammer",
-			"description": "<p>A heavy metal hammer capable of being wielded with a single hand with a shield or in two hands to deliver crushing concussive blows.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Martillo de guerra feroz (Vicious Warhammer)",
+			"description": "<p>Un pesado martillo de metal capaz de ser blandido con una sola mano con un escudo o a dos manos para asestar golpes demoledores.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Vicious Whip": {
-			"name": "Vicious Whip",
-			"description": "<p>A tensile lash made of leather, cord, or chain which can lash out at nearby enemies, dealing lacerations and harrying them from a distance.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
+			"name": "Látigo feroz (Vicious Whip)",
+			"description": "<p>Un lazo tensado hecho de cuero, cuerda o cadena que puede azotar a los enemigos cercanos, causándoles laceraciones y molestándolos a distancia.</p>\n<p>Cuando obtienes un 20 en tu tirada de ataque con esta arma mágica, el objetivo recibe 2d6 de daño adicionales del tipo del arma.</p>"
 		},
 		"Viol": {
-			"name": "Viol",
+			"name": "Viola (Viol)",
 			"description": "<p>Una viola para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Vorpal Greatsword": {
-			"name": "Vorpal Greatsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p>\n<p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.</p>"
+			"name": "Espadón vorpal (Vorpal Greatsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Además, el arma ignora la resistencia al daño cortante.</p>\n<p>Cuando ataques con esta arma a una criatura que tenga al menos una cabeza y obtengas un resultado de 20 en la tirada de ataque, cortarás una de sus cabezas. Morirá si no puede sobrevivir sin la cabeza perdida. Una criatura no se verá afectada por este efecto si es inmune al daño cortante, no posee o no necesita cabeza, tiene acciones legendarias o el DM decide que la criatura es demasiado grande como para que esta arma corte su cabeza. En vez de perder la cabeza, estas criaturas recibirán 6d8 de daño cortante adicional del golpe.</p>"
 		},
 		"Vorpal Longsword": {
-			"name": "Vorpal Longsword",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p>\n<p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.</p>"
+			"name": "Espada larga vorpal (Vorpal Longsword)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Además, el arma ignora la resistencia al daño cortante.</p>\n<p>Cuando ataques con esta arma a una criatura que tenga al menos una cabeza y obtengas un resultado de 20 en la tirada de ataque, cortarás una de sus cabezas. Morirá si no puede sobrevivir sin la cabeza perdida. Una criatura no se verá afectada por este efecto si es inmune al daño cortante, no posee o no necesita cabeza, tiene acciones legendarias o el DM decide que la criatura es demasiado grande como para que esta arma corte su cabeza. En vez de perder la cabeza, estas criaturas recibirán 6d8 de daño cortante adicional del golpe.</p>"
 		},
 		"Vorpal Scimitar": {
-			"name": "Vorpal Scimitar",
-			"description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p>\n<p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.</p>"
+			"name": "Cimitarra vorpal (Vorpal Scimitar)",
+			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta arma. Además, el arma ignora la resistencia al daño cortante.</p>\n<p>Cuando ataques con esta arma a una criatura que tenga al menos una cabeza y obtengas un resultado de 20 en la tirada de ataque, cortarás una de sus cabezas. Morirá si no puede sobrevivir sin la cabeza perdida. Una criatura no se verá afectada por este efecto si es inmune al daño cortante, no posee o no necesita cabeza, tiene acciones legendarias o el DM decide que la criatura es demasiado grande como para que esta arma corte su cabeza. En vez de perder la cabeza, estas criaturas recibirán 6d8 de daño cortante adicional del golpe.</p>"
 		},
 		"Wand": {
-			"name": "Wand",
-			"description": "<p>A single-handed delicate implement of wood, bone, crystal, or other exotic materials which is commonly used as a focus to assist with arcane spellcasting.</p>\n<p><strong>Spellcasting Focus</strong>. An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</p>"
+			"name": "Varita (Wand)",
+			"description": "<p>Un delicado utensilio de una sola mano de madera, hueso, cristal u otros materiales exóticos que se suele utilizar como foco para ayudar a lanzar conjuros arcanos.</p>\n<p><strong>Canalizador arcano.</strong> Un canalizador arcano es un objeto especial, diseñado para conducir el poder de los conjuros arcanos. Los brujos, hechiceros y magos pueden utilizar este objeto como canalizador mágico, en lugar de los componentes indicados en el conjuro.</p>"
 		},
 		"Wand of Binding": {
-			"name": "Wand of Binding",
-			"description": "<p><em>(Requires attunement by a spellcaster)</em></p>\n<p>This wand has 7 charges for the following properties. It regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>\n<p><strong>Spells</strong>. While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Hold Monster} (5 charges) or @Compendium[dnd5e.spells.3Lo9boi7P2ro6QV4]{Hold Person} (2 charges).</p>\n<p><strong>Assisted Escape</strong>. While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being paralyzed or restrained, or you can expend 1 charge and gain advantage on any check you make to escape a grapple.</p>"
+			"name": "Varita de atadura (Wand of Binding)",
+			"description": "<p><em>(Requiere sintonización con un lanzador de conjuros)</em></p>\n<p>Esta varita tiene 7 cargas, utilizables para las propiedades siguientes. Recupera 1d6 + 1 cargas empleadas cada día, al amanecer. Si gastas la última carga, tira ld20. Si obtienes un 1, la varita se convierte en cenizas y es destruida.</p>\n<p><strong>Conjuros.</strong> Mientras empuñes la varita, puedes usar una acción para gastar algunas de sus cargas en lanzar uno de los siguientes conjuros (con salvación CD 17): @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Inmovilizar monstruo} (5 cargas) o @Compendium[dnd5e.spells.3Lo9boi7P2ro6QV4]{Inmovilizar persona} (2 cargas).</p>\n<p><strong>Escape asistido.</strong> Mientras empuñes la varita, puedes usar tu reacción para gastar 1 carga y disfrutar de ventaja en una tirada de salvación que realices para evitar quedar paralizado o apresado, o puedes emplear 1 carga para obtener ventaja en cualquier prueba hecha para escapar de un agarre.</p>"
 		},
 		"Wand of Enemy Detection": {
 			"name": "Wand of Enemy Detection",
@@ -3099,7 +3099,7 @@
 		},
 		"War Pick": {
 			"name": "War Pick",
-			"description": "<p>A brutal curved spike mounted on the back of a sturdy haft - designed for puncturing armor with deadly force.</p>"
+			"description": "<p>Un brutal pico curvo montado en la parte posterior de un robusto mango, diseñado para perforar armaduras con una fuerza letal.</p>"
 		},
 		"War Pick +1": {
 			"name": "War Pick +1",
@@ -3115,7 +3115,7 @@
 		},
 		"Warhammer": {
 			"name": "Martillo de guerra (Warhammer)",
-			"description": "<p>A heavy metal hammer capable of being wielded with a single hand with a shield or in two hands to deliver crushing concussive blows.</p>"
+			"description": "<p>Un pesado martillo de metal capaz de ser blandido con una sola mano con un escudo o a dos manos para asestar golpes demoledores.</p>"
 		},
 		"Warhammer +1": {
 			"name": "Warhammer +1",
@@ -3147,7 +3147,7 @@
 		},
 		"Whip": {
 			"name": "Látigo (Whip)",
-			"description": "<p>A tensile lash made of leather, cord, or chain which can lash out at nearby enemies, dealing lacerations and harrying them from a distance.</p>"
+			"description": "<p>Un lazo tensado hecho de cuero, cuerda o cadena que puede azotar a los enemigos cercanos, causándoles laceraciones y molestándolos a distancia.</p>"
 		},
 		"Whip +1": {
 			"name": "Whip +1",
