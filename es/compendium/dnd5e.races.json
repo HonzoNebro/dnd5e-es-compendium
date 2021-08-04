@@ -2,8 +2,8 @@
 	"label": "Atributos raciales (SRD)",
 	"entries": {
 		"Artificer's Lore": {
-			"name": "Artificer's Lore",
-			"description": "<p>Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</p>"
+			"name": "Saber del Artificiero (Artificer's Lore)",
+			"description": "<p>Cuando hagas una prueba de Inteligencia (Historia) que tenga relación con objetos mágicos, alquímicos o tecnológicos, se te considerará competente en la habilidad Historia y añadirás dos veces tu bonificador por competencia a la tirada, en lugar de solo una.</p>"
 		},
 		"Brave": {
 			"name": "Valiente (Brave)",
