@@ -110,71 +110,71 @@
 			"description": "<section class=\"secret\">\n<p>El {creature} escupe una masa de sustancias químicas hacia un punto que se encuentre a 15 pies menos de distancia y pueda ver. El proyectil explotará al impactar, produciendo un estallido de luz.</p><p>Todas las criaturas situadas a 5 pies o menos del punto de impacto deberán superar una tirada de salvación de <strong>Destreza CD 13</strong> o estarán cegadas hasta el final del siguiente turno del {creature}.</p>\n</section>\n<p>El {creature} escupe una masa de sustancias químicas hacia un punto que se encuentre a 15 pies menos de distancia y pueda ver. El proyectil explotará al impactar, produciendo un estallido de luz. Todas las criaturas situadas a 5 pies o menos del punto de impacto deberán superar una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Blood Frenzy": {
-			"name": "Blood Frenzy",
-			"description": "<p>The {creature} has<strong> advantage </strong>on melee attack rolls against any creature that doesn't have all its<strong> hit points</strong>.</p>"
+			"name": "Frenesí sangriento (Blood Frenzy)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no posea todos sus <strong>puntos de golpe</strong>.</p>"
 		},
 		"Bound": {
-			"name": "Bound",
-			"description": "<section class=\"secret\">\n<p>The {creature} is magically bound to an amulet. As long as the {creature} and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the {creature} to travel to it, and the {creature} knows the distance and direction to the amulet.</p><p>If the {creature} is <strong>within 60 feet</strong> of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the {creature}.</p>\n</section>\n<p>The {creature} is magically bound to an amulet.</p>"
+			"name": "Vínculo (Bound)",
+			"description": "<section class=\"secret\">\n<p>El {creature} está vinculado mágicamente a un amuleto. Mientras ambos se encuentren en el mismo plano de existencia, el portador del amuleto podrá llamar telepáticamente al {creature} para que acuda a su lado, y el {creature} conocerá la distancia que le separa del amuleto y en qué dirección se halla.</p><p>Si el {creature} está situada a <strong>60 pies o menos</strong> del portador del amuleto, la mitad del daño que reciba este (redondeado hacia arriba) será transferido al {creature}.</p>\n</section>\n<p>El {creature} está vinculado mágicamente a un amuleto.</p>"
 		},
 		"Brave": {
-			"name": "Brave",
-			"description": "<p>The {creature} has advantage on saving throws against being Frightened.</p>"
+			"name": "Valiente (Brave)",
+			"description": "<p>El {creature} tiene ventaja en las tiradas de salvación para evitar ser asustado.</p>"
 		},
 		"Breath Weapons": {
-			"name": "Breath Weapons",
-			"description": "<section class=\"secret\">\n<p>(<strong>NOTE: THIS SHOULD BE USED ONLY IF THE CREATURE HAS MORE THAN ONE TYPE OF BREATH WEAPON, AND CONTAINS THE CHARGES FOR THOSE BREATH WEAPONS. EACH BREATH WEAPON ITSELF SHOULD ALSO BE ADDED.</strong>)</p><p><br>The {type} uses one of the following breath weapons.</p><p>**Fire Breath.** The {type} exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a <strong>DC 18 Dexterity</strong> saving throw, taking <strong>45 (13d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>**Sleep Breath.** The {type} exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a <strong>DC 18 Constitution</strong> saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.</p>\n</section>\n<p>The {type} breathes in!</p>"
+			"name": "Arma de Aliento (Breath Weapons)",
+			"description": "<section class=\"secret\">\n<p>(<strong>NOTA: SOLO DEBERÍAS UTILIZAR ESTO EN EL CASO DE QUE LA CRIATURA TENGA MÁS DE UN TIPO DE ARMA DE ALIENTO Y CONTIENE LAS CARGAS DE PARA DICHAS ARMAS DE ALIENTO. ADEMÁS, CADA ARMA DE ALIENTO DE ALIENTO DEBE SER AÑADIDA INDEPENDIENTEMENTE.</strong>)</p><p><br>El {type} usa uno de los siguientes armas de aliento:</p><p>**Aliento de Fuego.** El {type} exhala fuego en una línea de 60 pies de largo y 5 de ancho. Cada criatura dentro de esa línea debe realizar una tirada de salvación de <strong>Destreza CD 18</strong>, recibiendo <strong>45 (13d6) de <em>daño de fuego</em></strong> si falla la tirada, o la mitad si tiene éxito.</p><p>**Aliento de Sueño.** El {type} exhala un gas somnífero en un cono de 60 pies. Cada criatura dentro de esa área debe superar una tirada de salvación de <strong>Constitución CD 18</strong> o quedar inconsciente durante 10 minutos. El efecto termina para la criatura si recibe daño o alguien usa una acción para despertarlo.</p>\n</section>\n<p>¡El {type} arroja su aliento!</p>"
 		},
 		"Brute": {
-			"name": "Brute",
-			"description": "<p>A melee weapon deals one extra die of its damage when the {creature} hits with it (included in the attack).</p>"
+			"name": "Bruto (Brute)",
+			"description": "<p>Las armas cuerpo a cuerpo infligen un dado adicional de su daño cuando el {creature} impacta con ellas (ya incluido en el ataque).</p>"
 		},
 		"Cast a Spell": {
-			"name": "Cast a Spell",
-			"description": "<p>The {creature} casts a spell from its list of prepared spells, using a spell slot as normal.</p>"
+			"name": "Lanzar un Conjuro (Cast a Spell)",
+			"description": "<p>El {creature} lanza un conjuro de su lista de conjuros preparados, usando un espacio de conjuro de forma normal.</p>"
 		},
 		"Change Shape": {
-			"name": "Change Shape",
-			"description": "<p>The {type} magically <strong>polymorphs</strong> into a <strong>humanoid</strong> or <strong>beast</strong> that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the {type}'s choice).</p><p>In a new form, the {type} <strong>retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. </strong>Its statistics and capabilities are otherwise replaced by those of the new form, <strong>except any class features or legendary actions of that form.</strong></p>"
+			"name": "Cambiar de forma (Change Shape)",
+			"description": "<p>El {type} se <strong>transforma</strong> mágicamente en un <strong>humanoide</strong> o <strong>bestia</strong> con un valor de desafío igual o menor al suyo propio, o vuelve a su forma original. Si muere, retornará a su forma auténtica. Cualquier equipo que vista o lleve será absorbido por la nueva forma o portado por esta, a elección del {type}.</p><p>Cuando adopta una nueva forma, el {type} <strong>mantiene su alineamiento, puntos de golpe, Dados de Golpe, su capacidad para hablar, competencias, Resistencia Legendaria, acciones en guarida y sus puntuaciones de Inteligencia, Sabiduría y Carisma</strong>. Además, remplaza las estadísticas y obtiene cualquier capacidad que la nueva forma posea y de la que el {type} carezca (<strong>excepto rasgos de clase o acciones legendarias</strong>).</p>"
 		},
 		"Channel Negative Energy": {
-			"name": "Channel Negative Energy",
-			"description": "<p>The {creature} magically unleashes negative energy. Creatures within 60 feet of the {creature}, including ones behind barriers and around corners, can't regain hit points until the end of the {creature}'s next turn.</p>"
+			"name": "Canalizar energía negativa (Channel Negative Energy)",
+			"description": "<p>El {creature} desata mágicamente una descarga de energía negativa. Las criaturas que se encuentren a 60 pies o menos de el {creature}, incluso aquellas que se hallen tras barreras o doblando esquinas, no podrán recuperar puntos de golpe hasta el final del siguiente turno del {creature}.</p>"
 		},
 		"Charge": {
-			"name": "Charge",
-			"description": "<section class=\"secret\">\n<p>If the {creature} moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra <strong>3 (1d6) <em>slashing damage</em></strong>.</p><p>If the target is a creature, it must succeed on a  <strong>DC 11 Strength</strong> saving throw or be knocked prone.</p>\n</section>\n<p>If the {creature} moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes extra <em>slashing damage</em>. If the target is a creature, it must make a <strong>Strength</strong> saving throw or be knocked prone.</p>"
+			"name": "Carga (Charge)",
+			"description": "<section class=\"secret\">\n<p>Si el {creature} se mueve al menos 20 pies en línea recta hacia un objetivo y después le impacta con su ataque de cuerno durante el mismo turno, el objetivo recibe <strong>3 (1d6) de <em>daño perforante</em></strong> adicional.</p><p>Si el objetivo es una criatura, deberá superar una tirada de salvación de <strong>Fuerza CD 11</strong> o será derribada.</p>\n</section>\n<p>Si el {creature} se mueve al menos 20 pies en línea recta hacia un objetivo y después le impacta con su ataque de cuerno durante el mismo turno, el objetivo recibe <em>daño perforante</em> adicional. Si el objetivo es una criatura, deberá superar una tirada de salvación de <strong>Fuerza</strong> o será derribada.</p>"
 		},
 		"Charm": {
-			"name": "Charm",
-			"description": "<section class=\"secret\">\n<p>One humanoid the {creature} can see within 30 feet of it must make a <strong>Wisdom</strong> saving throw or be magically charmed for 1 day. The charmed target obeys the {creature}'s verbal or telepathic commands.</p><p>If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this {creature}'s Charm for the next 24 hours. The {creature} can have only one target charmed at a time. If it charms another, the effect on the previous target ends.</p>\n</section>\n<p>One humanoid the {creature} can see within 30 feet of it must make a <strong>Wisdom</strong> saving throw.</p>"
+			"name": "Encantamiento (Charm)",
+			"description": "<section class=\"secret\">\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong> o ser mágicamente encantado durante 1 día. El objetivo encantado obedecerá las órdenes verbales o telepáticas del {creature}.</p><p>Si el objetivo sufre cualquier daño o recibe una orden suicida, podría repetir la tirada de salvación, que terminará con el efecto si tiene éxito. Si la salvación del objetivo tiene éxito contra el efecto, o si el efecto termina, el objetivo es inmune al encantamiento de este {creature} durante las próximas 24 horas. El {creature} sólo puede tener un objetivo encantado a la vez. Si encanta a otro, el efecto en su objetivo anterior termina.</p>\n</section>\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Children of the Night": {
 			"name": "Hijos de la noche",
-			"description": "<section class=\"secret\"><p>The {creature} magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the {creature} can call 3d6 wolves instead. </p><p>The called creatures arrive in 1d4 rounds, acting as allies of the {creature} and obeying its spoken commands. The beasts remain for 1 hour, until the {creature} dies, or until the {creature} dismisses them as a bonus action.</p></section><p>The {creature} magically calls swarms of bats or rats. While outdoors, the {creature} can call wolves instead. </p>"
+			"description": "<section class=\"secret\"><p>El {creature} llama mágicamente 2d4 enjambres de murciélagos o ratas, siempre y cuando el sol no esté arriba. Al aire libre, el {creature} puede llamar 3d6 lobos en su lugar.</p><p>Las criaturas llamadas llegan en 1d4 asaltos, actuando como aliados del {creature} y obedecen sus órdenes de voz. Las bestias se mantienen durante 1 hora, hasta que el {creature} muere, o hasta que el {creature} los despida como una acción adicional.</p></section><p>El {creature} llama mágicamente enjambres de murciélagos o ratas. Al aire libre, el {creature} puede llamar lobos en su lugar.</p>"
 		},
 		"Chomp": {
-			"name": "Chomp",
-			"description": "<p>The {creature} makes one bite attack or uses its Swallow.</p>"
+			"name": "Mascar (Chomp)",
+			"description": "<p>El {creature} realiza un ataque con su mordisco o su Engullir.</p>"
 		},
 		"Claw Attack": {
-			"name": "Claw Attack",
-			"description": "<p>The {creature} makes one claw attack.</p>"
+			"name": "Ataque con garras",
+			"description": "<p>El {creature} realiza un ataque con sus garras.</p>"
 		},
 		"Cold Breath": {
-			"name": "Cold Breath",
-			"description": "<section class=\"secret\">\n<p>**Cold Breath.** The {type} exhales an icy blast in a 60-foot cone. Each creature in that area must make a  <strong>DC 20 Constitution</strong> saving throw, taking <strong>58 (13d8) <em>cold damage</em></strong> on a failed save, or half as much damage on a successful one.</p>\n</section>\n<p>The {type} exhales an icy blast in a 60-foot cone. Each creature in that area must make a <strong>Constitution</strong> saving throw.</p>"
+			"name": "Aliento gélido (Cold Breath)",
+			"description": "<section class=\"secret\">\n<p>**Aliento  gélido.** El {type} exhala una ráfaga helada en un cono de 60 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Constitución CD 20</strong>, sufriendo <strong>58 (13d8) de <em>daño de frío</em></strong> si la fallan, o la mitad del daño si la superan.</p>\n</section>\n<p>El {type} exhala una ráfaga helada en un cono de 60 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Confer Fire Resistance": {
-			"name": "Confer Fire Resistance",
-			"description": "<p>The {creature} can grant resistance to <em>fire damage</em> to anyone riding it.</p>"
+			"name": "Otorgar Resistencia al fuego (Confer Fire Resistance)",
+			"description": "<p>El {creature} puede proporcionar resistencia al <em>daño de fuego</em> a cualquier que la monte.</p>"
 		},
 		"Consume Life": {
-			"name": "Consume Life",
-			"description": "<section class=\"secret\"><p>As a bonus action, the {creature} can target one creature it can see within <strong>5 ft.</strong> of it that has <strong>0 hit points</strong> and is still alive. </p><p>The target must succeed on a <strong>DC 10 Constitution saving throw</strong> against this magic or die. If the target dies, the {creature} regains 10 (3d6)<strong> hit points</strong>.</p></section><p>The {creature} can target one creature it can see within <strong>5 ft.</strong> The target must succeed on a Constitution saving throw.</p>"
+			"name": "Devorar vida (Consume Life)",
+			"description": "<section class=\"secret\"><p>El {creature} puede utilizar una acción adicional para elegir como objetivo a una criatura con <strong>0 puntos de golpe</strong> que todavía esté viva, que se encuentre a <strong>5 pies</strong> o menos y pueda ver.</p><p>El objetivo deberá superar una <strong>tirada de salvación de Constitución CD 10</strong> contra este efecto mágico o morirá. Si el objetivo fallece, el {creature} recuperará 10 (3d6) <strong>puntos de golpe</strong>.</p></section><p>El {creature} puede elegir como objetivo a una criatura que pueda ver a <strong>5 pies</strong>. El objetivo deberá superar una tirada de salvación de Constitución.</p>"
 		},
 		"Corrode Metal": {
-			"name": "Corrode Metal",
+			"name": "Corroer metal (Corrode Metal)",
 			"description": "<section class=\"secret\">\n<p>Any nonmagical weapon made of metal that hits the {type} corrodes. After <strong>dealing damage</strong>, the weapon takes a permanent and cumulative -1 penalty to damage rolls.</p><p>If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the {type} is destroyed after dealing damage. The {type} can eat through 2-inch-thick, nonmagical metal in 1 round.</p>\n</section>\n<p>The {type} corrodes metal.</p>"
 		},
 		"Corrosive Form": {
