@@ -407,90 +407,90 @@
 		},
 		"Heart Sight": {
 			"name": "Visión del corazón (Heart Sight)",
-			"description": "<section class=\"secret\"><p>The {creature} touches a creature and magically knows the creature's current emotional state. </p><p>If the target fails a  <strong>DC 10 Charisma</strong> saving throw, the {creature} also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.</p></section><p>The {creature} touches a creature. target must make a <strong>Charisma</strong> saving throw.</p>"
+			"description": "<section class=\"secret\"><p>El {creature} toca a una criatura y averigua, mágicamente, su estado emocional actual.</p><p>Si el objetivo falla una tirada de salvación de <strong>Carisma CD 10</strong>, el {creature} también conocerá el alineamiento de la criatura. Los celestiales, infernales y muertos vivientes fallan automáticamente esta tirada de salvación.</p></section><p>El {creature} toca a una criatura. El objetivo debe realizar una tirada de salvación de <strong>Carisma</strong>.</p>"
 		},
 		"Heated Body": {
-			"name": "Heated Body",
-			"description": "<p>A creature that touches the {creature} or hits it with a melee attack while within 5 feet of it takes <strong>5 (1d10) <em>fire damage</em></strong>.</p>"
+			"name": "Cuerpo abrasador (Heated Body)",
+			"description": "<p>Cualquier criatura que toque al {creature} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <strong>5 ( 1d10) de <em>daño de fuego</em></strong>.</p>"
 		},
 		"Heated Weapons": {
-			"name": "Heated Weapons",
-			"description": "<section class=\"secret\">\n<p>When the {creature} hits with a metal melee weapon, it deals an extra <strong><strong>3 (1d6) <em>fire damage</em></strong></strong> (included in the attack).</p>\n</section>\n<p>When the {creature} hits with a metal melee weapon, it deals extra <em>fire damage</em> (included in the attack).</p>"
+			"name": "Armas Ardientes (Heated Weapons)",
+			"description": "<section class=\"secret\">\n<p>Cuando el {creature} golpea con un arma metálica cuerpo a cuerpo, causa 3 <strong>(1d6) de <em>daño de fuego</em></strong> adicional (incluido en el ataque).</p>\n</section>\n<p>Cuando el {creature} golpea con un arma metálica cuerpo a cuerpo, causa <em>daño de fuego</em> adicional (incluido en el ataque).</p>"
 		},
 		"Hellish Rejuvenation": {
-			"name": "Hellish Rejuvenation",
-			"description": "<section class=\"secret\">\n<p>A {creature} that dies in the Nine Hells sometimes comes back to comes back to life with all its<strong> hit points</strong> in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.</p>\n</section>\n<p>A {creature} that dies in the Nine Hells sometimes comes back to life.</p>"
+			"name": "Rejuvenecimiento Infernal (Hellish Rejuvenation)",
+			"description": "<section class=\"secret\">\n<p>Un {creature} que muere en los Nueve Infiernos vuelve a la vida con todos sus <strong>puntos de golpe</strong> en 1d10 días a menos que sea asesinada por una criatura con alineamiento bueno con el conjuro de bendecir lanzado en esa criatura o si a sus restos le esparcen agua bendita.</p>\n</section>\n<p>Un {creature} que muere en los Nueve Infiernos, algunas veces vuelve a la vida.</p>"
 		},
 		"Hellish Weapons": {
-			"name": "Hellish Weapons",
-			"description": "<section class=\"secret\">\n<p>The {creature}'s weapon attacks are magical and deal an extra <strong><strong>13 (3d8) <em>poison damage</em></strong></strong> on a hit (included in the attacks).</p>\n</section>\n<p>The {creature}'s weapon attacks are magical and deal extra <em>poison damage</em> on a hit (included in the attacks).</p>"
+			"name": "Armas Infernales (Hellish Weapons)",
+			"description": "<section class=\"secret\">\n<p>Los ataques con armas del {creature} son mágicos e infligen <strong>13 (3d8) de <em>daño de veneno</em></strong> adicional (incluido en el ataque).</p>\n</section>\n<p>Los ataques con armas del {creature} son mágicos e infligen <em>daño de veneno</em> adicional (incluido en el ataque).</p>"
 		},
 		"Hold Breath": {
-			"name": "Hold Breath",
-			"description": "<p>The {creature} can hold its breath for <strong>15 minutes</strong>.</p>"
+			"name": "Aguantar la respiración (Hold Breath)",
+			"description": "<p>El {creature} puede aguantar la respiración durante <strong>15 minutos</strong>.</p>"
 		},
 		"Hooves": {
-			"name": "Hooves",
-			"description": "<p>The {creature} makes one attack with its hooves.</p>"
+			"name": "Pezuñas (Hooves)",
+			"description": "<p>El {creature} realiza un ataque con sus pezuñas.</p>"
 		},
 		"Horrific Appearance": {
 			"name": "Apariencia horrorosa (Horrific Appearance)",
-			"description": "<section class=\"secret\">\n<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the {creature} and can see the {creature}'s true form must make a <strong>DC 11 Wisdom saving throw</strong>. On a failed save, the creature is frightened for <strong>1 minute</strong>. A creature can repeat the saving throw at the end of each of its turns, with<strong> disadvantage </strong>if the hag is within line of sight, ending the effect on itself on a success.</p><p>If a creature's saving throw is successful or the effect ends for it, the creature is immune to the {creature}'s Horrific Appearance for the next 24 hours<strong>. </strong>Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has<strong> disadvantage </strong>on attack rolls against the {creature}.</p>\n</section>\n<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the {creature} and can see the {creature}'s true form must make a <strong>Wisdom</strong> saving throw.</p>"
+			"description": "<section class=\"secret\">\n<p>Cualquier humanoide que empiece su turno situado a <strong>30 pies o menos</strong> del {creature} y pueda verlo en su auténtica forma, deberá superar una <strong>tirada de salvación de Sabiduría CD 11</strong>. Si la falla, estará asustado durante <strong>1 minuto</strong>. La criatura puede repetir la tirada de salvación (con <strong>desventaja</strong> si puede ver al {creature}) al final de cada uno de sus turnos, librándose del efecto si tiene éxito. Si la criatura supera la tirada de salvación o el efecto termina, será inmune a la apariencia horrorosa del {creature} durante las próximas <strong>24 horas</strong>. Salvo que el objetivo esté sorprendido o el {creature} revele su auténtica forma súbitamente, podrá apartar los ojos de ella para evitar la primera tirada de salvación. Una criatura que aparte los ojos de esta forma tendrá <strong>desventaja</strong> en sus tiradas de ataque contra el {creature} hasta el principio de su siguiente turno.</p>\n</section>\n<p>Cualquier humanoide que empiece su turno situado a <strong>30 pies o menos</strong> del {creature} y pueda verlo en su auténtica forma, deberá realizar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Horrifying Visage": {
-			"name": "Horrifying Visage",
-			"description": "<section class=\"secret\"><p>Each non-{type} creature within 60 ft. of the {creature} that can see it must succeed on a  <strong>DC 13 Wisdom</strong> saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 x 10 years. </p><p>A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this {creature}'s Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.</p></section><p>Each non-{type} creature within 60 ft. of the {creature} that can see it must succeed make a <strong>Wisdom</strong> saving throw. A target can repeat the saving throw at the end of each of its turns, ending the condition on itself on a success.</p>"
+			"name": "Visión horripilante (Horrifying Visage)",
+			"description": "<section class=\"secret\"><p>Todas las criaturas (excepto {type}) que se encuentren a 60 pies o menos del {creature} y puedan verla deberán superar una tirada de salvación de <strong>Sabiduría CD 13</strong> o estarán asustadas durante 1 minuto. Si un objetivo falla la tirada por 5 o más puntos, también envejecerá 1d4 x 10 años.</p><p>Las criaturas asustadas pueden repetir la tirada de salvación al final de cada uno de sus turnos, librándose de esta condición si tienen éxito. Si un objetivo supera la tirada de salvación o el efecto termina, será inmune la visión horripilante del {creature} durante las próximas 24 horas. El envejecimiento puede ser invertido mediante un conjuro de Restablecimiento mayor, pero solo si se lanza antes de que pasen 24 horas.</p></section><p>Todas las criaturas (excepto {type}) que se encuentren a 60 pies o menos del {creature} y puedan verla deberán superar una tirada de salvación de <strong>Sabiduría</strong>. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose de esta condición si tienen éxito.</p>"
 		},
 		"Horror Nimbus": {
-			"name": "Horror Nimbus",
-			"description": "<section class=\"secret\"><p>The {creature} magically emits scintillating, multicolored light. Each creature within 15 feet of the {creature} that can see the light must succeed on a  <strong>DC 15 Wisdom</strong> saving throw or be frightened for 1 minute. </p><p>A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the {creature}'s Horror Nimbus for the next 24 hours.</p></section><p>A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the {creature}'s Horror Nimbus for the next 24 hours.</p>"
+			"name": "Terror del Nimbus (Horror Nimbus)",
+			"description": "<section class=\"secret\"><p>El {creature} emite mágicamente una centelleante luz multicolor. Cada criatura dentro de 15 pies del {creature} que pueda ver la luz debe superar una tirada de salvación de <strong>Sabiduría CD 15</strong> o quedará asustado durante 1 minuto.</p><p>Una criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, terminando el efecto en sí mismo si tiene éxito. Si la tirada de salvación tiene éxito o si el efecto termina para él, la criatura es inmune al Terror del Nimbus del {creature} durante las próximas 24 horas.</p></section><p>Una criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, terminando el efecto en sí mismo si tiene éxito. Si la tirada de salvación tiene éxito o si el efecto termina para él, la criatura es inmune al Terror del Nimbus del {creature} durante las próximas 24 horas.</p>"
 		},
 		"Ice Walk": {
-			"name": "Ice Walk",
-			"description": "<p>The {type} can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.</p>"
+			"name": "Caminar por el hielo (Ice Walk)",
+			"description": "<p>El {type} puede moverse y trepar por superficies heladas sin tener que hacer pruebas de característica. Además, desplazarse por terreno difícil compuesto de nieve o hielo no le cuesta movimiento adicional.</p>"
 		},
 		"Ignited Illumination": {
-			"name": "Ignited Illumination",
-			"description": "<p>As a bonus action, the {creature} can set itself ablaze or extinguish its flames. While ablaze, the {creature} sheds bright light in a <strong>10-foot radius</strong> and dim light for an additional <strong>10 ft.</strong></p>"
+			"name": "Iluminación ardiente (Ignited Illumination)",
+			"description": "<p>El {creature} puede utilizar su acción adicional para prenderse fuego o extinguir sus llamas. Mientras esté ardiendo emitirá luz brillante en un radio de <strong>10 pies</strong> y luz tenue <strong>10 pies</strong> más allá.</p>"
 		},
 		"Illumination": {
-			"name": "Illumination",
-			"description": "<p>The {creature} sheds bright light in a 10-foot radius and dim light for an additional 10 ft.</p>"
+			"name": "Iluminar (Illumination)",
+			"description": "<p>El {creature} emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá.</p>"
 		},
 		"Illusory Appearance": {
-			"name": "Illusory Appearance",
-			"description": "<p>The {creature} covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the {creature} takes a bonus action to end it or if she dies.</p><p>The changes wrought by this effect fail to hold up to physical inspection. For example, the {creature} could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the {creature} is disguised.</p>"
+			"name": "Apariencia ilusoria (Illusory Appearance)",
+			"description": "<p>El {creature} se cubre a sí misma y a todo lo que esté llevando o vistiendo con una ilusión mágica que la hace parecer cualquier otra criatura de forma humanoide y apariencia horrible de más o menos su mismo tamaño. Este efecto terminará si el {creature} muere o utiliza una acción adicional para darla por finalizada.</p><p>Los cambios realizados por este efecto no aguantan una inspección física. Así, aunque el{creature} puede aparentar no poseer garras, alguien que toque su mano se dará cuenta de que estas existen. Una criatura que desee inspeccionar visualmente al {creature} deberá utilizar una acción para realizar una prueba de Inteligencia (Investigación) CD 16. Si la supera, se habrá dado cuenta del disfraz del {creature}.</p>"
 		},
 		"Immutable Form": {
-			"name": "Immutable Form",
-			"description": "<p>The {creature} is immune to any spell or effect that would alter its form.</p>"
+			"name": "Forma inmutable (Immutable Form)",
+			"description": "<p>El {creature} es inmune a cualquier conjuro o efecto que fuera a alterar su forma.</p>"
 		},
 		"Incorporeal Movement": {
-			"name": "Incorporeal Movement",
-			"description": "<section class=\"secret\">\n<p>The {creature} can move through other creatures and objects as if they were difficult terrain.</p><p>It takes <strong><strong>5 (1d10) <em>force damage</em></strong></strong> if it ends its turn inside an object.</p>\n</section>\n<p>The {creature} can move through other creatures and objects as if they were difficult terrain.</p>"
+			"name": "Movimiento incorpóreo (Incorporeal Movement)",
+			"description": "<section class=\"secret\">\n<p>El {creature} puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Recibe <strong>5 ( d10) de <em>daño de fuerza</em></strong> si acaba su turno dentro de un objeto.</p>\n</section>\n<p>El {creature} puede moverse a través de otras criaturas y objetos como si fueran terreno difícil.</p>"
 		},
 		"Ink Cloud": {
-			"name": "Ink Cloud",
-			"description": "<section class=\"secret\">\n<p>A 20-foot-radius cloud of ink extends all around the {creature} if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the {creature} can use the Dash action as a bonus action. Recharges after a Short or Long Rest.</p>\n</section>\n<p>A 20-foot-radius cloud of ink extends all around the {creature} if it is underwater.</p>"
+			"name": "Nube de tinta (Ink Cloud)",
+			"description": "<section class=\"secret\">\n<p>Si el {creature} está bajo el agua, una nube de tinta de 20 pies de radio se extiende a su alrededor. Esta área permanecerá muy oscura durante 1 minuto, aunque una corriente fuerte puede dispersar la tinta. El {creature} es capaz de, justo después de descargar la tinta, realizar una acción de Correr como acción adicional. Se recarga tras un descanso corto o largo.</p>\n</section>\n<p>Si el {creature} está bajo el agua, una nube de tinta de 20 pies de radio se extiende a su alrededor.</p>"
 		},
 		"Innate Spellcasting": {
-			"name": "Innate Spellcasting",
-			"description": "<p>The {type}'s innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:</p><p>At will: detect magic, fog cloud, light</p><p>3/day each: feather fall, fly, misty step, telekinesis</p><p>1/day each: control weather, gaseous form</p>"
+			"name": "Lanzamiento innato de conjuros (Innate Spellcasting)",
+			"description": "<p>La aptitud mágica del {type} es Carisma. Puede lanzar de forma innata los siguientes conjuros, necesitando únicamente componentes verbales:</p><p>A voluntad: detectar magia, nube de oscurecimiento y luz</p><p>3/Día cada uno: caída de pluma, volar, paso brumoso y telequinesis</p><p>1/Día cada uno: controlar el clima y forma gaseosa</p>"
 		},
 		"Inscrutable": {
-			"name": "Inscrutable",
-			"description": "<p>The {creature} is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the {creature}'s intentions or sincerity have disadvantage.</p>"
+			"name": "Inescrutable (Inscrutable)",
+			"description": "<p>El {creature} es inmune a cualquier efecto que permita sentir sus emociones o leer sus pensamientos, así como cualquier conjuro de adivinación es negado. Una prueba de Sabiduría (Perspicacia) realizada para determinar las intenciones o la sinceridad del {creature} tendría desventaja.</p>"
 		},
 		"Intoxicating Touch": {
-			"name": "Intoxicating Touch",
-			"description": "<section class=\"secret\">\n<p><em>Melee Spell Attack:</em><strong>+5 to hit, reach</strong>&nbsp;<strong>5 ft.,</strong> one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.</p><p></p>\n</section>\n<p>The target has disadvantage on Wisdom saving throws and all ability checks.</p>"
+			"name": "Contacto Embriagador (Intoxicating Touch)",
+			"description": "<section class=\"secret\">\n<p><em>Ataque de Conjuro Cuerpo a Cuerpo:</em><strong> +5 para golpear, alcance</strong>&nbsp;<strong>5 pies,</strong> un objetivo. Impacto: El objetivo esta maldecido mágicamente durante 1 hora. Hasta que finalice la maldición, el objetivo tiene desventaja en todas las tiradas de salvación de Sabiduría y pruebas de características.</p>\n</section>\n<p>El objetivo tiene desventaja en todas las tiradas de salvación de Sabiduría y pruebas de características.</p>"
 		},
 		"Invisibility": {
 			"name": "Invisibilidad (Invisibility)",
-			"description": "<section class=\"secret\">\n<p>The {creature} magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell).</p>\n</section>\n<p>The {creature} magically turns invisible. Any equipment the {creature} wears or carries is invisible with it.</p>"
+			"description": "<section class=\"secret\">\n<p>El {creature} se vuelve invisible mágicamente hasta que ataca, lanza un conjuro, usa su habilidad para Agrandarse, o pierde la concentración, hasta una duración máxima de 1 hora (como si se concentrase en un conjuro).</p>\n</section>\n<p>El {creature} se vuelve invisible mágicamente. Cualquier equipo que el {creature} vista o cargue se vuelve invisible con él.</p>"
 		},
 		"Invisible Passage": {
-			"name": "Invisible Passage",
+			"name": "Paso invisible (Invisible Passage)",
 			"description": "<section class=\"secret\">\n<p>The {creature} magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.</p>\n</section>\n<p>The {creature} magically turns invisible. Any equipment she wears or carries is invisible with her.</p>"
 		},
 		"Iron Scent": {
