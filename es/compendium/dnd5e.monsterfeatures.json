@@ -194,23 +194,23 @@
 			"description": "<p>El {creature} puede, en cada uno de sus turnos, usar una acción adicional para realizar una acción de Correr, Destrabarse o Esconderse.</p>"
 		},
 		"Damage Transfer": {
-			"name": "Damage Transfer",
-			"description": "<p>While attached to a creature, the {creature} takes only half the damage dealt to it (rounded down) and that creature takes the other half.</p>"
+			"name": "Transferir Daño (Damage Transfer)",
+			"description": "<p>Mientras esté agarrando a una criatura, el {creature} solo recibe la mitad del daño que se le inflija. La otra mitad del daño lo recibe la criatura agarrada.</p>"
 		},
 		"Dark Devotion": {
-			"name": "Dark Devotion",
-			"description": "<p>The {creature} has<strong> advantage </strong>on saving throws against being charmed or frightened.</p>"
+			"name": "Devocion oscura (Dark Devotion)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de salvación para evitar ser hechizado o asustado.</p>"
 		},
 		"Darkness Aura": {
-			"name": "Darkness Aura",
-			"description": "<section class=\"secret\">\n<p>A 15-foot radius of magical darkness extends out from the {creature}, moves with it, and spreads around corners. The darkness lasts as long as the {creature} maintains concentration, up to 10 minutes (as if concentrating on a spell).</p><p>Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.</p>\n</section>\n<p>A 15-foot radius of magical darkness extends out from the {creature}, moves with it, and spreads around corners. Darkvision can't penetrate this darkness, and no natural light can illuminate it.</p>"
+			"name": "Aura de oscuridad (Darkness Aura)",
+			"description": "<section class=\"secret\">\n<p>Una oscuridad mágica de 15 pies de radio rodea al {creature}, se mueve con él y se extiende más allá de las esquinas. Esta oscuridad durará 10 minutos o mientras el {creature} mantenga la concentración (como si se concentrara en un conjuro).</p><p>La visión en la oscuridad no es capaz de penetrar a través de ella y la luz natural no puede alumbrarla. Si cualquier parte del área de oscuridad se superpone con una zona de luz creada por un conjuro de nivel 2 o inferior, el conjuro que creó esa luz es disipado.</p>\n</section>\n<p>Una oscuridad mágica de 15 pies de radio rodea al {creature}, se mueve con él y se extiende más allá de las esquinas. La visión en la oscuridad no es capaz de penetrar a través de ella y la luz natural no puede alumbrarla.</p>"
 		},
 		"Deadly leap": {
-			"name": "Deadly leap",
-			"description": "<section class=\"secret\">\n<p>If the {creature} jumps at least 15 ft. as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures.</p><p>Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take <strong>14 (3d6 + 4) <em>bludgeoning damage</em></strong> plus <strong>14 (3d6 + 4) <em>slashing damage</em></strong>. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 ft. out of the {creature}'s space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the {creature}'s space.</p>\n</section>\n<p>If the {creature} jumps at least 15 ft. as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must make a Strength or Dexterity saving throw (target's choice) or be knocked prone.</p>"
+			"name": "Salto Mortal (Deadly leap)",
+			"description": "<section class=\"secret\">\n<p>Si el {creature} salta al menos 15 pies (4,6 m) como parte de su movimiento, puede utilizar esta acción para aterrizar de pie en un espacio que contenga una o más criaturas.</p><p>Cada una de esas criaturas debe superar una tirada de salvación de Fuerza o Destreza (a elección del objetivo) CD16 o quedarán tumbados en el suelo y recibirán <strong>14 (3d6 + 4) de <em>daño contundente</em></strong> más <strong>14 (3d6 + 4) de <em>daño cortante</em></strong>. Si tiene éxito, la criatura recibirá sólo la mitad del daño, no caerá al suelo y es empujada a 5 pies (1,5 m) fuera del {creature} en un espacio que no esté ocupado a elección de la criatura. Si no hay ningún espacio desocupado en ese alcance, la criatura cae tumbada en el espacio del {creature}.</p>\n</section>\n<p>Si el {creature} salta al menos 15 pies (4,6 m) como parte de su movimiento, puede utilizar esta acción para aterrizar de pie en un espacio que contenga una o más criaturas. Cada una de esas criaturas debe superar una tirada de salvación de Fuerza o Destreza (a elección del objetivo) o quedarán tumbados en el suelo.</p>"
 		},
 		"Death Burst": {
-			"name": "Death Burst",
+			"name": "Explotar al morir (Death Burst)",
 			"description": "<section class=\"secret\">\n<p>When the {creature} dies, it explodes in a burst of dust. Each creature within <strong>5 ft.</strong> of it must then succeed on a <strong>DC 10 Constitution saving throw</strong> or be blinded for <strong>1 minute</strong>. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.</p>\n</section>\n<p>When the {creature} dies, it explodes in a burst of dust. Each creature within <strong>5 ft.</strong> of it must make a <strong>Constitution</strong> saving throw.</p>"
 		},
 		"Death Glare": {
@@ -310,7 +310,7 @@
 			"description": "<section class=\"secret\">\n<p>The {creature} is given a quarry by its summoner. The {creature} knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The {creature} also knows the location of its summoner.</p>\n</section>\n<p>The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence.</p>"
 		},
 		"Fear Aura": {
-			"name": "Aura de miedo (Fear Aura)",
+			"name": "Aura Terrorífica (Fear Aura)",
 			"description": "<section class=\"secret\"><p>Any creature hostile to the {creature} that starts its turn <strong>within 20 feet</strong> of the {creature} must make a <strong>DC 21 Wisdom saving throw</strong>, unless the {creature} is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the {creature}'s Fear Aura for the next 24 hours.</p></section><p>Any creature hostile to the {creature} that starts its turn <strong>within 20 feet</strong> of the {creature} must make a <strong>Wisdom</strong> saving throw.</p>"
 		},
 		"Fetid Cloud": {
@@ -434,7 +434,7 @@
 			"description": "<p>The {creature} makes one attack with its hooves.</p>"
 		},
 		"Horrific Appearance": {
-			"name": "Apariencia horrenda (Horrific Appearance)",
+			"name": "Apariencia horrorosa (Horrific Appearance)",
 			"description": "<section class=\"secret\">\n<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the {creature} and can see the {creature}'s true form must make a <strong>DC 11 Wisdom saving throw</strong>. On a failed save, the creature is frightened for <strong>1 minute</strong>. A creature can repeat the saving throw at the end of each of its turns, with<strong> disadvantage </strong>if the hag is within line of sight, ending the effect on itself on a success.</p><p>If a creature's saving throw is successful or the effect ends for it, the creature is immune to the {creature}'s Horrific Appearance for the next 24 hours<strong>. </strong>Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has<strong> disadvantage </strong>on attack rolls against the {creature}.</p>\n</section>\n<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the {creature} and can see the {creature}'s true form must make a <strong>Wisdom</strong> saving throw.</p>"
 		},
 		"Horrifying Visage": {
@@ -722,7 +722,7 @@
 			"description": "<section class=\"secret\"><p>Any nonmagical weapon made of metal that hits the {creature} corrodes. After <strong>dealing damage</strong>, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the {creature} is destroyed after dealing damage.</p></section><p>Any nonmagical weapon made of metal that hits the {creature} corrodes. After <strong>dealing damage</strong>, the weapon takes a permanent and cumulative -1 penalty to damage rolls.</p>"
 		},
 		"Scare": {
-			"name": "Espantar (Scare)",
+			"name": "Asustar (Scare)",
 			"description": "<section class=\"secret\"><p>One creature of the {creature}'s choice within 20 ft. of it must succeed on a  <strong>DC 10 Wisdom</strong> saving throw or be frightened for 1 minute. </p><p>The target can repeat the saving throw at the end of each of its turns, with disadvantage if the {creature} is within line of sight, ending the effect on itself on a success.</p></section><p>One creature of the {creature}'s choice within 20 ft. of it must make a <strong>Wisdom</strong> saving throw. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the {creature} is within line of sight, ending the effect on itself on a success.</p>"
 		},
 		"Searing Burst": {
@@ -790,7 +790,7 @@
 			"description": "<p>The {creature} can communicate with beasts and plants as if they shared a language.</p>"
 		},
 		"Spell Storing": {
-			"name": "Almacena conjuros",
+			"name": "Almacenar Conjuros (Spell Storing)",
 			"description": "<p>A spellcaster who wears the {creature}'s amulet can cause the {creature} to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the {creature}. The spell has no effect but is stored within the {creature}. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the {creature} casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.</p>"
 		},
 		"Spellcasting": {
@@ -798,7 +798,7 @@
 			"description": "<section class=\"secret\">\n<p>The {creature} is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The {creature} has following cleric spells prepared:</p><p>Cantrips (at will): light, sacred flame, thaumaturgy</p><p>1st level (3 slots): bless, cure wounds, sanctuary</p>\n</section>\n<p>The {creature} is a spellcaster. Its spellcasting ability is Wisdom.</p>"
 		},
 		"Spider Climb": {
-			"name": "Trepar cual arácnido",
+			"name": "Trepar cual Arácnido (Spider Climb)",
 			"description": "<p>The {creature} can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>"
 		},
 		"Split": {
@@ -870,7 +870,7 @@
 			"description": "<section class=\"secret\">\n<p>The {creature} makes one tail attack.</p>\n</section>\n<p>The {creature} swipes its tail against its prey!</p>"
 		},
 		"Telepathic Bond": {
-			"name": "Vínculo telepático",
+			"name": "Enlace Telepático (Telepathic Bond)",
 			"description": "<p>While the {creature} is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.</p>"
 		},
 		"Teleport": {
@@ -910,7 +910,7 @@
 			"description": "<p>The {creature} can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within <strong>60 ft.</strong> of it.</p>"
 		},
 		"Tree Stride": {
-			"name": "Zancada arbórea",
+			"name": "Paso Arbóreo (Tree Stride)",
 			"description": "<p>Once on her turn, the {creature} can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.</p>"
 		},
 		"Tunneler": {
@@ -966,11 +966,11 @@
 			"description": "<p>When one of the {creature}'s heads is asleep, its other head is awake.</p>"
 		},
 		"Wall of Ice": {
-			"name": "Muro de hielo",
+			"name": "Muro de Hielo (Wall of Ice)",
 			"description": "<section class=\"secret\">\n<p>The {creature} magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.</p><p>When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a <strong>DC 17 Dexterity</strong> saving throw, taking <strong>35 (10d6) <em>cold damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>The wall lasts for 1 minute or until the {creature} is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to <em>fire damage</em>, and immunity to acid, cold, necrotic, poison, and <em>psychic damage</em>. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a <strong>DC 17 Constitution</strong> saving throw, taking <strong>17 (5d6) <em>cold damage</em></strong> on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.</p>\n</section>\n<p>The {creature} magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter. When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a Dexterity saving throw.</p><p>The wall can be damaged and breached. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a <strong>Constitution</strong> saving throw.</p>"
 		},
 		"Water Breathing": {
-			"name": "Respiración acuática",
+			"name": "Respirar en el Agua (Water Breathing)",
 			"description": "<p>The {creature} can breathe only underwater.</p>"
 		},
 		"Water Form": {
@@ -986,7 +986,7 @@
 			"description": "<section class=\"secret\">\n<p>**Weakening Breath.** The {type} exhales gas in a 60-foot cone. Each creature in that area must succeed on a  <strong>DC 21 Strength</strong> saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>\n</section>\n<p>The {type} exhales gas in a 60-foot cone. Each creature in that area must make a <strong>Strength</strong> saving throw.</p>"
 		},
 		"Web": {
-			"name": "Telaraña",
+			"name": "Telaraña (Web)",
 			"description": "<section class=\"secret\"><p>Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller creature. Hit: The creature is restrained by webbing. </p><p>As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to <em>fire damage</em> and immune to <em>bludgeoning damage</em>.</p></section><p>The creature is restrained by webbing. As an action, the restrained creature can make a Strength check, escaping from the webbing on a success. </p>"
 		},
 		"Web Sense": {
@@ -1002,7 +1002,7 @@
 			"description": "<section class=\"secret\"><p>Each creature in the {type}'s space must make a  <strong>DC 15 Strength</strong> saving throw. On a failure, a target takes <strong>13 (2d8 + 4) <em>bludgeoning damage</em></strong>. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. </p><p>If the saving throw is successful, the target is pushed out of the {type}'s space.The {type} can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the {type}'s turns, each target grappled by it takes <strong>13 (2d8 + 4) <em>bludgeoning damage</em></strong>. A creature within 5 feet of the {type} can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.</p></section><p>Each creature in the {type}'s space must make a <strong>Strength</strong> saving throw. If it is Large or smaller, it is also grappled. Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. A creature within 5 feet of the {type} can pull a creature or object out of it by taking an action to make a Strength check and succeeding.</p>"
 		},
 		"Whirlwind": {
-			"name": "Torbellino mayor",
+			"name": "Torbellino (Whirlwind)",
 			"description": "<section class=\"secret\">\n<p>Each creature in the {type}'s space must make a  <strong>DC 13 Strength</strong> saving throw. On a failure, a target takes <strong>15 (3d8 + 2) <em>bludgeoning damage</em></strong> and is flung up 20 feet away from the {type} in a random direction and knocked prone.</p><p>If a thrown target strikes an object, such as a wall or floor, the target takes <strong>3 (1d6) <em>bludgeoning damage</em></strong> for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a  <strong>DC 13 Dexterity</strong> saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the <em>bludgeoning damage</em> and isn't flung away or knocked prone.</p>\n</section>\n<p>Each creature in the {type}'s space must make a <strong>Strength</strong> saving throw. On a failure, a target is flung up 20 feet away from the {type} in a random direction and knocked prone. If the target is thrown at another creature, that creature must make a <strong>Dexterity</strong> saving throw or take the same damage and be knocked prone.</p>"
 		},
 		"Whirlwind of Sand": {
