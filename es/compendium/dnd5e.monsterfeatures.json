@@ -6,8 +6,8 @@
 			"description": "<section class=\"secret\">\n<p>El suelo en un radio de <strong>10 pies</strong> alrededor del &nbsp;{creature}&nbsp; es una masa informe de terreno difícil.</p><p>Cualquier criatura que empiece su turno en esta área deberá superar una <strong>tirada de salvación de Fuerza CD 10</strong> o su velocidad se verá reducida a 0 hasta el principio de su siguiente turno.</p>\n</section>\n<p>El suelo en un radio de <strong>10 pies</strong> alrededor del &nbsp;{creature}&nbsp; es una masa informe de terreno difícil. Haz unta tirada de salvación de <strong>Fuerza</strong></p>"
 		},
 		"Acid Absorption": {
-			"name": "Absorción de ácido",
-			"description": "<p>Siempre que la&nbsp;{creature}&nbsp;fuera a sufrir <strong><em>daño de ácido</em></strong>, no recibirá daño de este tipo y, además, recuperará tantos <strong>puntos de golpe</strong> como el <strong><em>daño de ácido</em></strong> que fuera a recibir.</p>"
+			"name": "Absorción de ácido (Acid Absorption)",
+			"description": "<p>Siempre que el&nbsp;{creature}&nbsp;fuera a sufrir <strong><em>daño de ácido</em></strong>, no recibirá daño de este tipo y, además, recuperará tantos <strong>puntos de golpe</strong> como el <strong><em>daño de ácido</em></strong> que fuera a recibir.</p>"
 		},
 		"Acid Breath": {
 			"name": "Aliento ácido (Acid Breath)",
@@ -82,7 +82,7 @@
 			"description": "<section class=\"secret\">\n<p>Si el {creature} empieza su turno con <strong>60 puntos de golpe</strong> o menos, tira un d6. Si sacas un 6, el {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver.</p><p>Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que él. Una vez el {creature} ha entrado en estado berserk, seguirá bajo sus efectos hasta que sea destruido o recupere todos sus <strong>puntos de golpe</strong>.</p>\n</section>\n<p>El {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver. Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que el.</p>"
 		},
 		"Bite": {
-			"name": "Mordisco",
+			"name": "Mordisco (Bite)",
 			"description": "<section class=\"secret\">\n<p>Ataque de Arma Cuerpo a Cuerpo: +11 para golpear, alcance de 10 pies, un objetivo. Impacto: 17 (2d10 + 6) de daño perforante.</p>\n</section>\n<p>El {creature} ataca con su mordisco.</p>"
 		},
 		"Blasphemous Word": {
@@ -150,7 +150,7 @@
 			"description": "<section class=\"secret\">\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong> o ser mágicamente encantado durante 1 día. El objetivo encantado obedecerá las órdenes verbales o telepáticas del {creature}.</p><p>Si el objetivo sufre cualquier daño o recibe una orden suicida, podría repetir la tirada de salvación, que terminará con el efecto si tiene éxito. Si la salvación del objetivo tiene éxito contra el efecto, o si el efecto termina, el objetivo es inmune al encantamiento de este {creature} durante las próximas 24 horas. El {creature} sólo puede tener un objetivo encantado a la vez. Si encanta a otro, el efecto en su objetivo anterior termina.</p>\n</section>\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Children of the Night": {
-			"name": "Hijos de la noche",
+			"name": "Hijos de la noche (Children of the Night)",
 			"description": "<section class=\"secret\"><p>El {creature} llama mágicamente 2d4 enjambres de murciélagos o ratas, siempre y cuando el sol no esté arriba. Al aire libre, el {creature} puede llamar 3d6 lobos en su lugar.</p><p>Las criaturas llamadas llegan en 1d4 asaltos, actuando como aliados del {creature} y obedecen sus órdenes de voz. Las bestias se mantienen durante 1 hora, hasta que el {creature} muere, o hasta que el {creature} los despida como una acción adicional.</p></section><p>El {creature} llama mágicamente enjambres de murciélagos o ratas. Al aire libre, el {creature} puede llamar lobos en su lugar.</p>"
 		},
 		"Chomp": {
@@ -175,23 +175,23 @@
 		},
 		"Corrode Metal": {
 			"name": "Corroer metal (Corrode Metal)",
-			"description": "<section class=\"secret\">\n<p>Any nonmagical weapon made of metal that hits the {type} corrodes. After <strong>dealing damage</strong>, the weapon takes a permanent and cumulative -1 penalty to damage rolls.</p><p>If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the {type} is destroyed after dealing damage. The {type} can eat through 2-inch-thick, nonmagical metal in 1 round.</p>\n</section>\n<p>The {type} corrodes metal.</p>"
+			"description": "<section class=\"secret\">\n<p>Cualquier arma no mágica hecha de metal que entre en contacto con el {type} se corroerá. Tras <strong>causar daño</strong>, el arma sufrirá un penalizador de -1 permanente y acumulativo a las tiradas de daño.</p><p>Si este penalizador llega a ser de -5, el arma será destruida. Además, la munición no mágica hecha de metal que impacte al {type} será destruida tras causar su daño. El {type} puede consumir un grosor de 2 pulgadas de metal no mágico por asalto.</p>\n</section>\n<p>El {type} corroe el metal.</p>"
 		},
 		"Corrosive Form": {
-			"name": "Corrosive Form",
-			"description": "<section class=\"secret\">\n<p>A creature that touches the {creature} or hits it with a melee attack while within 5 feet of it takes <strong>4 (1d8) <em>acid damage</em></strong>. Any nonmagical weapon made of metal or wood that hits the {creature} corrodes.</p><p>After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the {creature} is destroyed after dealing damage. The {creature} can eat through 2-inch-thick, nonmagical wood or metal in 1 round.</p>\n</section>\n<p>A creature that touches the {creature} or hits it with a melee attack while within 5 feet of it takes <em>acid damage</em>. Any nonmagical weapon made of metal or wood that hits the pudding corrodes.</p>"
+			"name": "Forma corrosiva (Corrosive Form)",
+			"description": "<section class=\"secret\">\n<p>Cualquier criatura que toque al {creature} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <strong>4 ( 1d8) de <em>daño de ácido</em></strong>. Además, el arma no mágica hecha de metal o madera que entre en contacto con el {creature} se corroerá.</p><p>Tras causar daño, el arma sufrirá un penalizador de -1 permanente y acumulativo a las tiradas de daño. Si este penalizador llega a ser de -5, el arma será destruida. Cualquier munición no mágica hecha de metal o madera que impacte al {creature} será destruida tras causar su daño. El {creature} es capaz de consumir un grosor de 2 pulgadas de madera o metal no mágicos por asalto.</p>\n</section>\n<p>Cualquier criatura que toque al {creature} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <em>daño de ácido</em>. Además, el arma no mágica hecha de metal o madera que entre en contacto con el {creature} se corroerá.</p>"
 		},
 		"Create Specter": {
-			"name": "Create Specter",
-			"description": "<section class=\"secret\"><p>The {creature} targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. </p><p>The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the {creature}'s control. The {creature} can have no more than seven specters under its control at one time.</p></section><p>The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. </p>"
+			"name": "Crear espectro (Create Specter)",
+			"description": "<section class=\"secret\"><p>El {creature} elige a un humanoide que se encuentre a 10 pies o menos y haya muerto violentamente hace como mucho 1 minuto.</p><p>El espíritu del objetivo se alza como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano. El espectro estará bajo el control del {creature}. Este último no puede tener bajo su control a más de siete espectros al mismo tiempo.</p></section><p>El espíritu del objetivo se alza como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano.</p>"
 		},
 		"Create Whirlwind": {
-			"name": "Create Whirlwind",
-			"description": "<section class=\"secret\">\n<p>A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the {creature} can see within 120 feet of it. The whirlwind lasts as long as the {creature} maintains concentration (as if concentrating on a spell).</p><p>Any creature but the {creature} that enters the whirlwind must succeed on a  <strong>DC 18 Strength</strong> saving throw or be restrained by it. The {creature} can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the {creature} loses sight of it.</p><p>A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.</p>\n</section>\n<p>A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the {creature} can see within 120 feet of it. Any creature but the {creature} that enters the whirlwind must make a <strong>Strength</strong> saving throw or be restrained by it. The {creature} can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.</p>"
+			"name": "Crear Torbellino (Create Whirlwind)",
+			"description": "<section class=\"secret\">\n<p>Un torbellino de aire como un cilindro con 5 pies de radio y 30 pies de altura, se forma por arte de magia en un punto, que el {creature} pueda ver a 120 pies de él. El torbellino dura tanto como el {creature} mantenga la concentración (como si se concentrara en un conjuro).</p><p>Cualquier criatura, excepto el {creature}, que entre en el torbellino debe superar una tirada de salvación de <strong>Fuerza CD 18</strong> o quedar neutralizada por este. El {creature} puede mover el torbellino hasta 60 pies como una acción, junto con las criaturas neutralizadas que se mueven con el torbellino. El torbellino termina si el {creature} pierde contacto visual.</p><p>Una criatura puede utilizar su acción para liberarse del torbellino, si supera una prueba de fuerza CD 18. Si la prueba tiene éxito, se liberará y se moverá al espacio más cercano fuera del torbellino.</p>\n</section>\n<p>Un torbellino de aire como un cilindro con 5 pies de radio y 30 pies de altura, se forma por arte de magia en un punto, que el {creature} pueda ver a 120 pies de él. El torbellino dura tanto como el {creature} mantenga la concentración (como si se concentrara en un conjuro). Cualquier criatura, excepto el {creature}, que entre en el torbellino debe superar una tirada de salvación de <strong>Fuerza</strong> o quedar neutralizada por este. El {creature} puede mover el torbellino hasta 60 pies como una acción, junto con las criaturas neutralizadas que se mueven con el torbellino. Una criatura puede utilizar su acción para liberarse del torbellino, si supera una prueba de fuerza. Si la prueba tiene éxito, se liberará y se moverá al espacio más cercano fuera del torbellino.</p>"
 		},
 		"Cunning Action": {
-			"name": "Cunning Action",
-			"description": "<p>On each of its turns, the {creature} can use a bonus action to take the dash, disengage, or hide action.</p>"
+			"name": "Acción Astuta (Cunning Action)",
+			"description": "<p>El {creature} puede, en cada uno de sus turnos, usar una acción adicional para realizar una acción de Correr, Destrabarse o Esconderse.</p>"
 		},
 		"Damage Transfer": {
 			"name": "Damage Transfer",
@@ -282,7 +282,7 @@
 			"description": "<p>The {creature} can't wear or carry anything.</p>"
 		},
 		"Ethereal Jaunt": {
-			"name": "Excursión etérea",
+			"name": "Excursión etérea (Ethereal Jaunt)",
 			"description": "<p>As a bonus action, the {creature} can magically shift from the Material Plane to the Ethereal Plane, or vice versa.</p>"
 		},
 		"Ethereal Sight": {
@@ -298,7 +298,7 @@
 			"description": "<p>The {creature} enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.</p>"
 		},
 		"Evasion": {
-			"name": "Evasión",
+			"name": "Evasión (Evasion)",
 			"description": "<p>If the {creature} is subjected to an effect that allows it to make a <strong>Dexterity</strong> saving throw to take only half damage, the {creature} instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p>"
 		},
 		"False Appearance": {
@@ -310,7 +310,7 @@
 			"description": "<section class=\"secret\">\n<p>The {creature} is given a quarry by its summoner. The {creature} knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The {creature} also knows the location of its summoner.</p>\n</section>\n<p>The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence.</p>"
 		},
 		"Fear Aura": {
-			"name": "Aura de miedo",
+			"name": "Aura de miedo (Fear Aura)",
 			"description": "<section class=\"secret\"><p>Any creature hostile to the {creature} that starts its turn <strong>within 20 feet</strong> of the {creature} must make a <strong>DC 21 Wisdom saving throw</strong>, unless the {creature} is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the {creature}'s Fear Aura for the next 24 hours.</p></section><p>Any creature hostile to the {creature} that starts its turn <strong>within 20 feet</strong> of the {creature} must make a <strong>Wisdom</strong> saving throw.</p>"
 		},
 		"Fetid Cloud": {
@@ -358,7 +358,7 @@
 			"description": "<section class=\"secret\"><p>The {creature} releases its greatsword to hover magically in an unoccupied space within <strong>5 ft.</strong> of it. If the {creature} can see the sword, the {creature} can mentally command it as a bonus action to fly up to <strong>50 ft.</strong> and either make one attack against a target or return to the {creature}'s hands.</p><p>If the hovering sword is targeted by any effect, the {creature} is considered to be holding it. The hovering sword falls if the {creature} dies.</p></section><p>The {creature} releases its greatsword to hover magically in an unoccupied space within <strong>5 ft.</strong> of it. If the hovering sword is targeted by any effect, the {creature} is considered to be holding it. </p>"
 		},
 		"Freedom of Movement": {
-			"name": "Libertad de movimiento",
+			"name": "Libertad de movimiento (Freedom of Movement)",
 			"description": "<section class=\"secret\"><p>The {creature} ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.</p></section><p>The {creature} ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. </p>"
 		},
 		"Freeze": {
@@ -394,7 +394,7 @@
 			"description": "<section class=\"secret\"><p>The {creature} can have up to six tendrils at a time. Each tendril can be attacked (AC 20; <strong>10 hit points</strong>; immunity to poison and <em>psychic damage</em>). </p><p>Destroying a tendril deals no damage to the {creature}, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a <strong>DC 15 Strength check</strong> against it.</p></section><p>The {creature} can have up to six tendrils at a time. Each tendril can be attacked. A tendril can also be broken if a creature takes an action and succeeds on a Strength check against it.</p>"
 		},
 		"Haste": {
-			"name": "Acelerar",
+			"name": "Acelerar (Haste)",
 			"description": "<section class=\"secret\">\n<p>Recharge 5-6.</p>\n</section>\n<p>Until the end of its next turn, the {creature} magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use an attack as a bonus action.</p>"
 		},
 		"Heal Self": {
@@ -434,7 +434,7 @@
 			"description": "<p>The {creature} makes one attack with its hooves.</p>"
 		},
 		"Horrific Appearance": {
-			"name": "Apariencia horrenda",
+			"name": "Apariencia horrenda (Horrific Appearance)",
 			"description": "<section class=\"secret\">\n<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the {creature} and can see the {creature}'s true form must make a <strong>DC 11 Wisdom saving throw</strong>. On a failed save, the creature is frightened for <strong>1 minute</strong>. A creature can repeat the saving throw at the end of each of its turns, with<strong> disadvantage </strong>if the hag is within line of sight, ending the effect on itself on a success.</p><p>If a creature's saving throw is successful or the effect ends for it, the creature is immune to the {creature}'s Horrific Appearance for the next 24 hours<strong>. </strong>Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has<strong> disadvantage </strong>on attack rolls against the {creature}.</p>\n</section>\n<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the {creature} and can see the {creature}'s true form must make a <strong>Wisdom</strong> saving throw.</p>"
 		},
 		"Horrifying Visage": {
@@ -486,7 +486,7 @@
 			"description": "<section class=\"secret\">\n<p><em>Melee Spell Attack:</em><strong>+5 to hit, reach</strong>&nbsp;<strong>5 ft.,</strong> one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.</p><p></p>\n</section>\n<p>The target has disadvantage on Wisdom saving throws and all ability checks.</p>"
 		},
 		"Invisibility": {
-			"name": "Invisibilidad",
+			"name": "Invisibilidad (Invisibility)",
 			"description": "<section class=\"secret\">\n<p>The {creature} magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell).</p>\n</section>\n<p>The {creature} magically turns invisible. Any equipment the {creature} wears or carries is invisible with it.</p>"
 		},
 		"Invisible Passage": {
@@ -510,7 +510,7 @@
 			"description": "<section class=\"secret\">\n<p>If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.</p>\n</section>\n<p>If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. </p>"
 		},
 		"Leadership": {
-			"name": "Liderazgo",
+			"name": "Liderazgo (Leadership)",
 			"description": "<p>For 1 minute, the {creature} can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the {creature}. A creature can benefit from only one Leadership die at a time. This effect ends if the {creature} is incapacitated.</p>"
 		},
 		"Legendary Actions": {
@@ -522,7 +522,7 @@
 			"description": "<p>If the {type} fails a saving throw, it can choose to succeed instead.</p>"
 		},
 		"Light Sensitivity": {
-			"name": "Sensibilidad a la luz",
+			"name": "Sensibilidad a la luz (Light Sensitivity)",
 			"description": "<p>While in bright light, the {creature} has<strong> disadvantage </strong>on attack rolls and Wisdom (Perception) checks that rely on sight.</p>"
 		},
 		"Lightning Absorption": {
@@ -586,7 +586,7 @@
 			"description": "<section class=\"secret\">\n<p>While underwater, the {creature} is surrounded by transformative mucus. A creature that touches the {creature} or that hits it with a melee attack while within <strong>5 ft.</strong> of it must make a <strong>DC 14 Constitution saving throw</strong>. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.</p>\n</section>\n<p>While underwater, the {creature} is surrounded by transformative mucus. A creature that touches the {creature} or that hits it with a melee attack while within <strong>5 ft.</strong> of it must make a <strong>Constitution</strong> saving throw.</p>"
 		},
 		"Multiattack": {
-			"name": "Ataque múltiple",
+			"name": "Ataque múltiple (Multiattack)",
 			"description": "<p>The {creature} makes a number of attacks in one action. These attacks can be of the same type or a mixed variety of its attack actions.</p>"
 		},
 		"Multiple Heads": {
@@ -614,7 +614,7 @@
 			"description": "<section class=\"secret\">\n<p>**Paralyzing Breath.** The {type} exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a  <strong>DC 20 Constitution</strong> saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>\n</section>\n<p>The {type} exhales paralyzing gas in a 60-foot cone. Each creature in that area must make a <strong>Constitution</strong> saving throw.</p>"
 		},
 		"Paralyzing Touch": {
-			"name": "Toque paralizante",
+			"name": "Toque paralizante (Paralyzing Touch)",
 			"description": "<p>The {creature} uses its Paralyzing Touch.</p>"
 		},
 		"Parry": {
@@ -666,7 +666,7 @@
 			"description": "<p>For each head the {creature} has beyond one, it gets an extra reaction that can be used only for opportunity attacks.</p>"
 		},
 		"Read Thoughts": {
-			"name": "Leer pensamientos",
+			"name": "Leer pensamientos (Read Thoughts)",
 			"description": "<section class=\"secret\">\n<p>The {creature} magically reads the surface thoughts of one creature within 60 ft. of it. The effect can penetrate barriers, but 3 ft. of wood or dirt, 2 ft. of stone, 2 inches of metal, or a thin sheet of lead blocks it.</p><p>While the target is in range, the {creature} can continue reading its thoughts, as long as the {creature}'s concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the {creature} has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.</p>\n</section>\n<p>The {creature} magically reads the surface thoughts of one creature within 60 ft. of it.</p>"
 		},
 		"Reaping Scythe": {
@@ -722,7 +722,7 @@
 			"description": "<section class=\"secret\"><p>Any nonmagical weapon made of metal that hits the {creature} corrodes. After <strong>dealing damage</strong>, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the {creature} is destroyed after dealing damage.</p></section><p>Any nonmagical weapon made of metal that hits the {creature} corrodes. After <strong>dealing damage</strong>, the weapon takes a permanent and cumulative -1 penalty to damage rolls.</p>"
 		},
 		"Scare": {
-			"name": "Espantar",
+			"name": "Espantar (Scare)",
 			"description": "<section class=\"secret\"><p>One creature of the {creature}'s choice within 20 ft. of it must succeed on a  <strong>DC 10 Wisdom</strong> saving throw or be frightened for 1 minute. </p><p>The target can repeat the saving throw at the end of each of its turns, with disadvantage if the {creature} is within line of sight, ending the effect on itself on a success.</p></section><p>One creature of the {creature}'s choice within 20 ft. of it must make a <strong>Wisdom</strong> saving throw. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the {creature} is within line of sight, ending the effect on itself on a success.</p>"
 		},
 		"Searing Burst": {
@@ -750,7 +750,7 @@
 			"description": "<p>The {creature} can magically command any shark <strong>within 120 feet</strong> of it, using a limited telepathy.</p>"
 		},
 		"Shield": {
-			"name": "Escudo",
+			"name": "Escudo (Shield)",
 			"description": "<p>When a creature makes an Attack against the wearer of the {creature}'s Amulet, the {creature} grants a +2 bonus to the wearer's AC if the {creature} is within 5 feet of the wearer.</p>"
 		},
 		"Shielded Mind": {
@@ -778,7 +778,7 @@
 			"description": "<section class=\"secret\">\n<p>**Slowing Breath.** The {type} exhales gas in a 60-foot cone. Each creature in that area must succeed on a  <strong>DC 18 Constitution</strong> saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.</p>\n</section>\n<p>The {type} exhales gas in a 60-foot cone. Each creature in that area must make a <strong>Constitution</strong> saving throw.</p>"
 		},
 		"Sneak Attack": {
-			"name": "Ataque furtivo",
+			"name": "Ataque Furtivo (Sneak Attack)",
 			"description": "<section class=\"secret\">Once per turn.</section>\n<p>The {creature} deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the {creature} that isn't incapacitated and the {creature} doesn't have disadvantage on the attack roll.</p>"
 		},
 		"Snow Camouflage": {
