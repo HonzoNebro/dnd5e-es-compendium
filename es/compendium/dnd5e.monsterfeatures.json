@@ -211,91 +211,91 @@
 		},
 		"Death Burst": {
 			"name": "Explotar al morir (Death Burst)",
-			"description": "<section class=\"secret\">\n<p>When the {creature} dies, it explodes in a burst of dust. Each creature within <strong>5 ft.</strong> of it must then succeed on a <strong>DC 10 Constitution saving throw</strong> or be blinded for <strong>1 minute</strong>. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.</p>\n</section>\n<p>When the {creature} dies, it explodes in a burst of dust. Each creature within <strong>5 ft.</strong> of it must make a <strong>Constitution</strong> saving throw.</p>"
+			"description": "<section class=\"secret\">\n<p>Si el {creature} muere, explotará en una deflagración de polvo. Todas las criaturas que se encuentren a <strong>5 pies</strong> o menos de él deberán hacer una <strong>tirada de salvación de Constitución CD 10</strong> para no quedar cegados durante <strong>1 minuto</strong>. La criatura cegada puede repetir la tirada de salvación en cada uno de sus turnos, concluyendo el efecto con un éxito.</p>\n</section>\n<p>Cuando el {creature} muere, explotará en una deflagración de polvo. Todas las criaturas que se encuentren a <strong>5 pies</strong> o menos de él deberán hacer una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Death Glare": {
-			"name": "Death Glare",
-			"description": "<section class=\"secret\">\n<p>The {creature} targets one frightened creature she can see within 30 ft. of her. If the target can see the {creature}, it must succeed on a <strong>DC 11 Wisdom</strong> saving throw against this magic or drop to 0 hit points.</p><p></p>\n</section>\n<p>The {creature} targets one frightened creature she can see within 30 ft. of her. If the target can see the {creature}, it must make a <strong>Wisdom</strong> saving throw against this magic.</p>"
+			"name": "Mirada mortal (Death Glare)",
+			"description": "<section class=\"secret\">\n<p>El {creature} elige como objetivo a una criatura asustada que se encuentre a 30 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría CD 11</strong> o sus puntos de golpe se reducirán a 0 mágicamente.</p>\n</section>\n<p>El {creature} elige como objetivo a una criatura asustada que se encuentre a 30 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Death Throes": {
-			"name": "Death Throes",
-			"description": "<section class=\"secret\">\n<p>When the {creature} dies, it explodes, and each creature within 30 feet of it must make a  <strong>DC 20 Dexterity</strong> saving throw, taking <strong>70 (20d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the {creature}'s weapons.</p>\n</section>\n<p>When the {creature} dies, it explodes, and each creature within 30 feet of it must make a <strong>Dexterity</strong> saving throw. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the {creature}'s weapons.</p>"
+			"name": "Muerte Agonizante (Death Throes)",
+			"description": "<section class=\"secret\">\n<p>Cuando el {creature} muere, explota y cada criatura en un radio de 30 pies (9,1 m) de él debe realizar una tirada de salvación de <strong>Destreza CD 20</strong>, recibiendo <strong>70 (20d6) de <em>daño por fuego</em></strong> si falla la tirada, o la mitad de daño si la supera.</p><p>La explosión enciende todos los objetos inflamables dentro de la zona que no visitan o carguen, y destruye las armas del {creature}.</p>\n</section>\n<p>Cuando el {creature} muere, explota y cada criatura en un radio de 30 pies (9,1 m) de él debe realizar una tirada de salvación de <strong>Destreza</strong>. a explosión enciende todos los objetos inflamables dentro de la zona que no visitan o carguen, y destruye las armas del {creature}.</p>"
 		},
 		"Detect (Legendary)": {
-			"name": "Detect (Legendary)",
-			"description": "<p>The {creature} makes a Wisdom (Perception) check.</p>"
+			"name": "Detectar (Legendaria) (Detect (Legendary))",
+			"description": "<p>El {creature} hace una prueba de Sabiduría (Percepción).</p>"
 		},
 		"Devil Sight": {
-			"name": "Devil Sight",
-			"description": "<p>Magical darkness doesn't impede the {creature}'s Darkvision.</p>"
+			"name": "Visión de Diablo (Devil Sight)",
+			"description": "<p>La oscuridad mágica no impide su visión en la oscuridad.</p>"
 		},
 		"Disrupt Life": {
-			"name": "Disrupt Life",
-			"description": "<section class=\"secret\">\n<p>Each non-{type} creature within 20 feet of the {creature} must make a  <strong>DC 18 Constitution</strong> saving throw against this magic, taking <strong>21 (6d6) <em>necrotic damage</em></strong> on a failed save, or half as much damage on a successful one.</p>\n</section>\n<p>Each non-{type} creature within 20 feet of the {creature} must make a <strong>Constitution</strong> saving throw against this magic.</p>"
+			"name": "Perturbar vida (Disrupt Life)",
+			"description": "<section class=\"secret\">\n<p>Todas las criaturas que no sean {type} que se encuentren a 20 pies o menos del {creature} deberán realizar una tirada de salvación de <strong>Constitución CD 18</strong> contra este efecto mágico, recibiendo <strong>21 (6d6) de <em>daño necrótico</em></strong> si la fallan, o la mitad de ese daño si la superan.</p>\n</section>\n<p>odas las criaturas que no sean {type} que se encuentren a 20 pies o menos del {creature} deberán realizar una tirada de salvación de <strong>Constitución</strong> contra este efecto mágico.</p>"
 		},
 		"Divine Awareness": {
-			"name": "Divine Awareness",
-			"description": "<p>The {creature} knows if it hears a lie.</p>"
+			"name": "Conocimiento Divino (Divine Awareness)",
+			"description": "<p>El {creature} sabe si escucha una mentira.</p>"
 		},
 		"Divine Eminence": {
-			"name": "Divine Eminence",
-			"description": "<section class=\"secret\"><p>As a bonus action, the {creature} can expend a spell slot to cause its melee weapon attacks to magically deal an extra <strong>10 (3d6) <em>radiant damage</em></strong> to a target on a hit. </p><p>This benefit lasts until the end of the turn. If the {creature} expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.</p></section><p>As a bonus action, the {creature} can expend a spell slot to cause its melee weapon attacks to magically deal an extra <em>radiant damage</em> to a target on a hit.</p>"
+			"name": "Prerrogativa divina (Divine Eminence)",
+			"description": "<section class=\"secret\"><p>El {creature} puede utilizar una acción adicional y gastar un espacio de conjuro para hacer que sus ataques con arma cuerpo a cuerpo causen mágicamente <strong>10 (3d6) de <em>daño radiante</em></strong> adicionales cuando impactan.</p><p>Este beneficio dura hasta el final del turno. Si el {creature} gasta un espacio de conjuro de nivel 2 más, el daño adicional aumenta en 1d6 por cada nivel por encima de 1 del espacio.</p></section><p>El {creature} puede utilizar una acción adicional y gastar un espacio de conjuro para hacer que sus ataques con arma cuerpo a cuerpo causen mágicamente <em>daño radiante</em> adicional cuando impactan.</p>"
 		},
 		"Draining Kiss": {
-			"name": "Draining Kiss",
-			"description": "<section class=\"secret\">\n<p>The {creature} kisses a creature charmed by it or a willing creature. The target must make a <strong>DC 15 Constitution</strong> saving throw against this magic, taking <strong>32 (5d10 + 5) <em>psychic damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>\n</section>\n<p>The target must make a <strong>Constitution</strong> saving throw against this magic.</p>"
+			"name": "Beso Drenador (Draining Kiss)",
+			"description": "<section class=\"secret\">\n<p>El {creature} besa a una criatura encantada por ella o a un ser dispuesto a este. El objetivo debe realizar una tirada de salvación de <strong>Constitución CD 15</strong> contra este efecto, sufriendo <strong>32 (5d10 + 5) de <em>daño psíquico</em></strong> si fallar la tirada, o la mitad de daño si tiene éxito.</p><p>Los puntos de golpe máximos del objetivo se reducirán en un valor idéntico al daño recibido. Esta reducción durará hasta que el objetivo termine un descanso largo. El objetivo muere si este efecto reduce sus puntos de golpe máximo a 0.</p>\n</section>\n<p>El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong> contra este efecto.</p>"
 		},
 		"Dreadful Glare": {
-			"name": "Dreadful Glare",
-			"description": "<section class=\"secret\">\n<p>The {creature} targets one creature it can see within 60 ft. of it. If the target can see the {creature}, it must succeed on a <strong>DC 11 Wisdom</strong> saving throw against this magic or become frightened until the end of the {creature}'s next turn.</p><p>If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.</p>\n</section>\n<p>The {creature} targets one creature it can see within 60 ft. of it. If the target can see the {creature}, it must make a <strong>Wisdom</strong> saving throw against this magic.</p>"
+			"name": "Mirada espantosa (Dreadful Glare)",
+			"description": "<section class=\"secret\">\n<p>El {creature} elige a una criatura que se encuentre a 60 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría CD 11</strong> contra este efecto mágico o estará asustado hasta el final del siguiente turno del {creature}.</p><p>Si falla la tirada de salvación por 5 o más, también estará paralizado durante este periodo. Las criaturas que superen la tirada de salvación serán inmunes a la mirada espantosa de todas las momias (pero no de los señores de las momias) durante las siguientes 24 horas.</p>\n</section>\n<p>El {creature} elige a una criatura que se encuentre a 60 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría</strong> contra este efecto mágico.</p>"
 		},
 		"Duergar Resilience": {
-			"name": "Duergar Resilience",
-			"description": "<p>The {creature} has<strong> advantage </strong>on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.</p>"
+			"name": "Resiliencia duergar (Duergar Resilience)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de salvación contra veneno, conjuros e ilusiones, así como para evitar ser hechizado o paralizado.</p>"
 		},
 		"Earth Glide": {
-			"name": "Earth Glide",
-			"description": "<p>The {type} can burrow through nonmagical, unworked earth and stone. While doing so, the {type} doesn't disturb the material it moves through.</p>"
+			"name": "Deslizarse por la Tierra (Earth Glide)",
+			"description": "<p>El {type} puede excavar a través de la tierra y la piedra que no sean mágicas ni estén trabajadas. Al hacer esto no desplaza o perturba el material a través del que se mueve.</p>"
 		},
 		"Echolocation": {
-			"name": "Echolocation",
-			"description": "<p>The {creature} can't use its blindsight while deafened.</p>"
+			"name": "Ecolocalización (Echolocation)",
+			"description": "<p>El {creature} perderá su visión ciega si está ensordecido.</p>"
 		},
 		"Elemental Demise": {
-			"name": "Elemental Demise",
-			"description": "<p>If the {creature} dies, its body disintegrates into a warm breeze, leaving behind only equipment the {creature} was wearing or carrying.</p>"
+			"name": "Fallecimiento Elemental (Elemental Demise)",
+			"description": "<p>Si el {creature} muere, su cuerpo se desintegra en una cálida brisa, dejando atrás el equipo que vista o cargue.</p>"
 		},
 		"Engulf": {
-			"name": "Engulf",
-			"description": "<section class=\"secret\">\n<p>The {creature} moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the {creature} enters a creature's space, the creature must make a <strong>DC 12 Dexterity</strong> saving throw.On a successful save, the creature can choose to be pushed 5 feet back or to the side of the {creature}. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.</p><p>On a failed save, the {creature} enters the creature's space, and the creature takes <strong>10 (3d6) <em>acid damage</em></strong> and is engulfed. The engulfed creature can't breathe, is restrained, and takes <strong>21 (6d6) <em>acid damage</em></strong> at the start of each of the {creature}'s turns. When the {creature} moves, the engulfed creature moves with it. An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the {creature}.</p>\n</section>\n<p>Whenever the {creature} enters a creature's space, the creature must make a <strong>Dexterity</strong> saving throw. On a successful save, the creature can choose to be pushed 5 feet back or to the side of the {creature}. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.</p>"
+			"name": "Absorber (Engulf)",
+			"description": "<section class=\"secret\">\n<p>El {creature} se mueve hasta su velocidad. Al hacer esto puede entrar en los espacios de criaturas Grandes o más pequeñas. Cada vez que el {creature} entre en el espacio de otra criatura, esta deberá realizar una tirada de salvación de <strong>Destreza CD 12</strong>. Si tiene éxito, la criatura podrá elegir ser empujada 5 pies hacia atrás o hacia un lado del {creature}. Si decide no ser empujada, sufrirá las consecuencias de una tirada de salvación fallida.</p><p>Si falla la tirada de salvación, el {creature} entrará en el espacio de la criatura, y esta sufrirá <strong>10 ( 3d6) de <em>daño de ácido</em></strong> y lo absorberá. Las criaturas absorbidas no pueden respirar, están apresadas y reciben <strong>21 ( 6d6) de <em>daño de ácido</em></strong> al principio de cada uno de los turnos del {creature}. Cuando el {creature} se mueve, las criaturas absorbidas se desplazan con ella. Una criatura absorbida puede intentar escapar utilizando una acción para realizar una prueba de Fuerza CD 12. Si tiene éxito, logrará salir y se moverá a un espacio de su elección a 5 pies o menos del {creature}.</p>\n</section>\n<p>Cada vez que el {creature} entre en el espacio de otra criatura, esta deberá realizar una tirada de salvación de <strong>Destreza</strong>. Si tiene éxito, la criatura podrá elegir ser empujada 5 pies hacia atrás o hacia un lado del {creature}. Si decide no ser empujada, sufrirá las consecuencias de una tirada de salvación fallida.</p>"
 		},
 		"Enlarge": {
-			"name": "Enlarge",
-			"description": "<p>For 1 minute, the {creature} magically increases in size, along with anything it is wearing or carrying. While enlarged, the {creature} is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the {creature} lacks the room to become Large, it attains the maximum size possible in the space available.</p>"
+			"name": "Agrandarse (Enlarge)",
+			"description": "<p>El {creature} y cualquier equipo que lleve o vista aumentan mágicamente de tamaño durante 1 minuto. Mientras suceda esto, el {creature} será Grande, tirará el doble de dados de daño en sus ataques con arma basados en la Fuerza (ya incluido en los ataques) y tendrá ventaja en las pruebas y las tiradas de salvación de Fuerza. Si no hay espacio suficiente para que se convierta en Grande, el {creature} alcanza el tamaño máximo posible para el espacio disponible.</p>"
 		},
 		"Enslave": {
-			"name": "Enslave",
-			"description": "<section class=\"secret\">\n<p>The {creature} targets one creature it can see within 30 ft. of it. The target must succeed on a  <strong>DC 14 Wisdom</strong> saving throw or be magically charmed by the {creature} until the {creature} dies or until it is on a different plane of existence from the target.</p><p>The charmed target is under the {creature}'s control and can't take reactions, and the {creature} and the target can communicate telepathically with each other over any distance.Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the {creature}.</p>\n</section>\n<p>The target must make a <strong>Wisdom</strong> saving throw. Whenever the target takes damage, the target can repeat the saving throw. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the {creature}.</p>"
+			"name": "Esclavizar (Enslave)",
+			"description": "<section class=\"secret\">\n<p>El {creature} elige como objetivo a una criatura que vea en un radio de 30 pies. El objetivo debe superar una tirada de salvación de <strong>Sabiduría CD 14</strong> o quedar encantado mágicamente por el {creature} hasta que el {creature} muera o hasta que esté en un plano diferente que el del objetivo.</p><p>El objetivo encantado está bajo el control del {creature} y no puede reaccionar, y el {creature} y el objetivo pueden comunicarse telepáticamente el uno con el otro desde cualquier distancia. Cuando el objetivo encantado recibe daño, el objetivo puede repetir la tirada de salvación. Si tiene éxito, el efecto se termina. No más de una vez cada 24 horas, el objetivo también puede repetir la tirada de salvación cuando esté al menos a 1 milla (1,6 km) de distancia del {creature}.</p>\n</section>\n<p>El objetivo debe superar una tirada de salvación de <strong>Sabiduría</strong>. Cuando el objetivo encantado recibe daño, el objetivo puede repetir la tirada de salvación. No más de una vez cada 24 horas, el objetivo también puede repetir la tirada de salvación cuando esté al menos a 1 milla (1,6 km) de distancia del {creature}.</p>"
 		},
 		"Ephemeral": {
-			"name": "Ephemeral",
-			"description": "<p>The {creature} can't wear or carry anything.</p>"
+			"name": "Efímero (Ephemeral)",
+			"description": "<p>El {creature} no puede vestir o llevar nada.</p>"
 		},
 		"Ethereal Jaunt": {
 			"name": "Excursión etérea (Ethereal Jaunt)",
-			"description": "<p>As a bonus action, the {creature} can magically shift from the Material Plane to the Ethereal Plane, or vice versa.</p>"
+			"description": "<p>El {creature} es capaz de usar una acción adicional para moverse mágicamente desde el Plano Material al Plano Etéreo, o viceversa.</p>"
 		},
 		"Ethereal Sight": {
-			"name": "Ethereal Sight",
-			"description": "<p>The {creature} can see <strong>60 ft.</strong> into the Ethereal Plane when it is on the Material Plane, and vice versa.</p>"
+			"name": "Visión etérea (Ethereal Sight)",
+			"description": "<p>El {creature} puede ver a <strong>60 pies</strong> de distancia en el Plano Etéreo mientras se encuentra en el Plano Material, y viceversa.</p>"
 		},
 		"Ethereal Stride": {
-			"name": "Ethereal Stride",
-			"description": "<p>The {creature} and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.</p>"
+			"name": "Trote etéreo (Ethereal Stride)",
+			"description": "<p>El {creature} y hasta tres criaturas voluntarias situadas a 5 pies o menos de ella pasarán mágicamente del Plano Etéreo al Plano Material, o viceversa.</p>"
 		},
 		"Etherealness": {
 			"name": "Excursion eterea (Etherealness)",
-			"description": "<p>The {creature} enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.</p>"
+			"description": "<p>El {creature} entra en el Plano Etéreo si se encontraba en el Plano Material, o en este si se hallaba en aquel. Mientras se sitúe en la Frontera Etérea, será visible también en el Plano Material, y viceversa, aunque no podrá afectar o ser afectado por nada que se encuentre en el otro plano.</p>"
 		},
 		"Evasion": {
 			"name": "Evasión (Evasion)",
@@ -406,7 +406,7 @@
 			"description": "<p>The {creature} touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>"
 		},
 		"Heart Sight": {
-			"name": "Heart Sight",
+			"name": "Visión del corazón (Heart Sight)",
 			"description": "<section class=\"secret\"><p>The {creature} touches a creature and magically knows the creature's current emotional state. </p><p>If the target fails a  <strong>DC 10 Charisma</strong> saving throw, the {creature} also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.</p></section><p>The {creature} touches a creature. target must make a <strong>Charisma</strong> saving throw.</p>"
 		},
 		"Heated Body": {
