@@ -491,23 +491,23 @@
 		},
 		"Invisible Passage": {
 			"name": "Paso invisible (Invisible Passage)",
-			"description": "<section class=\"secret\">\n<p>The {creature} magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.</p>\n</section>\n<p>The {creature} magically turns invisible. Any equipment she wears or carries is invisible with her.</p>"
+			"description": "<section class=\"secret\">\n<p>El {creature} puede, mágicamente, volverse invisible hasta que ataque, lance un conjuro o deje de concentrarse (como si se concentrara en un conjuro). Mientras sea invisible, no dejará evidencia física alguna de su paso, por lo que solo podrá ser rastreada mediante la magia. Cualquier elemento de equipo que lleve o vista también se vuelve invisible.</p>\n</section>\n<p>El {creature} se vuelve invisible mágicamente. Cualquier elemento de equipo que lleve o vista también se vuelve invisible.</p>"
 		},
 		"Iron Scent": {
-			"name": "Iron Scent",
-			"description": "<p>The {creature} can pinpoint, by scent, the location of ferrous metal <strong>within 30 feet</strong> of it.</p>"
+			"name": "Olfatear hierro (Iron Scent)",
+			"description": "<p>El {creature} puede, mediante el olfato, identificar con precisión dónde se encuentran los metales férricos situados a <strong>30 pies</strong> o menos de él.</p>"
 		},
 		"Keen Senses": {
-			"name": "Keen Senses",
-			"description": "<p>The {creature} has<strong> advantage </strong>on Wisdom (Perception) checks that rely on sight, hearing, or smell.</p>"
+			"name": "Sentidos Agudos (Keen Senses)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en tiradas de Sabiduría (Percepción) que dependan de la vista, oído o el olfato.</p>"
 		},
 		"Labyrinthine Recall": {
-			"name": "Labyrinthine Recall",
-			"description": "<p>The {creature} can perfectly recall any path it has traveled.</p>"
+			"name": "Recordar laberinto (Labyrinthine Recall)",
+			"description": "<p>El {creature} recuerda con total precisión cualquier camino que haya recorrido antes.</p>"
 		},
 		"Lair Actions": {
-			"name": "Lair Actions",
-			"description": "<section class=\"secret\">\n<p>If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.</p>\n</section>\n<p>If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. </p>"
+			"name": "Acciones en guarida (Lair Actions)",
+			"description": "<section class=\"secret\">\n<p>Las criaturas legendarias que tienen acciones en guarida podrán recurrir a ellas para dominar la magia ambiental de su hogar. El monstruo podrá usar una de sus acciones en guarida en la posición 20 del orden de iniciativa (perdiendo empates). Aunque no podrá hacer esto si está incapacitado o, por la razón que sea, no puede realizar acciones. Si la criatura es sorprendida, no podrá utilizar sus acciones en guarida antes del final de su primer turno.</p>\n</section>\n<p>Las criaturas legendarias que tienen acciones en guarida podrán recurrir a ellas para dominar la magia ambiental de su hogar.</p>"
 		},
 		"Leadership": {
 			"name": "Liderazgo (Leadership)",
@@ -618,8 +618,8 @@
 			"description": "<p>The {creature} uses its Paralyzing Touch.</p>"
 		},
 		"Parry": {
-			"name": "Parry",
-			"description": "<p>The {creature} adds 2 to its AC against one melee attack that would hit it. To do so, the {creature} must see the attacker and be wielding a melee weapon.</p>"
+			"name": "Parada (Parry)",
+			"description": "<p>El {creature} añade 2 a su CA contra un ataque cuerpo a cuerpo que le fuera a impactar. Para poder hacer esto debe ver a su atacante y estar empuñando un arma cuerpo a cuerpo.</p>"
 		},
 		"Petrifying Breath": {
 			"name": "Petrifying Breath",
