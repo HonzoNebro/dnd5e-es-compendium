@@ -11,10 +11,10 @@
 		},
 		"Acid Breath": {
 			"name": "Aliento ácido (Acid Breath)",
-			"description": "<section class=\"secret\"><p>The {type} exhales acid in a 60-foot line that is 5 feet wide. </p><p>Each creature in that line must make a  <strong>DC 18 Dexterity</strong> saving throw, taking <strong>54 (12d8) <em>acid damage</em></strong> on a failed save, or half as much damage on a successful one.</p></section><p>The {type} exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a <strong>Dexterity</strong> saving throw.</p>"
+			"description": "<section class=\"secret\"><p>El {type} exhala ácido en una línea de 60 pies de largo y 5 de ancho.</p><p>Todas las criaturas situadas en dicha línea deberán hacer una tirada de salvación de <strong>Destreza CD 18</strong>, sufriendo <strong>54 (12d8) de <em>daño de ácido</em></strong> si la fallan, o la mitad de ese daño si la superan.</p></section><p>El {type} exhala ácido en una línea de 60 pies de largo y 5 de ancho. Todas las criaturas situadas en dicha línea deberán hacer una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Acid Spray": {
-			"name": "Acid Spray",
+			"name": "Chorro de ácido (Acid Spray)",
 			"description": "<section class=\"secret\">\n<p>The {creature} spits acid in a line that is 30 ft. long and 5 ft. wide, provided that it has no creature grappled.</p><p>Each creature in that line must make a  <strong>DC 13 Dexterity</strong> saving throw, taking <strong>10 (3d6) <em>acid damage</em></strong> on a failed save, or half as much damage on a successful one.</p>\n</section>\n<p>The {creature} spits acid in a line that is 30 ft. long and 5 ft. wide. Each creature in that line must make a <strong>Dexterity</strong> saving throw.</p>"
 		},
 		"Adhesive": {
