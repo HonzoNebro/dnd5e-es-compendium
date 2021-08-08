@@ -15,99 +15,99 @@
 		},
 		"Acid Spray": {
 			"name": "Chorro de ácido (Acid Spray)",
-			"description": "<section class=\"secret\">\n<p>The {creature} spits acid in a line that is 30 ft. long and 5 ft. wide, provided that it has no creature grappled.</p><p>Each creature in that line must make a  <strong>DC 13 Dexterity</strong> saving throw, taking <strong>10 (3d6) <em>acid damage</em></strong> on a failed save, or half as much damage on a successful one.</p>\n</section>\n<p>The {creature} spits acid in a line that is 30 ft. long and 5 ft. wide. Each creature in that line must make a <strong>Dexterity</strong> saving throw.</p>"
+			"description": "<section class=\"secret\">\n<p>El {creature} escupe ácido en una línea de 30 pies de largo y 5 de ancho, siempre y cuando no esté agarrando a ninguna criatura.</p><p>Todas las criaturas que se encuentren en dicha línea deberán hacer una tirada de salvación de <strong>Destreza CD 13</strong>, sufriendo <strong>10 ( 3d6) de <em>daño de ácido</em></strong> si la fallan, o la mitad de ese daño si la superan.</p>\n</section>\n<p>El {creature} escupe ácido en una línea de 30 pies de largo y 5 de ancho. Todas las criaturas que se encuentren en dicha línea deberán hacer una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Adhesive": {
-			"name": "Adhesive",
-			"description": "<section class=\"secret\"><p>The {creature} adheres to anything that touches it. A Huge or smaller creature adhered to the {creature} is also grappled by it <strong>escape DC 13</strong>. Ability checks made to escape this grapple have disadvantage.</p></section><p>The {creature} adheres to anything that touches it. A Huge or smaller creature adhered to the {creature} is also grappled by it. Make an escape check, with disadvantage.</p>"
+			"name": "Adhesivo (Adhesive)",
+			"description": "<section class=\"secret\"><p>El {creature} se adhiere a cualquiera que lo toque. Además, las criaturas Enormes o más pequeñas a las que el {creature} se adhiera también estarán agarradas por este (<strong>CD 13</strong> para escapar). Las pruebas de característica para escapar de este agarre tienen desventaja.</p></section><p>El {creature} se adhiere a cualquiera que lo toque. Además, las criaturas Enormes o más pequeñas a las que el {creature} se adhiera también estarán agarradas por este. Realiza una prueba para escapar con desventaja.</p>"
 		},
 		"Aggressive": {
-			"name": "Aggressive",
-			"description": "<p>As a bonus action, the {creature} can move up to its speed toward a hostile creature that it can see.</p>"
+			"name": "Agresivo (Aggressive)",
+			"description": "<p>El {creature} puede utilizar una acción adicional para moverse hasta su velocidad hacia una criatura hostil a la que pueda ver.</p>"
 		},
 		"Air Form": {
-			"name": "Air Form",
-			"description": "<p>The {type} can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.</p>"
+			"name": "Forma de Aire (Air Form)",
+			"description": "<p>El {type} podrá entrar en el espacio de una criatura hostil y detenerse en él. Además, puede moverse a través de espacios de tan solo 1 pulgada de ancho sin apretarse.</p>"
 		},
 		"Ambusher": {
-			"name": "Ambusher",
-			"description": "<p>In the first round of a combat, the {creature} has<strong> advantage </strong>on attack rolls against any creature it has surprised.</p>"
+			"name": "Emboscador (Ambusher)",
+			"description": "<p>Durante el primer asalto de un combate, el {creature} tiene <strong>ventaja</strong> en las tiradas de ataque contra cualquier criatura a la que haya sorprendido.</p>"
 		},
 		"Amorphous": {
-			"name": "Amorphous",
-			"description": "<p>The&nbsp;{creature}&nbsp;can move through a space as narrow as 1 inch wide without squeezing.</p>"
+			"name": "Amorfo (Amorphous)",
+			"description": "<p>El &nbsp;{creature}&nbsp;puede moverse a través de espacios de tan solo 1 pulgada de ancho sin apretarse.</p>"
 		},
 		"Amphibious": {
-			"name": "Amphibious",
-			"description": "<p>The {creature} can breathe air and water.</p>"
+			"name": "Anfibio (Amphibious)",
+			"description": "<p>El {creature} puede respirar tanto dentro del agua como fuera de ella.</p>"
 		},
 		"Angelic Weapons": {
-			"name": "Angelic Weapons",
-			"description": "<section class=\"secret\"><p>The {creature}'s weapon attacks are magical. When the {creature} hits with any weapon, the weapon deals an <strong>extra 4d8 <em>radiant damage</em></strong> (included in the attack).</p></section><p>The {creature}'s weapon attacks are magical. When the {creature} hits with any weapon, the weapon deals extra <em>radiant damage</em> (included in the attack).</p>"
+			"name": "Armas Angelicales (Angelic Weapons)",
+			"description": "<section class=\"secret\"><p>Los ataques del {creature} con su arma son mágicos. Cuando el {creature} acierta con cualquier arma, el arma inflige <strong>4d8<em> de daño radiante adicional</em></strong> (incluido en el ataque).</p></section><p>Los ataques del {creature} con su arma son mágicos. Cuando el {creature} acierta con cualquier arma, el arma inflige <em>daño radiante adicional</em> (incluido en el ataque).</p>"
 		},
 		"Animate Chains": {
-			"name": "Animate Chains",
-			"description": "<section class=\"secret\">\n<p>Up to four chains the {type} can see within 60 feet of it magically sprout razor-edged barbs and animate under the {type}'s control, provided that the chains aren't being worn or carried.</p><p>Each animated chain is an object with AC 20, 20 hit points, resistance to <em>piercing damage</em>, and immunity to psychic and thunder damage. When the {type} uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the {type} is incapacitated or dies.</p>\n</section>\n<p>Up to four chains the {type} can see within 60 feet of it magically sprout razor-edged barbs and animate under the {type}'s control, provided that the chains aren't being worn or carried.</p>"
+			"name": "Animar cadenas (Animate Chains)",
+			"description": "<section class=\"secret\">\n<p>Hasta cuatro cadenas que se encuentren a 60 pies o menos del {type}, que pueda ver y que no lleve o vista nadie, cobran vida bajo el control del {type}. De ellas surgen mágicamente numerosas púas afiladas.</p><p>Cada cadena animada es un objeto con CA 20, 20 puntos de golpe, resistencia a <em>daño perforante</em> e inmunidad a daños psíquico y de trueno. Si el {type} utiliza ataque múltiple durante su turno, podrá utilizar cada cadena animada para realizar un ataque de cadena adicional. Cada cadena animada es capaz de agarrar a una criatura por sus propios medios, pero no puede atacar mientras esté agarrando. Las cadenas vuelven a su estado inanimado si sus puntos de golpe se reducen a 0 o si el {type} queda incapacitada o muere.</p>\n</section>\n<p>Hasta cuatro cadenas que se encuentren a 60 pies o menos del {type}, que pueda ver y que no lleve o vista nadie, cobran vida bajo el control del {type}. De ellas surgen mágicamente numerosas púas afiladas.</p>"
 		},
 		"Animate Trees": {
-			"name": "Animate Trees",
-			"description": "<section class=\"secret\"><p>The {creature} magically animates one or two trees it can see <strong>within 60 feet</strong> of it. These trees have the same statistics as a {creature}, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. </p><p>An animated tree acts as an ally of the {creature}. The tree remains animate for 1 day or until it dies; until the {creature} dies or is more than 120 feet from the tree; or until the {creature} takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.</p></section><p>The {creature} magically animates one or two trees it can see <strong>within 60 feet</strong> of it.</p>"
+			"name": "Animar árboles (Animate Trees)",
+			"description": "<section class=\"secret\"><p>El {creature} anima mágicamente a hasta dos árboles que se encuentren a <strong>60 pies o menos</strong> y pueda ver. Estos árboles tienen el mismo perfil que el {creature}, con las siguientes excepciones: sus puntuaciones de Inteligencia y Carisma son de 1, no pueden hablar, y solo poseen la acción de Golpe.</p><p>Los árboles se comportan como aliados del {creature}. Cada árbol permanecerá animado durante 1 día, salvo que él o el {creature} mueran, se alejen más de 120 pies o el {creature} utilice una acción adicional para transformarlo de nuevo en un árbol inanimado. Cuando deje de estar animado, el árbol intentará enraizarse.</p></section><p>l {creature} anima mágicamente a hasta dos árboles que se encuentren a <strong>60 pies o menos</strong> y pueda ver.</p>"
 		},
 		"Antennae": {
-			"name": "Antennae",
-			"description": "<section class=\"secret\"><p>The {creature} corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. </p><p>If the object is being worn or carried by a creature, the creature can make a  <strong>DC 11 Dexterity</strong> saving throw to avoid the {creature}'s touch.If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.</p></section><p>The {creature} corrodes a ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. </p>"
+			"name": "Antenas (Antennae)",
+			"description": "<section class=\"secret\"><p>El {creature} corroe cualquier objeto no mágico hecho de un metal férrico que se encuentre a 5 pies o menos y pueda ver. Si el objeto no está siendo llevado o vestido por nadie, este toque destruirá un volumen del objeto equivalente a un cubo de 1 pies.</p><p>Si, por el contrario, alguien lleva o viste el objeto, el portador deberá realizar una tirada de salvación de <strong>Destreza CD 11</strong>, logrando evitar el toque del {creature} si tiene éxito. Si el objeto tocado es una armadura o escudo de metal que esté siendo portado o embrazado, sufrirá un penalizador de -1 permanente y acumulativo a la CA que proporciona. Las armaduras que vean su CA reducida a 10 y los escudos cuyo bonificador se reduzca hasta +0 de esta forma serán destruidos. Si el objeto tocado era un arma de metal empuñada por una criatura, se corroerá tal y como se describe en el atributo Corroer Metal.</p></section><p>El {creature} corroe cualquier objeto hecho de un metal férrico que se encuentre a 5 pies o menos y pueda ver. Si el objeto no está siendo llevado o vestido por nadie, este toque destruirá un volumen del objeto equivalente a un cubo de 1 pies.</p>"
 		},
 		"Antimagic Susceptibility": {
-			"name": "Antimagic Susceptibility",
-			"description": "<section class=\"secret\">\n<p>The {creature} is incapacitated while in the area of an antimagic field.</p><p>If targeted by dispel magic, the {creature} must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for <strong>1 minute</strong>.</p>\n</section>\n<p>The {creature} is incapacitated while in the area of an antimagic field.</p>"
+			"name": "Susceptibilidad a la Antimagia (Antimagic Susceptibility)",
+			"description": "<section class=\"secret\">\n<p>El {creature} estará incapacitado mientras se encuentre en el área cubierta por un campo antimagia.</p><p>Si es el objetivo de disipar magia, el {creature} deberá tener éxito en una tirada de salvación de Constitución con CD igual a la salvación de conjuros del lanzador o estará inconsciente durante <strong>1 minuto</strong>.</p>\n</section>\n<p>El {creature} estará incapacitado mientras se encuentre en el área cubierta por un campo antimagia.</p>"
 		},
 		"Assassinate": {
-			"name": "Assassinate",
-			"description": "<p>During its first turn, the {creature} has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the {creature} scores against a surprised creature is a critical hit.</p>"
+			"name": "Asesinar (Assassinate)",
+			"description": "<p>Durante su primer turno, el {creature} tiene ventaja en las tiradas de ataque contra cualquier criatura que aún no haya llevado a cabo su turno. Además, cualquier impacto que realice el {creature} contra una criatura sorprendida será automáticamente un crítico.</p>"
 		},
 		"Aversion of Fire": {
-			"name": "Aversion of Fire",
-			"description": "<section class=\"secret\">\n<p>If the {creature} takes <strong><em>fire damage</em></strong>, it has<strong> disadvantage </strong>on attack rolls and ability checks until the end of its next turn.</p>\n</section>\n<p>If the {creature} takes <strong><em>fire damage</em></strong>, it has<strong> disadvantage </strong>on some rolls.</p>"
+			"name": "Aversión al fuego (Aversion of Fire)",
+			"description": "<section class=\"secret\">\n<p>Si el {creature} recibe <strong><em>daño de fuego</em></strong>, tendrá <strong>desventaja</strong> en las tiradas de ataque y las pruebas de característica hasta el final de su siguiente turno.</p></section>\n<p>Si el {creature} recibe <strong><em>daño de fuego</em></strong>, tendrá <strong>desventaja</strong> en ciertas tiradas.</p>"
 		},
 		"Barbed Hide": {
-			"name": "Barbed Hide",
-			"description": "<p>At the start of each of its turns, the {creature} deals <strong>5 (1d10) <em>piercing damage</em></strong> to any creature grappling it.</p>"
+			"name": "Piel espinosa (Barbed Hide)",
+			"description": "<p>Al principio de cada uno de sus turnos, el {creature} inflige <strong>5 ( 1d10) de <em>daño perforante</em></strong> a cualquier criatura que lo esté agarrando.</p>"
 		},
 		"Beast of Burden": {
-			"name": "Beast of Burden",
-			"description": "<p>The {creature} is considered to be a Large animal for the purpose of determining its carrying capacity.</p>"
+			"name": "Bestia de carga (Beast of Burden)",
+			"description": "<p>El {creature} es considerada un animal Grande en lo que su capacidad de carga respecta.</p>"
 		},
 		"Berserk": {
-			"name": "Berserk",
-			"description": "<section class=\"secret\">\n<p>Whenever the {creature} starts its turn with <strong>60 hit points</strong> or fewer, roll a d6. On a 6, the {creature} goes berserk. On each of its turns while berserk, the {creature} attacks the nearest creature it can see.</p><p>If no creature is near enough to move to and attack, the {creature} attacks an object, with preference for an object smaller than itself. Once the {creature} goes berserk, it continues to do so until it is destroyed or regains all its<strong> hit points</strong>.</p>\n</section>\n<p>The {creature} goes berserk. On each of its turns while berserk, the {creature} attacks the nearest creature it can see. If no creature is near enough to move to and attack, the {creature} attacks an object, with preference for an object smaller than itself.</p>"
+			"name": "Berserk (Berserk)",
+			"description": "<section class=\"secret\">\n<p>Si el {creature} empieza su turno con <strong>60 puntos de golpe</strong> o menos, tira un d6. Si sacas un 6, el {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver.</p><p>Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que él. Una vez el {creature} ha entrado en estado berserk, seguirá bajo sus efectos hasta que sea destruido o recupere todos sus <strong>puntos de golpe</strong>.</p>\n</section>\n<p>El {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver. Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que el.</p>"
 		},
 		"Bite": {
 			"name": "Mordisco",
-			"description": "<section class=\"secret\">\n<p>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.</p>\n</section>\n<p>The {creature} attacks with its Bite.</p>"
+			"description": "<section class=\"secret\">\n<p>Ataque de Arma Cuerpo a Cuerpo: +11 para golpear, alcance de 10 pies, un objetivo. Impacto: 17 (2d10 + 6) de daño perforante.</p>\n</section>\n<p>El {creature} ataca con su mordisco.</p>"
 		},
 		"Blasphemous Word": {
-			"name": "Blasphemous Word",
-			"description": "<section class=\"secret\">\n<p>The {creature} utters a blasphemous word. Each non-{type} creature within 10 feet of the {creature} that can hear the magical utterance must succeed on a  <strong>DC 16 Constitution</strong> saving throw or be stunned until the end of the {creature}'s next turn.</p>\n</section>\n<p>The {creature} utters a blasphemous word. Each non-{type} creature within 10 feet of the {creature} that can hear the magical utterance must make a <strong>Constitution</strong> saving throw.</p>"
+			"name": "Palabra blasfema (Blasphemous Word)",
+			"description": "<section class=\"secret\">\n<p>El {creature} pronuncia una palabra blasfema. Todas las criaturas que no sean {type} situadas a 10 pies o menos de el {creature} y puedan oír la locución mágica deberán superar una tirada de salvación de <strong>Constitución CD 16</strong> o estarán aturdidas hasta el final del siguiente turno del {creature}.</p>\n</section>\n<p>El {creature} pronuncia una palabra blasfema. Todas las criaturas que no sean {type} situadas a 10 pies o menos de el {creature} y puedan oír la locución mágica deberán superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Blind Senses": {
-			"name": "Blind Senses",
-			"description": "<p>The {creature} can't use its blindsight while deafened and unable to smell.</p>"
+			"name": "Sentidos de ciego (Blind Senses)",
+			"description": "<p>El {creature} perderá su visión ciega si está ensordecido y no puede usar el olfato.</p>"
 		},
 		"Blinding Breath": {
-			"name": "Blinding Breath",
-			"description": "<section class=\"secret\">\n<p>The {creature} exhales a 15-foot cone of blinding dust.</p><p>Each creature in that area must succeed on a <strong>DC 10 Dexterity</strong> saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>\n</section>\n<p>The {creature} exhales a 15-foot cone of blinding dust. Each creature in that area must make a <strong>Dexterity</strong> saving throw. A creature can repeat the saving throw at the end of each of its turns.</p>"
+			"name": "Aliento cegador (Blinding Breath)",
+			"description": "<section class=\"secret\">\n<p>El {creature} exhala polvo cegador en un cono de 15 pies.</p><p>Todas las criaturas situadas en el área deberán superar una tirada de salvación de <strong>Destreza CD 10</strong> o estarán cegadas durante 1 minuto. Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>\n</section>\n<p>El {creature} exhala polvo cegador en un cono de 15 pies. Todas las criaturas situadas en el área deberán superar una tirada de salvación de <strong>Destreza</strong> o estarán cegadas durante 1 minuto. Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos.</p>"
 		},
 		"Blinding Dust": {
-			"name": "Blinding Dust",
-			"description": "<section class=\"secret\">\n<p>Blinding dust and sand swirls magically around the {creature}. Each creature within 5 feet of the {creature} must succeed on a  <strong>DC 16 Constitution</strong> saving throw or be blinded until the end of the creature's next turn.</p>\n</section>\n<p>Blinding dust and sand swirls magically around the {creature}. Each creature within 5 feet of the {creature} must make a <strong>Constitution</strong> saving throw.</p>"
+			"name": "Polvo cegador (Blinding Dust)",
+			"description": "<section class=\"secret\">\n<p>Un remolino cegador de polvo y arena se agita mágicamente alrededor del {creature}. Todas las criaturas que se encuentren a 5 pies o menos de el {creature} deberán superar una tirada de salvación de <strong>Constitución CD 16</strong> o estarán cegadas hasta el final de su siguiente turno.</p>\n</section>\n<p>Un remolino cegador de polvo y arena se agita mágicamente alrededor del {creature}. Todas las criaturas que se encuentren a 5 pies o menos de el {creature} deberán superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Blinding Gaze": {
-			"name": "Blinding Gaze",
-			"description": "<section class=\"secret\">The {creature} targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a <strong>DC 15 Constitution</strong> saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.\n</section>\n<p>The {creature} targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a Constitution saving throw or be blinded.</p>"
+			"name": "Mirada Cegadora (Blinding Gaze)",
+			"description": "<section class=\"secret\">El {creature} selecciona a un objetivo que pueda ver en un radio de 30 pies. Si el objetivo lo puede ver, el objetivo debe superar una tirada de salvación de <strong>Constitución CD 15</strong> o quedar cegado hasta que un conjuro de regeneración menor quite la ceguera.\n</section>\n<p>El {creature} selecciona a un objetivo que pueda ver en un radio de 30 pies. Si el objetivo lo puede ver, el objetivo debe superar una tirada de salvación de Constitución o quedar cegado.</p>"
 		},
 		"Blinding Spittle": {
-			"name": "Blinding Spittle",
-			"description": "<section class=\"secret\">\n<p>The {creature} spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact.</p><p>Each creature within 5 feet of the flash must succeed on a <strong>DC 13 Dexterity</strong> saving throw or be blinded until the end of the {creature}'s next turn.</p>\n</section>\n<p>The {creature} spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must make a <strong>Dexterity</strong> saving throw.</p>"
+			"name": "Baba cegadora (Blinding Spittle)",
+			"description": "<section class=\"secret\">\n<p>El {creature} escupe una masa de sustancias químicas hacia un punto que se encuentre a 15 pies menos de distancia y pueda ver. El proyectil explotará al impactar, produciendo un estallido de luz.</p><p>Todas las criaturas situadas a 5 pies o menos del punto de impacto deberán superar una tirada de salvación de <strong>Destreza CD 13</strong> o estarán cegadas hasta el final del siguiente turno del {creature}.</p>\n</section>\n<p>El {creature} escupe una masa de sustancias químicas hacia un punto que se encuentre a 15 pies menos de distancia y pueda ver. El proyectil explotará al impactar, produciendo un estallido de luz. Todas las criaturas situadas a 5 pies o menos del punto de impacto deberán superar una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Blood Frenzy": {
 			"name": "Blood Frenzy",
