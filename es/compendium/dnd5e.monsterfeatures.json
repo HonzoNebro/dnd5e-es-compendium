@@ -323,87 +323,87 @@
 		},
 		"Fey Charm": {
 			"name": "Encanto feérico (Fey Charm)",
-			"description": "<section class=\"secret\">\n<p>The {creature} targets one humanoid or beast that she can see within 30 feet of her. If the target can see the {creature}, it must succeed on a <strong>DC 14 Wisdom</strong> saving throw or be magically charmed.</p><p>The charmed creature regards the {creature} as a trusted friend to be heeded and protected. Although the target isn't under the {creature}'s control, it takes the {creature}'s requests or actions in the most favorable way it can.Each time the {creature} or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the {creature} dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the {creature}'s Fey Charm for the next 24 hours. The {creature} can have no more than one humanoid and up to three beasts charmed at a time.</p>\n</section>\n<p>The {creature} targets one humanoid or beast that she can see within 30 feet of her. If the target can see the {creature}, it must make a <strong>Wisdom</strong> saving throw. Each time the {creature} or its allies do anything harmful to the target, it can repeat the saving throw.</p>"
+			"description": "<section class=\"secret\">\n<p>El {creature} elige como objetivo a un humanoide o bestia al que pueda ver y se encuentre a 30 pies o menos de él. Si la criatura puede observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría CD 14</strong> o estará hechizada mágicamente.</p><p>El objetivo hechizado considera al {creature} un amigo de confianza, al que prestar atención y proteger. Aunque la criatura no está, estrictamente hablando, bajo el control del {creature}, se tomará las sugerencias o acciones de esta de la mejor forma posible. Cada vez que el {creature} o sus aliados hagan cualquier acto dañino hacia el objetivo, este podrá repetir la tirada de salvación, librándose del efecto si tiene éxito. De lo contrario, este dura 24 horas o hasta que el {creature} muera, se encuentre en un plano de existencia diferente al del objetivo o dé el efecto por terminado usando una acción adicional. Si el objetivo tiene éxito en la tirada de salvación, será inmune al Encanto feérico del {creature} durante las próximas 24 horas. El {creature} solo puede tener hechizados al mismo tiempo a un humanoide y hasta tres bestias.</p>\n</section>\n<p>El {creature} elige como objetivo a un humanoide o bestia al que pueda ver y se encuentre a 30 pies o menos de él. Si la criatura puede observar al {creature}, deberá realizar una tirada de salvación de <strong>Sabiduría</strong>. Cada vez que el {creature} o sus aliados hagan cualquier acto dañino hacia el objetivo, este podrá repetir la tirada de salvación.</p>"
 		},
 		"Fire Absorption": {
-			"name": "Fire Absorption",
-			"description": "<p>Whenever the {creature} is subjected to <strong><em>fire damage</em></strong>, it takes no damage and instead regains a number of<strong> hit points</strong> equal to the <strong><em>fire damage</em> dealt</strong>.</p>"
+			"name": "Absorción de Fuego (Fire Absorption)",
+			"description": "<p>Siempre que el {creature} fuera a sufrir <strong><em>daño de fuego</em></strong>, no recibirá daño de este tipo y, además, recuperará tantos <strong>puntos de golpe</strong> como el <strong><em>daño de fuego</em> que fuera a recibir</strong>.</p>"
 		},
 		"Fire Aura": {
-			"name": "Fire Aura",
-			"description": "<section class=\"secret\">\n<p>At the start of each of the {creature}'s turns, each creature within 5 feet of it takes <strong>10 (3d6) <em>fire damage</em></strong>, and flammable objects in the aura that aren't being worn or carried ignite.</p><p>A creature that touches the {creature} or hits it with a melee attack while within 5 feet of it takes <strong>10 (3d6) <em>fire damage</em></strong>.</p>\n</section>\n<p>At the start of each of the {creature}'s turns, each creature within 5 feet of it takes <em>fire damage</em>, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the {creature} or hits it with a melee attack while within 5 feet of it takes <em>fire damage</em>.</p>"
+			"name": "Aura de Fuego (Fire Aura)",
+			"description": "<section class=\"secret\">\n<p>Al principio de cada uno de los turnos del {creature}, todas las criaturas que se encuentren a 5 pies o menos de él reciben <strong>10 (3d6) de <em>daño de fuego</em></strong> y los objetos inflamables situados en el área cubierta por el aura que no lleve o vista nadie arderán.</p><p>Cualquier criatura que toque al {creature} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <strong>10 (3d6) de <em>daño de fuego</em></strong>.</p>\n</section>\n<p>Al principio de cada uno de los turnos del {creature}, todas las criaturas que se encuentren a 5 pies o menos de él reciben <em>daño de fuego</em> y los objetos inflamables situados en el área cubierta por el aura que no lleve o vista nadie arderán. Cualquier criatura que toque al {creature} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <em>daño de fuego</em>.</p>"
 		},
 		"Fire Breath": {
-			"name": "Fire Breath",
-			"description": "<section class=\"secret\">\n<p>**Fire Breath.** The {type} exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a  <strong>DC 18 Dexterity</strong> saving throw, taking <strong>45 (13d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p>\n</section>\n<p>The {type} exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a <strong>Dexterity</strong> saving throw.</p>"
+			"name": "Aliento de fuego (Fire Breath)",
+			"description": "<section class=\"secret\">\n<p>**Aliento de Fuego.** El {type} exhala fuego en una línea de 60 pies de largo y 5 de ancho. Todas las criaturas que se encuentren en el área deben hacer una tirada de salvación de <strong>Destreza CD 18</strong>, sufriendo <strong>45 (13d6) de <em>daño de fuego</em></strong> si la fallan, o la mitad de ese daño si la superan.</p>\n</section>\n<p>El {type} exhala fuego en una línea de 60 pies de largo y 5 de ancho. Todas las criaturas que se encuentren en el área deben hacer una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Fire Form": {
-			"name": "Fire Form",
-			"description": "<section class=\"secret\"><p>The {type} can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the {type} or hits it with a melee attack while within 5 ft. of it takes <strong>5 (1d10) <em>fire damage</em></strong>. </p><p>In addition, the {type} can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes <strong>5 (1d10) <em>fire damage</em></strong> and catches fire; until someone takes an action to douse the fire, the creature takes <strong>5 (1d10) <em>fire damage</em></strong> at the start of each of its turns.</p></section><p>A creature that touches the {type} or hits it with a melee attack while within 5 ft. of it takes <em>fire damage</em>. In addition, the {type} can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes <em>fire damage</em> and catches fire; until someone takes an action to douse the fire, the creature takes <em>fire damage</em> at the start of each of its turns.</p>"
+			"name": "Forma de Fuego (Fire Form)",
+			"description": "<section class=\"secret\"><p>El {type} puede moverse a través de espacios de tan solo 1 pulgada de ancho sin apretarse. Cualquier criatura que toque al {type} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <strong>5 (1d10) de <em>daño de fuego</em></strong>.</p><p>Además, el {type} podrá entrar en el espacio de una criatura hostil y detenerse en él. La primera vez en un turno que se interne en el espacio de otra criatura, esta última recibirá <strong>5 (1d10) de <em>daño de fuego</em></strong> y se prenderá fuego. Si ocurre esto, la criatura recibirá <strong>5 (1d10) de <em>daño de fuego</em></strong> al principio de cada uno de sus turnos hasta que alguien utilice una acción para extinguir las llamas.</p></section><p>Cualquier criatura que toque al {type} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <em>daño de fuego</em>. Además, el {type} podrá entrar en el espacio de una criatura hostil y detenerse en él. La primera vez en un turno que se interne en el espacio de otra criatura, esta última recibirá <em>daño de fuego</em> y se prenderá fuego. Si ocurre esto, la criatura recibirá <em>daño de fuego</em> al principio de cada uno de sus turnos.</p>"
 		},
 		"First Roar": {
-			"name": "First Roar",
-			"description": "<p>Each creature that fails a  <strong>DC 18 Wisdom</strong> saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>"
+			"name": "Primer rugido (First Roar)",
+			"description": "<p>Las criaturas que fallen una tirada de salvación de <strong>Sabiduría CD 18</strong> estarán asustadas durante 1 minuto. Un objetivo asustado puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>"
 		},
 		"Fling": {
-			"name": "Fling",
-			"description": "<section class=\"secret\"><p>One Large or smaller object held or creature grappled by the {creature} is thrown up to 60 feet in a random direction and knocked prone. </p><p>If a thrown target strikes a solid surface, the target takes <strong>3 (1d6) <em>bludgeoning damage</em></strong> for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a  <strong>DC 18 Dexterity</strong> saving throw or take the same damage and be knocked prone.</p></section><p>One Large or smaller object held or creature grappled by the {creature} is thrown up to 60 feet in a random direction and knocked prone. If the target is thrown at another creature, that creature must make a <strong>Dexterity</strong> saving throw or take the same damage and be knocked prone.</p>"
+			"name": "Lanzar (Fling)",
+			"description": "<section class=\"secret\"><p>Un objeto Grande o más pequeño que el {creature} sujete, o una criatura que este tenga agarrada, es lanzado hasta 60 pies en una dirección determinada aleatoriamente, quedando también derribada si es una criatura.</p><p>Si el objetivo arrojado se golpea contra una superficie sólida, recibirá <strong>3 (1d6) de <em>daño contundente</em></strong> por cada 10 pies que haya recorrido. Si el objetivo es lanzando contra otra criatura, esta deberá superar una tirada de salvación de <strong>Destreza CD 18</strong> o también sufrirá el mismo daño y será derribada.</p></section><p>Un objeto Grande o más pequeño que el {creature} sujete, o una criatura que este tenga agarrada, es lanzado hasta 60 pies en una dirección determinada aleatoriamente, quedando también derribada. Si el objetivo es lanzando contra otra criatura, esta deberá superar una tirada de salvación de <strong>Destreza</strong> o también sufrirá el mismo daño y será derribada.</p>"
 		},
 		"Flyby": {
-			"name": "Flyby",
-			"description": "<p>The {creature} doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>"
+			"name": "Pasar volando (Flyby)",
+			"description": "<p>El {creature} no provoca ataques de oportunidad cuando vuela para moverse fuera del alcance de un enemigo.</p>"
 		},
 		"Flying Sword": {
-			"name": "Flying Sword",
-			"description": "<section class=\"secret\"><p>The {creature} releases its greatsword to hover magically in an unoccupied space within <strong>5 ft.</strong> of it. If the {creature} can see the sword, the {creature} can mentally command it as a bonus action to fly up to <strong>50 ft.</strong> and either make one attack against a target or return to the {creature}'s hands.</p><p>If the hovering sword is targeted by any effect, the {creature} is considered to be holding it. The hovering sword falls if the {creature} dies.</p></section><p>The {creature} releases its greatsword to hover magically in an unoccupied space within <strong>5 ft.</strong> of it. If the hovering sword is targeted by any effect, the {creature} is considered to be holding it. </p>"
+			"name": "Espada voladora (Flying Sword)",
+			"description": "<section class=\"secret\"><p>El {creature} suelta su espadón para que levite mágicamente en un espacio desocupado a <strong>5 pies</strong> o menos de él. Si el {creature} es capaz de ver la espada, puede usar una acción adicional para darle una orden mental, haciendo que vuele hasta <strong>50 pies</strong> y realice un ataque contra un objetivo o vuelva a las manos del {creature}.</p><p>Si la espada flotante es objetivo de algún tipo de efecto, se considerará que el {creature} la está empuñando. La espada cae al suelo inerte si el {creature} muere.</p></section><p>El {creature} suelta su espadón para que levite mágicamente en un espacio desocupado a <strong>5 pies</strong> o menos de él. Si la espada flotante es objetivo de algún tipo de efecto, se considerará que el {creature} la está empuñando.</p>"
 		},
 		"Freedom of Movement": {
 			"name": "Libertad de movimiento (Freedom of Movement)",
-			"description": "<section class=\"secret\"><p>The {creature} ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.</p></section><p>The {creature} ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. </p>"
+			"description": "<section class=\"secret\"><p>El {creature} ignora el terreno difícil, y los efectos mágicos no pueden reducir su velocidad o hacer que sea apresado. Además, puede utilizar 5 pies de su movimiento para escapar de cualquier atadura no mágica o de un agarre.</p></section><p>El {creature} ignora el terreno difícil, y los efectos mágicos no pueden reducir su velocidad o hacer que sea apresado.</p>"
 		},
 		"Freeze": {
-			"name": "Freeze",
-			"description": "<section class=\"secret\"><p>If the {type} takes <strong><em>cold damage</em></strong>, it partially freezes; its speed is reduced by <strong>20 ft.</strong> until the end of its next turn.</p></section><p>If the {type} takes <strong><em>cold damage</em></strong>, it partially freezes.</p>"
+			"name": "Congelarse (Freeze)",
+			"description": "<section class=\"secret\"><p>Si el {type} recibe <strong><em>daño de frío</em></strong>, quedará parcialmente congelado y su velocidad se reducirá en <strong>20 pies</strong> hasta el final de su siguiente turno.</p></section><p>Si el {type} recibe <strong><em>daño de frío</em></strong>, quedará parcialmente congelado.</p>"
 		},
 		"Frightening Gaze": {
-			"name": "Frightening Gaze",
-			"description": "<section class=\"secret\">\n<p>The {creature} fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a  <strong>DC 18 Wisdom</strong> saving throw against this magic or become grappled for 1 minute. The grappled target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the {creature}'s gaze for the next 24 hours.</p>\n</section>\n<p>The {creature} fixes its gaze on one creature it can see within 10 feet of it. The target must make a <strong>Wisdom</strong> saving throw.</p>"
+			"name": "Mirada aterradora (Frightening Gaze)",
+			"description": "<section class=\"secret\">\n<p>El {creature} fija su mirada en una criatura situada a 10 pies o menos y pueda ver. El objetivo deberá superar una tirada de salvación de <strong>Sabiduría CD 18</strong> contra este efecto mágico o estará asustado durante 1 minuto. La criatura asustada puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito. Si un objetivo supera la tirada de salvación o el efecto termina, será inmune la mirada del {creature} durante las próximas 24 horas.</p>\n</section>\n<p>El {creature} fija su mirada en una criatura situada a 10 pies o menos y pueda ver. El objetivo deberá realizar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Frightful Presence": {
-			"name": "Frightful Presence",
-			"description": "<section class=\"secret\"><p>Each creature of the {type}'s choice that is <strong>within 120 feet</strong> of the {type} and aware of it must succeed on a <strong>DC 16 Wisdom saving throw</strong> or become frightened for <strong>1 minute</strong>. </p><p>A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the {type}'s Frightful Presence for the next 24 hours.</p></section><p>Each creature of the {type}'s choice that is <strong>within 120 feet</strong> of the {type} and aware of it must succeed on a Wisdom saving throw. A creature can repeat the saving throw at the end of each of its turns.</p>"
+			"name": "Presencia aterradora (Frightful Presence)",
+			"description": "<section class=\"secret\"><p>Todas las criaturas que el {type} elija, que se encuentren a <strong>120 pies o menos</strong> de él y sean conscientes de su presencia, deberán superar una tirada de salvación de <strong>Sabiduría CD 16</strong> estarán asustadas durante <strong>1 minuto</strong>.</p><p>Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito. Si una criatura supera la tirada de salvación o el efecto termina, será inmune a la presencia aterradora del {type} durante las próximas 24 horas.</p></section><p>Todas las criaturas que el {type} elija, que se encuentren a <strong>120 pies o menos</strong> de él y sean conscientes de su presencia, deberán superar una tirada de salvación de <strong>Sabiduría</strong>. Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos.</p>"
 		},
 		"Frost Breath": {
-			"name": "Frost Breath",
-			"description": "<section class=\"secret\">\n<p>The {creature} exhales a 15-foot cone of cold air. Each creature in that area must succeed on a <strong>DC 10 Dexterity</strong> saving throw, taking <strong>5 (2d4) <em>cold damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p></p>\n</section>\n<p>The {creature} exhales a 15-foot cone of cold air. Each creature in that area must make a <strong>Dexterity</strong> saving throw.</p>"
+			"name": "Aliento de escarcha (Frost Breath)",
+			"description": "<section class=\"secret\">\n<p>El {creature} exhala aire helado en un cono de 15 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Destreza CD 10</strong>, sufriendo <strong>5 (2d4) de <em>daño de frío</em></strong> si la fallan, o la mitad de ese daño si la superan.</p>\n</section>\n<p>El {creature} exhala aire helado en un cono de 15 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Gibbering": {
-			"name": "Gibbering",
-			"description": "<section class=\"secret\">\n<p>The {creature} babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn <strong>within 20 feet</strong> of the mouther and can hear the gibbering must succeed on a <strong>DC 10 Wisdom saving throw</strong>. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn.</p><p>On a 1 to 4, the {creature} does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.</p>\n</section>\n<p>The {creature} babbles incoherently while it can see any creature. Each creature that starts its turn <strong>within 20 feet</strong> of the {creature} and can hear the gibbering must succeed on a Wisdom saving throw.</p>"
+			"name": "Barbotar (Gibbering)",
+			"description": "<section class=\"secret\">\n<p>El {creature} no cesará de balbucear incoherencias mientras pueda ver a alguna criatura y no esté incapacitado. Cualquier criatura que empiece su turno situada a <strong>20 pies o menos</strong> del {creature} y pueda oírlo deberá superar una <strong>tirada de salvación de Sabiduría CD 10</strong>. Si la falla, no podrá llevar a cabo reacciones hasta el principio de su siguiente turno y tirará un d8 para determinar lo que hace durante este turno.</p><p>De 1 a 4, la criatura no hará nada. Con 5 o 6, el objetivo no realizará acción o acción adicional alguna y utilizará todo su movimiento para desplazarse en una dirección determinada aleatoriamente. Con 7 u 8, la criatura llevará a cabo un ataque cuerpo a cuerpo contra una criatura dentro de su alcance determinada al azar, o no hará nada si no puede ejecutar este ataque.</p>\n</section>\n<p>El {creature} no cesará de balbucear incoherencias mientras pueda ver a alguna criatura. Cualquier criatura que empiece su turno situada a <strong>20 pies o menos</strong> del {creature} y pueda oírlo deberá superar una <strong>tirada de salvación de Sabiduría</strong>.</p>"
 		},
 		"Gnome Cunning": {
-			"name": "Gnome Cunning",
-			"description": "<p>The {creature} has<strong> advantage </strong>on Intelligence, Wisdom, and Charisma saving throws against magic.</p>"
+			"name": "Astucia gnoma (Gnome Cunning)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de salvación de Inteligencia, Sabiduría y Carisma contra magia.</p>"
 		},
 		"Grappler": {
-			"name": "Grappler",
-			"description": "<p>The {creature} has<strong> advantage </strong>on attack rolls against any creature grappled by it.</p>"
+			"name": "Apresador (Grappler)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de ataque contra cualquier criatura a la que tenga agarrada.</p>"
 		},
 		"Grasping Tendrils": {
-			"name": "Grasping Tendrils",
-			"description": "<section class=\"secret\"><p>The {creature} can have up to six tendrils at a time. Each tendril can be attacked (AC 20; <strong>10 hit points</strong>; immunity to poison and <em>psychic damage</em>). </p><p>Destroying a tendril deals no damage to the {creature}, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a <strong>DC 15 Strength check</strong> against it.</p></section><p>The {creature} can have up to six tendrils at a time. Each tendril can be attacked. A tendril can also be broken if a creature takes an action and succeeds on a Strength check against it.</p>"
+			"name": "Zarcillos prensiles (Grasping Tendrils)",
+			"description": "<section class=\"secret\"><p>El {creature} puede tener hasta seis zarcillos al mismo tiempo. Pueden ser atacados, y cada uno de ellos tiene CD 20, <strong>10 puntos de golpe</strong> e inmunidad a <em>daño psíquico</em> y de <em>veneno</em>.</p><p>Destruir un zarcillo no causa daño alguno al {creature}, que puede crear otro que lo reemplace durante su siguiente turno. Una criatura puede romper un zarcillo si utiliza para ello una acción y tiene éxito en una prueba de <strong>Fuerza CD 15</strong>.</p></section><p>El {creature} puede tener hasta seis zarcillos al mismo tiempo. Pueden ser atacados y se pueden romper si utiliza para ello una acción y tiene éxito en una prueba de <strong>Fuerza</strong>.</p>"
 		},
 		"Haste": {
 			"name": "Acelerar (Haste)",
-			"description": "<section class=\"secret\">\n<p>Recharge 5-6.</p>\n</section>\n<p>Until the end of its next turn, the {creature} magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use an attack as a bonus action.</p>"
+			"description": "<section class=\"secret\">\n<p>Recarga 5-6.</p>\n</section>\n<p>Hasta el final de su siguiente turno, el {creature} obtiene mágicamente un bonificador de +2 a su CA, ventaja en tiradas de salvación de Destreza y la capacidad para realizar un ataque utilizando una acción adicional.</p>"
 		},
 		"Heal Self": {
-			"name": "Heal Self",
-			"description": "<p>The {creature} magically regains 11 (2d8+2) hit points.</p>"
+			"name": "Curarse a sí mismo (Heal Self)",
+			"description": "<p>El {creature} recupera mágicamente 11 (2d8+2) puntos de golpe.</p>"
 		},
 		"Healing Touch": {
-			"name": "Healing Touch",
-			"description": "<p>The {creature} touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>"
+			"name": "Toque sanador (Healing Touch)",
+			"description": "<p>El {creature} toca a otra criatura. El objetivo recupera mágicamente 11 (2d8+2) puntos de golpe. Además, su contacto también elimina todas las enfermedades y neutraliza todos los venenos que afectaran al objetivo.</p>"
 		},
 		"Heart Sight": {
 			"name": "Visión del corazón (Heart Sight)",
@@ -511,26 +511,26 @@
 		},
 		"Leadership": {
 			"name": "Liderazgo (Leadership)",
-			"description": "<p>For 1 minute, the {creature} can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the {creature}. A creature can benefit from only one Leadership die at a time. This effect ends if the {creature} is incapacitated.</p>"
+			"description": "<p>Durante 1 minuto, el {creature} puede pronunciar una orden o advertencia especial cada vez que una criatura no hostil que pueda ver y que se encuentre a 30 pies o menos de distancia de él haga una tirada de ataque o de salvación. Si puede oír y entiende el idioma del {creature}, la criatura podrá añadir un d4 a su tirada, pero solo podrá beneficiarse de un dado de liderazgo al mismo tiempo. Este efecto termina si el {creature} resulta incapacitado.</p>"
 		},
 		"Legendary Actions": {
-			"name": "Legendary Actions",
-			"description": "<section class=\"secret\">\n<p>The {creature} can take 3 legendary actions. Only one legendary action option can be used at a time and only at the end of another creature's turn. The {creature} regains spent legendary actions at the start of its turn.</p>\n</section>\n<p>The {creature} can take 3 legendary actions.</p>"
+			"name": "Acciones Legendarias (Legendary Actions)",
+			"description": "<section class=\"secret\">\n<p>El {creature} puede llevar a cabo 3 acciones legendarias, a elegir de entre las opciones presentadas a continuación. Solo es capaz de utilizar una acción legendaria a la vez, y debe hacerlo al final del turno de otra criatura. El {creature} recupera las acciones legendarias gastadas al comienzo de su turno.</p>\n</section>\n<p>El {creature} puede llevar a cabo 3 acciones legendarias.</p>"
 		},
 		"Legendary Resistance": {
-			"name": "Legendary Resistance",
-			"description": "<p>If the {type} fails a saving throw, it can choose to succeed instead.</p>"
+			"name": "Resistencia Legendaria (Legendary Resistance)",
+			"description": "<p>El {type} puede elegir tener éxito en una tirada de salvación que haya fallado.</p>"
 		},
 		"Light Sensitivity": {
 			"name": "Sensibilidad a la luz (Light Sensitivity)",
-			"description": "<p>While in bright light, the {creature} has<strong> disadvantage </strong>on attack rolls and Wisdom (Perception) checks that rely on sight.</p>"
+			"description": "<p>El {creature} tiene <strong>desventaja</strong> en las tiradas de ataque y las pruebas de Sabiduría (Percepción) que dependan de la vista hechas bajo luz brillante o la luz solar.</p>"
 		},
 		"Lightning Absorption": {
-			"name": "Lightning Absorption",
-			"description": "<p>Whenever the {creature} is subjected to <strong><em>lightning damage</em></strong>, it takes no damage and instead regains a number of<strong> hit points</strong> equal to the <strong><em>lightning damage</em> dealt</strong>.</p>"
+			"name": "Absorción de Relámpago (Lightning Absorption)",
+			"description": "<p>Siempre que el {creature} fuera a sufrir <strong><em>daño de relámpago</em></strong>, no recibirá daño de este tipo y, además, recuperará tantos <strong>puntos de golpe</strong> como el <strong><em>daño de relámpago</em> que fuera a recibir</strong>.</p>"
 		},
 		"Lightning Breath": {
-			"name": "Lightning Breath",
+			"name": "Aliento de relámpago (Lightning Breath)",
 			"description": "<section class=\"secret\"><p>The {type} exhales lightning in a 90-foot line that is 5 ft. wide. Each creature in that line must make a  <strong>DC 19 Dexterity</strong> saving throw, taking <strong>66 (12d10) <em>lightning damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p></p></section><p>The {type} exhales lightning in a 90-foot line that is 5 ft. wide. Each creature in that line must make a <strong>Dexterity</strong> saving throw.</p>"
 		},
 		"Lightning Storm": {
