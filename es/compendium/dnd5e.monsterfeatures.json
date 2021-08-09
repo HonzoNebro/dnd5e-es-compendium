@@ -299,30 +299,30 @@
 		},
 		"Evasion": {
 			"name": "Evasión (Evasion)",
-			"description": "<p>If the {creature} is subjected to an effect that allows it to make a <strong>Dexterity</strong> saving throw to take only half damage, the {creature} instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p>"
+			"description": "<p>Si el {creature} es víctima de un efecto que le permita hacer una tirada de salvación de <strong>Destreza</strong> para recibir solo la mitad del daño, no recibirá daño alguno si tiene éxito en la tirada de salvación y solo la mitad si falla.</p>"
 		},
 		"False Appearance": {
-			"name": "False Appearance",
-			"description": "<p>While the {creature} remains motionless, it is indistinguishable from a normal suit of armor.</p>"
+			"name": "Apariencia falsa (False Appearance)",
+			"description": "<p>Mientras permanezca estático, el {creature} es indistinguible de un conjunto de armadura normal y corriente.</p>"
 		},
 		"Faultless Tracker": {
-			"name": "Faultless Tracker",
-			"description": "<section class=\"secret\">\n<p>The {creature} is given a quarry by its summoner. The {creature} knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The {creature} also knows the location of its summoner.</p>\n</section>\n<p>The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence.</p>"
+			"name": "Rastreador sin tacha (Faultless Tracker)",
+			"description": "<section class=\"secret\">\n<p>Cuando el invocador del {creature} asigna a este una presa, el {creature} conocerá en todo momento la dirección y distancia hacia la que se encuentra su objetivo, siempre y cuando ambos estén en el mismo plano de existencia. Además, el {creature} también sabe la ubicación de su invocador.</p>\n</section>\n<p>El {creature} conocerá en todo momento la dirección y distancia hacia la que se encuentra su objetivo, siempre y cuando ambos estén en el mismo plano de existencia.</p>"
 		},
 		"Fear Aura": {
 			"name": "Aura Terrorífica (Fear Aura)",
-			"description": "<section class=\"secret\"><p>Any creature hostile to the {creature} that starts its turn <strong>within 20 feet</strong> of the {creature} must make a <strong>DC 21 Wisdom saving throw</strong>, unless the {creature} is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the {creature}'s Fear Aura for the next 24 hours.</p></section><p>Any creature hostile to the {creature} that starts its turn <strong>within 20 feet</strong> of the {creature} must make a <strong>Wisdom</strong> saving throw.</p>"
+			"description": "<section class=\"secret\"><p>Si el {creature} no está incapacitado, todas las criaturas que le sean hostiles y empiecen su turno situadas a <strong>20 pies</strong> o menos de él deberán hacer una tirada de salvación de <strong>Sabiduría CD 21</strong>. Si fallan, estarán asustadas hasta el principio de su siguiente turno. Si una criatura tiene éxito en la tirada de salvación, será inmune al Aura de Miedo del {creature} durante las próximas 24 horas.</p></section><p>Todas las criaturas que le sean hostiles y empiecen su turno situadas a <strong>20 pies</strong> o menos del {creature} deberán hacer una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Fetid Cloud": {
-			"name": "Fetid Cloud",
-			"description": "<section class=\"secret\">\n<p>A 10-foot radius of disgusting green gas extends out from the {creature}. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it.</p><p>Any creature that starts its turn in that area must succeed on a  <strong>DC 11 Constitution</strong> saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions. 1 use per day.</p>\n</section>\n<p>A 10-foot radius of disgusting green gas extends out from the {creature}. The gas spreads around corners, and its area is lightly obscured. Any creature that starts its turn in that area must make a <strong>Constitution</strong> saving throw.</p>"
+			"name": "Nube fétida (Fetid Cloud)",
+			"description": "<section class=\"secret\">\n<p>Un gas desagradable de color verde se expande en un radio de 10 pies alrededor del {creature}. Se extiende más allá de las esquinas y el área se considera ligeramente oscura. Se mantiene durante 1 minuto o hasta que un viento fuerte la disperse.</p><p>Cualquier criatura que empiece su turno en la zona deberá superar una tirada de salvación de <strong>Constitución CD 11</strong> o estará envenenada hasta el principio de su siguiente turno. Además, mientras esté envenenada de esta forma, no podrá llevar a cabo reacciones y tendrá que elegir si quiere realizar una acción o una acción adicional en su turno, solo una de las dos.</p>\n</section>\n<p>Un gas desagradable de color verde se expande en un radio de 10 pies alrededor del {creature}. Se extiende más allá de las esquinas y el área se considera ligeramente oscura. Cualquier criatura que empiece su turno en la zona deberá superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Fey Ancestry": {
-			"name": "Fey Ancestry",
-			"description": "<p>The {creature} has<strong> advantage </strong>on saving throws against being charmed, and magic can't put the {creature} to sleep.</p>"
+			"name": "Linaje feérico (Fey Ancestry)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de salvación para evitar ser hechizado y la magia no puede dormirlo.</p>"
 		},
 		"Fey Charm": {
-			"name": "Fey Charm",
+			"name": "Encanto feérico (Fey Charm)",
 			"description": "<section class=\"secret\">\n<p>The {creature} targets one humanoid or beast that she can see within 30 feet of her. If the target can see the {creature}, it must succeed on a <strong>DC 14 Wisdom</strong> saving throw or be magically charmed.</p><p>The charmed creature regards the {creature} as a trusted friend to be heeded and protected. Although the target isn't under the {creature}'s control, it takes the {creature}'s requests or actions in the most favorable way it can.Each time the {creature} or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the {creature} dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the {creature}'s Fey Charm for the next 24 hours. The {creature} can have no more than one humanoid and up to three beasts charmed at a time.</p>\n</section>\n<p>The {creature} targets one humanoid or beast that she can see within 30 feet of her. If the target can see the {creature}, it must make a <strong>Wisdom</strong> saving throw. Each time the {creature} or its allies do anything harmful to the target, it can repeat the saving throw.</p>"
 		},
 		"Fire Absorption": {
