@@ -686,27 +686,27 @@
 			"description": "<section class=\"secret\"><p>Cada vez que el {creature} sea el objetivo de un proyectil mágico o de un conjuro cuya área sea una línea o que requiera una tirada de ataque, tira un d6. Con un resultado de 1 a 5, el {creature} no será afectado.</p><p>Con un 6, el {creature} tampoco será afectada, pero, además, el conjuro será reflejado contra su lanzador, como si tuviera su origen en el {creature}, convirtiendo al lanzador en objetivo.</p></section><p>No será afectada, pero, además, el conjuro será reflejado contra su lanzador, como si tuviera su origen en el {creature}, convirtiendo al lanzador en objetivo.</p>"
 		},
 		"Regeneration": {
-			"name": "Regeneration",
-			"description": "<section class=\"secret\"><p>The {creature} regains <strong>10 hit points</strong> at the start of its turn if it has at least <strong>1 hit point</strong>.</p></section><p>The {creature} regains <strong>10 hit points</strong> at the start of its turn.</p>"
+			"name": "Regeneración (Regeneration)",
+			"description": "<section class=\"secret\"><p>El {creature} recupera <strong>10 puntos del golpe</strong> al principio de su turno si le queda al menos <strong>1 punto de golpe</strong>.</p></section><p>El {creature} recupera <strong>10 puntos del golpe</strong> al principio de su turno.</p>"
 		},
 		"Regional Effects": {
-			"name": "Regional Effects",
-			"description": "<p>The mere presence of a legendary creature can have strange and wondrous effects on its environment. Regional effects end abruptly or dissipate over time when the legendary creature dies.</p>"
+			"name": "Efectos regionales (Regional Effects)",
+			"description": "<p>La mera presencia de una criatura legendaria puede tener efectos extraños y misteriosos en el entorno. Los efectos regionales acabarán de forma súbita o se disiparán pasado un tiempo cuando la criatura legendaria que los causa muera.</p>"
 		},
 		"Rejuvenation": {
-			"name": "Rejuvenation",
-			"description": "<section class=\"secret\">\n<p>If it dies, the {creature} returns to life in 1d6 days and regains all its<strong> hit points</strong>.</p><p>Only a wish spell can prevent this trait from functioning.</p>\n</section>\n<p>If it dies, the {creature} returns to life in 1d6 days and regains all its<strong> hit points</strong>.</p>"
+			"name": "Rejuvenecimiento (Rejuvenation)",
+			"description": "<section class=\"secret\">\n<p>Si muere, el {creature} volverá a la vida en 1d6 días y recuperará todos sus <strong>puntos de golpe</strong>.</p><p>Solo un conjuro de deseo puede evitar que este atributo tenga efecto.</p>\n</section>\n<p>Si muere, el {creature} volverá a la vida en 1d6 días y recuperará todos sus <strong>puntos de golpe</strong>.</p>"
 		},
 		"Relentless": {
-			"name": "Relentless",
-			"description": "<section class=\"secret\">\n<p>If the {creature} takes <strong>7 damage</strong> or less that would reduce it to <strong>0 hit points</strong>, it is reduced to <strong>1 hit point</strong> instead. Recharges on a short or long rest.</p>\n</section>\n<p>If the {creature} takes damage that would reduce it to <strong>0 hit points</strong>, it is reduced to <strong>1 hit point</strong> instead.</p>"
+			"name": "Incansable (Relentless)",
+			"description": "<section class=\"secret\">\n<p>Si el {creature} recibe <strong>7 de daño</strong> o menos, y esta pérdida haría que sus puntos de golpe bajaran a <strong>0</strong>, en lugar de eso pasará a tener <strong>1 punto de golpe</strong>. Se recarga tras un descanso corto o largo.</p>\n</section>\n<p>Si el {creature} recibe daño y esta pérdida haría que sus puntos de golpe bajaran a <strong>0</strong>, en lugar de eso pasará a tener <strong>1 punto de golpe</strong>.</p>"
 		},
 		"Repulsion Breath": {
-			"name": "Repulsion Breath",
-			"description": "<section class=\"secret\">\n<p>**Repulsion Breath.** The {type} exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a  <strong>DC 19 Strength</strong> saving throw. On a failed save, the creature is pushed 60 feet away from the {type}.</p>\n</section>\n<p>The {type} exhales repulsion energy in a 30-foot cone. Each creature in that area must make a <strong>Strength</strong> saving throw.</p>"
+			"name": "Aliento repulsor (Repulsion Breath)",
+			"description": "<section class=\"secret\">\n<p>**Aliento repulsor.** El {type} exhala energía repulsora en un cono de 30 pies. Cada criatura en el área deberá hacer una tirada de salvación de <strong>Fuerza CD 19</strong>. Si falla, será empujada 60 pies en dirección contraria al {type}.</p>\n</section>\n<p>El {type} exhala energía repulsora en un cono de 30 pies. Cada criatura en el área deberá hacer una tirada de salvación de <strong>Fuerza</strong>.</p>"
 		},
 		"Roar": {
-			"name": "Roar",
+			"name": "Rugir (Roar)",
 			"description": "<section class=\"secret\">\n<p>The {creature} emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the {creature} and able to hear the roar must make a saving throw.</p><p>**First Roar.** Each creature that fails a <strong>DC 18 Wisdom</strong> saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p><p>**Second Roar.** Each creature that fails a <strong>DC 18 Wisdom</strong> saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p><p>**Third Roar.** Each creature makes a <strong>DC 18 Constitution</strong> saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.</p>\n</section>\n<p>The {creature} emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different. Each creature within 500 feet of the {creature} and able to hear the roar must make a saving throw.</p>"
 		},
 		"Rock Catching": {
@@ -807,98 +807,98 @@
 		},
 		"Spores": {
 			"name": "Esporas (Spores)",
-			"description": "<section class=\"secret\"><p>A 15-foot-radius cloud of toxic spores extends out from the {creature}. The spores spread around corners. Each creature in that area must succeed on a  <strong>DC 14 Constitution</strong> saving throw or become poisoned. </p><p>While poisoned in this way, a target takes <strong>5 (1d10) <em>poison damage</em></strong> at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.</p></section><p>A 15-foot-radius cloud of toxic spores extends out from the {creature}. The spores spread around corners. Each creature in that area must make a <strong>Constitution</strong> saving throw. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>"
+			"description": "<section class=\"secret\"><p>Una nube de esporas tóxicas de 15 pies de radio se expande desde el {creature}. Las esporas se extienden más allá de las esquinas. Todas las criaturas situadas en el área deberán superar una tirada de salvación de <strong>Constitución CD 14</strong> o estarán envenenadas.</p><p>Mientras esté envenenado de esta forma, el objetivo sufre <strong>5 (1d10) de <em>daño de veneno</em></strong> al principio de cada uno de sus turnos. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito. Verter un vial de agua bendita sobre el objetivo también termina el efecto.</p></section><p>Una nube de esporas tóxicas de 15 pies de radio se expande desde el {creature}. Las esporas se extienden más allá de las esquinas. Todas las criaturas situadas en el área deberán superar una tirada de salvación de <strong>Constitución</strong>. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>"
 		},
 		"Standing Leap": {
-			"name": "Standing Leap",
-			"description": "<p>The {creature}'s long jump is up to <strong>30 ft.</strong> and its high jump is up to <strong>15 ft.</strong>, with or without a running start.</p>"
+			"name": "Saltar sin Carrera (Standing Leap)",
+			"description": "<p>El {creature} puede hacer un salto de longitud de <strong>30 pies</strong> o un salto de altura de <strong>15 pies</strong>, tanto si ha cogido carrerilla como si no.</p>"
 		},
 		"Steadfast": {
-			"name": "Steadfast",
-			"description": "<p>The {creature} can't be frightened while it can see an allied creature <strong>within 30 feet</strong> of it.</p>"
+			"name": "Resuelto (Steadfast)",
+			"description": "<p>El {creature} no podrá ser asustada mientras sea capaz de ver a una criatura aliada a <strong>30 pies o menos</strong> de él.</p>"
 		},
 		"Steam Breath": {
-			"name": "Steam Breath",
-			"description": "<section class=\"secret\"><p>The {creature} exhales scalding steam in a 60-foot cone. Each creature in that area must make a  <strong>DC 18 Constitution</strong> saving throw, taking <strong>52 (15d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>Being underwater doesn't grant resistance against this damage.</p></section><p>The {creature} exhales scalding steam in a 60-foot cone. Each creature in that area must make a <strong>Constitution</strong> saving throw.</p>"
+			"name": "Aliento de vapor (Steam Breath)",
+			"description": "<section class=\"secret\"><p>El {creature} exhala vapor hirviendo en un cono de 60 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Destreza CD 18</strong>, sufriendo <strong>52 (15d6) de <em>daño de fuego</em></strong> si la fallan, ola mitad de ese daño si la superan.</p><p>Estar bajo el agua no proporciona resistencia contra este daño.</p></section><p>El {creature} exhala vapor hirviendo en un cono de 60 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Stench": {
-			"name": "Stench",
-			"description": "<section class=\"secret\"><p>Any creature that starts its turn within <strong>5 ft.</strong> of the {creature} must succeed on a <strong>DC 10 Constitution saving throw</strong> or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the {creature}'s Stench for 24 hours.</p></section><p>Any creature that starts its turn within <strong>5 ft.</strong> of the {creature} must succeed on a Constitution saving throw.</p>"
+			"name": "Hedor (Stench)",
+			"description": "<section class=\"secret\"><p>Cualquier criatura que empiece su turno situada a <strong>5 pies</strong> o menos del {creature} deberá superar una <strong>tirada de salvación de Constitución CD 10</strong> o estará envenenada hasta el principio de su siguiente turno. Si el objetivo tiene éxito en la tirada de salvación, será inmune al hedor del {creature} durante las próximas 24 horas.</p></section><p>Cualquier criatura que empiece su turno situada a <strong>5 pies</strong> o menos del {creature} deberá superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Stone Camouflage": {
-			"name": "Stone Camouflage",
-			"description": "<p>The {creature} has<strong> advantage </strong>on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+			"name": "Camuflarse en la Piedra (Stone Camouflage)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las pruebas de Destreza (Sigilo) para esconderse en terrenos rocosos.</p>"
 		},
 		"Stone Golem - Slow": {
-			"name": "Stone Golem - Slow",
-			"description": "<section class=\"secret\">\n<p>The {creature} targets one or more creatures it can see within 10 ft. of it. Each target must make a <strong>DC 17 Wisdom</strong> saving throw against this magic.</p><p>On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>\n</section>\n<p>The {creature} targets one or more creatures it can see within 10 ft. of it. Each target must make a <strong>Wisdom</strong> saving throw against this magic. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>"
+			"name": "Gólem de piedra - Ralentizar (Stone Golem - Slow)",
+			"description": "<section class=\"secret\">\n<p>El {creature} elige a cualquier número de criaturas que se encuentren a 10 pies o menos y pueda ver. Cada objetivo deberá hacer una tirada de salvación de <strong>Sabiduría CD 17</strong> contra este efecto mágico.</p><p>Si la falla, no podrá llevar a cabo reacciones, su velocidad se dividirá por dos y no podrá realizar más de un ataque en su turno. Además, podrá usar una acción o una acción adicional durante su turno, pero no ambas. Este efecto dura 1 minuto. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>\n</section>\n<p>El {creature} elige a cualquier número de criaturas que se encuentren a 10 pies o menos y pueda ver. Cada objetivo deberá hacer una tirada de salvación de <strong>Sabiduría</strong> contra este efecto mágico. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>"
 		},
 		"Stunning Screech": {
-			"name": "Stunning Screech",
-			"description": "<section class=\"secret\">\n<p>The {creature} emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a {type} must succeed on a <strong>DC 14 Constitution</strong> saving throw or be stunned until the end of the {creature}'s next turn .</p>\n</section>\n<p>The {creature} emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a {type} must make a <strong>Constitution</strong> saving throw.</p>"
+			"name": "Chillido aturdidor (Stunning Screech)",
+			"description": "<section class=\"secret\">\n<p>El {creature} emite un chillido horrible. Todas las criaturas que se encuentren a 20 pies o menos que puedan oírlo y no sean {type} deberán superar una tirada de salvación de <strong>Constitución CD 14</strong> o estarán aturdidas hasta el final del próximo turno del {creature}.</p>\n</section>\n<p>El {creature} emite un chillido horrible. Todas las criaturas que se encuentren a 20 pies o menos que puedan oírlo y no sean {type} deberán superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Sunlight Sensitivity": {
-			"name": "Sunlight Sensitivity",
-			"description": "<p>While in sunlight, the {creature} has<strong> disadvantage </strong>on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+			"name": "Sensibilidad a la Luz Solar (Sunlight Sensitivity)",
+			"description": "<p>El {creature} tiene <strong>desventaja</strong> en las tiradas de ataque y las pruebas de Sabiduría (Percepción) que dependan de la vista hechas bajo la luz del sol.</p>"
 		},
 		"Sunlight Weakness": {
-			"name": "Sunlight Weakness",
-			"description": "<p>While in sunlight, the {creature} has<strong> disadvantage </strong>on attack rolls, ability checks, and saving throws.</p>"
+			"name": "Debilidad a la Luz Solar (Sunlight Weakness)",
+			"description": "<p>El {creature} sufre <strong>desventaja</strong> en las tiradas de ataque, tiradas de ataque y pruebas de característica hechas bajo la luz del sol.</p>"
 		},
 		"Sure-Footed": {
-			"name": "Sure-Footed",
-			"description": "<p>The {creature} has<strong> advantage </strong>on Strength and Dexterity saving throws made against effects that would knock it prone.</p>"
+			"name": "Paso Firme (Sure-Footed)",
+			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de salvación de Fuerza y Destreza hechas contra efectos que la derribarían.</p>"
 		},
 		"Surprise Attack": {
-			"name": "Surprise Attack",
-			"description": "<p>If the {creature} surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</p>"
+			"name": "Ataque por sorpresa (Surprise Attack)",
+			"description": "<p>Si el {creature} sorprende a una criatura y la impacta con un ataque durante el primer asalto del combate, ese ataque causa 7 (2d6) de daño adicionales.</p>"
 		},
 		"Swallow": {
-			"name": "Swallow",
-			"description": "<section class=\"secret\">\n<p>The {creature} makes one bite attack against a <strong>Medium or smaller target it is grappling</strong>. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the {creature}, and it takes <strong>21 (6d6) <em>acid damage</em></strong> at the start of each of the {creature}'s turns. A {creature} can have only one creature swallowed at a time.</p><p>If the {creature} takes 30 damage or more on a single turn from the swallowed creature, the {creature} must succeed on a  <strong>DC 14 Constitution</strong> saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 ft. of the {creature}. If the {creature} dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 ft. of movement, exiting prone.</p>\n</section>\n<p>The {creature} attacks with its Swallow.</p>"
+			"name": "Engullir (Swallow)",
+			"description": "<section class=\"secret\">\n<p>El {creature} realiza un ataque de mordisco contra una criatura <strong>Mediana o más pequeña a la que esté agarrando</strong>. Si el ataque impacta, la criatura recibirá el daño del mordisco y será engullida, finalizando el agarre. Una criatura engullida está apresada y cegada, tiene cobertura total contra ataques y otros efectos que se originen en el exterior del {creature} y recibe <strong>21 (6d6) de <em>daño de ácido</em></strong> al comienzo de cada uno de los turnos del {creature}.</p><p>Si el {creature} recibe 30 o más de daño durante un mismo turno de una criatura que se encuentre en su interior, deberá superar una tirada de salvación de <strong>Constitución CD 14</strong> al final de dicho turno o se verá obligado a regurgitar a todas las criaturas engullidas, que quedarán derribadas en un espacio situado a 10 pies o menos del {creature}. Si el {creature} muere, las criaturas engullidas dejarán de estar apresadas por él y podrán escapar del cadáver utilizando 15 pies de su movimiento. Estarán derribadas al salir.</p>\n</section>\n<p>El {creature} ataca con su Engullir.</p>"
 		},
 		"Swarm": {
-			"name": "Swarm",
-			"description": "<p>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny {creature}. The swarm can't regain<strong> hit points</strong> or gain temporary<strong> hit points</strong>.</p>"
+			"name": "Enjambre (Swarm)",
+			"description": "<p>El enjambre puede ocupar el espacio de otra criatura y viceversa. Además, también es capaz de moverse a través de cualquier abertura por la que quepa una criatura Diminuta. El enjambre no puede recuperar <strong>puntos de golpe</strong> ni ganar <strong>puntos de golpe</strong> temporales.</p>"
 		},
 		"Tail Spike Regrowth": {
-			"name": "Tail Spike Regrowth",
-			"description": "<p>The {creature} has twenty-four tail spikes. Used spikes regrow when the {creature} finishes a long rest.</p>"
+			"name": "Regenerar Púas de Cola (Tail Spike Regrowth)",
+			"description": "<p>El {creature} tiene 24 púas de cola. Las púas utilizadas vuelven a crecer cuando finaliza un descanso largo.</p>"
 		},
 		"Tail Swipe (Legendary)": {
-			"name": "Tail Swipe (Legendary)",
-			"description": "<section class=\"secret\">\n<p>The {creature} makes one tail attack.</p>\n</section>\n<p>The {creature} swipes its tail against its prey!</p>"
+			"name": "Coletazo (Legendaria) (Tail Swipe (Legendary))",
+			"description": "<section class=\"secret\">\n<p>El {creature} realiza un ataque con la cola.</p>\n</section>\n<p>¡El {creature} golpea a su presa con la cola!</p>"
 		},
 		"Telepathic Bond": {
 			"name": "Enlace Telepático (Telepathic Bond)",
-			"description": "<p>While the {creature} is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.</p>"
+			"description": "<p>Mientras el {creature} se encuentre en el mismo plano de existencia que su maestro, podrá transmitirle mágicamente lo que están percibiendo sus sentidos y los dos podrán comunicarse telepáticamente.</p>"
 		},
 		"Teleport": {
 			"name": "Teletransporte (Teleport)",
-			"description": "<p>The {creature} magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>"
+			"description": "<p>El {creature} se teletransporta mágicamente, junto con cualquier equipo que lleve o vista, hasta 120 pies a un espacio desocupado que pueda ver.</p>"
 		},
 		"Tentacle Attack or Fling": {
-			"name": "Tentacle Attack or Fling",
-			"description": "<p>The {creature} makes one tentacle attack or uses its Fling.</p>"
+			"name": "Ataque de tentáculo o lanzar (Tentacle Attack or Fling)",
+			"description": "<p>El {creature} realiza un ataque con uno de sus tentáculos o usa lanzar.</p>"
 		},
 		"Tentacle Disease": {
-			"name": "Tentacle Disease",
-			"description": "<section class=\"secret\">\n<p><strong>After 1 minute</strong>, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is <strong>outside a body of water</strong>, it takes&nbsp;<strong>6 (1d12) acid&nbsp;damage every 10 minutes</strong> unless moisture is applied to the skin before 10 minutes have passed.</p>\n</section>\n<p>You feel a surging pain rushing through your body!</p>"
+			"name": "Enfermedad del Tentáculo (Tentacle Disease)",
+			"description": "<section class=\"secret\">\n<p><strong>Pasado 1 minuto</strong>, la piel de la criatura infectada se torna traslúcida y legamosa, y la víctima no podrá recuperar puntos de golpe a menos que esté debajo del agua. Además, llegados a este punto la enfermedad solo podrá ser curada mediante curar u otro conjuro de curación de enfermedades de nivel 6 o superior. Si la criatura no se encuentra <strong>sumergida en una masa de agua</strong>, recibirá&nbsp;<strong>6 (1d12) de daño de ácido cada 10 minutos</strong>, aunque esto puede evitarse humedeciendo su piel antes de que pasen los 10 minutos.</p>\n</section>\n<p>¡Sientes que un dolor intenso recorre tu cuerpo!</p>"
 		},
 		"Tentacle Slam": {
-			"name": "Tentacle Slam",
-			"description": "<section class=\"secret\"><p>The {creature} slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a  <strong>DC 14 Constitution</strong> saving throw or take <strong>10 (2d6 + 3) <em>bludgeoning damage</em></strong> and be stunned until the end of the {creature}'s next turn. </p><p>On a successful save, the target takes half the <em>bludgeoning damage</em> and isn't stunned.</p></section><p>The {creature} slams creatures grappled by it into each other or a solid surface. Each creature must make a <strong>Constitution</strong> saving throw.</p>"
+			"name": "Golpe con tentáculo (Tentacle Slam)",
+			"description": "<section class=\"secret\"><p>El {creature} golpea a las criaturas que tenga agarradas, ya sea contra el suelo o la una contra la otra. Cada una de las criaturas deberá superar una tirada de salvación de <strong>Constitución CD 14</strong> o recibirá <strong>10 ( 2d6+3) de <em>daño contundente</em></strong> y estará aturdida hasta el final del siguiente turno del {creature}.</p><p>Si supera la tirada, el objetivo solo recibirá la mitad del <em>daño contundente</em> y no estará aturdido.</p></section><p>El {creature} golpea a las criaturas que tenga agarradas, ya sea contra el suelo o la una contra la otra. Cada una de las criaturas deberá superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Tentacles": {
-			"name": "Tentacles",
-			"description": "<section class=\"secret\">\n<p>One creature grappled by the {creature} must succeed on a  <strong>DC 13 Constitution</strong> saving throw or be poisoned for 1 minute.</p><p>Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>\n</section>\n<p>One creature grappled by the {creature} must make a <strong>Constitution</strong> saving throw. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>"
+			"name": "Tentáculos (Tentacles)",
+			"description": "<section class=\"secret\">\n<p>Cualquier criatura agarrada por el {creature} deberá superar una tirada de salvación de <strong>Constitución CD 13</strong> o estará envenenada durante 1 minuto.</p><p>Hasta que el efecto de este veneno termine, el objetivo también estará paralizado. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>\n</section>\n<p>Cualquier criatura agarrada por el {creature} deberá superar una tirada de salvación de <strong>Constitución</strong>. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>"
 		},
 		"Third Roar": {
-			"name": "Third Roar",
-			"description": "<p>Each creature makes a  <strong>DC 18 Constitution</strong> saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn’t knocked prone.</p>"
+			"name": "Tercer rugido (Third Roar)",
+			"description": "<p>Las criaturas deberán realizar una tirada de salvación de <strong>Constitución CD 18</strong>. Si la fallan, sufrirán 44 (8d10) de daño de trueno y estarán derribadas. Si la superan, recibirán la mitad de ese daño y no serán derribadas.</p>"
 		},
 		"Trampling Charge": {
-			"name": "Trampling Charge",
+			"name": "Carga Pisoteadora (Trampling Charge)",
 			"description": "<section class=\"secret\">\n<p>If the {creature} moves at least <strong>20 ft.</strong> straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a <strong>DC 12 Strength saving throw</strong> or be knocked prone. If the target is prone, the {creature} can make one stomp attack against it as a bonus action.</p>\n</section>\n<p>If the {creature} moves at least <strong>20 ft.</strong> straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a Strength saving throw.</p>"
 		},
 		"Transparent": {
