@@ -3,98 +3,98 @@
 	"entries": {
 		"Aboleth": {
 			"name": "Aboleth (Aboleth)",
-			"description": "<p>Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surrounded by the ruins of an ancient, fallen aboleth city. An aboleth spends most of its existence underwater, surfacing occasionally to treat with visitors or deranged worshipers.</p>"
+			"description": "<p>Los aboleths hacen sus guaridas en lagos subterráneos o en las rocosas profundidades del océano, a menudo rodeadas por las ruinas de una antigua ciudad aboleth caída. Un aboleth pasa la mayoría de su existencia bajo el agua, saliendo a la superficie ocasionalmente para tratar con visitantes o con adoradores desquiciados.</p>"
 		},
 		"Acolyte": {
-			"name": "Acolyte",
-			"description": "<blockquote>\n<p>Wreathed in fantastical golden filigree with incense twirling through the atrium, the pillars of the Solarium glittered, bathed in the warmth of the Sun Lord’s light.&nbsp; From a singular hole hewn into the domed ceiling of the temple, the sunlight poured in as if it were a rushing waterfall meant to drown us all in the bright corona. I strayed from my mentor, a priest in his middle years with a soft voice and ring of grey-dappled hair about a balding head, to approach a statue set aside within a shadowed alcove.&nbsp; It depicted our god in his humanoid form, an elderly man standing strictly at attention, his wild hair hanging as long as his chest length beard, a staff topped with a stern faced sun clutched in his hand.&nbsp; I knelt, still only fourteen, before this statue and began to pray right then.&nbsp; The next six years of my acolyte training would be nothing but a blessing, I knew.&nbsp;<br><em>“The Gleaming Star”, by Bishop Bernard Portis.</em></p>\n</blockquote>\n<p>Acolytes are those devoted followers of a particular goddess or god who have decided to take on the mantle of the clergy to better serve their chosen deity.&nbsp; Often no older than teenagers (though some acolytes begin later in their lives) acolytes are trained for a number of years (typically between three to ten) depending on the strictures of their deity’s doctrines.&nbsp; During their time they memorize and study all written materials concerning their deity and their teachings, learn magics (be they healing or harmful) gifted to the acolytes by their deities, and often go out into their community to provide aid to those in need or proselytize the words of their goddess or god.&nbsp; Though not every acolyte climbs the ranks into full fledged priesthood, many remain highly dedicated to the church and remain to serve as life-long acolytes working closely with the lay community outside the temple walls.</p>\n<p>Recall that acolytes are trained in the arcane ways of their chosen deities.&nbsp; This being the case, acolytes rarely receive sufficient martial training in comparison to the paladin ranks of the temple (unless expressly dictated otherwise by their deity’s teachings).&nbsp; This being the case, the acolyte is able to unleash some basic divine magic in order to both defend themselves and allies or to call upon their patron deity for aid for injured parties.&nbsp; Typically expelled in a gleaming shower of golden sparks and dazzlingly vibrant lights, the magic of the gods is truly something special, even at such a base nature.&nbsp; Spells such as Cure Wounds, Sacred Flame, or Sanctuary are all practiced by acolytes early on into their divine studies.&nbsp; Acolytes can make handy allies should you be in need of divine protection or a field medic for an injured compatriot.&nbsp; Be sure to mind your acolyte well, however, as their spellwork can easily be interrupted if they are forced into a melee fight with a band of slavering gnolls.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+			"name": "Acólito (Acolyte)",
+			"description": "<blockquote>\n<p>Envueltos en fantásticas filigranas doradas y con el incienso girando por el atrio, los pilares del Solarium brillaban bañados por el calor de la luz del Señor del Sol. Desde un singular orificio tallado en el techo abovedado del templo, la luz del sol entraba a raudales como si se tratara de una cascada que pretendía ahogarnos a todos en la brillante corona. Me alejé de mi mentor, un sacerdote de mediana edad con una voz suave y un anillo de pelo gris sobre su cabeza calva, para acercarme a una estatua apartada en una alcoba a la sombra. Representaba a nuestro dios en su forma humana, un anciano en posición de estricta atención, con el pelo salvaje colgando tan largo como su barba hasta el pecho, y un báculo rematado con un sol de semblante severo agarrado en la mano. Me arrodillé, con sólo catorce años, ante esta estatua y comencé a rezar en aquel momento. Sabía que los próximos seis años de mi formación como acólito no serían más que una bendición.<br><em>\"La estrella resplandeciente\", por el obispo Bernard Portis.</em></p>\n</blockquote>\n<p>Los acólitos son aquellos devotos seguidores de una diosa o dios concreto que han decidido asumir el manto del clero para servir mejor a su deidad elegida. A menudo no superan la adolescencia (aunque algunos acólitos comienzan más tarde en sus vidas) los acólitos son entrenados durante un número de años (normalmente entre tres y diez) dependiendo de las restricciones de las doctrinas de su deidad. Durante ese tiempo, memorizan y estudian todo el material escrito relativo a su deidad y sus enseñanzas, aprenden las magias (ya sean curativas o perjudiciales) que sus deidades les regalan, y a menudo salen a su comunidad para prestar ayuda a los necesitados o divulgar las palabras de su diosa o dios. Aunque no todos los acólitos ascienden a la categoría de sacerdotes de pleno derecho, muchos mantienen una gran dedicación a la iglesia y permanecen como acólitos de por vida, trabajando estrechamente con la comunidad laica fuera de los muros del templo.</p>\n<p>Recordemos que los acólitos son entrenados en las artes arcanas de sus deidades elegidas. En este caso, los acólitos rara vez reciben suficiente entrenamiento marcial en comparación con los rangos de paladines del templo (a menos que las enseñanzas de su deidad dicten expresamente lo contrario). En este caso, el acólito es capaz de utilizar magia divina básica para defenderse a sí mismo y a sus aliados, o para invocar a su deidad patrona para que ayude a los heridos. La magia de los dioses, que suele ser expulsada en forma de lluvia de chispas doradas y luces deslumbrantes, es realmente especial, incluso en su naturaleza básica. Hechizos como Curar heridas, Llama sagrada o Santuario son practicados por los acólitos al principio de sus estudios divinos. Los acólitos pueden ser útiles aliados si necesitas protección divina o un sanador de campo para un camarada herido. Sin embargo, asegúrate de vigilar bien a tu acólito, ya que su hechizo puede verse fácilmente interrumpido si se ve obligado a luchar cuerpo a cuerpo con una banda de gnolls voraces.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Adult Black Dragon": {
-			"name": "Adult Black Dragon",
+			"name": "Dragón negro adulto (Adult Black Dragon)",
 			"description": ""
 		},
 		"Adult Blue Dracolich": {
-			"name": "Adult Blue Dracolich",
+			"name": "Dracoliche azul adulto (Adult Blue Dracolich)",
 			"description": ""
 		},
 		"Adult Blue Dragon": {
-			"name": "Adult Blue Dragon",
+			"name": "Dragón adulto azul (Adult Blue Dragon)",
 			"description": ""
 		},
 		"Adult Brass Dragon": {
-			"name": "Adult Brass Dragon",
+			"name": "Dragón de oropel adulto (Adult Brass Dragon)",
 			"description": ""
 		},
 		"Adult Bronze Dragon": {
-			"name": "Adult Bronze Dragon",
+			"name": "Dragón de bronce adulto (Adult Bronze Dragon)",
 			"description": ""
 		},
 		"Adult Copper Dragon": {
-			"name": "Adult Copper Dragon",
+			"name": "Dragón de cobre adulto (Adult Copper Dragon)",
 			"description": ""
 		},
 		"Adult Gold Dragon": {
-			"name": "Adult Gold Dragon",
+			"name": "Dragón de oro adulto (Adult Gold Dragon)",
 			"description": ""
 		},
 		"Adult Green Dragon": {
-			"name": "Adult Green Dragon",
+			"name": "Dragón verde adulto (Adult Green Dragon)",
 			"description": ""
 		},
 		"Adult Red Dragon": {
-			"name": "Adult Red Dragon",
+			"name": "Dragón rojo adulto (Adult Red Dragon)",
 			"description": ""
 		},
 		"Adult Silver Dragon": {
-			"name": "Adult Silver Dragon",
+			"name": "Dragón de plata adulto (Adult Silver Dragon)",
 			"description": ""
 		},
 		"Adult White Dragon": {
-			"name": "Adult White Dragon",
+			"name": "Dragón blanco adulto (Adult White Dragon)",
 			"description": ""
 		},
 		"Air Elemental": {
-			"name": "Air Elemental",
+			"name": "Elemental de aire (Air Elemental)",
 			"description": ""
 		},
 		"Ancient Black Dragon": {
-			"name": "Ancient Black Dragon",
+			"name": "Dragón negro anciano (Ancient Black Dragon)",
 			"description": ""
 		},
 		"Ancient Blue Dragon": {
-			"name": "Ancient Blue Dragon",
+			"name": "Dragón azul anciano (Ancient Blue Dragon)",
 			"description": ""
 		},
 		"Ancient Brass Dragon": {
-			"name": "Ancient Brass Dragon",
+			"name": "Dragón de oropel anciano (Ancient Brass Dragon)",
 			"description": ""
 		},
 		"Ancient Bronze Dragon": {
-			"name": "Ancient Bronze Dragon",
+			"name": "Dragón de bronce anciano (Ancient Brass Dragon)",
 			"description": ""
 		},
 		"Ancient Copper Dragon": {
-			"name": "Ancient Copper Dragon",
+			"name": "Dragón de cobre anciano (Ancient Copper Dragon)",
 			"description": ""
 		},
 		"Ancient Gold Dragon": {
-			"name": "Ancient Gold Dragon",
+			"name": "Dragón de oro anciano (Ancient Gold Dragon)",
 			"description": ""
 		},
 		"Ancient Green Dragon": {
-			"name": "Ancient Green Dragon",
+			"name": "Dragón verde anciano (Ancient Green Dragon)",
 			"description": ""
 		},
 		"Ancient Red Dragon": {
-			"name": "Ancient Red Dragon",
+			"name": "Dragón rojo anciano (Ancient Red Dragon)",
 			"description": ""
 		},
 		"Ancient Silver Dragon": {
-			"name": "Ancient Silver Dragon",
+			"name": "Dragón de plata anciano (Ancient Silver Dragon)",
 			"description": ""
 		},
 		"Ancient White Dragon": {
-			"name": "Ancient White Dragon",
+			"name": "Dragón blanco anciano (Ancient White Dragon)",
 			"description": ""
 		},
 		"Androsphinx": {
@@ -102,39 +102,39 @@
 			"description": ""
 		},
 		"Animated Armor": {
-			"name": "Animated Armor",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"name": "Armadura animada (Animated Armor)",
+			"description": "<p><em>Token de Forgotten Adeventures.</em></p>"
 		},
 		"Ankheg": {
-			"name": "Ankheg",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"name": "Ankheg (Ankheg)",
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ape": {
 			"name": "Simio",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Archmage": {
 			"name": "Archimago (Archmage)",
-			"description": "<p><strong>Archmages</strong> are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.</p>\n<p>An archmage typically has one or more apprentice mages, and an archmage’s abode has numerous magical wards and guardians to discourage interlopers.</p><section class=\"secret\">\n<p>The Archmage casts <strong>mage armor</strong>, <strong>stoneskin </strong>and <strong>mind blank </strong>on itself before combat.</p>\n</section>"
+			"description": "<p>Los <strong>archimagos</strong> son lanzadores de conjuros poderosos (y normalmente ancianos) que han dedicado su vida al estudio de las artes arcanas. Los de buenas intenciones aconsejan a reyes y reinas, mientras que los malvados gobiernan como tiranos y buscan convertirse en liches. Aquellos que no son ni buenos ni malos se recluyen en torres remotas, donde pueden practicar su magia sin que les interrumpan.</p>\n<p>Cada archimago suele tomar al menos a un mago como aprendiz. Además, es habitual que sus moradas estén llenas de guardianes y protecciones mágicas para desalentar a posibles intrusos.</p><section class=\"secret\">\n<p>El archimago lanza <strong>armadura de mago</strong>, <strong>piel pétrea</strong> y <strong>mente en blanco</strong> sobre sí mismo antes de que empiece el combate.</p>\n</section>"
 		},
 		"Assassin": {
 			"name": "Asesino",
-			"description": "<p>Trained in the use of poison, <strong>assassins </strong>are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.</p>"
+			"description": "<p>Expertos en el uso de venenos, los <strong>asesinos</strong> son sicarios despiadados que trabajan para nobles, maestros gremiales, soberanos o cualquiera que pueda permitirse sus servicios.</p>"
 		},
 		"Avatar of Death": {
-			"name": "Avatar of Death",
+			"name": "Avatar de la muerte (Avatar of Death)",
 			"description": ""
 		},
 		"Awakened Shrub": {
-			"name": "Awakened Shrub",
-			"description": "<p>The rhythmic rustle of leaves, knotted roots dragging through the undergrowth, and vacant holes left in the earth are all signs of this fascinating little creature. These formerly average forest plants are gifted with mild sentience by the natural spellwork of a most-powerful druid who has cast the Awaken spell to birth an Awakened Shrub.</p>\n<p>The shrub itself, having negligible will of its own, then remains @JournalEntry[Charmed] to the spellcaster for thirty days, during which, the Awakened Shrub serves at the whim of the druid. The leafy automaton is also given the ability to move independently by the spellwork cast upon it. Using their roots and branches to propel themselves across the forest floor, the shrubs are left to roam clumsily throughout the druid's selected domain.</p>\n<p><strong>Druid’s Little Helper. </strong>While any mage proficient enough in the arcane to produce an Awaken spell may pull these shrubs into sudden life, it is the druids of the woods who most commonly utilize the ability. A unique feature of the Awakened Shrub is its indistinguishability between itself and an average shrub when it stands completely still. The ability to camouflage themselves so thoroughly allows the Awakened Shrubs to act as sentires for a more secretive druid’s hideaway.</p>\n<p>As recommended to me by a friend of the forest: be advised to utilize the shrubs in small groups as to simply overwhelm any nosey intruders. Strength in numbers is key for these simplistic shrubs as they may be easily dispatched if singled out. As the magic within the shrub allows the shrubs to speak a language known to their creator, Awakened Shrubs may also be programmed with a warning message and avoid conflict altogether. The shrubs, however, are quite inept when it comes to the completion of even the most simplistic tasks, so utilizing them in a “living alarm” capacity may be the wisest choice.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+			"name": "Arbusto despertado (Awakened Shrub)",
+			"description": "<p>El rítmico susurro de las hojas, las raíces anudadas que se arrastran por la maleza y los agujeros vacíos que quedan en la tierra son signos de esta fascinante criatura. Estas plantas del bosque, antes normales, están dotadas de una leve sensibilidad gracias al conjuro natural de un druida muy poderoso que ha lanzado el hechizo Despertar para que nazca un Arbusto despertado.</p>\n<p>El propio arbusto, que tiene una voluntad propia insignificante, permanece @Compendium[dnd5e. rules. H8aTFVG3YFAkQ3TK]{Hechizado} para el hechicero durante treinta días, durante los cuales, el Arbusto despertado sirve al capricho del druida. El frondoso autómata también recibe la capacidad de moverse de forma independiente gracias al hechizo que se le lanza. Utilizando sus raíces y ramas para impulsarse por el suelo del bosque, los arbustos se dejan vagar torpemente por el territorio elegido por el druida.</p>\n<p><strong>Pequeño ayudante del druida.</strong> Aunque cualquier mago lo suficientemente competente en lo arcano como para producir un hechizo de Despertar puede hacer que estos arbustos cobren vida de repente, son los druidas de los bosques los que más comúnmente utilizan esta capacidad. Una característica única del Arbusto despertado es que no se distingue de un arbusto normal cuando está completamente quieto. La capacidad de camuflarse tan a fondo permite a los Arbustos despertados actuar como centinelas del escondite de un druida más reservado.</p>\n<p>Tal y como me recomendó un amigo del bosque: se aconseja utilizar los arbustos en pequeños grupos para abrumar de forma sencilla a cualquier intruso entrometido. La fuerza del número es la clave para estos simples arbustos, ya que pueden ser fácilmente eliminados si se les separa. Como la magia del arbusto les permite hablar un idioma conocido por su creador, los Arbustos despertados también pueden ser programados con un mensaje de advertencia y evitar el conflicto por completo. Sin embargo, los arbustos son completamente ineptos a la hora de realizar incluso las tareas más sencillas, por lo que utilizarlos como \"alarma viviente\" puede ser la opción más sabia.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Awakened Tree": {
-			"name": "Awakened Tree",
-			"description": "<p>An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic.</p>\n<p></p>"
+			"name": "Arbol despertado (Awakened Tree)",
+			"description": "<p>Un árbol despertado es un árbol normal que ha sido dotado de consciencia y la capacidad de desplazarse mediante el conjuro despertar o alguna magia de similar naturaleza.</p>"
 		},
 		"Axe Beak": {
-			"name": "Axe Beak",
+			"name": "Pico de hacha (Axe Beak)",
 			"description": "<p>Large and highly aggressive, the avian Axe Beak has maintained a well-earned reputation as an animal not to be toyed with.&nbsp; Hailing from grassy plains to thick and sweltering jungles, the Axe Beak resembles the flightless emu in both size and appearance.&nbsp; The Axe Beak sports a rounded, plump body resting upon two powerful legs built for running and kicking at high speeds.&nbsp; From the body sprouts a long and graceful neck ending in an unfeathered head tipped with a sharp, wedge-shaped beak.&nbsp; This beak (reminiscent of a hatchet) is what gives the creature its fearsome name.</p>\n<p><strong>Let Me Axe You a Question.</strong> Axe Beaks have been studied for quite some time, as their flightless footsteps have been tracked for thousands of years by biologists.&nbsp; An ancient and relatively unchanged species, the Axe Beak is most notable (aside from the beak) for its temper.&nbsp; Axe Beaks are incredibly territorial animals and have been known to chase down intruders within their territory for miles before finally calling off the attack.&nbsp; Shockingly, some Axe Beaks have been domesticated through rigorous, consistent interaction with humanoids.&nbsp; These beasts may act as riding animals and are powerful enough to support a fully grown Orc warrior.&nbsp; During battle, should one be unfortunate enough to cross the bird, the Axe Beak will swing its powerful neck in a chopping arc to bring its sharpened beak down upon any unfortunate foe.&nbsp; Should their beak (which has been known to sever limbs and pierce plate armor) not be enough, the Axe Beak may turn and deliver a devastating kick with one of its powerful, clawed feet.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Azer": {
