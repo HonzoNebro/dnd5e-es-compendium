@@ -110,7 +110,7 @@
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ape": {
-			"name": "Simio",
+			"name": "Simio (Ape)",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Archmage": {
@@ -118,7 +118,7 @@
 			"description": "<p>Los <strong>archimagos</strong> son lanzadores de conjuros poderosos (y normalmente ancianos) que han dedicado su vida al estudio de las artes arcanas. Los de buenas intenciones aconsejan a reyes y reinas, mientras que los malvados gobiernan como tiranos y buscan convertirse en liches. Aquellos que no son ni buenos ni malos se recluyen en torres remotas, donde pueden practicar su magia sin que les interrumpan.</p>\n<p>Cada archimago suele tomar al menos a un mago como aprendiz. Además, es habitual que sus moradas estén llenas de guardianes y protecciones mágicas para desalentar a posibles intrusos.</p><section class=\"secret\">\n<p>El archimago lanza <strong>armadura de mago</strong>, <strong>piel pétrea</strong> y <strong>mente en blanco</strong> sobre sí mismo antes de que empiece el combate.</p>\n</section>"
 		},
 		"Assassin": {
-			"name": "Asesino",
+			"name": "Asesino (Assassin)",
 			"description": "<p>Expertos en el uso de venenos, los <strong>asesinos</strong> son sicarios despiadados que trabajan para nobles, maestros gremiales, soberanos o cualquiera que pueda permitirse sus servicios.</p>"
 		},
 		"Avatar of Death": {
@@ -142,11 +142,11 @@
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Baboon": {
-			"name": "Mandril",
+			"name": "Babuino (Baboon)",
 			"description": "<p>Los babuinos habitan en llanuras cubiertas de hierba y bosques poco poblados, y se mueven siempre en pequeñas manadas llamadas tropas. Los babuinos son mamíferos terrestres que utilizan la parte superior de su poderoso cuerpo para trepar a los árboles a una velocidad sorprendente. No te dejes engañar por el tamaño de esta criatura; un solo babuino del bosque puede resultar fácilmente más feroz que una manada entera de lobos hambrientos. A primera vista, un babuino puede parecer un objetivo fácil para los aventureros incautos, ya que sólo miden entre un metro y un metro y medio de largo y pesan hasta cuarenta libras según los registros recientes. No son más grandes que un niño humano sano. Sin embargo, esto no es más que un engaño, ya que los monos del bosque pueden doblegar fácilmente a un grupo de viajeros desprevenidos. Dentro de sus hocicos de perro se esconden caninos mortalmente afilados y tras sus ojos hay una mente asombrosamente inteligente.</p>\n<p><strong>Tropa de dientes.</strong> Los babuinos son más fuertes cuando están rodeados por su tropa, donde emplean tácticas de manada sencillas para acabar con sus enemigos. Se ha observado a los monos merodeando entre las hierbas altas para tender una emboscada a una presa desprevenida o agrupándose para atacar a un objetivo concreto sin piedad antes de pasar al siguiente. Las tropas están gobernadas por un único alfa que actúa como guardián principal de sus compañeros. Por debajo del alfa, la tropa trabaja en colaboración, compartiendo alimentos y recursos entre ellos y participando en sesiones de acicalamiento comunitario para fortalecer sus vínculos. Las crías de los babuinos se crían en pequeños grupos familiares, siendo instruidos por varios adultos a la vez. Se trata de una comunidad realmente fascinante y única en nuestro reino animal, por lo que los babuinos deben ser tratados con cautela en caso de que los viajeros se crucen con una tropa local.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Badger": {
-			"name": "Tejón",
+			"name": "Tejón (Badger)",
 			"description": "<blockquote>\n<p>Una mañana de primavera, paseando por el bosque, me encontré con un agujero inusual en el suelo del bosque. Creyéndome un sabio inteligente en la búsqueda de tesoros ocultos de algún bandido malintencionado, introduje rápidamente mi mano en el túnel para encontrarme con algo extrañamente peludo y, además, con un fuerte dolor. Que mi incidente (y mi dedo perdido) con el tejón del bosque sirva de advertencia a los que carecen de sabiduría: ¡no metas la mano donde no debes!</p>\n</blockquote>\n<p>- Mercader Lord Ellemond Doughty</p>\n<p>El tejón común de los bosques es una criatura ingeniosa y decidida. Esta criatura, que se parece a una comadreja muy robusta y fuerte, se afana en el suelo del bosque atrapando a sus presas, insectos y pequeños mamíferos, mientras se esfuerza por crear su propia madriguera. El pelaje del tejón está adornado con maravillosas rayas blancas y negras que recorren todo su cuerpo. Con ojos apacibles y un comportamiento tranquilo, el tejón transmite una imagen de animal tímido; sin embargo, esta apariencia externa debe observarse con precaución. Armados con unas gruesas y alargadas garras hechas para atravesar la tierra más dura y un conjunto de poderosas mandíbulas a juego, los tejones son rápidos en defenderse si un alma insensata los acosa. Siempre que no se moleste al tejón, no encontrará ningún motivo para hacerte daño.</p>\n<p><strong>Mandíbulas milagrosas.</strong> La característica más intrigante del tejón es un conjunto de mandíbulas peculiares que le proporcionan un método de defensa espectacular. Las mandíbulas del animal están colocadas en largas cavidades dentro de su cráneo, lo que permite al tejón fijar sus mandíbulas en una posición, aumentando así su ya poderosa fuerza de mordida y evitando la posibilidad de dislocación de las mandíbulas. Una ventaja evolutiva realmente notable para evitar el combate (en lugar de enfrentarse a su adversario) es el olor natural del tejón. Estas criaturas pueden desprender un potente hedor procedente de las glándulas odoríferas situadas cerca de sus traseros que puede ahuyentar fácilmente a los depredadores. Por estas razones, muchas culturas forestales veneran al tejón como guardián del bosque e intentan utilizar las habilidades únicas del tejón en su propia búsqueda de la supervivencia en los bosques de nuestro mundo.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Balor": {
@@ -166,11 +166,11 @@
 			"description": ""
 		},
 		"Basilisk": {
-			"name": "Basilisco",
+			"name": "Basilisco (Basilisk)",
 			"description": ""
 		},
 		"Bat": {
-			"name": "Murciélago",
+			"name": "Murciélago (Bat)",
 			"description": "<p>Los murciélagos son un elemento común en los bosques recónditos y las cavernas sin luz de nuestro mundo. Los murciélagos son criaturas nocturnas muy apreciadas por los arcanistas por su capacidad para desplazarse por el terreno en una oscuridad casi total. Sólo por eso son una opción muy apreciada para un familiar convocado. Los murciélagos, cuyo tamaño varía entre el de un ratón y el de un gato doméstico, tienen una característica única entre los mamíferos: ¡el don de volar! Las membranas carnosas que se extienden entre las delgadas \"manos\" óseas del cuerpo del murciélago les permiten surcar los cielos en busca de insectos y frutos del bosque.</p>\n<p><strong>Chillidos y cháchara.</strong> Muchos creen que son ciegos por los cuentos sin sentido que se cuentan a los niños, pero los murciélagos tienen una vista casi similar a la nuestra, aunque notablemente menos aguda. Lo que hace que estas criaturas sean realmente únicas es su capacidad para navegar en la oscuridad de la noche. Los murciélagos utilizan una serie de chirridos y chillidos que los investigadores han denominado \"ecolocalización\" para identificar objetos o presas en su trayectoria de vuelo. Los chirridos de ecolocalización emitidos por los murciélagos rebotan hacia las orejas, proporcionalmente enormes, de la pequeña criatura, lo que les permite hacer correcciones en fracciones de segundo de su trayectoria sin la ayuda de sus ojos. Cabe señalar de nuevo que el murciélago es una opción inteligente como familiar, ya que puede navegar por aquellos lugares demasiado oscuros y peligrosos para nuestros ojos mortales.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Bearded Devil": {
@@ -198,7 +198,7 @@
 			"description": ""
 		},
 		"Blink Dog": {
-			"name": "Perro intermitente",
+			"name": "Perro intermitente (Blink Dog)",
 			"description": "<blockquote>\n<p>Bañar a tu propio perro intermitente conlleva una serie de complicaciones. A menudo es mejor dejar que la bestia se ocupe de su propia higiene (si las circunstancias lo permiten), ya que su precioso chucho probablemente se trasladará al charco de barro más cercano tan pronto como hayas terminado de limpiarlo. <br><em>Cómo cuidar a su perro parpadeante, pág. 46.</em></p>\n</blockquote>\n<p>Los perros intermitentes son una extraordinaria curiosidad entre las especies caninas comunes. Por fuera, el sabueso parece bastante similar a muchos chuchos de caza: un pelaje amarillento y bronceado, un tamaño medio ( entre dos pies y medio y tres pies de altura) y ninguna marca o rasgo que lo haga especialmente único. Sin embargo, el secreto de este perro reside en su interior. El perro intermitente posee una extraña habilidad para \"parpadear\" o teletransportarse a voluntad de un lugar a otro en un instante. De forma similar a los hechizos utilizados por los magos para transportarse a través de las distancias en un instante, el perro intermitente atraviesa el tejido de nuestra realidad, se desvanece instantáneamente y aparece hasta cuarenta pies de distancia de su ubicación original. El perro intermitente no puede transportar seres vivos, pero sí cualquier equipo u objeto que sostenga el sabueso. Los perros intermitentes tienen una inteligencia superior a la media en comparación con otros caninos y son capaces de hablar su propio lenguaje, llamado \"perro intermitente\", con otros de su especie. El contenido de estas conversaciones es un misterio, aunque se especula que a menudo las manadas de perros hablan de su intenso odio hacia otros cuadrúpedos etéreos, ya que se sabe que atacan a las bestias en cuanto las ven.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Blood Hawk": {
@@ -210,7 +210,7 @@
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Boar": {
-			"name": "Jabalí",
+			"name": "Jabalí (Boar)",
 			"description": "<p>Los jabalíes son bestias fuertes y corpulentas que habitan en los bosques de nuestro mundo, buscando una raíz o una seta para disfrutar o removiendo el follaje en busca de una zanja adecuada para revolcarse. El jabalí, que no se parece más que a un cerdo doméstico demasiado grande, es cualquier cosa menos su primo de la mesa del desayuno. Con una altura de entre 24 y 38 pulgadas y unas piernas gruesas, el activo más peligroso del jabalí (su enorme cabeza) ocupa un lugar destacado y termina con un par de colmillos afilados y mortales. La cabeza, que abarca más de un tercio de la longitud del cuerpo del jabalí, está formada por una gruesa masa de huesos y músculos que le permite chocar contra objetos y enemigos sin apenas dañarse a sí mismo. El jabalí, que puede alcanzar una velocidad de 25 millas por hora, puede utilizar su carga con un efecto mortal, ya que el duro cráneo de la criatura y sus colmillos cortantes pueden acabar con la mayoría de las defensas comunes.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Bone Devil": {
@@ -238,15 +238,15 @@
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Camel": {
-			"name": "Camello",
+			"name": "Camello (Camel)",
 			"description": "<p>Los camellos son una especie única de ungulados de dedos pares que prosperan en los desiertos y climas áridos de nuestro planeta. Conocidos en todo el mundo por sus grandes jorobas traseras (que varían en número entre una o dos jorobas dependiendo de la especie), los camellos se han convertido en una parte integral de la vida en el desierto debido a su naturaleza resistente aunque testaruda, su nutritiva carne y leche, y su utilidad para el transporte. Los camellos han sido domesticados durante milenios. Muy apreciados por su capacidad para sobrevivir en los desiertos más duros, los primeros registros de los camellos en nuestro mundo los muestran como animales de carga domésticos (de forma muy parecida a como se utilizan hoy en día) que transportan cargas pesadas a través de las extensiones arenosas del inhóspito desierto. Sin embargo, el noble camello puede guardar más secretos de los que revela su superficie.</p>\n<p><strong>Cuidado, escupen.</strong> Si se pregunta a un habitante de la zona por la característica más singular del camello, sin duda le dirá que son las jorobas carnosas de su alta espalda. Normalmente se piensa que estas jorobas contienen una reserva de agua dulce para que el camello pueda sobrevivir a las dunas arenosas de su tierra natal; sin embargo, esto no es así en absoluto. La disección de la bestia dromedaria ha demostrado a los investigadores que estas jorobas se componen en realidad de tejido graso que se ha acumulado en las jorobas para no sobrecalentar a la bestia al repartirse por el cuerpo. De hecho, los camellos sólo necesitan beber una vez cada diez días, ya que su pelaje aislante los mantiene a una temperatura adecuada y absorben suficiente vapor de agua al exhalar por las fosas nasales. Los camellos también tienen un revestimiento bucal coriáceo que les permite masticar y tragar incluso los cactus más espinosos si necesitan agua. Si te encuentras en el desierto y necesitas una bestia resistente, aventurero, ¿por qué no inviertes tu oro en el camello? Pero ten en cuenta que les gusta escupir a quienes no se fían.</p>"
 		},
 		"Cat": {
-			"name": "Gato",
+			"name": "Gato (Cat)",
 			"description": "<p>¿Quién de entre nuestra población podría negar que su vida no se ha visto afectada positivamente por el gato doméstico? El gato demuestra una y otra vez que es un compañero preciado, ya sea para mantener su propiedad libre de alimañas no deseadas o para acurrucarse en el regazo de su amo para pasar una noche acogedora en el estudio. Existen numerosas variedades, desde los gatos negros de pelo corto asociados a los malos augurios hasta los gatos de pelaje mullido y cara absurdamente plana del norte helado, por lo que parece haber un número ilimitado de razas entre las que elegir. (Nota del autor: Recientemente he oído el rumor de un gato que no produce pelo y que requiere que su amo se limite a acariciar su carne sin agradables barreras. Pronto habrá más pruebas de este descubrimiento infundado). Sin embargo, nuestros compatriotas felinos tienen mucho más que ofrecer cuando se les mira bajo la sagaz mirada del aventurero.</p>\n<p><strong>Compañeros perrrfectos.</strong> Ya sea al lado del anciano fabricante de pociones, escondido en su tienda, o con el joven guardabosques novato que se enfrenta a los campos del interior, los gatos están repartidos por toda nuestra maravillosa tierra. Compactos y ligeros, estos ágiles y pequeños cazadores caben perfectamente sobre el hombro de alguien o acurrucados entre las mercancías de un carro. Los gatos son muy útiles para el conjurador astuto que ata a su familiar a esa forma; con sus afiladas garras, capaces de retraerse en un abrir y cerrar de ojos, el gato es un cazador letal contra las bestias más pequeñas. Los gatos también tienen una espina dorsal flexible que les permite meterse en lugares de difícil acceso si se les convence adecuadamente o incluso sobrevivir a una peligrosa caída. Los investigadores han descubierto que los gatos parecen tener la asombrosa capacidad de caer de pie independientemente del ángulo en el que se dejen caer; ¡sin duda es una ventaja asombrosa sobre otras criaturas menos ágiles! El gato, que es mortalmente silencioso (a menos que prefiera molestar a su amo para que le dé sabrosos bocados con un ruidoso aullido), es un infiltrado adecuado si uno prefiere observar sus alrededores desde una distancia más segura a través de los ojos de este familiar. Ya sean conjurados o corpóreos, en opinión de este autor, el gato común es un compañero de calidad y debería tenerse en cuenta a la hora de buscar el aliado animal adecuado.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Centaur": {
-			"name": "Centauro",
+			"name": "Centauro (Centaur)",
 			"description": "<p>Los centauros se encuentran principalmente en las llanuras y en los bosques, vagando en manadas y cazando en grandes grupos. Criaturas equinas con la parte superior del cuerpo de hombres y mujeres que se extiende desde el cuello, son conocidos por su fuerza y alabados como audaces cazadores.</p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Chain Devil": {
@@ -254,7 +254,7 @@
 			"description": ""
 		},
 		"Chimera": {
-			"name": "Quimera",
+			"name": "Quimera (Chimera)",
 			"description": ""
 		},
 		"Chuul": {
@@ -266,11 +266,11 @@
 			"description": ""
 		},
 		"Cloaker": {
-			"name": "Manto",
+			"name": "Manto (Cloaker)",
 			"description": ""
 		},
 		"Cloud Giant": {
-			"name": "Gigante de las nubes",
+			"name": "Gigante de las nubes (Cloud Giant)",
 			"description": ""
 		},
 		"Cockatrice": {
@@ -298,7 +298,7 @@
 			"description": "<blockquote>\n<p>Una vez vi un cangrejo tan grande que tenía pinzas que podían cortar la mano de un Goliat adulto y llevaba un casco de soldado como caparazón. ¡Juro que es verdad! <br><em>- Patrón desordenado desconocido en la taberna El Cubo de latón.</em></p>\n</blockquote>\n<p>Qué más se puede decir del humilde cangrejo que no sea ya de dominio público para quienes viven cerca o frecuentan las costas del continente. Los cangrejos son pequeñas criaturas excepcionalmente resistentes, a menudo no más grandes que la palma de la mano de un adulto, con ocho patas segmentadas que sobresalen a ambos lados de su caparazón en forma de concha. Este caparazón de quitina endurecida está rematado por dos pedúnculos oculares negros (no muy diferentes a los de un caracol) a través de los cuales el animal ve nuestras costas y océanos. Se ha observado que algunas especies de cangrejos carecen de caparazón acorazado y prefieren meterse en las conchas desechadas de las caracolas. Esto proporciona al cangrejo un hogar móvil bastante inteligente y resistente. El noveno y el décimo apéndice del cangrejo, cerca de su pequeña boca, están adornados con dos enormes pinzas, parecidas a las de un escorpión, con sierras romas en el borde interior de cada una. El cangrejo utiliza estas pinzas principalmente para buscar comida, abriendo los caparazones de otras pequeñas bestias acuáticas o cortando pequeños trozos de plantas submarinas para comer.</p>\n<p>Aunque quizá no sea el compañero más peligroso que un invocador pueda desear, la capacidad del cangrejo para respirar tanto en el agua como en la tierra hace del crustáceo un aliado repleto de utilidad. Sin embargo, aconsejo tener cuidado cuando se mire por primera vez a través de los ojos del familiar cangrejo, ya que el desplazamiento lateral con el que se mueve el cangrejo ha provocado vómitos en algunos invocadores de estómago débil.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Crocodile": {
-			"name": "Cocodrilo",
+			"name": "Cocodrilo (Crocodile)",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Cult Fanatic": {
@@ -330,7 +330,7 @@
 			"description": ""
 		},
 		"Dire Wolf": {
-			"name": "Lobo terrible",
+			"name": "Lobo terrible (Dire Wolf)",
 			"description": ""
 		},
 		"Djinni": {
@@ -346,27 +346,27 @@
 			"description": "<p>Cuando el trabajo de arrastrar madera o transportar productos comerciales por una carretera rural es demasiado para un humanoide, éste puede encontrar consuelo sabiendo que hay una bestia leal y robusta dispuesta a soportar la pesada carga por él: el caballo de tiro. Los caballos de tiro son una raza de caballos que se aclimatan más fácilmente a los terrenos escarpados y a soportar grandes pesos. Los caballos de tiro, a menudo cubiertos de un pelaje más grueso para sobrevivir en climas más difíciles que sus hermanos de pelo corto, tienen unas patas robustas y poderosas y unos cascos gigantescos capaces de agarrarse a la grava suelta de un camino de montaña. Existen muchas razas de caballos de tiro en el mundo, por lo que el comerciante exigente nunca carece de opciones si se plantea la idea de comprar una bestia de este tipo. El caballo de tiro es capaz de mover cargas de hasta 540 libras y puede tirar fácilmente de un carro cargado de aventureros y su botín por el sendero en caso de que se vuelvan perezosos en sus victorias.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Dragon Turtle": {
-			"name": "Dragón tortuga",
+			"name": "Dragón tortuga (Dragon Turtle)",
 			"description": ""
 		},
 		"Dretch": {
 			"name": "Dretch (Dretch)",
-			"description": "<blockquote>\n<p>The clamour could be heard well before the creatures shambled into sight.&nbsp; From across the valley we heard the battalion of Dretch.&nbsp; Hooting, snarling, and groaning all in an indistinguishable racket, these lowly demons bemoaned their existence even as they tried to suffocate ours.&nbsp; When the wave of Dretch approached the gate, we then saw their tactics on full display.&nbsp; Stupid and clumsy the beasts mashed and piled atop one another in order to force open the gate by sheer volume of their weight combined.&nbsp; When the beams finally began to splinter and those noxious, choking gases met our lungs… I thought I would die where I stood.<br><em>- an oral recounting of a demonic invasion by an unnamed soldier.</em></p>\n</blockquote>\n<p><strong>You Smell That?</strong> Very nearly the lowliest of all demonkind, Dretch are horrific and ugly little creatures who bulk out the forces of the Abyss in sheer numbers alone.&nbsp; Dretch resemble nothing more than a stocky, pale fleshed humanoid with a few additional features.&nbsp; The Dretch bears lopping, pointed ears and a mess of chipped, dirty fangs that protrude from pale gums in an erratic fashion.&nbsp; Long, thin arms ending in curved claws drape about a swollen belly, with the hands dragging across the ground next to stunted feet.&nbsp; The Dretch’s pale skin is loose and slides grotesquely across a spider web of blue and black varicose veins.&nbsp; Unintelligent and petty, Dretch spend their lives within the Abyss expressing their discontent at their status via a series of grunts and barks in the Abyssal tongue.&nbsp; Unsuitable for even the most mundane tasks due to their sheer stupidity, Dretch are utilized by other demons as cannon fodder in their everlasting war with the creatures of Hell.&nbsp; In combat, the Dretch are surely a pitiable sight as their foolishness leads them with only one clear tactic: a mad mob rush towards their enemy.&nbsp; Dretch are weak and cowardly (many would flee a foe if no greater demon is there to intimidate them back into battle) and prefer to overwhelm their enemy with their numbers.&nbsp; Should a sufficient contingent of Dretch break through their enemies defenses, the Dretch may then deploy a reeking cloud of putrid air from within their bodies which replenishes once daily.&nbsp; Immune to all poisons, the Dretch then pummel their opponents with their spindly arms as the enemies slowly fade away in the poison’s choking grasp.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<blockquote>\n<p>El clamor se podía oír mucho antes de que las criaturas se presentaran a la vista. Desde el otro lado del valle oímos al batallón de dretchs. Ululando, gruñendo y gimiendo, todo en un barullo indistinguible, estos humildes demonios se lamentaban de su existencia mientras intentaban sofocar la nuestra. Cuando la oleada de dretchs se acercó a la puerta, vimos sus tácticas al completo. Estúpidas y torpes, las bestias se amontonaron y apilaron unas sobre otras para intentar abrir la puerta por el mero hecho de sumar su peso. Cuando las traviesas finalmente comenzaron a astillarse y aquellos gases nocivos y asfixiantes se encontraron con nuestros pulmones... pensé que moriría allí mismo. <br><em>- un relato oral de una invasión demoníaca por parte de un soldado sin nombre.</em></p>\n</blockquote>\n<p><strong>¿Hueles eso?</strong> Los dretchs son las criaturas más débiles entre los demonios. Son criaturas horribles y feas que sobrepasan a las fuerzas del Abismo sólo por su número. Los dretchs no se parecen más que a un humanoide fornido y de carne pálida con algunos rasgos adicionales. El dretch posee unas orejas puntiagudas y un montón de colmillos astillados y sucios que sobresalen de las pálidas encías de forma irregular. Unos brazos largos y delgados que terminan en garras curvadas se extienden alrededor de un vientre hinchado, y las manos se arrastran por el suelo junto a unos pies atrofiados. La piel pálida del dretch está suelta y se desprende grotescamente de una maraña de venas varicosas azules y negras. Poco inteligentes y mezquinos, los dretchs se pasan la vida en el Abismo expresando su descontento por su estatus mediante una serie de gruñidos y ladridos en la lengua abisal. Inadecuados incluso para las tareas más mundanas debido a su pura estupidez, los dretchs son utilizados por otros demonios como carne de cañón en su eterna guerra con las criaturas del infierno. En combate, los dretchs son sin duda un espectáculo lamentable, ya que su estupidez sólo les lleva a una táctica clara: una loca carrera en tropel hacia su enemigo. Los dretchs son débiles y cobardes (muchos huirían de un enemigo si no hay un demonio mayor que los amedrente para volver a la batalla) y prefieren abrumar al enemigo con su número. Si un contingente suficiente de dretchs rompe las defensas de sus enemigos, éstos pueden desplegar una apestosa nube de aire pútrido desde el interior de sus cuerpos que se regenera una vez al día. Inmunes a todos los venenos, los dretchs golpean a sus oponentes con sus enjutos brazos mientras los enemigos se debilitan lentamente en la asfixiante influencia del veneno.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Drider": {
 			"name": "Draña (Drider)",
 			"description": ""
 		},
 		"Drow": {
-			"name": "Drow",
-			"description": "<blockquote>\n<p>Experts in poisons: Check.&nbsp; Beholden to ancient evils: Check.&nbsp; Can see you in the dark: Check.&nbsp; Now let me ask you this… why are you wanting to go stir up a nest of Drow?<br><strong>- a subterranean guide.</strong></p>\n</blockquote>\n<p>Drow were once the very same elves of the woods and cities we are more commonly aware of; however, a schism within the belief structures of various elvish factions forced a sect of elvenkind to flee below the surface of the world and take refuge within the massive subterranean caverns they found there.&nbsp; Within the caves their skin darkened to a deep pitch black and their hair faded to shades of white and silver.&nbsp; These elves, thin and regal in posture, became known as simply the Drow.&nbsp; As centuries passed beneath the world’s crust, the Drow adapted to their new surroundings in notable ways.</p>\n<p><strong>You Think the Darkness is your Ally?</strong>&nbsp;The Drow’s elven eyes, once adapted to see for miles in the bright sunlight, grew pale without the nourishment of the light and transformed into orbs keen at seeing anything within the pitch darkness of the underground.&nbsp; Drow have also learned to use the darkness to their advantage and may even creep to the surface world under the cover of night’s shadows to carry out raids upon villages nearby.&nbsp; This adaptation has not come without cost, however, as the Drow’s skin and eyes can no longer stand the burning sun.&nbsp; This forces the dark elves to utilize the night or sufficiently cover themselves to avoid the sun’s glare.&nbsp; Drow do still retain some of their elvish arcane abilities as they may not be charmed or forced to sleep by spellwork.&nbsp; Many Drow females (as Drows exist in a matriarchy) are also skilled sorcerers and priestesses who primarily choose to side with gods on the more sinister side of the pantheon.&nbsp; Other clever Drow have worked out methods of distilling certain poisons from underground mushrooms and creatures who lurk upon the cavern walls.&nbsp; These toxins are well known amongst connoisseurs of poisons for both their availability as well as their legendary potency.&nbsp; It is not uncommon for all soldiers in a Drow army to be equipped with at least one vial of potent poison.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+			"name": "Drow (Drow)",
+			"description": "<blockquote>\n<p>Expertos en venenos: Sí. Conocedores de males ancestrales: Sí. Pueden verte en la oscuridad: Sí. Ahora déjame preguntarte esto... ¿por qué quieres ir a agitar un nido de drows? <br><strong>- un guía subterráneo.</strong></p>\n</blockquote>\n<p>Los drows fueron una vez los mismos elfos de los bosques y ciudades que conocemos más comúnmente; sin embargo, un cisma dentro de las creencias de varias facciones élficas obligó a una secta de los elfos a huir bajo la superficie del mundo y refugiarse en las enormes cavernas subterráneas que encontraron allí. Dentro de las cuevas, su piel se oscureció hasta convertirse en un negro profundo y su pelo se desvaneció hasta alcanzar tonos blancos y plateados. Estos elfos, delgados y de postura regia, pasaron a ser conocidos simplemente como los drow. Con el paso de los siglos bajo la corteza del mundo, los drows se adaptaron a su nuevo entorno de forma notable.</p>\n<p><strong>¿Crees que la oscuridad es tu aliada?</strong> Los ojos élficos de los drows, antaño adaptados para ver a kilómetros de distancia bajo la brillante luz del sol, palidecieron sin el alimento de la luz y se transformaron en órbitas ávidas de ver cualquier cosa dentro de la oscuridad total del subsuelo. Los drows también han aprendido a utilizar la oscuridad en su beneficio e incluso pueden arrastrarse al mundo de la superficie al amparo de las sombras de la noche para llevar a cabo incursiones en las aldeas cercanas. Sin embargo, esta adaptación no ha sido gratuita, ya que la piel y los ojos de los drows ya no pueden soportar el ardiente sol. Esto obliga a los elfos oscuros a utilizar la noche o a cubrirse lo suficiente para evitar su resplandor. Los drows aún conservan algunas de sus habilidades arcanas élficas, ya que no pueden ser encantados o forzados a dormir por medio de conjuros. Muchas mujeres drow (ya que los drows existen en un matriarcado) son también hábiles hechiceras y sacerdotisas que eligen principalmente estar del lado de los dioses más siniestros del panteón. Otros astutos drows han elaborado métodos para destilar ciertos venenos a partir de hongos subterráneos y criaturas que acechan en las paredes de las cavernas. Estas toxinas son bien conocidas entre los expertos en venenos tanto por su disponibilidad como por su legendaria potencia. No es raro que todos los soldados de un ejército drow estén equipados con al menos un frasco de potente veneno.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Druid": {
-			"name": "Druida",
+			"name": "Druida (Druid)",
 			"description": "<p>Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Dryad": {
-			"name": "Dríada",
+			"name": "Dríade (Dryad)",
 			"description": ""
 		},
 		"Duergar": {
@@ -378,7 +378,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Eagle": {
-			"name": "Águila",
+			"name": "Águila (Eagle)",
 			"description": "<p>A proud scream from on high, a blur of feathers, and the sharp embrace of long, needle sharp talons upon your flesh mark that you may have angered this raptor: the Eagle. Eagles are noble birds who traverse the skies of our woodlands and mountains in search of fatty fish, rodents, or reptiles to keep them well-fed. Eagles have wingspans as tall as any humanoid, often reaching upwards of six and a half to seven feet long! It is with these powerful wings and their keen vision that an eagle can surprise its prey from soaring heights, giving the avian the element of surprise on unsuspecting prey. I myself have witnessed an eagle swoop down from on high and scoop up a noble woman’s small pet terrier, wrenching the yowling canine from the lady’s grasp before fading away into the afternoon skies. Truly these birds are powerful specimens!</p>\n<p><strong>Touch the Sky.</strong> The eagle prefers solitude when it can find it. The birds nest in homemade eyries, or nests, high above the world on mountain cliff faces. Here in the eyrie, the eagles lay their clutch of two eggs and raise a tiny, insular family with the female (and often much larger) chick taking dominance over any male born into the clan. The chicks grow under the care of their parents, being fed on a diet of regurgitated food until they are large enough to learn how to fly on their own. At this point, baby eagles are shunned from the nest and forced out into the world to fend for themselves.</p>\n<p><strong>Lone Ranger.</strong> Eagles make fine companions for those who understand that these birds of prey are no mere pet, but an equal ally in their adventurers. Rangers seem particularly fond of the eagle as a hunting partner, as the birds may roam far and wide during a hunt and bring their master back any spoils they’ve found on their quest. This specialized form of modern falconry utilizes the eagles as trackers as well, as the eagle may spot prey from a great distance, then return to their master and guide them towards the quarry. Should you be adventuring out into the world and have the patience for such a companion, perhaps consider the eagle as a recommended choice for seasoned hunters.</p>"
 		},
 		"Earth Elemental": {
@@ -390,7 +390,7 @@
 			"description": ""
 		},
 		"Elephant": {
-			"name": "Elefante",
+			"name": "Elefante (Elephant)",
 			"description": ""
 		},
 		"Elk": {
@@ -414,7 +414,7 @@
 			"description": ""
 		},
 		"Fire Giant": {
-			"name": "Gigante del fuego",
+			"name": "Gigante de fuego (Fire Giant)",
 			"description": ""
 		},
 		"Flesh Golem": {
@@ -434,11 +434,11 @@
 			"description": "<p>Frogs are the most common amphibian to inhabit our planet. Frogs live a primary amount of their lives in and around sources of water which makes them common to swamps, marshes, and bogs. This, of course, is necessary as without a nearby source of water the frog’s slick skin would dry out and kill the frog. Insect eaters by nature, the frog utilizes its long, sticky tongue to capture all manner of insects (Author’s Note: In the swamps of the south, eye witnesses have sworn to have seen a frog species large enough that they ate small birds plucked right from the air!). Frogs have a unique manner of locomotion as their hind legs are far longer and folded in comparison to their front appendages. This unique evolution allows the frog to hop about and make quite fantastic jumps when fully extending its hind legs.</p>\n<p><strong>Tadpole evolved into Frog.</strong> Frogs begin their lives as nothing more than a jelly-like egg the size of a pinky nail. Upon hatching, the tiny frogs now in their tadpole state resemble miniature living comets, being hardly more than a ovular head and long swishing tail to propel themselves through the water. Over the course of several weeks the baby frogs develop limbs and fully evolve into their more recognizable adult form. Truly a fascinating process of development most often seen in insect species that our researchers have dubbed “metamorphosis”. What other creatures of our ever changing world could possess such a fantastic transformation as the common frog?</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Frost Giant": {
-			"name": "Gigante de la escarcha",
+			"name": "Gigante de escarcha (Frost Giant)",
 			"description": ""
 		},
 		"Gargoyle": {
-			"name": "Gárgola",
+			"name": "Gárgola (Gargoyle)",
 			"description": "<p>False Appearance. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>\n<p>Actions</p>\n<p>Multiattack. The gargoyle makes two attacks: one with its bite and one with its claws.</p>\n<p>Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: <strong>5 (1d6 + 2) <em>piercing damage</em></strong>.</p>\n<p>Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: <strong>5 (1d6 + 2) <em>slashing damage</em></strong>.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Gelatinous Cube": {
@@ -450,7 +450,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ghost": {
-			"name": "Fantasma",
+			"name": "Fantasma (Ghost)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ghoul": {
@@ -498,7 +498,7 @@
 			"description": "<p>The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.</p>\n<p></p>"
 		},
 		"Giant Fire Beetle": {
-			"name": "Escarabajo de fuego gigante",
+			"name": "Escarabajo de fuego gigante (Giant Fire Beetle)",
 			"description": "<p>Deep below the earth, luminous swarms of black-shelled Giant Fire Beetles may be found by curious explorers. Though giant in only the relative sense to their non-illuminated cousins, the Giant Fire Beetle typically spans the width of an adult human’s hand. These tiny, docile titans content themselves in scuttling through darkened places such as caverns, catacombs, and mossy overgrowths in search of scraps to eat or a quiet, damp place in which to make their burrows.</p>\n<p><strong>Of Darkness and Light.</strong> Curiously enough, due to the species evolving without the natural light of our sun, the poor creature is completely blind. The Giant Fire Beetle, however, is not totally without senses. Using specialized antenna, these hardy insects are able to “see” the world around them within a slightly limited ranged. The true prize (as so many fledgling adventurers boast) is the orange bioluminescent glands located beneath either side of their mandibles and to the very rear of their abdomen. These firey hued glands are packed with a symbiotic, glowing fungus, which will continue to glow for up to one week once disconnected from their host! Some clever adventurers have taken to capturing live beetles, placing them within empty lanterns to light their way in remote caverns for even longer periods of time.</p>\n<p><strong>In Last Resort.</strong> Most often a peaceful insect, Giant Fire Beetles have been observed defending food in times of great hunger; the creatures will rarely flee a tasty morsel should they feel a threat to their meal is near. The Giant Fire Beetle does pack a nasty bite with its sharpened mandibles that may pierce even the toughest boiled leather armor should it feel threatened enough to attack. Take heed when approaching a swarm of these insects lest you suffer some nasty lacerations. Older texts on the nature of beasts do speak of a breed of Giant Fire Beetle that excreted a combustible fluid and ignited the mixture causing severe burns to the unwary. This has never been scientifically proven, but new discoveries happen each day!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Fly": {
@@ -566,7 +566,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Giant Wasp": {
-			"name": "Avispa gigante",
+			"name": "Avispa gigante (Giant Wasp)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Giant Weasel": {
@@ -598,7 +598,7 @@
 			"description": "<p>Ah the domestic goat, both the shepard&rsquo;s best friend and mortal enemy. Hailing from roots similar to antelope and sheep, the goat has become a mainstay in the world of domesticated farm animals. Goats resemble something of a shorn sheep with thick, bristle-like fur and small hooves adorning their nimble feet. Atop the goat&rsquo;s head rests a set of hard horns which, depending upon the species, can vary from short and knobby to long curled protrusions. The goats use their horns for both defense and contests of strength between fellow males (or billies) during spectacular ramming matches. The clattering of mountain goats&rsquo; horns can be heard clearly throughout the valley towns during the creature&rsquo;s mating seasons.</p>\n<p><strong>Of Evil and Garbage.</strong> Goats can be called nothing if not resourceful when it comes to what they choose to ingest. Goats will typically feed upon grass and weeds found in their favored open fields; however, several shepherds have noted their goats eating such objects as iron nails, bits of discarded clothing, and even the wheels of a wagon! The image of a goat has also been co opted by some of the more nefarious of our realm as a symbol of evil to represent various foul cults. Perhaps it is the goat&rsquo;s sinister horizontal pupil that elicits fear in onlookers or their common use by some cultures as a ritualistic sacrifice that drives the cults to utilize their visage. No matter the cause, goats continue to be an integral though stubborn part of our everyday lives as their meat, milk, and utility in flocks makes them a hardy domesticated creature.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Goblin": {
-			"name": "Trasgo",
+			"name": "Goblin (Goblin)",
 			"description": "<blockquote>\n<p>Putrid little runts… they ambushed us on the trail before we’d even been made aware we’d entered their “king’s” territory.&nbsp; They attacked from out of the bushes like a tidal wave of bodies crashing into our cart, all the while gibbering in their foul, snarl of a tongue.&nbsp; We should have been prepared for them, I recall their weaponry was so poor one bugger was swinging half a broom handle with a small iron spike driven through; nonetheless, they overwhelmed us with their surprise attack and made off with a hefty share of the camp’s rations for the next month.<br><em>Captain Will Freidmont of the Upper Wilds Valdyrguard.</em></p>\n</blockquote>\n<p>Goblins are evil creatures of diminutive stature who exist in almost every corner of the natural world as a constant yet generally manageable threat.&nbsp; Hailing from a group of creatures called goblinoids (which includes bugbears and hobgoblins), the goblin is a foul humanoid measuring no larger than the average halfling.&nbsp; Goblins have skin tones varying from light clay to deep chestnut brown to a sickly, acidic green, their hair is thin and greasy, and within their jaws rest cracked and sharpened teeth.&nbsp; Together with their foaming fellows, goblins form loose collectives or tribes so their power can stand pronounced in numbers.&nbsp; The tribal life also allows for a crude caste system to erupt from the goblin’s chaotic politics.&nbsp; All goblins have something to offer to the tribe, be they foragers, slavers, or warriors.&nbsp; If they cannot contribute, they die.</p>\n<p><strong>We Live in a Society.&nbsp;</strong> Capricious to the last, goblins crave nothing more than power and domination of all others around them by any means (including those methods dangerous to the goblin).&nbsp; Those goblins who possess enough might or cleverness may ascend to the rank of Goblin Boss and command a lair consisting of several dozens goblinoid fellows.&nbsp; Should ambition prove overwhelming, the boss in rare cases may subjugate nearby lairs of rival goblinoids and crown themselves a Goblin Queen/King.&nbsp; It has been documented that in one particular case, Queen Greld the Gutripper was able to enslave a camp containing hundreds of orcs, then laid siege to the city of Westerholt close by and sacked the entire city.</p>\n<p><strong>Gnash and Bite, Trick and Trap.</strong> Goblins maintain some of the most chaotic lairs within the known world, and to accomplish this the goblins require a plethora of slaves.&nbsp; Not always willing to murder those they plunder, goblins and their kin are known slavers, spiriting away captured humans from merchant wagons to contruct their insidious dungeons.&nbsp; WIthin a goblin lair is all manner of trap: tunnels leading nowhere, narrow passages no human could pass through, arrow slits, pits lined with spikes, and of course a multitude of alarms to warn the tribe of any impending danger.&nbsp; Goblins utilize chaotic placement within their lairs to throw off intruders from their hard earned loot which is kept safe within the lair’s heart.</p>\n<p><strong>And They Dance About the Flames.</strong> Goblins, though commonly thought of as greedy and stupid, leave their chaotic tendancies behind when it comes to the structure of religious worship.&nbsp; They are beholden in particular to The God of the Goblins, also called They Who Lurk Beneath, who acts as chief of all other gods to the goblinoids.&nbsp; This god encourages acts of violence, blind cruelty, enslaving others, as well as war amongst the enemies of the goblins.&nbsp; Goblin tribes will join together in times of worship to dance, perform rituals with blood and bone, build massive bonfires, and sew chaos throughout the lair all in devotion to their evil benefactor.&nbsp; Goblins, fueled by the spirit of the revelry, will then be exceedingly aggressive and volatile for the days after, raging through the surrounding area to sate the thirst of their cruel god.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Gold Dragon Wyrmling": {
@@ -618,7 +618,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Green Hag": {
-			"name": "Saga cetrina",
+			"name": "Saga verde (Green Hag)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Grick": {
@@ -626,7 +626,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Griffon": {
-			"name": "Grifo",
+			"name": "Grifo (Griffon)",
 			"description": ""
 		},
 		"Grimlock": {
@@ -650,11 +650,11 @@
 			"description": ""
 		},
 		"Harpy": {
-			"name": "Arpía",
+			"name": "Arpía (Harpy)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Hawk": {
-			"name": "Halcón",
+			"name": "Halcón (Hawk)",
 			"description": "<p>Following from our studies of the eagle comes to the smaller yet no less deadly hawk. Another bird of prey, the hawk may be differentiated from eagle species by its smaller frame. Hawks on average weigh no more than eight pounds and have a wingspan of only five feet. These miniscule raptors bear dark brown to deep red plumage unlike the eagle’s most common golden hue. Several species of these birds of prey have been observed employing different tactics in their hunting patterns as well; while the mighty eagle soars down from on high and lifts its prey off into the air with it, hawks prefer to lurk in the cover of trees, waiting for the opportune time to swoop in and surprise their prey from the shadows. Due to their keen eyesight as well as their smaller profile, hawks have been utilized as messenger birds by desert cultures for centuries. Clever and loyal, the hawk may be an option for the adventurer who prefers a raptor who enjoys the cover of shadows and stealth to aid them in their hunts.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Hell Hound": {
@@ -666,11 +666,11 @@
 			"description": ""
 		},
 		"Hill Giant": {
-			"name": "Gigante de las colinas",
+			"name": "Gigante de las colinas (Hill Giant)",
 			"description": ""
 		},
 		"Hippogriff": {
-			"name": "Hipogrifo",
+			"name": "Hipogrifo (Hippogriff)",
 			"description": ""
 		},
 		"Hobgoblin": {
@@ -694,7 +694,7 @@
 			"description": ""
 		},
 		"Hyena": {
-			"name": "Hiena",
+			"name": "Hiena (Hyena)",
 			"description": "<p>The hyenas who roam the grasslands and deserts of our natural world are perhaps some of the most curious non-magical creatures to exist. Hyenas resemble a medium sized dog with a short, wide muzzle and overly long neck. Adorned with patterns of spots or stripes marking their fur, to the untrained eyes a hyena would appear to be nothing more than a wild dog; however, these curious creatures are more closely related to wildcats in their behavior with fellows. Hyenas communally groom unlike several wild dog species and display similar scent marking and mating patterns as other feliforms. These sorts of behaviors build a solid community within the hyenas’ pack, sowing tight knit bonds between the beasts.</p>\n<p><strong>Give Us a Smile.</strong> Hyenas display a unique characteristic in their vocalizations between the pack; instead of a yowl or bark as one would expect, the hyenas instead communicate via yips, chirps, and “laughs”. Each member of the pack has its own unique “laugh” which signals to the pack both their identity and current mood. These chittering “laughs” have given the hyena (regardless of species to commoners) the moniker of The Laughing Hyena. One should instead feel caution over joy should you hear the caterwauling yips of a hyena pack in the distance. These beasts are highly intelligent and when banded together and utilizing their preferred hunting patterns they may easily overtake a large mercantile caravan.</p>\n<p><strong>The Hungering Savagery.</strong> The hyena’s most sinister aspect is their relation to the Demon Lord of the Gnolls, Yeenoghu. Gnolls, of course, resemble massive humanoid hyenas brandishing bloody weapons and sowing destruction in their horrid wakes. Finding the hyena either useful or ironic, Gnolls will bring packs of slavering hyenas with them on raids into villages or leave the beasts (which they purposefully starve) at their dens to kill any unwary explorers. Adventurers should be observant when investigating the happenings of hyenas in an area, as if the beasts seem more ravenous than expected it may be that Yeenoghu’s minions are not far behind.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Ice Devil": {
@@ -710,7 +710,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Invisible Stalker": {
-			"name": "Acechador invisible",
+			"name": "Acechador invisible (Invisible Stalker)",
 			"description": ""
 		},
 		"Iron Golem": {
@@ -750,15 +750,15 @@
 			"description": ""
 		},
 		"Lion": {
-			"name": "León",
+			"name": "León (Lion)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Lizard": {
-			"name": "Lagarto",
+			"name": "Lagarto (Lizard)",
 			"description": "<blockquote>\n<p>“Hey there Mr. Goodberry lookie here! I done got me a new earring!” <br><em>A gnomish resident of the swamps attaching lizards to his earlobes during my travels.</em></p>\n</blockquote>\n<p>The most common reptile who inhabits every locale from the forests to the mountain peaks is, of course, the lizard. These four legged friends are of course familiar to all whom read this tome and can come in thousands of various breeds and sizes. What makes these little reptiles so very unique (and possibly a fine form for your familiar) is their ability to cling to a multitude of surfaces. Adept at climbing, lizards may scale sheer surfaces and procure hidden vantage points from which to gaze down upon those you may wish to observe. Some varieties of lizards are also able to shift the pigmentation of their flesh, allowing for further subterfuge options! However, the humble lizard does not provide much in the way of offense as their bite is nothing more than a nuisance to most humanoids. The lizard is perhaps best left to the shadows, where it may observe the world unseen for its clever master.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Lizardfolk": {
-			"name": "Hombre lagarto",
+			"name": "Hombre lagarto (Lizardfolk)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Mage": {
@@ -794,7 +794,7 @@
 			"description": ""
 		},
 		"Merfolk": {
-			"name": "Tritón",
+			"name": "Tritón (Merfolk)",
 			"description": "<p>Adorned in shells and brightly hued aquatic plants, the Merfolk who inhabit the oceans of our world are truly unique in their evolution. Though many modern researchers do not abide by this tale, it is rumored that Merfolk evolved from a colony of humans whose city sank below the waves in a catastrophic accident. The Merfolk themselves, however, choose neither to confirm or deny this tale. Very basically, Merfolk resemble an average humanoid with a few key differences. Where one would expect to find legs beneath the torso of a human, they would instead find the powerful tail of a relatively sized fish. Merfolk also have frilled gills adorning their necks allowing them to breathe the salty waters of the ocean's depths. Several additional fins grace the Merfolk's lithe body about the biceps and hips. Upon the Merfolk's humanoid head rests a single, large frill webbed by translucent skin which may raise or fold back depending on the Merfolk's mood.</p>\n<p><strong>Murmaider.</strong> Merfolk live along the coastal waters of continental shelves, rarely allowing themselves to drift down into the darker depths of the ocean's abyss. Here in the more shallow tides, the Merfolk build their homes into thriving coral reefs, labyrinthian undersea caverns, and even the hollowed out remains of once coastal cities or sunken vessels. Anywhere shrouded from the view of prying land-dwellers makes the perfect home for a Merfolk. The Merfolk's reclusiveness is so well known, that mariners would tell fanciful tales of meeting a Merfolk for a midnight tryst, only to be abandoned at sunrise by the elusive creature. Most of the mariner's fellows would shove the notion aside, having never seen a living or dead Merfolk in all their years at sea. This is not to say that Merfolk will flee from intruders should an unfortunate landlubber find their way into a Merfolk's abode. Armed with spears of sharpened coral and powerful webbed hands ending in dagger-like barbs the Merfolk are well equipped to defend themselves within their aquatic homes. Take care on the open seas, adventurer, and never run afoul of the Merfolk.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Merrow": {
@@ -814,11 +814,11 @@
 			"description": ""
 		},
 		"Mule": {
-			"name": "Mulo",
+			"name": "Mula (Mule)",
 			"description": "<p>Mules are sturdy beasts of burden whom thrive in any climate of our marvelous world. The offspring of a horse and donkey, the now sterile, stubborn mule provides a plentiful sum of benefits from both of its progenitors. Mules can be difficult to tell apart from the common donkey; however, they are easily identified by several features: Mules are taller on average than a donkey with a flatter spine and shorter ears in comparison to a donkey's notoriously floppy ears. Something they retain from their parents is their surefooted nature, allowing mules to pass through difficult terrain such as muddy trails and rocky outcrops with more ease than other beasts. Beware the ass-end of this quiet creature, however, as mules have a mighty kick which they can deliver at force behind themselves much like a horse. Mules make excellent beasts of burden for the traveling merchant or road-bound adventuring party who needs an extra hoof or four to carry along their well-earned spoils. Why not take a mule, young adventurer, should you wager your next gambit at the hands of the goblins will provide you with ample reward?</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Mummy": {
-			"name": "Momia",
+			"name": "Momia (Mummy)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Mummy Lord": {
@@ -830,11 +830,11 @@
 			"description": ""
 		},
 		"Night Hag": {
-			"name": "Saga nocturna",
+			"name": "Saga nocturna (Night Hag)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Nightmare": {
-			"name": "Pesadilla",
+			"name": "Pesadilla (Nightmare)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Noble": {
@@ -846,11 +846,11 @@
 			"description": "<p>&nbsp;</p>"
 		},
 		"Octopus": {
-			"name": "Pulpo",
+			"name": "Pulpo (Octopus)",
 			"description": "<p>A highly developed sea creature, the octopus is a common fixture of the seas and coastlines. These octopods resemble nothing more than a wet piece of bulbous taffy with eight sprawling tentacles slithering out of its central body. Upon this gelatinous body lie two observant eyes and were one to look underneath the creature they would find a sharpened bird-like beak ready to steal a probing finger away. Octopi are solely waterborne animals due to their inability to breathe air, though with effort they may remain upon land for very short durations. Sailors find pleasure in attempting to take these intelligent beasts for pets, only to find that the octopus has escaped whatever confines it was stored in time and time again. As long as an opening is as wide as its hard chitinous beak, the moldable octopus’ body will follow into inconceivably tight spaces.</p>\n<p>Many breeds of octopus also bear special pigmentation cells which expand and contract to change their body’s color. This provides the octopus with an advantage when hunting for its prey of fish and crabs as they can blend in almost seamlessly with the ocean floor or a bed of coral. Rather than outright fight (unless left with no choice) the octopus has the unique defense of spraying a cloud of ink from the underside of its body to blind its foes and make a speedy escape. Do consider the octopus as a worthy familiar form should you find yourself at sea for an extended time!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Ogre": {
-			"name": "Ogro",
+			"name": "Ogro (Ogre)",
 			"description": ""
 		},
 		"Ogre Zombie": {
@@ -862,7 +862,7 @@
 			"description": ""
 		},
 		"Orc": {
-			"name": "Orco",
+			"name": "Orco (Orc)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Otyugh": {
@@ -874,7 +874,7 @@
 			"description": "<p>Owls are staple birds within our realm, as their mysterious gaze and quiet nature lends them as favorite pets to those of the arcane world. Owls are medium-sized birds of prey with flat, disk shaped faces and large dark eyes. A sharp beak sits at the center of their ovular face, built for tearing the flesh of small rodents. As deadly as they are silent, owls are nocturnal beasts who hunt from the shadows of treetops, barn lofts, or simply high above in an open field. Owls are able to fly in near silence due to a set of specialized feathers along their wing-tops, giving them the ability to glide down and surprise an unsuspecting vole without ever being heard. Owls are not the most sociable creatures, preferring to keep to their roosts in solitude making them treasured by arcanists as the bird primarily sits quietly throughout the day, lost in sleep. Owls also have a unique vocalization among birds, emitting a mournful hoot-hoot sound rather than the typical songbird tweeting. Perhaps consider the owl should you be uninterested in sociable animals or if you wish to send messages in relative secrecy in the dead of night.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Owlbear": {
-			"name": "Oso lechuza",
+			"name": "Oso lechuza (Owlbear)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Panther": {
@@ -886,7 +886,7 @@
 			"description": ""
 		},
 		"Phase Spider": {
-			"name": "Araña de fase",
+			"name": "Araña de fase (Phase Spider)",
 			"description": "<p>A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Pit Fiend": {
@@ -922,7 +922,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Purple Worm": {
-			"name": "Gusano púrpura",
+			"name": "Gusano púrpura (Purple Worm)",
 			"description": ""
 		},
 		"Quasit": {
@@ -938,11 +938,11 @@
 			"description": ""
 		},
 		"Rat": {
-			"name": "Rata",
+			"name": "Rata (Rat)",
 			"description": "<p>Denizens of filth, scavengers in our sewers, and vectors of contaigens, no singular animal may present such impact upon humanoid life as does the rat. Common place from the sprawling urban metropolis to the tiny barn of a poor farmer, rats inhabit every nook and cranny they may scurry in to. These small rodents, who can range in size from no bigger than your palm to the length of a forearm (with tail included) are quite ingenious little thieves. Rats are able to compress their bodies in such a manner that they can fit through spaces as small as the gap in the bottom of your door. Able to swim and navigate in the dark, some rats have been observed climbing out of small plumbing pipes, having scampered through the length of the tunnel to make it inside a merchant’s abode.</p>\n<p><strong>Rats Off to You.</strong> While many may dismiss the rat as nothing more than a common pest, even those not utilized as magical familiars are highly intelligent little creatures. Researchers have observed rats completing complex mazes, solving lever-action puzzles, and understanding the world around them to a degree unseen in other animals. A clever street-dweller could certainly train a rat to filch food or a few shiny coins from an unwatched coin purse, should the rat get adequate reward itself. Do be wise in your selection of companion, however, as some rats carry deadly diseases from insects that nestle in their short fur. Along with its sharp, clinging claws, the rat packs a powerful bite thanks to its elongated incisor teeth. Be observant, young hero, should you see a rat nearby, for the simple creature may house a secret within its black, unblinking eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Raven": {
-			"name": "Cuervo",
+			"name": "Cuervo (Raven)",
 			"description": "<p>Ah yes, a personal favorite of this author, the raven is a singularly noble and clever bird vested in a shroud of twilight. The ebony feathered bird reaches height of nearly two and a half feet tall and bears a thick, dark beak which is perfectly utilized in its scavenging diet of carrion, unattended grains, and insects. However, something truly special lurks behind the dark abyss of this bird’s eyes. Should you be prepared, adventurer, the effort put into training the raven will be given back tenfold.</p>\n<p><strong>Musings and Mimicry.</strong> Ravens are unique specimens among birds; by listening intently and practicing often the raven is able to mimic sounds it hears perfectly. From noises of forest animals to the precise timbre of their master’s call, ravens are among the most seamless mimics to be found in the animal kingdom. Truly adventurer, the possibilities to employ the raven’s mimicry are nearly limitless! You may see another example of this perfect mimicry in a larger cousin to this bird as well: the humanoid Kenku. Raven-like in form these little humanoids share the feathers and large beaks of their brethren, as well as their ability to copy the sounds of the world around them. Consider a second listen when you hear a voice but cannot place its location, for perhaps the raven speaks from the rafters above you, upon a midnight dreary.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Red Dragon Wyrmling": {
@@ -958,7 +958,7 @@
 			"description": ""
 		},
 		"Rhinoceros": {
-			"name": "Rinoceronte",
+			"name": "Rinoceronte (Rhinoceros)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Riding Horse": {
@@ -978,7 +978,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Rust Monster": {
-			"name": "Monstruo corrosivo",
+			"name": "Monstruo corrosivo (Rust Monster)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Saber-Toothed Tiger": {
@@ -994,7 +994,7 @@
 			"description": ""
 		},
 		"Satyr": {
-			"name": "Sátiro, fauno",
+			"name": "Sátiro (Satyr)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Scorpion": {
@@ -1006,7 +1006,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Sea Hag": {
-			"name": "Saga marina",
+			"name": "Saga marina (Sea Hag)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Sea Horse": {
@@ -1014,7 +1014,7 @@
 			"description": "<p>Seahorses are one of the most docile and beautiful creatures in all of our oceans. Seahorses sport a narrow, long body ending in a curled tail with which they cling to sea plants. The seahorse’s head is long and narrow (resembling its land-dwelling namesake) tipped with a flute-like nose. Seahorses lack many of the supportive fins in comparison to other sea creatures, rather they have one long fin along their spine and two miniscule fins on opposite sides of their torsos which allow the tiny creatures to propel themselves through the water. Unfortunately these docile creatures do not make the best familiar choices as they only inhabit tropical, shallow waters to utilize the cover of corals for protection. Seahorses should be observed and enjoyed, but I would advise endangering your familiar by placing it into this beautiful little form.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Shadow": {
-			"name": "Sombra",
+			"name": "Sombra (Shadow)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Shambling Mound": {
@@ -1022,7 +1022,7 @@
 			"description": ""
 		},
 		"Shield Guardian": {
-			"name": "Guardián escudo",
+			"name": "Guardián escudo (Shield Guardian)",
 			"description": ""
 		},
 		"Shrieker": {
@@ -1034,7 +1034,7 @@
 			"description": ""
 		},
 		"Skeleton": {
-			"name": "Esqueleto",
+			"name": "Esqueleto (Skeleton)",
 			"description": "<blockquote>\n<p>The first time you see those hollow sockets staring back at you with some semblance of thought inside the skull, I advise to quash any feelings of accomplishment.&nbsp; The skeletal servant you have raised is little more than a brainless husk.&nbsp; Without proper, and I mean proper, instruction, the bones in front of you might as well have remained dusty upon the floor.&nbsp; Explain the orders carefully and lay out the steps of your new servant’s tasks with exceeding care.&nbsp; Also, should you catch your skeletal friend partaking in the activities of their former life, do not scold them.&nbsp; The mundane routine of chopping wood or swinging a hammer can allow for more malleable servants as time continues.<br><em>The Book of Dark Servants, Vol III.</em></p>\n</blockquote>\n<p>Skeletons are beings raised into undeath by the will of necromantic magic.&nbsp; The necromantic magics used within the ritual can either be cast by a trained hand or simply seep into the bones of the skeleton in areas of concentrated death.&nbsp; Cemeteries, catacombs, and battle fields are all subject to the sporadic rising of skeletons into their new lives.&nbsp; The magic not only keeps the skeleton “living”, but it also binds joints and bones together like spectral ligaments.&nbsp; With its second life, the skeleton acts as a semi-mindless creature serving its master’s will.</p>\n<p><strong>Spooky Scary.</strong> For the up and coming necromancer, skeletons make worthy guards for a hidden repository of forbidden knowledge.&nbsp; Skeletons will follow simple to mildly complex orders given (such as forming a protective circle or constructing minor defenses) without the necromancer needing to worry about the durability of their creations.&nbsp; The skeletons will avoid danger and refuse to injure themselves unless explicitly ordered by their master.&nbsp; Skeletons do seem to grow rather bored without direction and have been observed ambling around an area performing simple actions from their past lives.&nbsp; One notable skeleton I recall was still able to cast their fishing line, though clumsily at best, into the nearby lake.&nbsp; Skeletons, however, are not utilized for their prior skills but as guardians of the necromancer who summoned them back from the hells.&nbsp; Skeletons are more than capable when swinging a sword or firing a crossbow, finding martial prowess in death that they may have lacked in life thanks to the dark power flowing through their marrow.</p>\n<blockquote>\n<p>Author’s Note: Not all skeletal adversaries in an adventurer’s journey will be humanoid.&nbsp; Be wary, as significant magics can summon back more powerful skeletal monsters.</p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Solar": {
@@ -1070,7 +1070,7 @@
 			"description": "<p>Stirges are foul little nasties who lurk deep within caverns and catacombs. Stirges resemble nothing more than a slightly oversized bat crossed with a mosquito; however, upon closer inspection the Stirge reveals much more. Coated in greasy, pink flesh (save for a small tufted mane of white fur about its head and neck) the Stirge is equipped with a pair of small, bat-like wings made of stretched flesh between struts of thin bone. The skin here at the wing is so thin that light may easily shine through the beast's wings revealing the tiny vesicles within. Stirges also possess a set of six, spindly legs above their pig-like tail. Each leg is tipped with a set of hooked claws which allows the fiend to grip into the flesh of its prey and hang on should a struggle ensue. However, there is one more feature that makes the Stirge truly repugnant.</p>\n<p><strong>What's Your Type?</strong> Stirges are notable for their ravenous desire to consume the blood of living organisms. These beasts accomplish this foul act with aid from the needle-sharp proboscis waiting at the end of its oversized snout. Gifted with the ability of flight, the Stirge dives down upon an unsuspecting enemy and clamps onto their body with the aid of their barbed claws. The Stirge then drives its proboscis into their victim's flesh, sucking out ounce after ounce of warm blood. Only when the Stirge is sufficiently sated (or battered away) will it release its victim to flee into the darkness where it may digest its liquid lunch. Act fast if Stirges are in the area, lest a swarm of them suck you dry before you have time to react.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Stone Giant": {
-			"name": "Gigante de piedra",
+			"name": "Gigante de piedra (Stone Giant)",
 			"description": ""
 		},
 		"Stone Golem": {
@@ -1078,7 +1078,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Storm Giant": {
-			"name": "Gigante de la tormenta",
+			"name": "Gigante de las tormentas (Storm Giant)",
 			"description": ""
 		},
 		"Succubus/Incubus": {
@@ -1126,7 +1126,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Tarrasque": {
-			"name": "Tarasca",
+			"name": "Tarasca (Tarrasque)",
 			"description": ""
 		},
 		"Thug": {
@@ -1134,7 +1134,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Tiger": {
-			"name": "Tigre",
+			"name": "Tigre (Tiger)",
 			"description": "<p>Pounce. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a  <strong>DC 13 Strength</strong> saving throw or be knocked <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>. If the target is <a class=\"entity-link broken\" draggable=\"true\" data-entity=\"JournalEntry\" data-id=\"null\"><i class=\"fas fa-unlink\"></i> Prone</a>, the tiger can make one bite attack against it as a bonus action.</p>\n<p>Actions</p>\n<p>Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>8 (1d10 + 3) <em>piercing damage</em></strong>.</p>\n<p>Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: <strong>7 (1d8 + 3) <em>slashing damage</em></strong>.</p>\n<p></p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Treant": {
@@ -1150,7 +1150,7 @@
 			"description": ""
 		},
 		"Troll": {
-			"name": "Trol",
+			"name": "Troll (Troll)",
 			"description": ""
 		},
 		"Tyrannosaurus Rex": {
@@ -1162,7 +1162,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Vampire": {
-			"name": "Vampiro",
+			"name": "Vampiro (Vampire)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Vampire Spawn": {
@@ -1174,7 +1174,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Violet Fungus": {
-			"name": "Hongo violáceo",
+			"name": "Hongo violeta (Violet Fungus)",
 			"description": "<p>Lurking within abandoned mines and moist caverns rests the humanoid-sized mushroom dubbed the Violet Fungus.&nbsp; Named for its vibrant purple cap, the violet fungus loses all semblance to an average mushroom there.&nbsp; Standing tall upon a thick white trunk, the violet fungus creeps across cavern floors at a laborious pace utilizing tiny cillia-like tendrils at its base.&nbsp; Keeping this snail’s pace, the violet fungus roams the depths for its preferred sustenance: rotting flesh.&nbsp; Should a living morsel wander precariously close to the fungus, the violet fungus will lash out with one of four long feeler tentacles rooted deep inside its purple cap.&nbsp; These feelers contain special enzymes which, upon contact with living flesh, rots the organic material instantly.&nbsp; Should a creature fall victim to the fungus, it will be consumed along with the other detritus littering the cavern floor.&nbsp; Violet fungi themselves have a special relationship with the death they consume.&nbsp; A violet fungus that is destroyed will regrow within two weeks from the remains of its former body should the remains not be fully burned.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Vrock": {
@@ -1198,7 +1198,7 @@
 			"description": ""
 		},
 		"Weasel": {
-			"name": "Comadreja",
+			"name": "Comadreja (Weasel)",
 			"description": "<p>Weasels dwell in a variety of locations from snowy tundra, to pine forests, to the open flowery plains of our planet. Weasels are tiny, long bodied mammals reaching approximately eight inches in length and bearing coat colorations ranging from chestnut brown to pale white. The weasel’s long body allows it to easily wedge itself into a rodent’s burrow and pull the critter out for a tasty meal. Weasels make quite effective pest controllers in their territories as they eat multitudes of rodents annually. These little cleaners are, however, often considered to be pests in their own right; farmers across the countryside report that their poultry is killed or stolen away by sneaky weasels making their way into their chicken coops. While not the most deadly mammal in the world, the weasel does pack a nasty, sharp-toothed bite. Keep your curious fingers out of any small rodent burrows you find, lest you end up provoking a weasel during his well-earned meal.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Werebear": {
@@ -1226,7 +1226,7 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Wight": {
-			"name": "Tumulario",
+			"name": "Tumulario (Wight)",
 			"description": ""
 		},
 		"Will-o'-Wisp": {
@@ -1234,11 +1234,11 @@
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Winter Wolf": {
-			"name": "Lobo invernal",
+			"name": "Lobo invernal (Winter Wolf)",
 			"description": ""
 		},
 		"Wolf": {
-			"name": "Lobo",
+			"name": "Lobo (Wolf)",
 			"description": "<p>Wolves are the largest of the wild dog species roaming the plains and forests of our wonderful world.&nbsp; Anywhere from light brown to a midnight black in coloration, wolves stand as the common ancestor to all natural dog species currently inhabiting the planet.&nbsp; Wolves have a long, broad muzzle filled with sharp teeth, a thick coat to insulate them from difficult winters, and keen eyes and ears with which they may track a target.&nbsp; The most amazing aspect of the wolf is its incredible nose which can smell prey from up to one and a half miles away.&nbsp; This amazing nose (packed with hundreds of millions of scent receptors) can also determine the mood of other wolves, what they’ve eaten, and even where they’ve been..</p>\n<p><strong>The Wolves Among Us.</strong> As is common with many other dog species, wolves live in communities called packs.&nbsp; WIthin the pack, wolves hunt together, raise their young together, and provide group protection.&nbsp; When encountering wolves, be wary should you only spy a single animal prowling the area.&nbsp; It’s quite likely where there is a straggler wolf, the rest of the pack lurks nearby ready to defend their family from attack.&nbsp; Wolves, which unable to speak, are able to “communicate” via barks and growls as well as follow simplistic tactics such as flanking maneuvers or surprise attacks.&nbsp; The strength of the pack allows for the wolves to combine their intelligence and form a deadly fighting force of gnashing teeth.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Worg": {
@@ -1246,7 +1246,7 @@
 			"description": "<p>A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Wraith": {
-			"name": "Incorpóreo",
+			"name": "Aparición (Wraith)",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Wyvern": {
