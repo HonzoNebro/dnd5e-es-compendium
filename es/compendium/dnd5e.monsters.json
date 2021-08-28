@@ -159,7 +159,7 @@
 		},
 		"Bandit Captain": {
 			"name": "Capitán bandido (Bandit Captain)",
-			"description": "<p>Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.</p>\n<p>Los capitanes piratas (una variante del capitán bandido) tienen, además de todo esto, un barco que proteger y gobernar. Para ganarse la lealtad de su tripulación deben recompensarla y castigarla a partes iguales.</p>\n<p>Aunque lo que un capitán bandido (o pirata) anhela realmente no son las riquezas, sino la fama. Los prisioneros que apelen al ego o la vanidad de un capitán tendrán más posibilidades de ser tratados con dignidad que quienes afirmen no haber oído hablar de sus andanzas.</p>\n<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": "<p>Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.</p>\n<p>Los capitanes piratas (una variante del capitán bandido) tienen, además de todo esto, un barco que proteger y gobernar. Para ganarse la lealtad de su tripulación deben recompensarla y castigarla a partes iguales.</p>\n<p>Aunque lo que un capitán bandido (o pirata) anhela realmente no son las riquezas, sino la fama. Los prisioneros que apelen al ego o la vanidad de un capitán tendrán más posibilidades de ser tratados con dignidad que quienes afirmen no haber oído hablar de sus andanzas.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Barbed Devil": {
 			"name": "Diablo barbado (Barbed Devil)",
@@ -303,7 +303,7 @@
 		},
 		"Cult Fanatic": {
 			"name": "Sectario fanático (Cult Fanatic)",
-			"description": "<p>Los fanáticos suelen ocupar las posiciones de liderazgo de las sectas, recurriendo a su carisma y excusándose en el dogma del culto para influenciar y aprovecharse de las personas de voluntad más débil. La prioridad principal de la mayoría de ellos es conseguir poder para sí mismos.</p></p>\n<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": "<p>Los fanáticos suelen ocupar las posiciones de liderazgo de las sectas, recurriendo a su carisma y excusándose en el dogma del culto para influenciar y aprovecharse de las personas de voluntad más débil. La prioridad principal de la mayoría de ellos es conseguir poder para sí mismos.</p></p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Cultist": {
 			"name": "Sectario (Cultist)",
@@ -315,7 +315,7 @@
 		},
 		"Death Dog": {
 			"name": "Perro del inframundo (Death Dog)",
-			"description": "<p>Los perros del inframundo son horribles sabuesos bicéfalos que moran en las llanuras y desiertos. El odio arde con fuerza dentro de sus corazones y su ansia por la carne de humanoide les lleva a atacar a viajeros y exploradores. La saliva de los perros del inframundo transmite una enfermedad nauseabunda, que provoca que la piel de los que la sufren se pudra lentamente, hasta solo quedar el hueso.</p>\n<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": "<p>Los perros del inframundo son horribles sabuesos bicéfalos que moran en las llanuras y desiertos. El odio arde con fuerza dentro de sus corazones y su ansia por la carne de humanoide les lleva a atacar a viajeros y exploradores. La saliva de los perros del inframundo transmite una enfermedad nauseabunda, que provoca que la piel de los que la sufren se pudra lentamente, hasta solo quedar el hueso.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Deep Gnome": {
 			"name": "Gnomo de las profundidades (Deep Gnome)",
@@ -363,7 +363,7 @@
 		},
 		"Druid": {
 			"name": "Druida (Druid)",
-			"description": "<p>Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.</p>\n<p></p><p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": "<p>Los druidas habitan en los bosques y otros lugares silvestres aislados, donde protegen el mundo natural de los monstruos y la invasión de la civilización. Algunos son chamanes tribales que curan a los enfermos, rezan a los espíritus de los animales y proporcionan orientación espiritual.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Dryad": {
 			"name": "Dríade (Dryad)",
@@ -371,11 +371,11 @@
 		},
 		"Duergar": {
 			"name": "Duergar (Duergar)",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Dust Mephit": {
 			"name": "Mephit de polvo (Dust Mephit)",
-			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Eagle": {
 			"name": "Águila (Eagle)",
