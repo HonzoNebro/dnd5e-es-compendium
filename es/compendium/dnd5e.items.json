@@ -94,8 +94,8 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando llevas puesta esta armadura, tienes resistencia a un tipo de daño de entre los siguientes: contundente, cortante o perforante. El DM elige el tipo o lo determina al azar.</p>\n<p><strong>Maldición</strong>. Esta armadura esta maldita, circunstancia que solo se revela cuando se usa el conjuro de Identificar sobre ella o te sintonizas con ella. Sintonizarse con la armadura te maldice hasta que seas objetivo del conjuro levantar maldición o un efecto mágico similar. Quitarse la armadura no acaba con la maldición. Mientras estés maldito, de los tres tipos de daño mencionados arriba, eres vulnerable a los dos contra los que la armadura no te proporciona resistencia.</p>"
 		},
 		"Arrow": {
-			"name": "Arrow",
-			"description": "<p>Standard ammunition used for bows of all varieties. These mundane arrows are made of smooth wooden shafts with goose feather fletching and hammer metal bodkins.</p>"
+			"name": "Flecha",
+			"description": "<p> Munición estándar utilizada para arcos de todas las variedades. Estas flechas mundanas están hechas de ejes lisos de madera con plumas de ganso y puntas de metal. </p>"
 		},
 		"Arrow +1": {
 			"name": "Flecha +1 (Arrow +1)",
@@ -459,7 +459,7 @@
 		},
 		"Chess Set": {
 			"name": "Chess Set",
-			"description": "<p>This item is a complete set of chess pieces and board. The board can also be used for variations of draughts and checkers.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"description": "<p> Este equipo es un juego completo de naipes de apuesta de los tres dragones, sin marcar o marcado. </p>"
 		},
 		"Chest": {
 			"name": "Cofre (Chest)",
@@ -683,7 +683,7 @@
 		},
 		"Dice Set": {
 			"name": "Dice Set",
-			"description": "<p>This item encompasses a wide range of dice, both straight and weighted.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Tu Fuerza pasa a ser de 19 cuando llevas estos guanteletes. No tienen efecto si tu Fuerza ya era de 19 o mayor sin ellos.</p>"
 		},
 		"Dimensional Shackles": {
 			"name": "Grilletes dimensionales (Dimensional Shackles)",
@@ -1722,8 +1722,8 @@
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Navigator's Tools": {
-			"name": "Navigator's Tools",
-			"description": "<p>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</p>"
+			"name": "Herramientas de navegante",
+			"description": "<p>Un cuerno de cualquier variedad para evocar asombro o miedo en la audiencia.</p><p>Si tienes competencia con él, puedes agregar tu bonificaci&oacute;n de competencia a cualquier prueba de habilidad que realices para tocar m&uacute;sica con este instrumento. Un bardo puede usarlo como foco de lanzamiento de hechizos.</p>"
 		},
 		"Necklace of Adaptation": {
 			"name": "Collar de adaptación (Necklace of Adaptation)",
@@ -1919,10 +1919,10 @@
 		},
 		"Playing Cards Set": {
 			"name": "Playing Cards Set",
-			"description": "<p>This item encompasses a wide range of playing card types, both unmarked and marked.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"description": "<p><em>Objeto maravilloso</em></p><p>Este prisma tiene 50 cargas. Mientras lo sostengas, puedes usar una acci&oacute;n para pronunciar una de las tres palabras de activaci&oacute;n y causar uno de los siguientes efectos:</p><ul><li>La primera palabra de activaci&oacute;n hace que la gema emita luz brillante en un radio de 30 pies y luz tenue otros 30 pies m&aacute;s all&aacute;. Este efecto no gasta una carga. Dura hasta que utilices una acci&oacute;n adicional para repetir la palabra de activaci&oacute;n o hasta que emplees otra funci&oacute;n de la gema.<br /><br /></li><li>La segunda palabra de activaci&oacute;n gasta 1 carga y provoca que la gema lance un rayo cegador de luz a una criatura que puedas ver y que se encuentre a 60 pies o menos de ti. Deber&aacute; superar una tirada de salvaci&oacute;n de Constituci&oacute;n CD 15 o estar&aacute; cegada durante 1 minuto. La criatura puede repetir la tirada de salvaci&oacute;n al final de cada uno de sus turnos, libr&aacute;ndose del efecto si tiene &eacute;xito.<br /><br /></li><li>La tercera palabra de activaci&oacute;n utiliza 5 cargas y hace que la gema se ilumine con un fulgor que cubre un cono de 30 pies con origen en ella misma. Cada criatura dentro del cono deber&aacute; hacer una tirada de salvaci&oacute;n como si hubiera sido afectada por el rayo creado con la segunda palabra de activaci&oacute;n.</li></ul><p>Cuando todas las cargas de la gema se gastan, esta se convierte en una joya mundana valorada en 50 po.</p>"
 		},
 		"Poisoner's Kit": {
-			"name": "Poisoner's Kit",
+			"name": "Útiles de envenenador",
 			"description": "<p>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</p>"
 		},
 		"Pole": {
@@ -2782,8 +2782,8 @@
 			"description": "<p>Es un tipo de recipiente para beber que consiste en un vaso grande, más o menos cilíndrico, con una sola asa.</p>"
 		},
 		"Thieves' Tools": {
-			"name": "Thieves' Tools",
-			"description": "<p>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</p>"
+			"name": "Herramientas de ladrón",
+			"description": "<p><em>Objeto maravilloso (requiere sintonizaci&oacute;n con una criatura de alineamiento bueno)<br /></em></p><p>Este talism&aacute;n es un poderoso s&iacute;mbolo del bien. Una criatura cuyo alineamiento no sea ni bueno ni malo recibe [[/r 6d6]] de da&ntilde;o radiante si lo toca. En cambio, si es de alienamiento malo, sufrir&aacute; [[/r 8d6]] de da&ntilde;o radiante. En cualquiera de los dos casos, reciben el da&ntilde;o de nuevo cada vez que terminan su turno y est&aacute;n sosteniendo o llevando el talism&aacute;n.</p><p>Si eres un cl&eacute;rigo o palad&iacute;n bueno, puedes usar el talism&aacute;n como s&iacute;mbolo sagrado y obtienes un bonificador de +2 a las tiradas de ataque con conjuros mientras lo vistas o lo sostengas.</p><p>El talism&aacute;n tiene 7 cargas. Si lo llevas puesto o lo est&aacute;s sosteniendo, puedes emplear una acci&oacute;n para gastar 1 carga y elegir una criatura sobre el suelo, que puedas ver, y que se encuentre a 120 pies o menos de ti. Si el objetivo es de alineamiento ma lvado, una grieta ardiente se abrir&aacute; bajo &eacute;l. El objetivo deber&aacute; tener &eacute;xito en una tirada de salvaci&oacute;n de Destreza CD 20 o caer&aacute; en la grieta y ser&aacute; destruido, sin dejar ning&uacute;n resto mortal. Despu&eacute;s, la grieta se cerrar&aacute;, sin quedar se&ntilde;al alguna de su existencia. Cuando gastas la &uacute;ltima carga, el talism&aacute;n se convierte en motas de luz dorada y queda destruido.</p>"
 		},
 		"Tinderbox": {
 			"name": "Yesquero (Tinderbox)",
