@@ -315,7 +315,7 @@
 		},
 		"Fighting Style: Two-Weapon Fighting": {
 			"name": "Fighting Style: Two-Weapon Fighting",
-			"description": "<p>Cuando est&eacute;s combatiendo con dos armas, puedes a&ntilde;adir tu modificador por caracter&iacute;stica al da&ntilde;o del segundo ataque.</p>"
+			"description": "<p>Cuando estés combatiendo con dos armas, puedes añadir tu modificador por característica al daño del segundo ataque.</p>"
 		},
 		"Foe Slayer": {
 			"name": "Azote de Enemigos (Foe Slayer)",
@@ -447,7 +447,7 @@
 		},
 		"Invocation: Lifedrinker": {
 			"name": "Invocation: Lifedrinker",
-			"description": "<p><em>Requisitos: nivel 12, rasgo Pacto del Pilo.</em></p><p>Cuando impactes a una criatura con tu arma de pacto, infligir&aacute;s tanto da&ntilde;o necr&oacute;tico adicional como tu modificador por Carisma (como m&iacute;nimo 1).</p>"
+			"description": "<p>Cuando impactes a una criatura con tu arma de pacto, infligirás tanto daño necrótico adicional como tu modificador por Carisma (como mínimo 1).</p>"
 		},
 		"Invocation: Mask of Many Faces": {
 			"name": "Invocación: Mascara de los Mil Rostros (Mask of Many Faces)",
@@ -475,7 +475,7 @@
 		},
 		"Invocation: Otherworldly Leap": {
 			"name": "Invocation: Otherworldly Leap",
-			"description": "<p><em>Requisitos: nivel 9.</em></p><p>Puedes lanzar @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{Salto} sobre ti mismo a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales.</p>"
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{Salto} sobre ti mismo a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales.</p>"
 		},
 		"Invocation: Repelling Blast": {
 			"name": "Invocación: Descarga Ahuyentadora (Repelling Blast)",
