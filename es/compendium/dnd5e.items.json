@@ -45,8 +45,8 @@
 			"name": "Fuego de alquimista (Alchemist's Fire)",
 			"description": "<p>Este fluido pegajoso y adherente prende al entrar en contacto con el aire. Como acción, puedes lanzar este frasco hasta a 20 pies, rompiéndose con el impacto. Haz un ataque a distancia contra la criatura o el objeto, tratando el fuego de alquimista como un arma improvisada: si tienes éxito, el objetivo recibirá 1d4 de daño de fuego al comienzo de cada uno de sus turnos. Una criatura puede utilizar su acción para extinguir las llamas y evitar que se siga produciendo este daño. Deberá superar una prueba de Destreza CD 10 para lograrlo.</p>"
 		},
-		"Alchemist's supplies": {
-			"name": "Suministros de alquimista (Alchemist's supplies)",
+		"Alchemist's Supplies": {
+			"name": "Suministros de Alquimista (Alchemist's supplies)",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alquimista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Alchemy Jug": {
@@ -93,6 +93,10 @@
 			"name": "Armadura de vulnerabilidad (Armor of Vulnerability)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando llevas puesta esta armadura, tienes resistencia a un tipo de daño de entre los siguientes: contundente, cortante o perforante. El DM elige el tipo o lo determina al azar.</p>\n<p><strong>Maldición</strong>. Esta armadura esta maldita, circunstancia que solo se revela cuando se usa el conjuro de Identificar sobre ella o te sintonizas con ella. Sintonizarse con la armadura te maldice hasta que seas objetivo del conjuro levantar maldición o un efecto mágico similar. Quitarse la armadura no acaba con la maldición. Mientras estés maldito, de los tres tipos de daño mencionados arriba, eres vulnerable a los dos contra los que la armadura no te proporciona resistencia.</p>"
 		},
+		"Arrow": {
+			"name": "Flecha",
+			"description": "<p>Munición común utilizada por arcos de cualquier tipo. Estas flechas mundanas están hechas de lisas varas de madera con plumas de ganso y puntas de metal.</p>"
+		},
 		"Arrow +1": {
 			"name": "Flecha +1 (Arrow +1)",
 			"description": "<p>Munición utilizada por arcos de cualquier tipo. Se ha imbuido con magia.</p>\n<p>Tienes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
@@ -112,10 +116,6 @@
 		"Arrow-Catching Shield": {
 			"name": "Escudo atrapaflechas (Arrow-Catching Shield)",
 			"description": "<p>Mientras empuñes este escudo, obtienes un bonificador de +2 a tu CA contra ataques a distancia. Es te bonificador se añade al bonificador a la CA normal del escudo. Además, cuando un atacante realice un ataque a distancia contra un objetivo que se encuentre a 5 pies o menos de ti, podrás usar tu reacción para convertirte en el objetivo del ataque.</p>"
-		},
-		"Arrows": {
-			"name": "Flechas (Arrows)",
-			"description": "<p>Munición común utilizada por arcos de cualquier tipo. Estas flechas mundanas están hechas de lisas varas de madera con plumas de ganso y puntas de metal.</p>"
 		},
 		"Backpack": {
 			"name": "Mochila (Backpack)",
@@ -457,6 +457,10 @@
 			"name": "Tiza (Chalk)",
 			"description": "<p>Es una roca sedimentaria de acarbonato blanda y porosa, es decir, una especie de piedra caliza compuesta por el mineral calcita. Puede utilizarse para dibujar formas.</p>"
 		},
+		"Chess Set": {
+			"name": "Juego de ajedrez (Chess Set)",
+			"description": "<p>Este objeto es un juego completo de piezas y tablero de ajedrez. El tablero también se puede utilizar para las distintas variantes de damas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
+		},
 		"Chest": {
 			"name": "Cofre (Chest)",
 			"description": "<p>Un cofre contiene 12 pies cúbicos o 300 libras de equipo.</p>"
@@ -676,6 +680,10 @@
 		"Demon Armor": {
 			"name": "Armadura demoníaca (Demon Armor)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Mientras lleves esta armadura de placas, obtienes un bonificador de +1 a tu CA y puedes entender y hablar abisal. Además, los guanteletes con garras de la armadura convierten tus ataques sin armas hechos con tus manos en armas mágicas que infligen daño cortante, con un bonificador de +1 a las tiradas de ataque y daño y cuyo dado de daño es 1d8.</p>\n<p><strong>Maldición.</strong> Una vez te pones esta armadura, no puedes quitártela hasta que seas objetivo de un conjuro de @Compendium[dnd5e.spells.XZhdgVK3cLoxNCQl]{Levantar maldición} o un efecto mágico similar. Mientras lleves esta armadura, tienes desventaja en tiradas de ataque contra demonios y en tiradas de salvación contra sus conjuros y habilidades especiales.</p>"
+		},
+		"Dice Set": {
+			"name": "Juego de dados (Dice Set)",
+			"description": "<p>Este objeto incluye una amplia gama de dados, tanto normales como cargados.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Dimensional Shackles": {
 			"name": "Grilletes dimensionales (Dimensional Shackles)",
@@ -936,22 +944,6 @@
 		"Frost Brand Shortsword": {
 			"name": "Espada corta hierro de escarcha (Frost Brand Shortsword)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando impactas con un ataque con esta arma mágica, infliges 1d6 de daño de frío adicional. Además, mientras empuñes la espada tendrás resistencia al daño de fuego.</p>\n<p>En temperaturas bajo cero, la espada emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá.</p>\n<p>Cuando desenvainas esta arma, puedes extinguir todas las llamas no mágicas que se encuentren a 30 pies o menos de ti. Esta propiedad no puede ser usada más de una vez por hora.</p>"
-		},
-		"Gaming Set": {
-			"name": "Juegos (Gaming Set)",
-			"description": "<p>Esta categoría de objetos incluye varios tipos de juegos de azar, normalmente basados en dados o cartas (como la Apuesta de los Tres Dragones).</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>\n<p>Ten en cuenta que este es un espacio genérico. Para los juegos que se dan en la tabla de la GdJ, consulta las siguientes entradas del compendio. Sin embargo, siéntete libre de usar cualquiera de ellos como guía para una entrada propia, editándolos o incluso creándolos de cero, con el permiso del DM.</p>"
-		},
-		"Gaming Set of Chess": {
-			"name": "Juego de Ajedrez de Dragón (Gaming Set of Chess)",
-			"description": "<p>Este objeto es un juego completo de piezas y tablero de ajedrez. El tablero también se puede utilizar para las distintas variantes de damas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
-		},
-		"Gaming Set of Dice": {
-			"name": "Juego de Dados (Gaming Set of Dice)",
-			"description": "<p>Este elemento abarca una amplia gama de dados, tanto normales como cargados.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
-		},
-		"Gaming Set of Playing Cards": {
-			"name": "Juego de naipes (Gaming Set of Playing Cards)",
-			"description": "<p>Este equipo abarca una amplia gama de tipos de naipes, tanto sin marcar como marcados.</p>\n<p>Si eres competente con un set de juego, puedes agregar tu bonificación de habilidad a las pruebas de habilidad que realizas con ese juego. Cada tipo de juego de juegos requiere una competencia separada.</p>"
 		},
 		"Gauntlets of Ogre Power": {
 			"name": "Guanteletes de fuerza de ogro (Gauntlets of Ogre Power)",
@@ -1729,12 +1721,8 @@
 			"name": "Lucero del alba +3 (Morningstar +3)",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
-		"Musical Instrument": {
-			"name": "Instrumento musical (Musical Instrument)",
-			"description": "<p>Un instrumento musical para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>\n<p>Ten en cuenta que este es un espacio genérico. Para los instrumentos musicales que se dan en la tabla de la GdJ, consulta las siguientes entradas del compendio. Sin embargo, siéntete libre de usar cualquiera de ellos como guía para una entrada propia, editándolos o incluso creándolos de cero, con el permiso del DM.</p>\n<p>Los instrumentos musicales concretos están disponibles en el compendio de Equipo (SRD).</p>\n<p>@Compendium[dnd5e.items.yxHi57T5mmVt0oDr]{Gaita}</p>\n<p>@Compendium[dnd5e.items.69Dpr25pf4BjkHKb]{Tambor}</p>\n<p>@Compendium[dnd5e.items.NtdDkjmpdIMiX7I2]{Dulcémele}</p>\n<p>@Compendium[dnd5e.items.eJOrPcAz9EcquyRQ]{Flauta}</p>\n<p>@Compendium[dnd5e.items.aa9KuBy4dst7WIW9]{Cuerno}</p>\n<p>@Compendium[dnd5e.items.qBydtUUIkv520DT7]{Laúd}</p>\n<p>@Compendium[dnd5e.items.EwG1EtmbgR3bM68U]{Lira}</p>\n<p>@Compendium[dnd5e.items.G5m5gYIx9VAUWC3J]{Flauta de pan}</p>\n<p>@Compendium[dnd5e.items.G3cqbejJpfB91VhP]{Chirimía}</p>\n<p>@Compendium[dnd5e.items.baoe3U5BfMMMxhCU]{Viola}</p>"
-		},
-		"Navigator’s Tools": {
-			"name": "Herramientas de navegante (Navigator’s Tools)",
+		"Navigator's Tools": {
+			"name": "Navigator's Tools",
 			"description": "<p>Estos instrumentos se utilizan para orientarse en el mar. Si eres competente con ellos, podrás planear la ruta de un barco e interpretar cartas náuticas, además de añadir tu bonificador por competencia a cualquier prueba de característica para evitar perderte en el mar.</p>"
 		},
 		"Necklace of Adaptation": {
@@ -1929,8 +1917,12 @@
 			"name": "Armadura de placas de resistencia (Plate Armor of Resistance)",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
-		"Poisoner’s Kit": {
-			"name": "Útiles de envenenador (Poisoner’s Kit)",
+		"Playing Cards Set": {
+			"name": "Naipes (Playing Cards Set)",
+			"description": "<p>Este objeto incluye una amplia gama de tipos de naipes, tanto sin marcar como marcados.</p>\n<p>Si eres competente con un set de juego, puedes agregar tu bonificación de habilidad a las pruebas de habilidad que realizas con ese juego. Cada tipo de juego de juegos requiere una competencia separada.</p>"
+		},
+		"Poisoner's Kit": {
+			"name": "Poisoner's Kit",
 			"description": "<p>Este juego de útiles incluye los viales, productos químicos y todo el equipo necesario para producir venenos. La competencia con ellos te permite añadir tu bonificador por competencia a las pruebas de característica para fabricar o usar venenos</p>"
 		},
 		"Pole": {
@@ -2789,8 +2781,8 @@
 			"name": "Jarra (Tankard)",
 			"description": "<p>Es un tipo de recipiente para beber que consiste en un vaso grande, más o menos cilíndrico, con una sola asa.</p>"
 		},
-		"Thieves’ Tools": {
-			"name": "Herramientas de ladrón (Thieves’ Tools)",
+		"Thieves' Tools": {
+			"name": "Thieves' Tools",
 			"description": "<p>Este conjunto de herramientas incluye una pequeña lima, un juego de ganzúas, un espejito montado en un asa metálica, una serie de tijeras de punta estrecha y unas tenazas. La competencia con estas herramientas te permite añadir tu bonificador por competencia a las pruebas de característica para desarmar trampas o forzar cerraduras.</p>"
 		},
 		"Tinderbox": {

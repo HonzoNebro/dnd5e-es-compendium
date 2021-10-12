@@ -6,7 +6,7 @@
 			"description": "<section class=\"secret\">\n<p>El suelo en un radio de <strong>10 pies</strong> alrededor del &nbsp;{creature}&nbsp; es una masa informe de terreno difícil.</p><p>Cualquier criatura que empiece su turno en esta área deberá superar una <strong>tirada de salvación de Fuerza CD 10</strong> o su velocidad se verá reducida a 0 hasta el principio de su siguiente turno.</p>\n</section>\n<p>El suelo en un radio de <strong>10 pies</strong> alrededor del &nbsp;{creature}&nbsp; es una masa informe de terreno difícil. Haz unta tirada de salvación de <strong>Fuerza</strong></p>"
 		},
 		"Acid Absorption": {
-			"name": "Absorción de ácido (Acid Absorption)",
+			"name": "Absorción de ácido",
 			"description": "<p>Siempre que el&nbsp;{creature}&nbsp;fuera a sufrir <strong><em>daño de ácido</em></strong>, no recibirá daño de este tipo y, además, recuperará tantos <strong>puntos de golpe</strong> como el <strong><em>daño de ácido</em></strong> que fuera a recibir.</p>"
 		},
 		"Acid Breath": {
@@ -82,7 +82,7 @@
 			"description": "<section class=\"secret\">\n<p>Si el {creature} empieza su turno con <strong>60 puntos de golpe</strong> o menos, tira un d6. Si sacas un 6, el {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver.</p><p>Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que él. Una vez el {creature} ha entrado en estado berserk, seguirá bajo sus efectos hasta que sea destruido o recupere todos sus <strong>puntos de golpe</strong>.</p>\n</section>\n<p>El {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver. Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que el.</p>"
 		},
 		"Bite": {
-			"name": "Mordisco (Bite)",
+			"name": "Mordisco",
 			"description": "<section class=\"secret\">\n<p>Ataque de Arma Cuerpo a Cuerpo: +11 para golpear, alcance de 10 pies, un objetivo. Impacto: 17 (2d10 + 6) de daño perforante.</p>\n</section>\n<p>El {creature} ataca con su mordisco.</p>"
 		},
 		"Blasphemous Word": {
@@ -150,7 +150,7 @@
 			"description": "<section class=\"secret\">\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong> o ser mágicamente encantado durante 1 día. El objetivo encantado obedecerá las órdenes verbales o telepáticas del {creature}.</p><p>Si el objetivo sufre cualquier daño o recibe una orden suicida, podría repetir la tirada de salvación, que terminará con el efecto si tiene éxito. Si la salvación del objetivo tiene éxito contra el efecto, o si el efecto termina, el objetivo es inmune al encantamiento de este {creature} durante las próximas 24 horas. El {creature} sólo puede tener un objetivo encantado a la vez. Si encanta a otro, el efecto en su objetivo anterior termina.</p>\n</section>\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Children of the Night": {
-			"name": "Hijos de la noche (Children of the Night)",
+			"name": "Hijos de la noche",
 			"description": "<section class=\"secret\"><p>El {creature} llama mágicamente 2d4 enjambres de murciélagos o ratas, siempre y cuando el sol no esté arriba. Al aire libre, el {creature} puede llamar 3d6 lobos en su lugar.</p><p>Las criaturas llamadas llegan en 1d4 asaltos, actuando como aliados del {creature} y obedecen sus órdenes de voz. Las bestias se mantienen durante 1 hora, hasta que el {creature} muere, o hasta que el {creature} los despida como una acción adicional.</p></section><p>El {creature} llama mágicamente enjambres de murciélagos o ratas. Al aire libre, el {creature} puede llamar lobos en su lugar.</p>"
 		},
 		"Chomp": {
