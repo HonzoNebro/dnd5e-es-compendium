@@ -1722,7 +1722,7 @@
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Navigator's Tools": {
-			"name": "Herramientas de navegante",
+			"name": "Navigator's Tools",
 			"description": "<p>Estos instrumentos se utilizan para orientarse en el mar. Si eres competente con ellos, podrás planear la ruta de un barco e interpretar cartas náuticas, además de añadir tu bonificador por competencia a cualquier prueba de característica para evitar perderte en el mar.</p>"
 		},
 		"Necklace of Adaptation": {
@@ -1922,7 +1922,7 @@
 			"description": "<p>Este objeto incluye una amplia gama de tipos de naipes, tanto sin marcar como marcados.</p>\n<p>Si eres competente con un set de juego, puedes agregar tu bonificación de habilidad a las pruebas de habilidad que realizas con ese juego. Cada tipo de juego de juegos requiere una competencia separada.</p>"
 		},
 		"Poisoner's Kit": {
-			"name": "Útiles de envenenador",
+			"name": "Poisoner's Kit",
 			"description": "<p>Este juego de útiles incluye los viales, productos químicos y todo el equipo necesario para producir venenos. La competencia con ellos te permite añadir tu bonificador por competencia a las pruebas de característica para fabricar o usar venenos</p>"
 		},
 		"Pole": {
@@ -2782,7 +2782,7 @@
 			"description": "<p>Es un tipo de recipiente para beber que consiste en un vaso grande, más o menos cilíndrico, con una sola asa.</p>"
 		},
 		"Thieves' Tools": {
-			"name": "Herramientas de ladrón",
+			"name": "Thieves' Tools",
 			"description": "<p>Este conjunto de herramientas incluye una pequeña lima, un juego de ganzúas, un espejito montado en un asa metálica, una serie de tijeras de punta estrecha y unas tenazas. La competencia con estas herramientas te permite añadir tu bonificador por competencia a las pruebas de característica para desarmar trampas o forzar cerraduras.</p>"
 		},
 		"Tinderbox": {
