@@ -1987,7 +1987,7 @@
 		},
 		"Potion of Gaseous Form": {
 			"name": "Poción de forma gaseosa (Potion of Gaseous Form)",
-			"description": "<p><em>This potion's container seems to hold fog that moves and pours like water.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.2IWiZAJtOGDoKjiz]{Gaseous Form} spell for 1 hour (no concentration required) or until you end the effect as a bonus action. </p>\n<p> </p>"
+			"description": "<p><em>El frasco parece contener una niebla que se mueve y derrama como si fuera agua.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto del conjuro @Compendium[dnd5e.spells.2IWiZAJtOGDoKjiz]{Forma gaseosa} durante 1 hora (no requiere concentración) o hasta que lo des por terminado utilizando una acción adicional.</p>"
 		},
 		"Potion of Greater Healing": {
 			"name": "Poción de curación mayor (Potion of Greater Healing)",
@@ -1995,7 +1995,7 @@
 		},
 		"Potion of Growth": {
 			"name": "Poción de crecimiento (Potion of Growth)",
-			"description": "<p><em>The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts.  Shaking the bottle fails to interrupt this process.</em></p>\n<p>When you drink this potion, you gain the \"enlarge\" effect of the @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Enlarge/Reduce} spell for 1d4 hours (no concentration required).</p>"
+			"description": "<p><em>En el recipiente, el rojo de la poción se expande continuamente para teñir el líquido a su alrededor, contrayéndose después hasta una pequeña gota. Agitar la botella no perturba este proceso.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto de \"agrandar\" del conjuro @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Agrandar/Reducir} durante 1d4 horas (no requiere concentración).</p>"
 		},
 		"Potion of Healing": {
 			"name": "Poción de curación (Potion of Healing)",
@@ -2007,11 +2007,11 @@
 		},
 		"Potion of Hill Giant Strength": {
 			"name": "Poción de fuerza de gigante de las colinas (Potion of Hill Giant Strength)",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 21 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 21 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Invisibility": {
 			"name": "Poción de invisibilidad (Potion of Invisibility)",
-			"description": "<p><em>This potion's container looks empty but feels as though it holds liquid. </em></p>\n<p>When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.</p>\n<p> </p>"
+			"description": "<p><em>El frasco de esta poción parece vacío, pero al mismo tiempo da la impresión de tener líquido dentro.</em></p>\n<p>Al beberlo te vuelves invisible durante 1 hora. Mientras estés en ese estado, cualquier cosa que vistas o lleves encima será también invisible. El efecto termina si atacas o lanzas un conjuro.</p>"
 		},
 		"Potion of Lightning Resistance": {
 			"name": "Poción de resistencia al relámpago (Potion of Lightning Resistance)",
@@ -2019,7 +2019,7 @@
 		},
 		"Potion of Mind Reading": {
 			"name": "Poción de leer mentes (Potion of Mind Reading)",
-			"description": "<p><em>The potion's dense, purple liquid has an ovoid cloud of pink floating in it.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detect Thoughts} spell (save DC 13). </p>"
+			"description": "<p><em>El líquido denso y púrpura de esta poción tiene una nube rosa ovoide flotando encima.</em></p>\n<p>Cuando bebes esta poción, ganas el efecto del conjuro @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detectar pensamientos} (tirada de salvación CD 13).</p>"
 		},
 		"Potion of Necrotic Resistance": {
 			"name": "Poción de resistencia al necrótico (Potion of Necrotic Resistance)",
@@ -2043,15 +2043,15 @@
 		},
 		"Potion of Speed": {
 			"name": "Poción de velocidad (Potion of Speed)",
-			"description": "<p><em>The potion's yellow fluid is streaked with black and swirls on its own.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.Szvk5FEVQW3uhJi5]{Haste} spell for 1 minute (no concentration required).</p>\n<p> </p>"
+			"description": "<p><em>El líquido amarillo de este brebaje tiene vetas negras y forma remolinos.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto del conjuro @Compendium[dnd5e.spells.Szvk5FEVQW3uhJi5]{Acelerar} durante 1 minuto (no requiere concentración).</p>"
 		},
 		"Potion of Stone Giant Strength": {
 			"name": "Poción de fuerza de gigante de piedra (Potion of Stone Giant Strength)",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 23 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 23 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Storm Giant Strength": {
 			"name": "Poción de fuerza de gigante de las tormentas (Potion of Storm Giant Strength)",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 29 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 29 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Superior Healing": {
 			"name": "Poción de curación superior (Potion of Superior Healing)",
@@ -2071,7 +2071,7 @@
 		},
 		"Potter's Tools": {
 			"name": "Herramientas de alfarero (Potter's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in pottery.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alfarero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pouch": {
 			"name": "Bolsa (Pouch)",
@@ -2567,7 +2567,7 @@
 		},
 		"Smith's Tools": {
 			"name": "Herramientas de herrero (Smith's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in smithing.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un herrero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Soap": {
 			"name": "Jabón (Soap)",
@@ -2791,7 +2791,7 @@
 		},
 		"Tinker's Tools": {
 			"name": "Herramientas de manitas (Tinker's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in tinkering.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un manitas.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Tome of Clear Thought": {
 			"name": "Tomo de pensamiento claro (Tome of Clear Thought)",
@@ -2851,7 +2851,7 @@
 		},
 		"Unarmed Strike (Monk)": {
 			"name": "Ataque sin armas del Monje (Unarmed Strike (Monk))",
-			"description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes.</p>\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>\n<p>• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes</p>\n<p>• You can roll a d4 in place of the normal damage of your unarmed strike. This die changes as you gain monk levels, as shown in the Martial Arts column in the table below.</p>\n<p>• When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Monk Level</strong></td>\n<td><strong>Martial Arts</strong></td>\n</tr>\n<tr>\n<td>1st - 4th</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5th - 10th</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11th - 16th</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17th - 20th</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Foundry note: Note the damage die is set to the base default of 1d4. Please manually adjust as required.</em></p>"
+			"description": "<p>A nivel 1 tu práctica de las artes marciales te ha otorgado un dominio de los estilos de combate que emplean ataques sin armas.</p>\n<p>Obtienes los siguientes beneficios mientras no portes armadura ni escudo, y estés desarmado o empuñes únicamente armas de monje.</p>\n<p>• Puedes usar tu Destreza en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje.</p>\n<p>• Puedes tirar 1d4 en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, tal y como se muestra en la columna “artes marciales” de la tabla del monje.</p>\n<p>• Cuando llevas a cabo la acción de Atacar con un ataque sin armas o un arma de monje durante tu turno, puedes utilizar tu acción adicional para hacer un ataque sin armas. De este modo, si empleas la acción de Atacar para atacar con un bastón, también puedes realizar un ataque sin armas con tu acción adicional, siempre y cuando no hayas usado ya esta.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Nivel de Monje</strong></td>\n<td><strong>Artes Marciales</strong></td>\n</tr>\n<tr>\n<td>1 - 4</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5 - 10</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11 - 16</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17 - 20</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Nota de Foundry: por defecto, el dado de daño se ha fijado en 1d4. Ajústalo manualmente cuando sea necesario.</em></p>"
 		},
 		"Universal Solvent": {
 			"name": "Disolvente universal (Universal Solvent)",
@@ -3127,7 +3127,7 @@
 		},
 		"Weaver's Tools": {
 			"name": "Herramientas de tejedor (Weaver's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in weaving.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un tejedor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Well of Many Worlds": {
 			"name": "Pozo de los muchos mundos (Well of Many Worlds)",
@@ -3167,7 +3167,7 @@
 		},
 		"Woodcarver's Tools": {
 			"name": "Herramientas de ebanista (Woodcarver's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in woodcarving.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un ebanista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Wooden Staff": {
 			"name": "Bastón de madera (Wooden Staff)",
