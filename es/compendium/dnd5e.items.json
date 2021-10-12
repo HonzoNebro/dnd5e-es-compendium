@@ -46,8 +46,8 @@
 			"description": "<p>Este fluido pegajoso y adherente prende al entrar en contacto con el aire. Como acción, puedes lanzar este frasco hasta a 20 pies, rompiéndose con el impacto. Haz un ataque a distancia contra la criatura o el objeto, tratando el fuego de alquimista como un arma improvisada: si tienes éxito, el objetivo recibirá 1d4 de daño de fuego al comienzo de cada uno de sus turnos. Una criatura puede utilizar su acción para extinguir las llamas y evitar que se siga produciendo este daño. Deberá superar una prueba de Destreza CD 10 para lograrlo.</p>"
 		},
 		"Alchemist's Supplies": {
-			"name": "Alchemist's Supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in alchemy.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"name": "Suministros de Alquimista (Alchemist's supplies)",
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alquimista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Alchemy Jug": {
 			"name": "Vasija alquímica (Alchemy Jug)",
@@ -95,7 +95,7 @@
 		},
 		"Arrow": {
 			"name": "Flecha",
-			"description": "<p> Munición estándar utilizada para arcos de todas las variedades. Estas flechas mundanas están hechas de ejes lisos de madera con plumas de ganso y puntas de metal. </p>"
+			"description": "<p>Munición común utilizada por arcos de cualquier tipo. Estas flechas mundanas están hechas de lisas varas de madera con plumas de ganso y puntas de metal.</p>"
 		},
 		"Arrow +1": {
 			"name": "Flecha +1 (Arrow +1)",
@@ -347,7 +347,7 @@
 		},
 		"Brewer's Supplies": {
 			"name": "Suministros de cervecero (Brewer's Supplies)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in brewing.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cervecero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Bronze Horn of Valhalla": {
 			"name": "Cuerno del Valhalla de bronce (Bronze Horn of Valhalla)",
@@ -391,7 +391,7 @@
 		},
 		"Carpenter's Tools": {
 			"name": "Herramientas de carpintero (Carpenter's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in carpentry.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un carpintero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Carpet of Flying": {
 			"name": "Alfombra voladora (Carpet of Flying)",
@@ -399,7 +399,7 @@
 		},
 		"Cartographer's Tools": {
 			"name": "Herramientas de cartógrafo (Cartographer's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cartography.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cartógrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Censer": {
 			"name": "Incensario (Censer)",
@@ -458,8 +458,8 @@
 			"description": "<p>Es una roca sedimentaria de acarbonato blanda y porosa, es decir, una especie de piedra caliza compuesta por el mineral calcita. Puede utilizarse para dibujar formas.</p>"
 		},
 		"Chess Set": {
-			"name": "Chess Set",
-			"description": "<p> Este equipo es un juego completo de naipes de apuesta de los tres dragones, sin marcar o marcado. </p>"
+			"name": "Juego de ajedrez (Chess Set)",
+			"description": "<p>Este objeto es un juego completo de piezas y tablero de ajedrez. El tablero también se puede utilizar para las distintas variantes de damas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Chest": {
 			"name": "Cofre (Chest)",
@@ -519,7 +519,7 @@
 		},
 		"Cobbler's Tools": {
 			"name": "Herramientas de zapatero (Cobbler's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cobblery.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un zapatero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Common Clothes": {
 			"name": "Ropas comunes (Common Clothes)",
@@ -531,7 +531,7 @@
 		},
 		"Cook's Utensils": {
 			"name": "Útiles de cocinero (Cook's Utensils)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cookery.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cocinero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Costume Clothes": {
 			"name": "Disfraz - Ropa (Costume Clothes)",
@@ -682,8 +682,8 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Mientras lleves esta armadura de placas, obtienes un bonificador de +1 a tu CA y puedes entender y hablar abisal. Además, los guanteletes con garras de la armadura convierten tus ataques sin armas hechos con tus manos en armas mágicas que infligen daño cortante, con un bonificador de +1 a las tiradas de ataque y daño y cuyo dado de daño es 1d8.</p>\n<p><strong>Maldición.</strong> Una vez te pones esta armadura, no puedes quitártela hasta que seas objetivo de un conjuro de @Compendium[dnd5e.spells.XZhdgVK3cLoxNCQl]{Levantar maldición} o un efecto mágico similar. Mientras lleves esta armadura, tienes desventaja en tiradas de ataque contra demonios y en tiradas de salvación contra sus conjuros y habilidades especiales.</p>"
 		},
 		"Dice Set": {
-			"name": "Dice Set",
-			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Tu Fuerza pasa a ser de 19 cuando llevas estos guanteletes. No tienen efecto si tu Fuerza ya era de 19 o mayor sin ellos.</p>"
+			"name": "Juego de dados (Dice Set)",
+			"description": "<p>Este objeto incluye una amplia gama de dados, tanto normales como cargados.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Dimensional Shackles": {
 			"name": "Grilletes dimensionales (Dimensional Shackles)",
@@ -1015,7 +1015,7 @@
 		},
 		"Glassblower's Tools": {
 			"name": "Herramientas de soplador de vidrio (Glassblower's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in glassblowing.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un soplador de vidrio.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Gloves of Missile Snaring": {
 			"name": "Guantes atrapaflechas (Gloves of Missile Snaring)",
@@ -1407,7 +1407,7 @@
 		},
 		"Jeweler's Tools": {
 			"name": "Herramientas de joyero (Jeweler's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in jewelry.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un joyero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Jug": {
 			"name": "Jarro (Jug)",
@@ -1463,7 +1463,7 @@
 		},
 		"Leatherworker's Tools": {
 			"name": "Herramientas de curtidor (Leatherworker's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in leatherworking.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un curtidor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Light Crossbow": {
 			"name": "Ballesta ligera (Light Crossbow)",
@@ -1635,7 +1635,7 @@
 		},
 		"Mason's Tools": {
 			"name": "Herramientas de albañil (Mason's Tools)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in masonry.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un albañil.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Maul": {
 			"name": "Maza a dos manos (Maul)",
@@ -1723,7 +1723,7 @@
 		},
 		"Navigator's Tools": {
 			"name": "Herramientas de navegante",
-			"description": "<p>Un cuerno de cualquier variedad para evocar asombro o miedo en la audiencia.</p><p>Si tienes competencia con él, puedes agregar tu bonificaci&oacute;n de competencia a cualquier prueba de habilidad que realices para tocar m&uacute;sica con este instrumento. Un bardo puede usarlo como foco de lanzamiento de hechizos.</p>"
+			"description": "<p>Estos instrumentos se utilizan para orientarse en el mar. Si eres competente con ellos, podrás planear la ruta de un barco e interpretar cartas náuticas, además de añadir tu bonificador por competencia a cualquier prueba de característica para evitar perderte en el mar.</p>"
 		},
 		"Necklace of Adaptation": {
 			"name": "Collar de adaptación (Necklace of Adaptation)",
@@ -1783,7 +1783,7 @@
 		},
 		"Oil of Etherealness": {
 			"name": "Aceite de etereidad (Oil of Etherealness)",
-			"description": "<p><em>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate.  </em></p>\n<p>The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium).  Applying the oil takes 10 minutes.  The affected creature then gains the effect of the @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Etherealness} spell for 1 hour.</p>"
+			"description": "<p><em>En el exterior de este recipiente se forman y evaporan rápidamente gotitas de un aceite turbio y gris.</em></p>\n<p>Este aceite puede cubrir completamente a una criatura Mediana o más pequeña, así como el equipo que vista y cargue. Es necesario un vial adicional por cada categoría de tamaño por encima de Mediano. Se tarda 10 minutos en aplicar este aceite. La criatura afectada gana los efectos del conjuro @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Excursión etérea} durante 1 hora.</p>"
 		},
 		"Oil of Sharpness": {
 			"name": "Aceite de afilado (Oil of Sharpness)",
@@ -1791,7 +1791,7 @@
 		},
 		"Oil of Slipperiness": {
 			"name": "Aceite escurridizo (Oil of Slipperiness)",
-			"description": "<p><em>This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. </em></p>\n<p>The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium).  Applying the oil takes 10 minutes.  The affected creature then gains the effect of a @Compendium[dnd5e.spells.da0a1t2FqaTjRZGT]{Freedom of Movement} spell for 8 hours.</p>\n<p>Alternatively, the oil can be poured on the ground as an action, where it covers a 10‑foot square, duplicating the effect of the @Compendium[dnd5e.spells.etgcR9wqmrhyZ0tx]{Grease} spell in that area for 8 hours.</p>"
+			"description": "<p><em>Este ungüento negro y pegajoso parece denso y pesado dentro del recipiente, pero fluye rápidamente al verterlo.</em></p>\n<p>El aceite puede cubrir completamente a una criatura Mediana o más pequeña, así como el equipo que vista y cargue. Es necesario un vial adicional por cada categoría de tamaño por encima de Mediano. Se tarda 10 minutos en aplicarlo. La criatura afectada gana los efectos del conjuro @Compendium[dnd5e.spells.da0a1t2FqaTjRZGT]{Libertad de movimiento} durante 8 horas.</p>\n<p>De forma alternativa, puede utilizarse una acción para derramar el contenido del frasco, cubriendo una zona de 10 por 10 pies de aceite y replicando los efectos del conjuro @Compendium[dnd5e.spells.etgcR9wqmrhyZ0tx]{Grasa} durante 8 horas.</p>"
 		},
 		"Orb": {
 			"name": "Orbe (Orb)",
@@ -1823,7 +1823,7 @@
 		},
 		"Painter's Supplies": {
 			"name": "Suministros de pintor (Painter's Supplies)",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in painting.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un pintor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pan Flute": {
 			"name": "Flauta de pan (Pan Flute)",
@@ -1859,7 +1859,7 @@
 		},
 		"Philter of Love": {
 			"name": "Filtro de amor (Philter of Love)",
-			"description": "<p><em>This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.</em></p>\n<p>The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed.</p>\n<p> </p>"
+			"description": "<p><em>El líquido efervescente y de tonalidad rosa de esta poción contiene una burbuja, difícil de encontrar, con forma de corazón.</em></p>\n<p>Quedas hechizado durante una hora de la próxima criatura que veas en los 10 minutos posteriores a beber este filtro. Si la criatura es de un género y especie que normalmente te atraería, la considerarás tu amor verdadero mientras permanezcas hechizado.</p>\n<p> </p>"
 		},
 		"Pike": {
 			"name": "Pica (Pike)",
@@ -1918,12 +1918,12 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Playing Cards Set": {
-			"name": "Playing Cards Set",
-			"description": "<p><em>Objeto maravilloso</em></p><p>Este prisma tiene 50 cargas. Mientras lo sostengas, puedes usar una acci&oacute;n para pronunciar una de las tres palabras de activaci&oacute;n y causar uno de los siguientes efectos:</p><ul><li>La primera palabra de activaci&oacute;n hace que la gema emita luz brillante en un radio de 30 pies y luz tenue otros 30 pies m&aacute;s all&aacute;. Este efecto no gasta una carga. Dura hasta que utilices una acci&oacute;n adicional para repetir la palabra de activaci&oacute;n o hasta que emplees otra funci&oacute;n de la gema.<br /><br /></li><li>La segunda palabra de activaci&oacute;n gasta 1 carga y provoca que la gema lance un rayo cegador de luz a una criatura que puedas ver y que se encuentre a 60 pies o menos de ti. Deber&aacute; superar una tirada de salvaci&oacute;n de Constituci&oacute;n CD 15 o estar&aacute; cegada durante 1 minuto. La criatura puede repetir la tirada de salvaci&oacute;n al final de cada uno de sus turnos, libr&aacute;ndose del efecto si tiene &eacute;xito.<br /><br /></li><li>La tercera palabra de activaci&oacute;n utiliza 5 cargas y hace que la gema se ilumine con un fulgor que cubre un cono de 30 pies con origen en ella misma. Cada criatura dentro del cono deber&aacute; hacer una tirada de salvaci&oacute;n como si hubiera sido afectada por el rayo creado con la segunda palabra de activaci&oacute;n.</li></ul><p>Cuando todas las cargas de la gema se gastan, esta se convierte en una joya mundana valorada en 50 po.</p>"
+			"name": "Naipes (Playing Cards Set)",
+			"description": "<p>Este objeto incluye una amplia gama de tipos de naipes, tanto sin marcar como marcados.</p>\n<p>Si eres competente con un set de juego, puedes agregar tu bonificación de habilidad a las pruebas de habilidad que realizas con ese juego. Cada tipo de juego de juegos requiere una competencia separada.</p>"
 		},
 		"Poisoner's Kit": {
 			"name": "Útiles de envenenador",
-			"description": "<p>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</p>"
+			"description": "<p>Este juego de útiles incluye los viales, productos químicos y todo el equipo necesario para producir venenos. La competencia con ellos te permite añadir tu bonificador por competencia a las pruebas de característica para fabricar o usar venenos</p>"
 		},
 		"Pole": {
 			"name": "Vara (Pole)",
@@ -1955,7 +1955,7 @@
 		},
 		"Potion of Cloud Giant Strength": {
 			"name": "Poción de fuerza de gigante de las nubes (Potion of Cloud Giant Strength)",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 27 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 27 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>\n<p> </p>"
 		},
 		"Potion of Cold Resistance": {
 			"name": "Poción de resistencia al frío (Potion of Cold Resistance)",
@@ -1963,11 +1963,11 @@
 		},
 		"Potion of Diminution": {
 			"name": "Poción de encoger (Potion of Diminution)",
-			"description": "<p><em>The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it.  Shaking the bottle fails to interrupt this process.</em></p>\n<p>When you drink this potion, you gain the \"reduce\" effect of the @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Enlarge/Reduce} spell for 1d4 hours (no concentration required). </p>\n<p> </p>\n<p> </p>\n<p> </p>"
+			"description": "<p><em>En el recipiente, el rojo de la poción se contrae continuamente hasta una pequeña gota, expandiéndose después para teñir el líquido a su alrededor. Agitar la botella no perturba este proceso.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto de \"reducir\" del conjuro @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Agrandar/Reducir} durante  1d4 horas (no requiere concentración).</p>"
 		},
 		"Potion of Fire Giant Strength": {
 			"name": "Poción de fuerza de gigante de fuego (Potion of Fire Giant Strength)",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 25 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 25 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Fire Resistance": {
 			"name": "Poción de resistencia al fuego (Potion of Fire Resistance)",
@@ -1975,7 +1975,7 @@
 		},
 		"Potion of Flying": {
 			"name": "Poción de vuelo (Potion of Flying)",
-			"description": "<p><em>This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.</em></p>\n<p>When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. </p>\n<p> </p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción flota en la parte superior del frasco, surcado por impurezas blancas con forma de nubes.</em></p>\n<p>Beber esta poción te dota durante 1 hora de una velocidad volando igual a tu velocidad caminando. Si estás en el aire cuando el efecto de la poción termina, caerás a menos que tengas algún otro método para permanecer a flote.</p>"
 		},
 		"Potion of Force Resistance": {
 			"name": "Poción de resistencia a la fuerza (Potion of Force Resistance)",
@@ -1983,7 +1983,7 @@
 		},
 		"Potion of Frost Giant Strength": {
 			"name": "Poción de fuerza de gigante de escarcha (Potion of Frost Giant Strength)",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 23 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 23 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Gaseous Form": {
 			"name": "Poción de forma gaseosa (Potion of Gaseous Form)",
@@ -2783,7 +2783,7 @@
 		},
 		"Thieves' Tools": {
 			"name": "Herramientas de ladrón",
-			"description": "<p><em>Objeto maravilloso (requiere sintonizaci&oacute;n con una criatura de alineamiento bueno)<br /></em></p><p>Este talism&aacute;n es un poderoso s&iacute;mbolo del bien. Una criatura cuyo alineamiento no sea ni bueno ni malo recibe [[/r 6d6]] de da&ntilde;o radiante si lo toca. En cambio, si es de alienamiento malo, sufrir&aacute; [[/r 8d6]] de da&ntilde;o radiante. En cualquiera de los dos casos, reciben el da&ntilde;o de nuevo cada vez que terminan su turno y est&aacute;n sosteniendo o llevando el talism&aacute;n.</p><p>Si eres un cl&eacute;rigo o palad&iacute;n bueno, puedes usar el talism&aacute;n como s&iacute;mbolo sagrado y obtienes un bonificador de +2 a las tiradas de ataque con conjuros mientras lo vistas o lo sostengas.</p><p>El talism&aacute;n tiene 7 cargas. Si lo llevas puesto o lo est&aacute;s sosteniendo, puedes emplear una acci&oacute;n para gastar 1 carga y elegir una criatura sobre el suelo, que puedas ver, y que se encuentre a 120 pies o menos de ti. Si el objetivo es de alineamiento ma lvado, una grieta ardiente se abrir&aacute; bajo &eacute;l. El objetivo deber&aacute; tener &eacute;xito en una tirada de salvaci&oacute;n de Destreza CD 20 o caer&aacute; en la grieta y ser&aacute; destruido, sin dejar ning&uacute;n resto mortal. Despu&eacute;s, la grieta se cerrar&aacute;, sin quedar se&ntilde;al alguna de su existencia. Cuando gastas la &uacute;ltima carga, el talism&aacute;n se convierte en motas de luz dorada y queda destruido.</p>"
+			"description": "<p>Este conjunto de herramientas incluye una pequeña lima, un juego de ganzúas, un espejito montado en un asa metálica, una serie de tijeras de punta estrecha y unas tenazas. La competencia con estas herramientas te permite añadir tu bonificador por competencia a las pruebas de característica para desarmar trampas o forzar cerraduras.</p>"
 		},
 		"Tinderbox": {
 			"name": "Yesquero (Tinderbox)",
