@@ -6,7 +6,9 @@ Fork para la nueva traducción al Español del Sistema y los Compendios (incompl
 
 La traducción del sistema ha sido realizada por [Cosmo Corban](https://gitlab.com/carlosjrlu) en su módulo [Translation: Spanish D&D 5e](https://gitlab.com/carlosjrlu/foundryvtt-dnd5e-lang-es/).
 
-Los compendios están siendo traducidos por la comunidad española de Foundry VTT, en [Discord](https://discord.gg/papqPzS) y [Telegram](https://t.me/FoundryVTT_ES) por **Elber#5009**, **Aterlom#2151** , **WallaceMcGregor#4127** y **Honzo#5012**.
+Los nuevos compendios están siendo traducidos por la comunidad española de Foundry VTT, en [Discord](https://discord.gg/papqPzS) y [Telegram](https://t.me/FoundryVTT_ES) por **WallaceMcGregor#4127** y **Honzo#5012**.
+
+Si quieres colaborar, únete en [nuestro discord para la traducción] https://discord.gg/yyHCETcnVt donde podremos coordinarnos
 
 ## Instalación
 
