@@ -16,6 +16,12 @@
     "name": "Spanish",
     "path": "es.json"
   }],
+  
+   "dependencies": [{    
+    "name": "babele",
+    "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+    "version": "2.0.6"
+  }],
   "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
   "manifest": "https://raw.githubusercontent.com/HonzoNebro/dnd5e-es-compendium/master/module.json",
   "download": "https://github.com/HonzoNebro/dnd5e-es-compendium/archive/master.zip"
