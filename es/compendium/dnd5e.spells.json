@@ -3,15 +3,15 @@
 	"entries": {
 		"Acid Arrow": {
 			"name": "Flecha ácida (Acid Arrow)",
-			"description": "<p>A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell Attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.</p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.</p>"
+			"description": "<p>Una reluciente flecha verde sale como un rayo hacia un objetivo dentro del alcance y explota en una rociada de ácido. Haz un ataque de conjuro a distancia contra el objetivo. Si tienes éxito, este recibe [[/r 4d4]] de daño de ácido inmediatamente y [[/r 2d4]] más al final de su siguiente turno. Si falla, la flecha salpica al objetivo conácido, haciéndole la mitad del daño inicial y ningún daño al final de su siguiente turno.</p> <p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 3 o más, el daño (tanto el inicial como el posterior) aumenta en [[/r 1d4]] por cada nivel por encima de 2 del espacio.</p>"
 		},
 		"Acid Splash": {
 			"name": "Salpicadura de ácido",
-			"description": "<p>You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take&nbsp;1d6acid damage.</p><p>This spell's damage increases by&nbsp;1d6&nbsp;when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>"
+			"description": "<p>Lanzas una burbuja de ácido. Elige una criatura que puedas ver dentro del alcance o dos criaturas dentro del alcance separadas 5 pies o menos la una de la otra. Cada objetivo deberá tener éxito en una tirada de salvación de Destreza o sufrirá [[/r 1d6]] de daño ácido.</p><p>El daño de este hechizo aumenta en [[/r 1d6]] cuando alcanzas el nivel 5 ([[/r 2d6]]), el nivel 11 ([[/r 3d6]]) y el nivel 17 ([[/r 4d6]]).</p>"
 		},
 		"Aid": {
 			"name": "Auxilio (Aid)",
-			"description": "<p>Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.</p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.</p>"
+			"description": "<p>Este conjuro refuerza la resistencia y decisión de tus aliados. Elige hasta tres criaturas dentro del alcance: sus puntos de golpe máximos y actuales aumentan en 5 hasta el final de la duración del conjuro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 3 o más, los puntos de golpe del objetivo aumentan en 5 más por cada nivel por encima de 2 que tenga el espacio que hayas empleado.</p>"
 		},
 		"Alarm": {
 			"name": "Alarma (Alarm)",
