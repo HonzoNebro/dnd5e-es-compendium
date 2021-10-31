@@ -2,79 +2,79 @@
 	"label": "Equipo (SRD)",
 	"entries": {
 		"Abacus": {
-			"name": "Ábaco (Abacus)",
+			"name": "Ábaco",
 			"description": "<p>El ábaco, también llamado marco de conteo, es una herramienta de cálculo.</p>"
 		},
 		"Acid (vial)": {
-			"name": "Ácido - vial (Acid vial)",
+			"name": "Ácido - vial",
 			"description": "<p>Como acción, puedes esparcir el contenido de este vial sobre una criatura que se encuentre a un máximo de 5 pies no lanzarlo hasta a 20 pies, rompiéndose el vial con el impacto. En ambos casos, haz un ataque a distancia contra la criatura o el objeto, tratando el ácido como un arma improvisada: si tienes éxito, el objetivo recibirá 2d6 de daño de ácido.</p>"
 		},
 		"Adamantine Breastplate": {
-			"name": "Coraza adamantina (Adamantine Breastplate)",
+			"name": "Coraza adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Chain Mail": {
-			"name": "Cota de malla adamantina (Adamantine Chain Mail)",
+			"name": "Cota de malla adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Chain Shirt": {
-			"name": "Camisa de malla adamantina (Adamantine Chain Shirt)",
+			"name": "Camisa de malla adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Half Plate Armor": {
-			"name": "Media armadura adamantina (Adamantine Half Plate Armor)",
+			"name": "Media armadura adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Plate Armor": {
-			"name": "Armadura de placas adamantina (Adamantine Plate Armor)",
+			"name": "Armadura de placas adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Ring Mail": {
-			"name": "Cota guarnecida adamantina (Adamantine Ring Mail)",
+			"name": "Cota guarnecida adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Scale Mail": {
-			"name": "Cota de escamas adamantina (Adamantine Scale Mail)",
+			"name": "Cota de escamas adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Adamantine Splint Armor": {
-			"name": "Armadura de bandas adamantina (Adamantine Splint Armor)",
+			"name": "Armadura de bandas adamantina",
 			"description": "<p>Esta armadura está reforzada con adamantina, una de las sustancias más duras existentes.</p>\n<p>Mientras la lleves puesta, cualquier crítico contra ti se convierte en un impacto normal.</p>"
 		},
 		"Alchemist's Fire": {
-			"name": "Fuego de alquimista (Alchemist's Fire)",
+			"name": "Fuego de alquimista",
 			"description": "<p>Este fluido pegajoso y adherente prende al entrar en contacto con el aire. Como acción, puedes lanzar este frasco hasta a 20 pies, rompiéndose con el impacto. Haz un ataque a distancia contra la criatura o el objeto, tratando el fuego de alquimista como un arma improvisada: si tienes éxito, el objetivo recibirá 1d4 de daño de fuego al comienzo de cada uno de sus turnos. Una criatura puede utilizar su acción para extinguir las llamas y evitar que se siga produciendo este daño. Deberá superar una prueba de Destreza CD 10 para lograrlo.</p>"
 		},
 		"Alchemist's Supplies": {
-			"name": "Suministros de Alquimista (Alchemist's supplies)",
+			"name": "Suministros de alquimista",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alquimista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Alchemy Jug": {
-			"name": "Vasija alquímica (Alchemy Jug)",
+			"name": "Vasija alquímica",
 			"description": "<div><em>Objeto maravilloso</em></div>\n<div> </div>\n<div>Esta vasija de cerámica parece capaz de contener un galón de líquido, y pesa 12 libras tanto si está llena como si no. Al agitarla se escucha un chapoteo proveniente del interior, incluso aunque esté vacía.</div>\n<div> </div>\n<div>Puedes usar una acción y nombrar un líquido de la tabla presentada abajo para que la vasija cree el líquido mencionado. Después, puedes descorcharla como una acción y verter el líquido, hasta 2 galones por minuto. La cantidad máxima de líquido que puede producir la vasija depende del que hayas nombrado. </div>\n<div> </div>\n<div>Una vez que la vasija ha comenzado a producir un líquido, no puede crear otro distinto (o más cantidad del líquido actual si ha alcanzado su máximo) hasta el amanecer siguiente. </div>\n<div><br>\n<table>\n<tbody>\n<tr>\n<th>Líquido</th>\n<th>Cantidad máxima</th>\n</tr>\n<tr>\n<td>Aceite</td>\n<td>1 cuarto de galón</td>\n</tr>\n<tr>\n<td>Ácido</td>\n<td>8 onzas</td>\n</tr>\n<tr>\n<td>Agua fresca</td>\n<td>8 galones</td>\n</tr>\n<tr>\n<td>Agua salada</td>\n<td>12 galones</td>\n</tr>\n<tr>\n<td>Cerveza</td>\n<td>4 galones</td>\n</tr>\n<tr>\n<td>Mayonesa</td>\n<td>2 galones</td>\n</tr>\n<tr>\n<td>Miel</td>\n<td>2 galones</td>\n</tr>\n<tr>\n<td>Veneno básico</td>\n<td>1/2 onza</td>\n</tr>\n<tr>\n<td>Vinagre</td>\n<td>2 galones</td>\n</tr>\n<tr>\n<td>Vino</td>\n<td>1 galón</td>\n</tr>\n</tbody>\n</table>\n</div>"
 		},
 		"Alms Box": {
-			"name": "Caja para limosnas (Alms Box)",
+			"name": "Caja para limosnas",
 			"description": "<p>Una caja con un hueco para el dinero y una base desmontable, utilizada principalmente por los sacerdotes y similares para recoger las limosnas.</p>"
 		},
 		"Amulet": {
-			"name": "Amuleto (Amulet)",
+			"name": "Amuleto",
 			"description": "<p>Un amuleto con la forma del símbolo del dios a través del cual un verdadero creyente puede invocar su poder y así difundir la fe.</p>\n<p><strong>Canalizador mágico</strong>. Los clérigos y paladines pueden utilizar un símbolo sagrado como canalizador mágico. Para poder hacer esto, el lanzador deberá sostener el símbolo en la mano, llevarlo bien visible en alguna parte de su cuerpo o sujetar un escudo que lo tenga grabado.</p>"
 		},
 		"Amulet of Health": {
-			"name": "Amuleto de salud (Amulet of Health)",
+			"name": "Amuleto de salud",
 			"description": "<p><em>Objeto maravilloso (requiere sintonización)</em></p>\n<p>Tu puntuación de Constitución es de 19 mientras lleves puesto este amuleto. No tiene ningún efecto si tu Constitución es de 19 o más sin él.</p>"
 		},
 		"Amulet of Proof against Detection and Location": {
-			"name": "Amuleto a prueba de detección y localización (Amulet of Proof against Detection and Location)",
+			"name": "Amuleto a prueba de detección y localización",
 			"description": "<div>\n<div><em>Objeto maravilloso (requiere sintonización)</em></div>\n<div> </div>\n<div>Mientras lleves puesto este amuleto, estarás oculto ante la magia de adivinación. No podrás ser objetivo de ningún efecto mágico de ese tipo o ser percibido mediante sensores mágicos de escudriñamiento.</div>\n</div>"
 		},
 		"Amulet of the Planes": {
-			"name": "Amuleto de los planos (Amulet of the Planes)",
+			"name": "Amuleto de los planos",
 			"description": "<div><em>Objeto maravilloso (requiere sintonización)</em></div>\n<div> </div>\n<div>Mientras lleves puesto este amuleto, puedes usar una acción para nombrar una localización con la que estés familiarizado de otro plano de existencia. Después, haz una prueba de Inteligencia CD 15. Si tienes éxito, lanzas el conjuro <em>@Compendium[dnd5e.spells.J6Jpw5XzB5aTeqnz]{Desplazamiento entre planos.}</em>. Si fallas, tú y cualquier criatura y objeto que se encuentre a 15 pies o menos de ti os desplazáis a una localización al azar. Tira 1d100. Si sacas entre 1 y 60, viajáis a una localización aleatoria en el plano de existencia nombrado. Si sacas entre 61 y 100, aparecéis en un plano determinado aleatoriamente.</div>"
 		},
 		"Animated Shield": {
-			"name": "Escudo animado (Animated Shield)",
+			"name": "Escudo animado",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Mientras sostengas este escudo, puedes emplear una acción adicional para pronunciar su palabra de activación y así hacer que se anime. El escudo saltará de tu mano y levitará en tu espacio, protegiéndote como si lo empuñaras, pero dejando tus manos libres. Permanecerá animado durante 1 minuto, hasta que uses una acción adicional para terminar este efecto, o hasta que quedes incapacitado o mueras. Cuando se dé alguna de estas circunstancias, el escudo caerá al suelo o volverá a tu mano si tienes una libre.</p>"
 		},
 		"Antitoxin": {
