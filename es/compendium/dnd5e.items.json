@@ -78,19 +78,19 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Mientras sostengas este escudo, puedes emplear una acción adicional para pronunciar su palabra de activación y así hacer que se anime. El escudo saltará de tu mano y levitará en tu espacio, protegiéndote como si lo empuñaras, pero dejando tus manos libres. Permanecerá animado durante 1 minuto, hasta que uses una acción adicional para terminar este efecto, o hasta que quedes incapacitado o mueras. Cuando se dé alguna de estas circunstancias, el escudo caerá al suelo o volverá a tu mano si tienes una libre.</p>"
 		},
 		"Antitoxin": {
-			"name": "Antitoxina (Antitoxin)",
+			"name": "Antitoxina",
 			"description": "<p>La criatura que beba el contenido de este vial obtendrá ventaja en las tiradas de salvación contra veneno durante 1 hora. No obstante, no tendrá efecto en muertos vivientes o autómatas.</p>"
 		},
 		"Apparatus of the Crab": {
-			"name": "Aparato del Cangrejo (Apparatus of the Crab)",
+			"name": "Aparato del cangrejo",
 			"description": "<div><em>Objeto maravilloso</em></div>\n<div> </div>\n<div>A primera vista, este objeto parece un barril de hierro sellado, Grande, que pesa 500 libras. Tiene un resorte escondido, que es posible encontrar teniendo éxito en una prueba de Inteligencia (Investigación) CD 20. Activar el resorte abre una escotilla en uno de los extremos del barril, permitiendo entrar arrastrándose a dos criaturas de tamaño Mediano o más pequeñas. Dentro, en el otro extremo, hay 10 palancas, todas ellas en posición neutra y que pueden ser movidas hacia arriba o hacia abajo. Cuando se pulsan ciertas palancas, el aparato se transforma hasta parecer una langosta gigante.</div>\n<div> </div>\n<div>El Aparato del Cangrejo es un objeto Grande con el siguiente perfil:</div>\n<div><strong>CA:</strong> 20<br><strong>Puntos de golpe:</strong> 200<br><strong>Velocidad:</strong> 30 pies, 30 pies nadando (o 0 pies en ambos casos si no se han extendido patas y cola)<br><strong>Inmunidad a daño:</strong> psíquico, veneno<br><br>El aparato puede ser usado como vehículo, pero para ello necesita un piloto. Mientras la escotilla esté cerrada, el compartimento es estanco y hermético. Contiene suficiente aire para respirar durante 10 horas, divididas entre el número de criaturas del interior que necesiten respirar.<br><br>El aparato flota en el agua. También puede sumergirse hasta una profundidad de 900 pies. Si desciende por debajo de ella, recibirá 2d6 de daño por minuto debido a la presión.<br><br>Una criatura en el compartimento puede emplear una acción para mover hasta dos de las palancas arriba o abajo. Después de cada uso, la palanca vuelve a la posición neutra. Cada palanca, de izquierda a derecha, funciona como se muestra en la tabla Palancas del Aparato del Cangrejo.<br><br>Tabla de Palancas del Aparato del Cangrejo:</div>\n<div> </div>\n<div>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Palanca</strong></td>\n<td><strong>Arriba</strong></td>\n<td><strong>Abajo</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>La cola y las patas se extienden, permitiendo que el aparato camine y nade</td>\n<td>Las patas y la cola se retraen, reduciendo la velocidad del aparato a 0 e impidiendo que se beneficie de ningún bonificador a su velocidad</td>\n</tr>\n<tr>\n<td>2</td>\n<td>La persiana de la ventana delantera se abre</td>\n<td>La persiana de la ventana delantera se cierra</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Las persianas de las ventanas laterales se abren (dos por lado)</td>\n<td>Las persianas de las ventanas laterales se cierran (dos por lado)</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Se extienden dos garras de la parte frontal del aparato</td>\n<td>Se retraen las garras</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Cada garra, si está extendida, hace el siguiente ataque con arma cuerpo a cuerpo: +8 a impactar, alcance 5 pies, un objetivo. Impacto: 7 (2d6) de daño contundente</td>\n<td>Cada garra, si está extendida, hace el siguiente ataque con arma cuerpo a cuerpo: +8 a impactar, alcance 5 pies, un objetivo. Impacto: la criatura es agarrada (CD 15 para escapar)</td>\n</tr>\n<tr>\n<td>6</td>\n<td>El aparato camina o nada hacia delante</td>\n<td>El aparato camina o nada hacia atrás</td>\n</tr>\n<tr>\n<td>7</td>\n<td>El aparato gira 90 grados a la izquierda</td>\n<td>El aparato gira 90 grados a la derecha</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Unas linternas con forma de ojo emiten luz brillante en un radio de 30 pies y luz tenue 30 pies más allá</td>\n<td>La luz se apaga</td>\n</tr>\n<tr>\n<td>9</td>\n<td>El aparato desciende hasta 20 pies en un medio líquido</td>\n<td>El aparato asciende hasta 20 pies en un medio líquido</td>\n</tr>\n<tr>\n<td>10</td>\n<td>La escotilla trasera se abre</td>\n<td>La escotilla trasera se cierra</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n</div>"
 		},
 		"Armor of Invulnerability": {
-			"name": "Armadura de invulnerabilidad (Armor of Invulnerability)",
+			"name": "Armadura de invulnerabilidad",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia al daño no mágico cuando llevas puesta esta armadura. Además, puedes utilizar una acción para hacerte inmune al daño no mágico durante 10 minutos o hasta que no vistas la armadura. Una vez empleas esta acción especial, no podrás volver a hacerlo hasta el siguiente amanecer.</p>"
 		},
 		"Armor of Vulnerability": {
-			"name": "Armadura de vulnerabilidad (Armor of Vulnerability)",
+			"name": "Armadura de vulnerabilidad",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando llevas puesta esta armadura, tienes resistencia a un tipo de daño de entre los siguientes: contundente, cortante o perforante. El DM elige el tipo o lo determina al azar.</p>\n<p><strong>Maldición</strong>. Esta armadura esta maldita, circunstancia que solo se revela cuando se usa el conjuro de Identificar sobre ella o te sintonizas con ella. Sintonizarse con la armadura te maldice hasta que seas objetivo del conjuro levantar maldición o un efecto mágico similar. Quitarse la armadura no acaba con la maldición. Mientras estés maldito, de los tres tipos de daño mencionados arriba, eres vulnerable a los dos contra los que la armadura no te proporciona resistencia.</p>"
 		},
 		"Arrow": {
@@ -98,107 +98,107 @@
 			"description": "<p>Munición común utilizada por arcos de cualquier tipo. Estas flechas mundanas están hechas de lisas varas de madera con plumas de ganso y puntas de metal.</p>"
 		},
 		"Arrow +1": {
-			"name": "Flecha +1 (Arrow +1)",
+			"name": "Flecha +1",
 			"description": "<p>Munición utilizada por arcos de cualquier tipo. Se ha imbuido con magia.</p>\n<p>Tienes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Arrow +2": {
-			"name": "Flecha +2 (Arrow +2)",
+			"name": "Flecha +2",
 			"description": "<p>Munición utilizada por arcos de cualquier tipo. Se ha imbuido con magia.</p>\n<p>Tienes un bonificador de +3 a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Arrow +3": {
-			"name": "Flecha +3 (Arrow +3)",
+			"name": "Flecha +3",
 			"description": "<p>Munición utilizada por arcos de cualquier tipo. Se ha imbuido con magia.</p>\n<p>Tienes un bonificador a las tiradas de ataque y de daño que hagas con esta unidad de munición mágica. Una vez impacte a un objetivo, la munición dejará de ser mágica.</p>"
 		},
 		"Arrow of Slaying": {
-			"name": "Flecha asesina (Arrow of Slaying)",
+			"name": "Flecha asesina",
 			"description": "<p>Una flecha asesina es un arma mágica pensada para matar a un tipo concreto de criatura. Algunas son más específicas que otras. Por ejemplo, hay tanto flechas asesinas de dragones como flechas asesinas de dragones azules. Si una criatura perteneciente al tipo, raza o grupo asociado con una flecha asesina recibe daño de ella, deberá hacer una tirada de salvación de Constitución CD 17. Recibirá 6d10 de daño perforante adicional si falla la tirada o la mitad de ese daño si tiene éxito.<br />En cuanto una flecha asesina inflige su daño adicional a una criatura, se convierte en una flecha no mágica.</p>"
 		},
 		"Arrow-Catching Shield": {
-			"name": "Escudo atrapaflechas (Arrow-Catching Shield)",
+			"name": "Escudo atrapaflechas",
 			"description": "<p>Mientras empuñes este escudo, obtienes un bonificador de +2 a tu CA contra ataques a distancia. Es te bonificador se añade al bonificador a la CA normal del escudo. Además, cuando un atacante realice un ataque a distancia contra un objetivo que se encuentre a 5 pies o menos de ti, podrás usar tu reacción para convertirte en el objetivo del ataque.</p>"
 		},
 		"Backpack": {
-			"name": "Mochila (Backpack)",
+			"name": "Mochila",
 			"description": "<p>Una mochila puede contener un pie cúbico o 30 libras de equipo. También puede atar objetos, como un saco de dormir o un rollo de cuerda, en su exterior.</p>"
 		},
 		"Bag of Beans": {
-			"name": "Bolsa de judías (Bag of Beans)",
+			"name": "Bolsa de judías",
 			"description": "<p>Dentro de esta pesada bolsa de tela hay 3d4 judías secas. La bolsa pesa 1/2 libra, más 1/4 de libra adicional por cada judía que contenga.</p>\n<p>Si vacías el contenido de la bolsa en el suelo, este explotará en un radio de 10 pies al rededor de las judías. Todas las criaturas que se encuentren en el área deberán hacer una tirada de salvación de Destreza CD 15, su friendo 5d4 de daño de fuego si la fallan, o la mitad de ese daño si la superan. Los objetos en el área que no lleve o vista alguien arderán.</p>\n<p>Si coges una judía de la bolsa, la plantas en tierra o arena y la riegas, producirá un efecto en el suelo 1 minuto después de ser plantada. El DM puede escoger un efecto de la siguiente tabla, determinarlo al azar o crear uno nuevo.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Efecto</strong></td>\n</tr>\n<tr>\n<td>01</td>\n<td>Brotan 5d4 hongos venenosos. Si una criatura come uno de estos hongos, tira un dado. Si el resultado es impar, la criatura deberá superar una tirada de salvación de Constitución CD 15 o recibirá 5d6 de daño de veneno y quedará envenenada durante 1 hora. Con un resultado par, la criatura ganará 5d6 puntos de golpe temporales que duran una hora.</td>\n</tr>\n<tr>\n<td>02-10</td>\n<td>Un géiser surge del suelo, expulsando a borbotones agua, cerveza, zumo de bayas, té, vinagre, vino o aceite (a elección del DM). El chorro tiene una altura de 30 pies y dura 1d12 asaltos.</td>\n</tr>\n<tr>\n<td>11-20</td>\n<td>Del suelo brota un ent. Hay un 50 % de probabilidades de que esta criatura sea caótica malvada y ataque inmediatamente.</td>\n</tr>\n<tr>\n<td>21-30</td>\n<td>Aparece una estatua de piedra animada e inmóvil con tu apariencia. Te amenazará verbalmente. Si la abandonas y otros se acercan, la estatua te describirá como el más vil de los villanos y mandará a los recién llegados a buscarte y atacarte. Si estás en el mismo plano de existencia que la estatua, sabrá donde estás. Se volverá inanimada tras 24 horas.</td>\n</tr>\n<tr>\n<td>31-40</td>\n<td>Surge una hoguera de llamas azules, que arderá durante 24 horas (o hasta que sea extinguida).</td>\n</tr>\n<tr>\n<td>41-50</td>\n<td>Brotan del suelo 1d6 + 6 chillones.</td>\n</tr>\n<tr>\n<td>51-60</td>\n<td>Se arrastrarán, saliendo de entre la tierra, 1d4 + 8 sapos de color rosa brillante. Cuando se toque a uno, este se convertirá en un monstruo Grande o más pequeño a elección del DM. El monstruo permanecerá durante 1 minuto y después desaparecerá en una nube de humo rosa brillante.</td>\n</tr>\n<tr>\n<td>61-70</td>\n<td>Un bulette hambriento sale excavando de la tierra y ataca.</td>\n</tr>\n<tr>\n<td>71-80</td>\n<td>Un árbol frutal crece rápidamente en el sitio. Tiene 1d10 + 20 piezas de fruta, de las cuales 1d8 se comportan como pociones determinadas aleatoriamente y otra de ellas como un veneno ingerido a elección del DM. El árbol se desvanece en una hora. La fruta que haya sido recogida permanece y la magia se mantiene durante 30 días.</td>\n</tr>\n<tr>\n<td>81-90</td>\n<td>Aparece un nido con 1d4 + 3 huevos. Cualquier criatura que coma uno de estos huevos deberá realizar una tirada de salvación de Constitución CD 20. Si tiene éxito, incrementará su puntuación de característica más baja en 1, eligiendo al azar si hay varias puntuaciones empatadas por ser la más baja. Si falla, la criatura recibirá 10d6 de daño de fuerza de una explosión mágica interna.</td>\n</tr>\n<tr>\n<td>91-99</td>\n<td>Una pirámide con una base de 60 pies cuadrados surge del suelo. Dentro hay un sarcófago con un señor de las momias en su interior. La pirámide se considera la guarida del señor de las momias y su sarcófago contiene un tesoro a elección del DM.</td>\n</tr>\n<tr>\n<td>00</td>\n<td>Brota un tallo de judía gigante, que crece hasta la altura que el DM considere oportuno. La parte más alta da acceso a un sitio también a su elección, ya sea el castillo de un gigante de las nubes, una hermosa vista u otro plano de existencia.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Bag of Devouring": {
-			"name": "Bolsa devoradora (Bag of Devouring)",
+			"name": "Bolsa devoradora",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa tiene un parecido superficial con una bolsa de contención, pero en realidad es el orificio de alimentación de una criatura extradimensional gigante. Poner la bolsa del revés cierra el orificio.</p>\n<p>La criatura extradimensional enlazada con la bolsa puede sentir cualquier cosa que se ponga dentro de esta. La materia animal o vegetal que se coloque por completo en el interior de la bolsa es devorada y se pierde para siempre. Cuando se pone parte de una criatura viva en la bolsa, como cuando alguien mete la mano, hay un 50 % de probabilidades de que la criatura sea agarrada y metida en la bolsa a la fuerza. Una criatura dentro de la bolsa puede usar su acción para intentar escapar superando una prueba de Fuerza CD 15.</p>\n<p>Otra criatura puede emplear su acción para meter la mano en la bolsa y tratar de sacar a una criatura, y tendrá éxito si supera una prueba de fuerza CD 20 (suponiendo que no acabe siendo arrastrada también al interior de la bolsa).</p>\n<p>Una criatura será devorada si comienza su turno dentro de la bolsa. Si ocurre esto su cuerpo será destruido.</p>\n<p>Los objetos inanimados pueden ser guardados en la bolsa sin problemas. Esta puede contener un pie cúbico de ese tipo de materiales. Sin embargo, una vez al día, la bolsa se tragará cualquier objeto dentro de ella y lo escupirá en otro plano de existencia. El momento y el plano los determina el DM.</p>\n<p>Si la bolsa es perforada o rasgada, queda destruida, y cualquier cosa que contuviera es transportada a un lugar aleatorio del Plano Astral.</p>"
 		},
 		"Bag of Holding": {
-			"name": "Bolsa de contención (Bag of Holding)",
+			"name": "Bolsa de contención",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa posee un espacio interior considerablemente mayor que sus dimensiones exteriores, que son de 2 pies de diámetro en la abertura y 4 pies de profundidad. La bolsa puede contener hasta 500 libras, con un volumen máximo de 64 pies cúbicos. Siempre pesará 15 libras, independientemente del contenido. Sacar un objeto de la bolsa cuesta una acción.</p>\n<p>Si se sobrecarga, perfora o rasga la bolsa, esta se rompe por completo y queda destruida, quedando sus contenidos dispersos por el Plano Astral. Si se pone la bolsa del revés, los contenidos serán volcados al exterior, sin quedar dañados, pero la bolsa debe volver a ponerse en su posición inicial antes de poder ser usada de nuevo.</p>\n<p>Las criaturas dentro de la bolsa que necesiten respirar pueden sobrevivir un número de minutos igual a 10 dividido entre el número de criaturas albergadas (mínimo 1 minuto), tiempo tras el cual comenzarán a ahogarse.</p>\n<p>Poner una bolsa de contención dentro del espacio extradimensional creado por un Morral práctico, un Agujero portátil u objeto similar destruye instantáneamente ambos objetos y abre un portal al Plano Astral. Se creará en el sitio donde un objeto se metió dentro del otro. Cualquier criatura que se encuentre a 10 pies del portal será absorbida a través de este a una localización aleatoria en el Plano Astral. Después, el portal se cierra. Solo funciona en un sentido y no puede ser reabierto.</p>"
 		},
 		"Bag of Sand": {
-			"name": "Bolsa de arena (Bag of Sand)",
+			"name": "Bolsa de arena",
 			"description": "<p>Una pequeña bolsa de arena utilizada por los académicos para secar cartas y correspondencia recién entintadas de manera rápida y segura para enviarlas rápidamente.</p>"
 		},
 		"Bag of Tricks (Grey)": {
-			"name": "Bolsa de trucos gris (Bag of Tricks (Grey))",
+			"name": "Bolsa de trucos gris",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa de aspecto ordinario, hecha de tela de color gris, parece vacía. Meter la mano dentro de la bolsa revela, sin embargo, que en su interior hay un objeto pequeño y peludo. La bolsa pesa 1/2 libra.</p>\n<p>Puedes usar una acción para sacar el objeto peludo de la bolsa y arrojarlo a un punto a 20 pies o menos de distancia. Cuando aterriza, se convierte en una criatura determinada al azar, tirando 1d8 y consultando la tabla.</p>\n<p>La criatura es amistosa hacia ti y tus compañeros y actúa en tu propio turno. Puedes emplear una acción adicional para decidir cómo se mueve la criatura, qué acción toma en su turno o para darle órdenes más generales, como atacar a tus enemigos. Si no recibe tales órdenes, se comportará de acuerdo a su naturaleza.</p>\n<p>Una vez que se han extraído tres objetos peludos de la bolsa, esta no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Criatura</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.WOdeacKCYVhgLDuN]{Comadreja}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.q1YJIeIt6rK8fCKn]{Rata gigante}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.oQvORD924obyPdCc]{Tejón}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.lZR4lhNmYSf89s4Q]{Jabalí}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.AijNdqMurWxDxUSl]{Pantera}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.OSKoYxdiQ8jYqOGH]{Tejón gigante}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.EYiQZ3rFL25fEJY5]{Lobo terrible}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.hQt3qIahnB1Odb40]{Alce gigante}</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Bag of Tricks (Rust)": {
-			"name": "Bolsa de trucos rojiza (Bag of Tricks (Rust))",
+			"name": "Bolsa de trucos rojiza",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa de aspecto ordinario, hecha de tela de color rojiza, parece vacía. Meter la mano dentro de la bolsa revela, sin embargo, que en su interior hay un objeto pequeño y peludo. La bolsa pesa 1/2 libra.</p>\n<p>Puedes usar una acción para sacar el objeto peludo de la bolsa y arrojarlo a un punto a 20 pies o menos de distancia. Cuando aterriza, se convierte en una criatura determinada al azar, tirando 1d8 y consultando la tabla.</p>\n<p>La criatura es amistosa hacia ti y tus compañeros y actúa en tu propio turno. Puedes emplear una acción adicional para decidir cómo se mueve la criatura, qué acción toma en su turno o para darle órdenes más generales, como atacar a tus enemigos. Si no recibe tales órdenes, se comportará de acuerdo a su naturaleza.</p>\n<p>Una vez que se han extraído tres objetos peludos de la bolsa, esta no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Criatura</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.pozQUPTnLZW8epox]{Rata}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.d0prpsGSAorDadec]{Búho}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastín}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.y8sRU8Ks2lcrGsaf]{Cabra}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.N3ahWNjmxk9Ro1aG]{Cabra gigante}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.55z2VqYdUb8BWgyc]{Jabalí gigante}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.hjhERRzafCiFFVLA]{León}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.omcDpBoB69esCXeM]{Oso pardo}</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Bag of Tricks (Tan)": {
-			"name": "Bolsa de trucos marrón (Bag of Tricks (Tan))",
+			"name": "Bolsa de trucos marrón",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta bolsa de aspecto ordinario, hecha de tela de color marrón, parece vacía. Meter la mano dentro de la bolsa revela, sin embargo, que en su interior hay un objeto pequeño y peludo. La bolsa pesa 1/2 libra.</p>\n<p>Puedes usar una acción para sacar el objeto peludo de la bolsa y arrojarlo a un punto a 20 pies o menos de distancia. Cuando aterriza, se convierte en una criatura determinada al azar, tirando 1d8 y consultando la tabla.</p>\n<p>La criatura es amistosa hacia ti y tus compañeros y actúa en tu propio turno. Puedes emplear una acción adicional para decidir cómo se mueve la criatura, qué acción toma en su turno o para darle órdenes más generales, como atacar a tus enemigos. Si no recibe tales órdenes, se comportará de acuerdo a su naturaleza.</p>\n<p>Una vez que se han extraído tres objetos peludos de la bolsa, esta no puede volver a utilizarse hasta el siguiente amanecer.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d8</strong></td>\n<td><strong>Creature</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>@Compendium[dnd5e.monsters.MZYCPIVoBs918qGZ]{Chacal}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>@Compendium[dnd5e.monsters.K5cKmPoFkpuOotis]{Simio}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>@Compendium[dnd5e.monsters.JW8bXggOMBx1S6tF]{Babuino}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>@Compendium[dnd5e.monsters.SXXvwaLBNuzBymp3]{Pico de hacha}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>@Compendium[dnd5e.monsters.D5WjGwKskeUT8HXa]{Oso negro}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>@Compendium[dnd5e.monsters.8VXxqeBvN54rPh81]{Comadreja gigante}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>@Compendium[dnd5e.monsters.oBXgFDnwGehbpmKN]{Hiena gigante}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>@Compendium[dnd5e.monsters.FayqbnjBMszO6Pat]{Tigre}</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Bagpipes": {
-			"name": "Gaita (Bagpipes)",
+			"name": "Gaita",
 			"description": "<p>Un juego de gaitas para evocar el asombro, la admiración o el miedo en tu público.</p>\n<p>Si eres competente en un instrumento musical determinado, puedes añadir tu bonificación de competencia a cualquier prueba de habilidad que hagas para tocar música con el instrumento. Un bardo puede utilizar un instrumento musical como canalizador mágico. Cada tipo de instrumento musical requiere una competencia distinta.</p>"
 		},
 		"Ball Bearings": {
-			"name": "Bolas de metal (Ball Bearings)",
+			"name": "Bolas de metal",
 			"description": "<p>Puedes usar tu acción para esparcir estas pequeñas esferas metálicas, que vienen en una bolsita, sobre una superficie nivelada, cubriendo un cuadrado de 10 pies de lado. Las criaturas que se muevan a través de la zona afectada deberán superar una tirada de salvación de Destreza CD 10 o serán derribadas. Sin embargo, si una criatura se desplaza por la zona a la mitad de su velocidad, no tendrá que superar la tirada de salvación.</p>"
 		},
 		"Barrel": {
-			"name": "Barril (Barrel)",
+			"name": "Barril",
 			"description": "<p>Un barril puede contener 40 galones de líquido o 4 pies cúbicos de sólidos.</p>"
 		},
 		"Basic Poison": {
-			"name": "Veneno básico (Basic Poison)",
+			"name": "Veneno básico",
 			"description": "<p>Puedes usar el veneno contenido en este vial para untar un arma cortante o perforante o hasta tres unidades de munición. Para hacer esto deberás invertir una acción. Cualquier criatura impactada por el arma o munición envenenadas deberá superar una tirada de salvación de Constitución CD 10 o sufrirá 1d4 de daño de veneno. Una vez aplicado al arma o munición, el veneno mantendrá su efectividad durante 1 minuto, tras el cual se habrá secado.</p>"
 		},
 		"Basket": {
-			"name": "Cesta (Basket)",
+			"name": "Cesta",
 			"description": "<p>Una cesta puede contener 2 pies cúbicos o 40 libras de equipo.</p>"
 		},
 		"Battleaxe": {
-			"name": "Hacha de guerra (Battleaxe)",
+			"name": "Hacha de guerra",
 			"description": "<p>Una robusta hoja de media luna montada sobre un grueso mango envuelto en una firme empuñadura. Esta hacha es lo suficientemente grande como para ser empuñada a dos manos y está adornada con pinchos en el reverso de la hoja y en la parte superior del asta.</p>"
 		},
 		"Battleaxe +1": {
-			"name": "Hacha de guerra +1 (Battleaxe +1)",
+			"name": "Hacha de guerra +1",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Battleaxe +2": {
-			"name": "Hacha de guerra +2 (Battleaxe +2)",
+			"name": "Hacha de guerra +2",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Battleaxe +3": {
-			"name": "Hacha de guerra +3 (Battleaxe +3)",
+			"name": "Hacha de guerra +3",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Bead of Force": {
-			"name": "Canica de fuerza (Bead of Force)",
+			"name": "Canica de fuerza",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta pequeña esfera negra mide 3/4 de pulgada de diámetro y pesa una onza. Normalmente se encontrarán 1d4 + 4 Canicas de fuerza juntas.</p>\n<p>Puedes usar una acción para tirar la canica a un punto a 60 pies o menos de distancia. Explota al impactar y queda destruida. Cada criatura que se encuentre en un radio de 10 pies del lugar de impacto deberá tener éxito en una prueba de salvación de Destreza CD 15 o recibirá 5d4 de daño de fuerza. Después, el área quedará encerrada en una esfera transparente de fuerza durante 1 minuto. Cualquier criatura que haya fallado la tirada y esté totalmente dentro del área queda atrapada dentro de esta esfera. Las que solo estén parcialmente dentro del área o hayan superado la tirada de salvación son empujadas en dirección contraria al centro hasta que queden completamente fuera del área. A través de la superficie de la esfera solo puede pasar aire respirable, ningún otro ataque o efecto.</p>\n<p>Una criatura encerrada puede utilizar su acción para empujar la esfera desde dentro, haciéndola rodar a una velocidad máxima de la mitad de la velocidad de la criatura. La esfera puede ser cogida, y su magia hace que solo pese 1 libra, independientemente del número de criaturas en su interior.</p>"
 		},
 		"Bedroll": {
-			"name": "Petate (Bedroll)",
+			"name": "Petate",
 			"description": "<p>Rollo de tela usado por los viajeros para dormir.</p>"
 		},
 		"Bell": {
-			"name": "Campana (Bell)",
+			"name": "Campana",
 			"description": "<p>Una pequeña campana para hacerla sonar.</p>"
 		},
 		"Belt of Cloud Giant Strength": {
-			"name": "Cinturón de fuerza de gigante de las nubes (Belt of Cloud Giant Strength)",
+			"name": "Cinturón de fuerza de gigante de las nubes",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 27. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Belt of Dwarvenkind": {
