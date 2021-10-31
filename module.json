@@ -2,7 +2,7 @@
   "name": "dnd5e-babele-spanish",
   "title": "Translation: Spanish Babele [DnD5e and Compendiums]",
   "description": "Nueva traducción al español del sistema y los compendios de D&D5e para Foundry VTT.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "minimumCoreVersion" : "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "author": "Babele: Simone / System: Cosmo Corban / Compendiums: Elber, Aterlom, WallaceMcGregor y Honzo",
