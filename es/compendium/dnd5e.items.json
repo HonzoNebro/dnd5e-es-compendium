@@ -238,7 +238,7 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Además, mientras estés sintonizado con ella, tus puntos de golpe máximos se incrementan en 1 por cada nivel que poseas.</p>\n<p><strong>Maldición</strong>. Esta hacha está maldita y al sintonizarte con ella te afectará la maldición. Mientras estés maldito, no aceptarás alejarte del hacha y la mantendrás siempre a tu alcance. También tendrás desventaja en tiradas de ataque con otras armas, a menos que no haya ningún enemigo que puedas ver u oír a 60 pies o menos de distancia.</p>\n<p>Cuando una criatura hostil te dañe, si tienes el hacha en tu haber, deberás tener éxito en una tirada de salvación de Sabiduría CD 15 o sucumbirás a una furia berserker. Mientras estés bajo los efectos de esta furia, deberás utilizar tu acción cada asalto para atacar con el hacha a la criatura más cercana. Si puedes realizar ataques adicionales como parte de tu acción de Atacar, lo harás, prosiguiendo con la siguiente criatura después de derrotar a tu objetivo actual.</p>\n<p>Si tienes varios objetivos posibles, atacarás a uno al azar. Seguirás en este estado hasta que comience tu turno y no haya criaturas que puedas ver u oír a 60 pies o menos de ti.</p>"
 		},
 		"Blanket": {
-			"name": "Manta (Blanket)",
+			"name": "Manta",
 			"description": "<p>Una sábana o manta para mantenerte caliente por la noche.</p>"
 		},
 		"Block and Tackle": {
@@ -246,7 +246,7 @@
 			"description": "<p>Un conjunto de poleas recorridas por un cable que termina en un gancho, que se puede fijar a un objeto. Un polipasto te permite alzar cuatro veces el peso que podrías levantar en condiciones normales.</p>"
 		},
 		"Block of Incense": {
-			"name": "Bloque de incienso (Block of Incense)",
+			"name": "Bloque de incienso",
 			"description": "<p>Utilizado a menudo por ricos y religiosos para aromatizar el ambiente con fines placenteros o rituales.</p>"
 		},
 		"Blowgun": {
@@ -302,203 +302,203 @@
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Tu velocidad caminando cuando llevas puestas estas botas es de 30 pies, salvo que normalmente fuera superior. Esta velocidad no se reduce por estar cargado o por vestir armadura pesada. Además, saltas tres veces la distancia normal, pero nunca más lejos que tu movimiento restante.</p>"
 		},
 		"Boots of the Winterlands": {
-			"name": "Botas de las tierras invernales (Boots of the Winterlands)",
+			"name": "Botas de las tierras invernales",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Estas botas forradas de pelaje son ceñidas y calentitas. Mientras las lleves puestas, obtendrás los siguientes beneficios:</p>\n<ul>\n<li>Resistencia al daño de frío.</li>\n<li>Ignoras el terreno difícil por nieve o hielo. Puedes aguantar temperaturas de hasta &minus;45 ºC sin más protección. Si llevas ropas pesadas, puedes soportar hasta &minus;75 ºC.</li>\n</ul>"
 		},
 		"Bowl of Commanding Water Elementals": {
-			"name": "Cuenco para controlar elementales de agua (Bowl of Commanding Water Elementals)",
+			"name": "Cuenco para controlar elementales de agua",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras este cuenco esté lleno de agua, puedes utilizar una acción para pronunciar la palabra de activación del cuenco e invocar un <em>@Compendium[dnd5e.monsters.namJz755U1EhvEJa]{Elemental de agua}</em>, como si hubieras lanzado <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar elemental}</em>. El cuenco no puede volver a usarse de esta manera hasta el siguiente amanecer.</p>\n<p>El cuenco tiene un pie de diámetro y la mitad de profundidad. Pesa 3 libras y puede contener unos 3 galones.</p>"
 		},
 		"Bracers of Archery": {
-			"name": "Brazales de arquería (Bracers of Archery)",
+			"name": "Brazales de arquería",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves estos brazales, eres competente con arcos largos y arcos cortos y obtienes un bonificador de +2 a las tiradas de daño en ataques a distancia con estas armas.</p>"
 		},
 		"Bracers of Defense": {
-			"name": "Brazales de defensa (Bracers of Defense)",
+			"name": "Brazales de defensa",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves estos brazales, obtienes un bonificador de +2 a la CA si no vistes armadura ni empuñas un escudo.</p>"
 		},
 		"Brass Horn of Valhalla": {
-			"name": "Cuerno del Valhalla de latón (Brass Horn of Valhalla)",
+			"name": "Cuerno del Valhalla de latón",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Puedes usar una acción para soplar este cuerno. Acudiendo a tu llamada, espíritus guerreros del plano del Valhalla aparecen a 60 pies o menos de ti. Su perfil es el del <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.monsters\" data-id=\"kz1t6xeXVwODpYb2\">Berserker</a>. Volverán al Valahalla después de 1 hora o cuando sus puntos de golpe desciendan a 0. Una vez empleado, el cuerno no podrá ser soplado hasta que pasen 7 días.</p>\n<p>Se conoce la existencia de cuatro tipos de cuerno del Valhalla, cada uno de un metal distinto. El material del cuerno determina cuantos berserkers responden a su llamada, así como el requisito para poder utilizarlo. El DM elige el tipo o lo determina al azar.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th>Tipo de cuerno</th>\n<th>Berserkers convocados</th>\n<th>Requisitos</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Plata</td>\n<td>2d4 + 2</td>\n<td>Ninguno</td>\n</tr>\n<tr>\n<td><strong>41-75</strong></td>\n<td><strong>Latón</strong></td>\n<td><strong>3d4 + 3</strong></td>\n<td><strong>Competencia con todas las armas sencillas</strong></td>\n</tr>\n<tr>\n<td>76-90</td>\n<td>Bronce</td>\n<td>4d4 + 4</td>\n<td>Competencia con todas las armaduras medias</td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Hierro</td>\n<td>5d4 + 5</td>\n<td>Competencia con todas las armas marciales</td>\n</tr>\n</tbody>\n</table>\n<p>Si soplas el cuerno sin cumplir el requisito, los berserkers convocados te atacarán. En cambio, si lo cumples, serán amistosos hacia ti y tus compañeros y seguirán tus órdenes.</p>"
 		},
 		"Brazier of Commanding Fire Elementals": {
-			"name": "Brasero para controlar elementales de fuego (Brazier of Commanding Fire Elementals)",
+			"name": "Brasero para controlar elementales de fuego",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras arda un fuego en este brasero, puedes utilizar una acción para pronunciar su palabra de activación e invocar un @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{Elemental de fuego}, como si hubieras lanzado <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar elemental}</em>. El brasero no puede volver a utilizarse de esta forma hasta el siguiente amanecer.</p>\n<p>El brasero pesa 5 libras.</p>"
 		},
 		"Breastplate": {
-			"name": "Coraza (Breastplate)",
+			"name": "Coraza",
 			"description": "<p>Esta armadura consiste en una placa de metal ajustada al pecho mediante tiras de cuero flexible. Aunque deja las extremidades relativamente expuestas ofrece buena protección para los órganos vitales sin afectar en demasía la libertad de movimientos</p>"
 		},
 		"Breastplate +1": {
-			"name": "Coraza +1 (Breastplate +1)",
+			"name": "Coraza +1",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Breastplate +2": {
-			"name": "Coraza +2 (Breastplate +2)",
+			"name": "Coraza +2",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Breastplate +3": {
-			"name": "Coraza +3 (Breastplate +3)",
+			"name": "Coraza +3",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Breastplate Armor of Resistance": {
-			"name": "Coraza de resistencia (Breastplate Armor of Resistance)",
+			"name": "Coraza de resistencia",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Brewer's Supplies": {
-			"name": "Suministros de cervecero (Brewer's Supplies)",
+			"name": "Suministros de cervecero",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cervecero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Bronze Horn of Valhalla": {
-			"name": "Cuerno del Valhalla de bronce (Bronze Horn of Valhalla)",
+			"name": "Cuerno del Valhalla de bronce",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Puedes usar una acción para soplar este cuerno. Acudiendo a tu llamada, espíritus guerreros del plano del Valhalla aparecen a 60 pies o menos de ti. Su perfil es el del @Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}. Volverán al Valahalla después de 1 hora o cuando sus puntos de golpe desciendan a 0. Una vez empleado, el cuerno no podrá ser soplado hasta que pasen 7 días.</p>\n<p>Se conoce la existencia de cuatro tipos de cuerno del Valhalla, cada uno de un metal distinto. El material del cuerno determina cuantos berserkers responden a su llamada, así como el requisito para poder utilizarlo. El DM elige el tipo o lo determina al azar.</p>\n<table>\n<thead>\n<tr>\n<th>d100</th>\n<th>Tipo de cuerno</th>\n<th>Berserkers convocados</th>\n<th>Requisitos</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>01-40</td>\n<td>Plata</td>\n<td>2d4 + 2</td>\n<td>Ninguno</td>\n</tr>\n<tr>\n<td>41-75</td>\n<td>Latón</td>\n<td>3d4 + 3</td>\n<td>Competencia con todas las armas sencillas</td>\n</tr>\n<tr>\n<td><strong>76-90</strong></td>\n<td><strong>Bronce</strong></td>\n<td><strong>4d4 + 4</strong></td>\n<td><strong>Competencia con todas las armaduras medias</strong></td>\n</tr>\n<tr>\n<td>91-00</td>\n<td>Hierro</td>\n<td>5d4 + 5</td>\n<td>Competencia con todas las armas marciales</td>\n</tr>\n</tbody>\n</table>\n<p>Si soplas el cuerno sin cumplir el requisito, los berserkers convocados te atacarán. En cambio, si lo cumples, serán amistosos hacia ti y tus compañeros y seguirán tus órdenes.</p>"
 		},
 		"Brooch of Shielding": {
-			"name": "Broche escudo (Brooch of Shielding)",
+			"name": "Broche escudo",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves prendido este broche, tienes resistencia al daño de fuerza e inmunidad al daño del conjuro <em>@Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Proyectil mágico}</em>.</p>"
 		},
 		"Broom of Flying": {
-			"name": "Escoba voladora (Broom of Flying)",
+			"name": "Escoba voladora",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta escoba de madera, que pesa 3 libras, funcionará como una escoba normal hasta que te montes en ella y pronuncies su palabra de activación. Después, levitará y podrás utilizarla para viajar por el aire. Tiene una velocidad volando de 50 pies. Puede llevar hasta 400 libras, pero su velocidad volando baja a 30 pies si lleva más de 200 libras. La escoba deja de levitar cuando aterrices.</p>\n<p>Puedes ordenar a la escoba que viaje por sí misma a una localización que se encuentre a 1 milla de distancia si pronuncias la palabra de activación, nombras el lugar y estás familiarizado con el sitio en cuestión. Si sigue estando a 1 milla de distancia, la escoba volverá si pronuncias otra palabra de activación.</p>"
 		},
 		"Bucket": {
-			"name": "Cubo (Bucket)",
+			"name": "Cubo",
 			"description": "<p>Un cubo puede contener 3 galones de líquido o ½ pie cúbico de sólidos.</p>"
 		},
 		"Bullseye Lantern": {
-			"name": "Linterna ojo de buey (Bullseye Lantern)",
+			"name": "Linterna ojo de buey",
 			"description": "<p>Esta linterna emite luz brillante en un cono de 60 pies y luz tenue 60 pies más allá. Puede estar encendida hasta 6 horas con un frasco (1 pinta, 0,45 l) de aceite.</p>"
 		},
 		"Calligrapher's Supplies": {
-			"name": "Suministros de calígrafo (Calligrapher's Supplies)",
+			"name": "Suministros de calígrafo",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un calígrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Caltrops": {
-			"name": "Abrojos (Caltrops)",
+			"name": "Abrojos",
 			"description": "<p>Puedes usar tu acción para esparcir una bolsa de abrojos sobre una superficie, cubriendo un cuadrado de 5 pies de lado. Una criatura que entre en la zona afectada deberá superar una tirada de salvación de Destreza CD 15 o no podrá moverse más este turno y sufrirá 1 de daño perforante. De recibir este daño, la velocidad caminando de la criatura se reducirá en 10 pies hasta que esta recupere al menos 1 punto de golpe. Sin embargo, si una criatura se desplaza por la zona a la mitad de su velocidad, no tendrá que superar la tirada de salvación.</p>"
 		},
 		"Candle": {
-			"name": "Vela (Candle)",
+			"name": "Vela",
 			"description": "<p>Emite luz brillante en un radio de 5 pies y luz tenue 5 pies más allá durante 1 hora.</p>"
 		},
 		"Candle of Invocation": {
-			"name": "Vela de invocación (Candle of Invocation)",
+			"name": "Vela de invocación",
 			"description": "<p><em>Objeto maravilloso (requiere sintonización)</em></p>\n<p>Esta candela delgada está dedicada a una deidad en concreto, por lo que comparte alineamiento con ella. Este último puede ser detectado con el conjuro detectar el bien y el mal. El DM elige el dios y el alineamiento asociado o lo determina al azar.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d20</strong></td>\n<td><strong>Alineamiento</strong></td>\n</tr>\n<tr>\n<td>1-2</td>\n<td>Caótico malvado</td>\n</tr>\n<tr>\n<td>3-4</td>\n<td>Caótico neutral</td>\n</tr>\n<tr>\n<td>5-7</td>\n<td>Caótico bueno</td>\n</tr>\n<tr>\n<td>8-9</td>\n<td>Neutral malvado</td>\n</tr>\n<tr>\n<td>10-11</td>\n<td>Neutral</td>\n</tr>\n<tr>\n<td>12-13</td>\n<td>Neutral bueno</td>\n</tr>\n<tr>\n<td>14-15</td>\n<td>Legal malvado</td>\n</tr>\n<tr>\n<td>16-17</td>\n<td>Legal neutral</td>\n</tr>\n<tr>\n<td>18-20</td>\n<td>Legal bueno</td>\n</tr>\n</tbody>\n</table>\n<p>La magia de la vela se activa al encenderla, lo que requiere una acción. Después de arder durante 4 horas, es destruida. Puedes a pagarla antes de que pase este tiempo para seguir usándola después. Resta el tiempo que ha ardido del total, en intervalos de 1 minuto.</p>\n<p>Mientras permanezca encendida, la vela producirá luz tenue en un radio de 30 pies. Cualquier criatura dentro de esta luz cuyo alineamiento coincida con el de la vela realizará las tiradas de ataque, salvación y pruebas de característica con ventaja. Además, un clérigo o druida dentro de la luz y cuyo alineamiento coincida con el de la vela podrá lanzar conjuros de nivel 1 que tenga preparados sin gastar espacios de conjuro. El efecto de estos conjuros será el mismo que si se hubieran lanzado con un espacio de conjuro de nivel 1.</p>\n<p>De forma alternativa, la primera vez que enciendas la vela puedes utilizarla para lanzar el conjuro <em>@Compendium[dnd5e.spells.XbwGq5kDJNvAxNXV]{Portal}</em>. Hacer esto destruye la vela</p>"
 		},
 		"Cape of the Mountebank": {
-			"name": "Capa del charlatán (Cape of the Mountebank)",
+			"name": "Capa del charlatán",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Esta capa tiene un ligero aroma a azufre. Mientras la lleves, puedes usar una acción para lanzar el conjuro @Compendium[dnd5e.spells.A4RsPuSvB9wFtz1j]{Puerta dimensional}. Esta propiedad de la capa no puede volver a emplearse hasta el siguiente amanecer.</p>\n<p>Cuando desapareces, dejas tras de ti una nube de humo. Cuando apareces, también te rodea una nube similar. Este humo hace que el espacio que abandonas, así como aquel del que surges, estén ligeramente oscuros. El humo se disipa al final de tu próximo turno, aunque un viento suave o más fuerte lo dispersará inmediatamente.</p>"
 		},
 		"Carpenter's Tools": {
-			"name": "Herramientas de carpintero (Carpenter's Tools)",
+			"name": "Herramientas de carpintero",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un carpintero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Carpet of Flying": {
-			"name": "Alfombra voladora (Carpet of Flying)",
+			"name": "Alfombra voladora",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Puedes utilizar una acción para pronunciar la palabra de activación de la alfombra y hacer que levite y vuele. Se moverá de acuerdo a tus instrucciones verbales, siempre que permanezcas a 30 pies de ella.</p>\n<p>Existen cuatro tamaños de alfombra voladora. El DM elige el tamaño o lo determina al azar.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Tamaño</strong></td>\n<td><strong>Capacidad</strong></td>\n<td><strong>Velocidad</strong> <strong>volando</strong></td>\n</tr>\n<tr>\n<td>01-20</td>\n<td>3 x 5 pies</td>\n<td>200 lb.</td>\n<td>80 pies</td>\n</tr>\n<tr>\n<td>21-55</td>\n<td>4 x 6 pies</td>\n<td>400 lb.</td>\n<td>60 pies</td>\n</tr>\n<tr>\n<td>56-80</td>\n<td>5 x 7 pies</td>\n<td>600 lb.</td>\n<td>40 pies</td>\n</tr>\n<tr>\n<td>81-100</td>\n<td>6 x 9 pies</td>\n<td>800 lb.</td>\n<td>30 pies</td>\n</tr>\n</tbody>\n</table>\n<p>La alfombra puede cargar hasta dos veces el peso mostrado en la tabla, pero volará a la mitad de velocidad si transporta un peso superior a su capacidad normal.</p>"
 		},
 		"Cartographer's Tools": {
-			"name": "Herramientas de cartógrafo (Cartographer's Tools)",
+			"name": "Herramientas de cartógrafo",
 			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cartógrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Censer": {
-			"name": "Incensario (Censer)",
+			"name": "Incensario",
 			"description": "<p>Suele utilizarse junto con bloques de incienso para perfumar el aire.</p>"
 		},
 		"Censer of Controlling Air Elementals": {
-			"name": "Incensario de controlar elementales de aire (Censer of Controlling Air Elementals)",
+			"name": "Incensario de controlar elementales de aire",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras haya incienso ardiendo en este recipiente, puedes utilizar una acción para pronunciar la palabra de activación del cuenco e invocar un @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{Elemental de aire}, como si hubieras lanzado @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar elemental}. El incensario no puede volver a usarse de esta manera hasta el siguiente amanecer.</p>\n<p>Esta vasija de 6 pulgadas de ancho y 1 pie de alto se parece a un cáliz con tapa decorada. Pesa 1 libra.</p>"
 		},
 		"Chain (10 feet)": {
-			"name": "Cadena - 10 pies (Chain (10 feet))",
+			"name": "Cadena - 10 pies",
 			"description": "<p>Una cadena tiene 10 puntos de golpe y es necesario tener éxito en una prueba de Fuerza CD 20 para romperla.</p>"
 		},
 		"Chain Mail": {
-			"name": "Cota de malla (Chain Mail)",
+			"name": "Cota de malla",
 			"description": "<p>Esta armadura está fabricada a base de anillos metálicos entrelazados, que se apoyan sobre un gambesón que impide que la piel se irrite y amortigua el impacto de los golpes. Esta cota incluye los guanteletes.</p>"
 		},
 		"Chain Mail +1": {
-			"name": "Cota de malla +1 (Chain Mail +1)",
+			"name": "Cota de malla +1",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail +2": {
-			"name": "Cota de malla +2 (Chain Mail +2)",
+			"name": "Cota de malla +2",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail +3": {
-			"name": "Cota de malla +3 (Chain Mail +3)",
+			"name": "Cota de malla +3",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Mail Armor of Resistance": {
-			"name": "Cota de malla de resistencia (Chain Mail Armor of Resistance)",
+			"name": "Cota de malla de resistencia",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Chain Shirt": {
-			"name": "Camisa de malla (Chain Shirt)",
+			"name": "Camisa de malla",
 			"description": "<p>La camisa de malla está hecha de anillos de metal entrelazados y se viste entre capas de tela o cuero. Esta armadura ofrece una protección razonable para el torso y es bastante silenciosa, pues el sonido de los anillos rozándose entre ellos es apagado por las capas más exteriores.</p>"
 		},
 		"Chain Shirt +1": {
-			"name": "Camisa de malla +1 (Chain Shirt +1)",
+			"name": "Camisa de malla +1",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Shirt +2": {
-			"name": "Camisa de malla +2 (Chain Shirt +2)",
+			"name": "Camisa de malla +2",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Shirt +3": {
-			"name": "Camisa de malla +3 (Chain Shirt +3)",
+			"name": "Camisa de malla +3",
 			"description": "<p><em>Esta armadura ha sido ornamentada con poderosas runas, forjada en fuegos mágicos, bendecida por un ser poderoso, o algún otro acontecimiento la ha dotado de una mayor protección para su portador.</em></p>\n<p>Recibes un bonificador a la CA cuando llevas puesta esta armadura.</p>"
 		},
 		"Chain Shirt Armor of Resistance": {
-			"name": "Camisa de malla de resistencia (Chain Mail Armor of Resistance)",
+			"name": "Camisa de malla de resistencia",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Chalk": {
-			"name": "Tiza (Chalk)",
+			"name": "Tiza",
 			"description": "<p>Es una roca sedimentaria de acarbonato blanda y porosa, es decir, una especie de piedra caliza compuesta por el mineral calcita. Puede utilizarse para dibujar formas.</p>"
 		},
 		"Chess Set": {
-			"name": "Juego de ajedrez (Chess Set)",
+			"name": "Juego de ajedrez",
 			"description": "<p>Este objeto es un juego completo de piezas y tablero de ajedrez. El tablero también se puede utilizar para las distintas variantes de damas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Chest": {
-			"name": "Cofre (Chest)",
+			"name": "Cofre",
 			"description": "<p>Un cofre contiene 12 pies cúbicos o 300 libras de equipo.</p>"
 		},
 		"Chime of Opening": {
-			"name": "Carillón de apertura (Chime of Opening)",
+			"name": "Carillón de apertura",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Este tubo de metal hueco mide alrededor de 1 pie de largo y pesa 1 libra. Puedes utilizar una acción para tocarlo y apuntarlo hacia un objeto que se encuentre a 120 pies o menos y que pueda ser abierto, como una puerta, tapa o cerradura. El carillón emite un tono prístino y un cierre o cerrojo en el objeto se abre, salvo si el sonido no puede alcanzarlo. Si no quedan cierres, el objeto mismo se abre.</p>\n<p>El carillón puede ser usado diez veces. Tras la décima vez, se resquebraja y se vuelve inútil.</p>"
 		},
 		"Circlet of Blasting": {
-			"name": "Diadema de estallidos (Circlet of Blasting)",
+			"name": "Diadema de estallidos",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras lleves puesta esta diadema, puedes usar una acción para lanzar el conjuro <em>@Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{Rayo abrasador}</em>. Cuando hagas los ataques de este conjuro, tu bonificador de ataque será de +5. La diadema no puede volver a emplearse de esta manera hasta el siguiente amanecer.</p>"
 		},
 		"Climber's Kit": {
-			"name": "Útiles de escalada (Climber's Kit)",
+			"name": "Útiles de escalada",
 			"description": "<p>Entre estos útiles se incluyen pitones especiales, puntas para las botas y un arnés. Puedes invertir una acción para anclarte empleando estos útiles. Una vez hecho esto, no podrás caer más de 25 pies desde el punto en el que te anclaste, pero tampoco podrás subir más de 25 pies sin deshacer el anclaje</p>"
 		},
 		"Cloak of Arachnida": {
-			"name": "Capa arácnida (Cloak of Arachnida)",
+			"name": "Capa arácnida",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Esta delicada prenda está tejida con seda negra y tiene finas hebras plateadas entretejidas. Mientras la lleves, obtendrás los siguientes beneficios:</p>\n<ul>\n<li>Resistencia al daño de veneno.</li>\n<li>Una velocidad trepando igual a tu velocidad caminando.</li>\n<li>Podrás moverte hacia arriba, hacia abajo y por superficies verticales, así como colgarte del techo. Puedes realizar todos estos movimientos mientras mantienes tus manos libres.</li>\n<li>No puedes quedar atrapado en ningún tipo de redes o telarañas, y serás capaz de moverte a través de ellas como si fueran terreno difícil.</li>\n<li>Puedes usar una acción para lanzar el conjuro @Compendium[dnd5e.spells.UJJu9c2UvCzVljiP]{Telaraña} (CD de salvación 13). La telaraña creada por este conjuro tiene el doble del tamaño normal. Esta propiedad de la capa no puede volver a emplearse hasta el siguiente amanecer.</li>\n</ul>"
 		},
 		"Cloak of Displacement": {
-			"name": "Capa de desplazamiento (Cloak of Displacement)",
+			"name": "Capa de desplazamiento",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras la lleves, esta capa proyecta una ilusión que hace que parezcas estar en un sitio cercano a tu localización real, lo que provoca que las tiradas de ataque contra ti de cualquier criatura sufran desventaja. Si recibes daño, esta propiedad dejará de funcionar hasta el principio de tu próximo turno.</p>\n<p>Además, también quedará suprimida mientras estés incapacitado, apresado o seas incapaz de moverte por cualquier razón.</p>"
 		},
 		"Cloak of Elvenkind": {
-			"name": "Capa élfica (Cloak of Elvenkind)",
+			"name": "Capa élfica",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves esta capa y tengas la capucha puesta, las pruebas de Sabiduría (Percepción) para verte sufrirán desventaja, mientras que tú tendrás ventaja en pruebas de Destreza (Sigilo) para esconderte, ya que el color de la capa varía para camuflarte. Es necesaria una acción para ponerte o quitarte la capucha.</p>"
 		},
 		"Cloak of Protection": {
-			"name": "Capa de protección (Cloak of Protection)",
+			"name": "Capa de protección",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Obtienes un bonificador de +1 a la CA y a las tiradas de salvación mientras lleves puesta esta capa.</p>"
 		},
 		"Cloak of the Bat": {
-			"name": "Capa de murciélago (Cloak of the Bat)",
+			"name": "Capa de murciélago",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Tienes ventaja en las pruebas de Destreza (Sigilo) mientras lleves puesta esta capa. En un área de luz tenue o de oscuridad, puedes agarrar los extremos de la capa con ambas manos y usarla para volar a una velocidad de 40 pies. Si dejas de agarrar los extremos de la capa o si dejas de estar en una zona de oscuridad o luz tenue, pierdes esta velocidad volando.</p>\n<p>Además, mientras portes esta capa en un área de luz tenue u oscuridad, puedes emplear tu acción para lanzar @Compendium[dnd5e.spells.04nMsTWkIFvkbXlY]{Polimorfar} sobre ti mismo, transformándote en murciélago. Mantienes tus puntuaciones de Inteligencia, Sabiduría y Carisma mientras te encuentras convertido en murciélago.</p>\n<p>La capa no puede volver a utilizarse de esta manera hasta el siguiente amanecer.</p>"
 		},
 		"Cloak of the Manta Ray": {
-			"name": "Capa de la mantaraya (Cloak of the Manta Ray)",
+			"name": "Capa de la mantaraya",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Siempre que lleves esta capa con la capucha puesta podrás respirar bajo el agua y poseerás una velocidad nadando de 60 pies.</p>\n<p>Es necesaria una acción para ponerte o quitarte la capucha.</p>"
 		},
 		"Club": {
