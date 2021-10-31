@@ -202,39 +202,39 @@
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 27. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Belt of Dwarvenkind": {
-			"name": "Cinturón enano (Belt of Dwarvenkind)",
+			"name": "Cinturón enano",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, obtendrás los siguientes beneficios:</p>\n<ul>\n<li>Tu puntuación de Constitución aumenta en 2, hasta un máximo de 20.</li>\n<li>Tienes ventaja en las pruebas de Carisma (Persuasión) en las que interactúes con enanos.</li>\n</ul>\n<p>Además, mientras permanezcas sintonizado con el cinturón, posees un 50 % de probabilidades de que cada día al alba te crezca una barba completa, si normalmente podrías tenerla. Si ya tienes una, se volverá considerablemente más densa.<br />Si no eres enano, obtendrás los siguientes beneficios adicionales:</p>\n<ul>\n<li>Tienes ventaja en las tiradas de salvación contra veneno y posees resistencia al daño de veneno.</li>\n<li>Visión en la Oscuridad hasta una distancia de 60 pies.</li>\n<li>Puedes hablar, leer y escribir en común y enano.</li>\n</ul>"
 		},
 		"Belt of Fire Giant Strength": {
-			"name": "Cinturón de fuerza de gigante de fuego (Belt of Fire Giant Strength)",
+			"name": "Cinturón de fuerza de gigante de fuego",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 25. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Belt of Frost Giant Strength": {
-			"name": "Cinturón de fuerza de gigante de escarcha (Belt of Frost Giant Strength)",
+			"name": "Cinturón de fuerza de gigante de escarcha",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 23. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>\n<p>El Cinturón de fuerza de gigante de piedra y el Cinturón de fuerza de gigante de escarcha poseen apariencias diferentes, pero ambos producen el mismo efecto.</p>"
 		},
 		"Belt of Hill Giant Strength": {
-			"name": "Cinturón de fuerza de gigante de las colinas (Belt of Hill Giant Strength)",
+			"name": "Cinturón de fuerza de gigante de las colinas",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 23. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Belt of Stone Giant Strength": {
-			"name": "Cinturón de fuerza de gigante (Belt of Stone Giant Strength)",
+			"name": "Cinturón de fuerza de gigante",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 21. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>\n<p>El Cinturón de fuerza de gigante de piedra y el Cinturón de fuerza de gigante de escarcha poseen apariencias diferentes, pero ambos producen el mismo efecto.</p>"
 		},
 		"Belt of Storm Giant Strength": {
-			"name": "Cinturón de fuerza de gigante de las tormentas (Belt of Storm Giant Strength)",
+			"name": "Cinturón de fuerza de gigante de las tormentas",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves este cinturón, tu puntuación de Fuerza cambia a 29. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona el cinturón.</p>"
 		},
 		"Berserker Battleaxe": {
-			"name": "Hacha de guerra berserker (Berserker Battleaxe)",
+			"name": "Hacha de guerra berserker",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Además, mientras estés sintonizado con ella, tus puntos de golpe máximos se incrementan en 1 por cada nivel que poseas.</p>\n<p><strong>Maldición</strong>. Esta hacha está maldita y al sintonizarte con ella te afectará la maldición. Mientras estés maldito, no aceptarás alejarte del hacha y la mantendrás siempre a tu alcance. También tendrás desventaja en tiradas de ataque con otras armas, a menos que no haya ningún enemigo que puedas ver u oír a 60 pies o menos de distancia.</p>\n<p>Cuando una criatura hostil te dañe, si tienes el hacha en tu haber, deberás tener éxito en una tirada de salvación de Sabiduría CD 15 o sucumbirás a una furia berserker. Mientras estés bajo los efectos de esta furia, deberás utilizar tu acción cada asalto para atacar con el hacha a la criatura más cercana. Si puedes realizar ataques adicionales como parte de tu acción de Atacar, lo harás, prosiguiendo con la siguiente criatura después de derrotar a tu objetivo actual.</p>\n<p>Si tienes varios objetivos posibles, atacarás a uno al azar. Seguirás en este estado hasta que comience tu turno y no haya criaturas que puedas ver u oír a 60 pies o menos de ti.</p>"
 		},
 		"Berserker Greataxe": {
-			"name": "Hacha a dos manos berserker (Berserker Greataxe)",
+			"name": "Hacha a dos manos berserker",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Además, mientras estés sintonizado con ella, tus puntos de golpe máximos se incrementan en 1 por cada nivel que poseas.</p>\n<p><strong>Maldición</strong>. Esta hacha está maldita y al sintonizarte con ella te afectará la maldición. Mientras estés maldito, no aceptarás alejarte del hacha y la mantendrás siempre a tu alcance. También tendrás desventaja en tiradas de ataque con otras armas, a menos que no haya ningún enemigo que puedas ver u oír a 60 pies o menos de distancia.</p>\n<p>Cuando una criatura hostil te dañe, si tienes el hacha en tu haber, deberás tener éxito en una tirada de salvación de Sabiduría CD 15 o sucumbirás a una furia berserker. Mientras estés bajo los efectos de esta furia, deberás utilizar tu acción cada asalto para atacar con el hacha a la criatura más cercana. Si puedes realizar ataques adicionales como parte de tu acción de Atacar, lo harás, prosiguiendo con la siguiente criatura después de derrotar a tu objetivo actual.</p>\n<p>Si tienes varios objetivos posibles, atacarás a uno al azar. Seguirás en este estado hasta que comience tu turno y no haya criaturas que puedas ver u oír a 60 pies o menos de ti.</p>"
 		},
 		"Berserker Handaxe": {
-			"name": "Hacha de mano berserker (Berserker Handaxe)",
+			"name": "Hacha de mano berserker",
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Recibes un bonificador de +1 a las tiradas de ataque y de daño que hagas con esta arma. Además, mientras estés sintonizado con ella, tus puntos de golpe máximos se incrementan en 1 por cada nivel que poseas.</p>\n<p><strong>Maldición</strong>. Esta hacha está maldita y al sintonizarte con ella te afectará la maldición. Mientras estés maldito, no aceptarás alejarte del hacha y la mantendrás siempre a tu alcance. También tendrás desventaja en tiradas de ataque con otras armas, a menos que no haya ningún enemigo que puedas ver u oír a 60 pies o menos de distancia.</p>\n<p>Cuando una criatura hostil te dañe, si tienes el hacha en tu haber, deberás tener éxito en una tirada de salvación de Sabiduría CD 15 o sucumbirás a una furia berserker. Mientras estés bajo los efectos de esta furia, deberás utilizar tu acción cada asalto para atacar con el hacha a la criatura más cercana. Si puedes realizar ataques adicionales como parte de tu acción de Atacar, lo harás, prosiguiendo con la siguiente criatura después de derrotar a tu objetivo actual.</p>\n<p>Si tienes varios objetivos posibles, atacarás a uno al azar. Seguirás en este estado hasta que comience tu turno y no haya criaturas que puedas ver u oír a 60 pies o menos de ti.</p>"
 		},
 		"Blanket": {
@@ -242,7 +242,7 @@
 			"description": "<p>Una sábana o manta para mantenerte caliente por la noche.</p>"
 		},
 		"Block and Tackle": {
-			"name": "Polipasto o aparejo de poleas (Block and Tackle)",
+			"name": "Polipasto o aparejo de poleas",
 			"description": "<p>Un conjunto de poleas recorridas por un cable que termina en un gancho, que se puede fijar a un objeto. Un polipasto te permite alzar cuatro veces el peso que podrías levantar en condiciones normales.</p>"
 		},
 		"Block of Incense": {
@@ -250,23 +250,23 @@
 			"description": "<p>Utilizado a menudo por ricos y religiosos para aromatizar el ambiente con fines placenteros o rituales.</p>"
 		},
 		"Blowgun": {
-			"name": "Cerbatana (Blowgun)",
+			"name": "Cerbatana",
 			"description": "<p>Un arma primitiva, pero mortal, muy utilizada por las tribus y los guerrilleros. Los dardos que se disparan con esta arma pueden clavarse y suministrar dosis letales de veneno.</p>"
 		},
 		"Blowgun +1": {
-			"name": "Cerbatana +1 (Blowgun +1)",
+			"name": "Cerbatana +1",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Blowgun +2": {
-			"name": "Cerbatana +2 (Blowgun +1)",
+			"name": "Cerbatana +2",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Blowgun +3": {
-			"name": "Cerbatana +3 (Blowgun +3)",
+			"name": "Cerbatana +3",
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Blowgun Needle": {
-			"name": "Dardo de cerbatana (Blowgun Needle)",
+			"name": "Dardo de cerbatana",
 			"description": "<p>Esta munición está diseñada para ser disparada a través de una cerbatana utilizando la fuerza de los pulmones del portador. Estas agujas suelen tener en la punta venenos mortales o incapacitantes.</p>"
 		},
 		"Bolt of Slaying": {
@@ -274,31 +274,31 @@
 			"description": "<p>Un virote asesino es un arma mágica pensada para matar a un tipo concreto de criatura. Algunas son más específicas que otras. Por ejemplo, hay tanto flechas asesinas de dragones como flechas asesinas de dragones azules. Si una criatura perteneciente al tipo, raza o grupo asociado con una flecha asesina recibe daño de ella, deberá hacer una tirada de salvación de Constitución CD 17. Recibirá 6d10 de daño perforante adicional si falla la tirada o la mitad de ese daño si tiene éxito.</p>\n<p>En cuanto un virote asesino inflige su daño adicional a una criatura, se convierte en un virote no mágico.</p>"
 		},
 		"Book": {
-			"name": "Libro (Book)",
+			"name": "Libro",
 			"description": "<p>Un libro podría contener poemas, registros históricos, información específica a un área de conocimiento concreta, diagramas y notas sobre artilugios gnomos o prácticamente cualquier cosa que sea susceptible de ser representada usando texto o dibujos. Un libro que contenga conjuros recibe el nombre de libro de conjuros.</p>"
 		},
 		"Book of Lore": {
-			"name": "Libro de leyendas (Book of Lore)",
+			"name": "Libro de leyendas",
 			"description": "<p>Un libro que contiene registros históricos, información pertinente a un campo de saber, mitos o leyendas.</p>"
 		},
 		"Book of Shadows": {
-			"name": "Libro de las Sombras (Book of Shadows)",
+			"name": "Libro de las sombras",
 			"description": "<p>Un grimorio entregado por tu patrón. Elige tres trucos de la lista de conjuros de cualquier clase. No tienen por qué ser los tres de la misma lista. Mientras tengas el libro contigo, puedes lanzar esos trucos a voluntad y no cuentan dentro de tu límite de trucos conocidos. Además, aunque no aparezcan en la lista de conjuros de brujo, para ti sí que se considerarán como conjuros de brujo.</p>\n<p>Si pierdes el Libro de las Sombras, puedes llevar a cabo una ceremonia de 1 hora a través de la cual tu patrón te proporcionará un reemplazo. Puedes ejecutarla como parte de un descanso corto o largo, y esta ceremonia destruye el libro anterior. El Libro de las Sombras se convierte en cenizas cuando mueres.</p>"
 		},
 		"Boots of Elvenkind": {
-			"name": "Botas élficas (Boots of Elvenkind)",
+			"name": "Botas élficas",
 			"description": "<p><em>Objeto maravilloso</em></p>\n<p>Mientras calces estas botas, tus pasos no harán ruido, independientemente de la superficie que pises. También tendrás ventaja en pruebas de Destreza (Sigilo) que requieran moverse silenciosamente.</p>"
 		},
 		"Boots of Levitation": {
-			"name": "Botas de levitación (Boots of Levitation)",
+			"name": "Botas de levitación",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras lleves estas botas, puedes utilizar una acción para lanzar a voluntad el conjuro <em>@Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitar}</em> sobre ti mismo.</p>"
 		},
 		"Boots of Speed": {
-			"name": "Botas de velocidad (Boots of Speed)",
+			"name": "Botas de velocidad",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Mientras tengas estas botas puestas, puedes utilizar una acción adicional para hacer que los talones se toquen. Si haces esto, las botas duplicarán tu velocidad caminando y cualquier criatura que realice un ataque de oportunidad contra ti sufrirá desventaja en su tirada de ataque. Si vuelves a hacer que se toquen los talones, el efecto termina.</p>\n<p>Cuando has usado esta propiedad de las botas durante un total de 10 minutos, su magia deja de funcionar hasta que puedas terminar un descanso largo.</p>"
 		},
 		"Boots of Striding and Springing": {
-			"name": "Botas de zancadas y brincos (Boots of Striding and Springing)",
+			"name": "Botas de zancadas y brincos",
 			"description": "<p><em>Objeto maravilloso, (requiere sintonización)</em></p>\n<p>Tu velocidad caminando cuando llevas puestas estas botas es de 30 pies, salvo que normalmente fuera superior. Esta velocidad no se reduce por estar cargado o por vestir armadura pesada. Además, saltas tres veces la distancia normal, pero nunca más lejos que tu movimiento restante.</p>"
 		},
 		"Boots of the Winterlands": {
