@@ -2,971 +2,971 @@
 	"label": "Monstruos (D&D5e)",
 	"entries": {
 		"Aboleth": {
-			"name": "Aboleth (Aboleth)",
+			"name": "Aboleth",
 			"description": "<p>Los aboleths hacen sus guaridas en lagos subterráneos o en las rocosas profundidades del océano, a menudo rodeadas por las ruinas de una antigua ciudad aboleth caída. Un aboleth pasa la mayoría de su existencia bajo el agua, saliendo a la superficie ocasionalmente para tratar con visitantes o con adoradores desquiciados.</p>"
 		},
 		"Acolyte": {
-			"name": "Acólito (Acolyte)",
+			"name": "Acólito",
 			"description": "<blockquote>\n<p>Wreathed in fantastical golden filigree with incense twirling through the atrium, the pillars of the Solarium glittered, bathed in the warmth of the Sun Lord's light.  From a singular hole hewn into the domed ceiling of the temple, the sunlight poured in as if it were a rushing waterfall meant to drown us all in the bright corona. I strayed from my mentor, a priest in his middle years with a soft voice and ring of grey-dappled hair about a balding head, to approach a statue set aside within a shadowed alcove.  It depicted our god in his humanoid form, an elderly man standing strictly at attention, his wild hair hanging as long as his chest length beard, a staff topped with a stern faced sun clutched in his hand.  I knelt, still only fourteen, before this statue and began to pray right then.  The next six years of my acolyte training would be nothing but a blessing, I knew. <br /><em>“The Gleaming Star”, by Bishop Bernard Portis.</em></p>\n</blockquote>\n<p>Acolytes are those devoted followers of a particular goddess or god who have decided to take on the mantle of the clergy to better serve their chosen deity.  Often no older than teenagers (though some acolytes begin later in their lives) acolytes are trained for a number of years (typically between three to ten) depending on the strictures of their deity's doctrines.  During their time they memorize and study all written materials concerning their deity and their teachings, learn magics (be they healing or harmful) gifted to the acolytes by their deities, and often go out into their community to provide aid to those in need or proselytize the words of their goddess or god.  Though not every acolyte climbs the ranks into full fledged priesthood, many remain highly dedicated to the church and remain to serve as life-long acolytes working closely with the lay community outside the temple walls.</p>\n<p>Recall that acolytes are trained in the arcane ways of their chosen deities.  This being the case, acolytes rarely receive sufficient martial training in comparison to the paladin ranks of the temple (unless expressly dictated otherwise by their deity's teachings).  This being the case, the acolyte is able to unleash some basic divine magic in order to both defend themselves and allies or to call upon their patron deity for aid for injured parties.  Typically expelled in a gleaming shower of golden sparks and dazzlingly vibrant lights, the magic of the gods is truly something special, even at such a base nature.  Spells such as Cure Wounds, Sacred Flame, or Sanctuary are all practiced by acolytes early on into their divine studies.  Acolytes can make handy allies should you be in need of divine protection or a field medic for an injured compatriot.  Be sure to mind your acolyte well, however, as their spellwork can easily be interrupted if they are forced into a melee fight with a band of slavering gnolls.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Adult Black Dragon": {
-			"name": "Dragón negro adulto (Adult Black Dragon)",
+			"name": "Dragón negro adulto",
 			"description": ""
 		},
 		"Adult Blue Dragon": {
-			"name": "Dragón azul adulto (Adult Blue Dragon)",
+			"name": "Dragón azul adulto",
 			"description": ""
 		},
 		"Adult Brass Dragon": {
-			"name": "Dragón de oropel adulto (Adult Brass Dragon)",
+			"name": "Dragón de oropel adulto",
 			"description": ""
 		},
 		"Adult Bronze Dragon": {
-			"name": "Dragón de bronce adulto (Adult Bronze Dragon)",
+			"name": "Dragón de bronce adulto",
 			"description": ""
 		},
 		"Adult Copper Dragon": {
-			"name": "Dragón de cobre adulto (Adult Copper Dragon)",
+			"name": "Dragón de cobre adulto",
 			"description": ""
 		},
 		"Adult Gold Dragon": {
-			"name": "Dragón de oro adulto (Adult Gold Dragon)",
+			"name": "Dragón de oro adulto",
 			"description": ""
 		},
 		"Adult Green Dragon": {
-			"name": "Dragón verde adulto (Adult Green Dragon)",
+			"name": "Dragón verde adulto",
 			"description": ""
 		},
 		"Adult Red Dragon": {
-			"name": "Dragón rojo adulto (Adult Red Dragon)",
+			"name": "Dragón rojo adulto",
 			"description": ""
 		},
 		"Adult Silver Dragon": {
-			"name": "Dragón de plata adulto (Adult Silver Dragon)",
+			"name": "Dragón de plata adulto",
 			"description": ""
 		},
 		"Adult White Dragon": {
-			"name": "Dragón blanco adulto (Adult White Dragon)",
+			"name": "Dragón blanco adulto",
 			"description": ""
 		},
 		"Air Elemental": {
-			"name": "Elemental de aire (Air Elemental)",
+			"name": "Elemental de aire",
 			"description": ""
 		},
 		"Ancient Black Dragon": {
-			"name": "Dragón negro anciano (Ancient Black Dragon)",
+			"name": "Dragón negro anciano",
 			"description": ""
 		},
 		"Ancient Blue Dragon": {
-			"name": "Dragón azul anciano (Ancient Blue Dragon)",
+			"name": "Dragón azul anciano",
 			"description": ""
 		},
 		"Ancient Brass Dragon": {
-			"name": "Dragón de oropel anciano (Ancient Brass Dragon)",
+			"name": "Dragón de oropel anciano",
 			"description": ""
 		},
 		"Ancient Bronze Dragon": {
-			"name": "Dragón de bronce anciano (Ancient Brass Dragon)",
+			"name": "Dragón de bronce anciano",
 			"description": ""
 		},
 		"Ancient Copper Dragon": {
-			"name": "Dragón de cobre anciano (Ancient Copper Dragon)",
+			"name": "Dragón de cobre anciano",
 			"description": ""
 		},
 		"Ancient Gold Dragon": {
-			"name": "Dragón de oro anciano (Ancient Gold Dragon)",
+			"name": "Dragón de oro anciano",
 			"description": ""
 		},
 		"Ancient Green Dragon": {
-			"name": "Dragón verde anciano (Ancient Green Dragon)",
+			"name": "Dragón verde anciano",
 			"description": ""
 		},
 		"Ancient Red Dragon": {
-			"name": "Dragón rojo anciano (Ancient Red Dragon)",
+			"name": "Dragón rojo anciano",
 			"description": ""
 		},
 		"Ancient Silver Dragon": {
-			"name": "Dragón de plata anciano (Ancient Silver Dragon)",
+			"name": "Dragón de plata anciano",
 			"description": ""
 		},
 		"Ancient White Dragon": {
-			"name": "Dragón blanco anciano (Ancient White Dragon)",
+			"name": "Dragón blanco anciano",
 			"description": ""
 		},
 		"Androsphinx": {
-			"name": "Androesfinge (Androsphinx)",
+			"name": "Androesfinge",
 			"description": ""
 		},
 		"Animated Armor": {
-			"name": "Armadura animada (Animated Armor)",
+			"name": "Armadura animada",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ankheg": {
-			"name": "Ankheg (Ankheg)",
+			"name": "Ankheg",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ape": {
-			"name": "Simio (Ape)",
+			"name": "Simio",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Archmage": {
-			"name": "Archimago (Archmage)",
+			"name": "Archimago",
 			"description": "<p><strong>Archmages</strong> are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.</p>\n<p>An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.</p><section class=\"secret\">\n<p>The Archmage casts <strong>mage armor</strong>, <strong>stoneskin </strong>and <strong>mind blank </strong>on itself before combat.</p>\n</section>"
 		},
 		"Assassin": {
-			"name": "Asesino (Assassin)",
+			"name": "Asesino",
 			"description": "<p>Expertos en el uso de venenos, los <strong>asesinos</strong> son sicarios despiadados que trabajan para nobles, maestros gremiales, soberanos o cualquiera que pueda permitirse sus servicios.</p>"
 		},
 		"Avatar of Death": {
-			"name": "Avatar de la muerte (Avatar of Death)",
+			"name": "Avatar de la muerte",
 			"description": ""
 		},
 		"Awakened Shrub": {
-			"name": "Arbusto despertado (Awakened Shrub)",
+			"name": "Arbusto despertado",
 			"description": "<p>The rhythmic rustle of leaves, knotted roots dragging through the undergrowth, and vacant holes left in the earth are all signs of this fascinating little creature. These formerly average forest plants are gifted with mild sentience by the natural spellwork of a most-powerful druid who has cast the Awaken spell to birth an Awakened Shrub.</p>\n<p>The shrub itself, having negligible will of its own, then remains @JournalEntry[Charmed] to the spellcaster for thirty days, during which, the Awakened Shrub serves at the whim of the druid. The leafy automaton is also given the ability to move independently by the spellwork cast upon it. Using their roots and branches to propel themselves across the forest floor, the shrubs are left to roam clumsily throughout the druid's selected domain.</p>\n<p><strong>Druid's Little Helper. </strong>While any mage proficient enough in the arcane to produce an Awaken spell may pull these shrubs into sudden life, it is the druids of the woods who most commonly utilize the ability. A unique feature of the Awakened Shrub is its indistinguishability between itself and an average shrub when it stands completely still. The ability to camouflage themselves so thoroughly allows the Awakened Shrubs to act as sentires for a more secretive druid's hideaway.</p>\n<p>As recommended to me by a friend of the forest: be advised to utilize the shrubs in small groups as to simply overwhelm any nosey intruders. Strength in numbers is key for these simplistic shrubs as they may be easily dispatched if singled out. As the magic within the shrub allows the shrubs to speak a language known to their creator, Awakened Shrubs may also be programmed with a warning message and avoid conflict altogether. The shrubs, however, are quite inept when it comes to the completion of even the most simplistic tasks, so utilizing them in a “living alarm” capacity may be the wisest choice.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Awakened Tree": {
-			"name": "Arbol despertado (Awakened Tree)",
+			"name": "Árbol despertado",
 			"description": "<p>Un árbol despertado es un árbol normal que ha sido dotado de consciencia y la capacidad de desplazarse mediante el conjuro despertar o alguna magia de similar naturaleza.</p>"
 		},
 		"Axe Beak": {
-			"name": "Pico de hacha (Axe Beak)",
+			"name": "Pico de hacha",
 			"description": "<p>Large and highly aggressive, the avian Axe Beak has maintained a well-earned reputation as an animal not to be toyed with.  Hailing from grassy plains to thick and sweltering jungles, the Axe Beak resembles the flightless emu in both size and appearance.  The Axe Beak sports a rounded, plump body resting upon two powerful legs built for running and kicking at high speeds.  From the body sprouts a long and graceful neck ending in an unfeathered head tipped with a sharp, wedge-shaped beak.  This beak (reminiscent of a hatchet) is what gives the creature its fearsome name.</p>\n<p><strong>Let Me Axe You a Question.</strong> Axe Beaks have been studied for quite some time, as their flightless footsteps have been tracked for thousands of years by biologists.  An ancient and relatively unchanged species, the Axe Beak is most notable (aside from the beak) for its temper.  Axe Beaks are incredibly territorial animals and have been known to chase down intruders within their territory for miles before finally calling off the attack.  Shockingly, some Axe Beaks have been domesticated through rigorous, consistent interaction with humanoids.  These beasts may act as riding animals and are powerful enough to support a fully grown Orc warrior.  During battle, should one be unfortunate enough to cross the bird, the Axe Beak will swing its powerful neck in a chopping arc to bring its sharpened beak down upon any unfortunate foe.  Should their beak (which has been known to sever limbs and pierce plate armor) not be enough, the Axe Beak may turn and deliver a devastating kick with one of its powerful, clawed feet.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Azer": {
-			"name": "Azer (Azer)",
+			"name": "Azer",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Baboon": {
-			"name": "Babuino (Baboon)",
+			"name": "Babuino",
 			"description": "<p>Los babuinos habitan en llanuras cubiertas de hierba y bosques poco poblados, y se mueven siempre en pequeñas manadas llamadas tropas. Los babuinos son mamíferos terrestres que utilizan la parte superior de su poderoso cuerpo para trepar a los árboles a una velocidad sorprendente. No te dejes engañar por el tamaño de esta criatura; un solo babuino del bosque puede resultar fácilmente más feroz que una manada entera de lobos hambrientos. A primera vista, un babuino puede parecer un objetivo fácil para los aventureros incautos, ya que sólo miden entre un metro y un metro y medio de largo y pesan hasta cuarenta libras según los registros recientes. No son más grandes que un niño humano sano. Sin embargo, esto no es más que un engaño, ya que los monos del bosque pueden doblegar fácilmente a un grupo de viajeros desprevenidos. Dentro de sus hocicos de perro se esconden caninos mortalmente afilados y tras sus ojos hay una mente asombrosamente inteligente.</p>\n<p><strong>Tropa de dientes.</strong> Los babuinos son más fuertes cuando están rodeados por su tropa, donde emplean tácticas de manada sencillas para acabar con sus enemigos. Se ha observado a los monos merodeando entre las hierbas altas para tender una emboscada a una presa desprevenida o agrupándose para atacar a un objetivo concreto sin piedad antes de pasar al siguiente. Las tropas están gobernadas por un único alfa que actúa como guardián principal de sus compañeros. Por debajo del alfa, la tropa trabaja en colaboración, compartiendo alimentos y recursos entre ellos y participando en sesiones de acicalamiento comunitario para fortalecer sus vínculos. Las crías de los babuinos se crían en pequeños grupos familiares, siendo instruidos por varios adultos a la vez. Se trata de una comunidad realmente fascinante y única en nuestro reino animal, por lo que los babuinos deben ser tratados con cautela en caso de que los viajeros se crucen con una tropa local.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Badger": {
-			"name": "Tejón (Badger)",
+			"name": "Tejón",
 			"description": "<blockquote>\n<p>Strolling through the forest one spring morning I did find myself brought down to the earth by a most unusual hole gaping wide in the forest floor. Thinking myself a rather clever sleuth in finding some ill-witted bandit's secret treasures, I did quickly reach my hand within the tunnel only to be greeted by something oddly fuzzy and a most severe pain to boot! Let my incident (and missing finger) with the woodland badger be warning to those lacking in wisdom; do not reach into places where your hand does not belong!</p>\n</blockquote>\n<p>- Merchant Lord Ellemond Doughty.</p>\n<p>The common forest dwelling badger is a creature of ingenuity and sheer determination. This creature, resembling a most rotund and powerful weasel, busies itself upon the forest floor catching its prey of insects and small mammals all the while toiling away at creating itself a sett, or more commonly called, a burrow. The badger's coat is decked in marvelous black and white stripes running the length of its body. With gentle eyes and an otherwise calm demeanor, the badger exudes an image of a more timid beast; however, this outer appearance should be observed with caution. Armed with thick, elongated claws made for churning through the toughest of soil and a set of powerful jaws to match, badgers are quick to defend themselves should a foolish soul harass them. As long as you do not agitate the badger, it will find no recourse to harm you.</p>\n<p><strong>Miraculous Mandibles.</strong> A badger's most intriguing feature is a set of peculiar jawbones with provide it with a spectacular method of defense. The animal's jaws are set into long cavities within its skull allowing the badger to lock its jaws in place thus increasing its already powerful bite strength and avoid the possibility of mandible dislocation. A truly remarkable evolutionary advantage in avoiding combat (rather than confronting its adversary) is the badger's natural odor. These creatures can release a powerful musk from scent glands located near their rears which can easily drive away predators. It is for these reasons that many forest dwelling cultures revere the badger as a guardian of the forest and attempt to utilize the badger's unique abilities in their own bid for survival in the wilds of our world.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Balor": {
-			"name": "Balor (Balor)",
+			"name": "Balor",
 			"description": ""
 		},
 		"Bandit": {
-			"name": "Bandido (Bandit)",
+			"name": "Bandido",
 			"description": "<p>Los bandidos de nuestro humilde mundo tienen una gran variedad de formas y tamaños; ya sea un carterista halfling o el moreno capitán de mar dracónido que saquea desafortunadas embarcaciones. Aquí veremos los rasgos comunes de lo que se considera la clase de criminal \"bandido\". Al revisar esta información, ten en cuenta que no todos los bandidos deben ser vistos con desprecio. Mientras que muchos buscan hacer daño o enriquecerse con su presa, otros roban para sobrevivir en un mundo muy injusto.</p>\n<p><strong>El Bueno.</strong> Comenzamos con los bandidos que podrían considerarse \"criminales nobles\". Estos bandidos son los más oprimidos de nuestras naciones, aquellos ciudadanos que han luchado contra la pobreza y la opresión para ganarse la vida a duras penas, aferrándose a cualquier comodidad que puedan conseguir. Piensa en lo que llevaría a una persona a cometer algo tan desesperado como un robo o un hurto abierto en la calle de un pueblo. Los bandidos de una clase más noble pueden ser egoístas con sus ganancias, tomando lo que han robado para enriquecer sus propias vidas o las de sus parientes inmediatos. Sin embargo, hay algunos bandidos que intentan utilizar sus bienes robados para mejorar la vida de la comunidad más pobre. Ten en cuenta que a menudo estos bandidos están desesperados y asustados, especialmente durante el acto del robo. Están aterrados, empujados a delinquir por las malas circunstancias, por lo que es posible que no necesiten la violencia para dispersarse, ya que la mayoría de las veces no dañarán físicamente a sus víctimas. Mantén la mente abierta mientras viajas por el mundo, joven aventurero, y recuerda que si las tornas cambian, puede que desees clemencia por una infracción tan leve.</p>\n<p><strong>El Feo y el Malo.</strong> Por cada alma de buen corazón que roba a los que tienen demasiado y da a los desafortunados, hay un espíritu verdaderamente villano que se esconde tras la maleza de un camino cercano, al acecho de una víctima desprevenida. Durante tus viajes, aventurero, estos tipos pueden ser los casos más comunes de bandidaje que experimentarás. Armados con espadas, palos y arcos, los más nefastos del mundo de los bandidos prefieren emboscar a sus presas desde las sombras de las colinas y los árboles, pillando desprevenidos a los grupos que viajan. Estos ladrones traicioneros intentarán distraer y engañar a su presa para pillarla desprevenida en caso de que su tripulación esté en inferioridad numérica. Los bandidos no conocen fronteras ni lugares, así que hay que tener cuidado tanto si se camina por un camino boscoso como si se navega por alta mar en busca de fama. El peligro acecha en todos los rincones de nuestro mundo aventurero, prepárate y sé perspicaz si te encuentras con un grupo de bandidos, no sea que tu carrera termine mucho antes de que se escriba tu leyenda.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Bandit Captain": {
-			"name": "Capitán bandido (Bandit Captain)",
+			"name": "Capitán bandido",
 			"description": "<p>Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.</p>\n<p>Los capitanes piratas (una variante del capitán bandido) tienen, además de todo esto, un barco que proteger y gobernar. Para ganarse la lealtad de su tripulación deben recompensarla y castigarla a partes iguales.</p>\n<p>Aunque lo que un capitán bandido (o pirata) anhela realmente no son las riquezas, sino la fama. Los prisioneros que apelen al ego o la vanidad de un capitán tendrán más posibilidades de ser tratados con dignidad que quienes afirmen no haber oído hablar de sus andanzas.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Barbed Devil": {
-			"name": "Diablo barbado (Barbed Devil)",
+			"name": "Diablo barbado",
 			"description": ""
 		},
 		"Basilisk": {
-			"name": "Basilisco (Basilisk)",
+			"name": "Basilisco",
 			"description": ""
 		},
 		"Bat": {
-			"name": "Murciélago (Bat)",
+			"name": "Murciélago",
 			"description": "<p>Bats are a common fixture within the secluded forests and lightless caverns of our world. Bats are a nocturnal creature prized by arcanists for their ability to navigate terrain in near total darkness. This alone makes them a prized choice for a summoned familiar. Varying from the size of a mouse to that of a house cat, bats have a unique feature amongst mammals: the gift of flight! Stretched thin between needle-thin boney “hands” are fleshy membranes which span out wide from the bat's delicate body, allowing the bats to take to the skies in search of insects and woodland fruits to indulge upon.</p>\n<p><strong>Chitter Chatter.</strong> Presumed blind by many from nonsense tales told to children, bats have eyesight nearly akin to our own, though notably less sharp. What makes these creatures truly unique is their ability to navigate in the pitch black of night. The bats utilize a series of chirps and screeches researchers have dubbed “echolocation” to pinpoint objects or prey within their flightpath. The echolocation chirps emitted by the bats bounce back towards the tiny creature's proportionally massive ears, allowing the bats to make split second corrections to their navigation without the aid of their eyes. It should be again noted that the bat makes a clever familiar choice, as they may navigate those places too dim and dangerous for our mortal eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Bearded Devil": {
-			"name": "Diablo barbado (Bearded Devil)",
+			"name": "Diablo barbado",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Behir": {
-			"name": "Behir (Behir)",
+			"name": "Behir",
 			"description": ""
 		},
 		"Berserker": {
-			"name": "Berserker (Berserker)",
+			"name": "Berserker",
 			"description": "<p>Los impredecibles berserkers surgen de sus hogares bárbaros, formando partidas de guerra que buscan el conflicto allá donde puedan encontrarlo.</p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Black Bear": {
-			"name": "Oso negro (Black Bear)",
+			"name": "Oso negro",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Black Dragon Wyrmling": {
-			"name": "Cría de dragón negro (Black Dragon Wyrmling)",
+			"name": "Cría de dragón negro",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Black Pudding": {
-			"name": "Pudin negro (Black Pudding)",
+			"name": "Pudin negro",
 			"description": ""
 		},
 		"Blink Dog": {
-			"name": "Perro intermitente (Blink Dog)",
+			"name": "Perro intermitente",
 			"description": "<p> </p>\n<blockquote>\n<p>Bathing your very own Blink Dog comes with a set of challenges all its own.  Often it is simply better to let the beast care for its own hygiene (circumstances allowing) as your precious pooch will likely blink off to the nearest mud puddle as soon as you've finished cleaning them. <br /><em>Caring for your Blink Dog, pg. 46.</em></p>\n</blockquote>\n<p>Blink Dogs are a notable curiosity amongst the common canine species.  On the outside, the hound appears to be quite similar to many a hunting mutt: a tannish, yellow complexion of the fur, average in size (standing anywhere from two and a half to three feet in height) and no markings or traits rendering it particularly unique.  However, the secret of this dog lies within.  The Blink Dog possesses an uncanny ability to “blink” or teleport at will from location to location in a flash.  In a similar vein to the spells utilized by mages to transport themselves across distances in a flash, the Blink Dog tears through the fabric of our reality, vanishes instantaneously and appears up to forty feet away from its original location.  The Blink Dog is unable to carry living things along with it, however any equipment or objects the hound currently holds will be transported.  Blink Dogs have an above average intelligence in comparison to other canines and are able to speak their own language, called “Blink Dog”, to others of their kind.  What these discussions entail is a mystery, though it is speculated that often the packs of dogs will discuss their intense hatred for other ethereal quadrupeds as they are known to attack the beasts on sight.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Blood Hawk": {
-			"name": "Halcón sangriento (Blood Hawk)",
+			"name": "Halcón sangriento",
 			"description": "<p>The Blood Hawk is a variety of the common hawk species (detailed previously in this tome) which takes its name from the blood red color of its plumage as well as the bird's overly aggressive nature towards any other living creature. Blood hawks are fearsome little raptors, swooping down from the skies above like a crimson bolt to harry their quarry with vicious talons and a honed, dagger-sharp beak.</p>\n<p><strong>Fearless Flyers.</strong> Though almost unrecognizable in a grouping of fellow hawk species, the blood hawk eschews the solitary ways of its feathered brethren. Seemingly empty of aggression towards others of their kind, blood hawks swarm in large flocks who hunt with precision unison. Razor sharp talons easily slice through cloth and flesh to leave deep, weeping gashing in their prey. The blood hawks need only wait and watch with their keen little eyes after their initial barrage as the target will slowly bleed out into the dirt, the birds' talons having severed crucial arteries. It should always be a priority to the adventurer to check the plumage of a bird before straying too close. Take it from this traveler, red means you're dead!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Blue Dragon Wyrmling": {
-			"name": "Cría de dragón azul (Blue Dragon Wyrmling)",
+			"name": "Cría de dragón azul",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Boar": {
-			"name": "Jabalí (Boar)",
+			"name": "Jabalí",
 			"description": "<p>Boars are hardy, rotund beasts who inhabit the shrouded woodlands of our world, snuffling about for a root or mushroom to enjoy or upturning the foliage in search of a suitable trench to wallow in.  Resembling nothing more than an overgrown domesticated pig, a boar is anything but its breakfast-table-bound cousin.  Standing anywhere from 24 to 38 inches tall upon stocky legs, the hefty wild boar's most dangerous asset (its massive head) takes prominence, ending in a pair of deadly sharp tusks.  The head, which encompasses over a third of the boar's entire body length, is made up of a thick mass of bone and muscles which allows the boar to smash into objects and enemies while inflicting little harm upon itself.  Charging up to speeds of 25 miles per hour, the boar can use its charge to deadly effect as the creatures hardy skull and gouging tusks will make short work of most common defenses.  Should you be out on the hunt for a wild boar, it should be noted that the creatures are of a ruddy and substantial endurance, seemingly able to fight off death in order to gore its enemy one last time.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Bone Devil": {
-			"name": "Diablo óseo (Bone Devil)",
+			"name": "Diablo óseo",
 			"description": ""
 		},
 		"Brass Dragon Wyrmling": {
-			"name": "Cría de dragón de oropel (Brass Dragon Wyrmling)",
+			"name": "Cría de dragón de oropel",
 			"description": ""
 		},
 		"Bronze Dragon Wyrmling": {
-			"name": "Cría de dragón de bronce (Bronze Dragon Wyrmling)",
+			"name": "Cría de dragón de bronce",
 			"description": ""
 		},
 		"Brown Bear": {
-			"name": "Oso pardo (Brown Bear)",
+			"name": "Oso pardo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Bugbear": {
-			"name": "Osgo (Bugbear)",
+			"name": "Osgo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Bulette": {
-			"name": "Bulette (Bulette)",
+			"name": "Bulette",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Camel": {
-			"name": "Camello (Camel)",
+			"name": "Camello",
 			"description": "<p>Camels are a unique species of even-toed ungulates who thrive within the deserts and arid climates of our planet. Known the world over for their large back humps (varying in number between one or two humps depending on species), camels have become an integral part of desert life due to their rugged albeit stubborn nature, nutritious meat and milk, and transportation utility. Camels have been domesticated for millennia. Highly sought after for their ability to survive within the harshest of deserts, the earliest records of camels in our world show them as domestic pack animals (much as they are utilized today) carrying heavy cargo across sandy expanses of inhospitable desert. The noble camel, however, may hold more secrets than its surface reveals.</p>\n<p><strong>Watch Out, They Spit.</strong> When asking a commoner about the camel's most unique feature they will undoubtedly tell you that it is the fleshy humps upon the camel's tall back. Commonly, these humps were thought to hold a reservoir of fresh water so the camel may survive the sandy dunes of its homeland; this is, however, not the case at all. Dissection of the dromedary beast has shown researchers that these humps are actually composed of fatty tissue which have collected into the humps as to not overheat the beast by being spread across the body. Camels, in fact, need only drink once every ten-day as their insulated coat keeps them at an adequate temperature and they absorb sufficient water vapor through exhaling via the nostrils. Camels also have a leathery mouth-lining allowing the herbivores to chew and swallow even the thorniest of cacti should they require water in such a fashion. Should you be in the desert and in need of a sturdy beast, adventurer, why not invest your gold into the camel? Just be mindful, they enjoy spitting on those they do not trust!</p>"
 		},
 		"Cat": {
-			"name": "Gato (Cat)",
+			"name": "Gato",
 			"description": "<p>Who amongst our population could deny their lives have not been positively affected by the domesticated house cat. The cat proves time and time again to be a prized companion whether they are keeping your property free of unwanted pests or cuddling up upon their master's lap for a cozy night within the study. Found in a number of varieties from the pure black short-haired cats associated with ill omens to the fluffy coated and absurdly flat-faced cats of the frozen north, there appears to be limitless breeds to select from. (Author's Note: I have recently heard rumor of a cat which produces no hair, requiring its master to simply stroke its flesh without pleasant barriers. More evidence forthcoming of this unfounded discovery). However, our feline compatriots have much more to offer when looked at under the shrewd eye of the adventurer!</p>\n<p><strong>Purrfect Pals.</strong> Be it at the side of the elder potion-maker tucked safely away in their shop or out with the upstart young ranger braving the rolling fields of the hinterlands, cats are found dotted all across our marvelous land. Compact and light in weight, these agile little hunters fit perfectly atop one's shoulder or nestled within a wagon's goods. Cats provide useful utility to the crafty conjurer who binds their familiar to such a form as well; with honed claws able to retract in a lighting's flash back into their paws the cat makes for a deadly hunter against smaller beasts. Cats also have a flexible spine allowing them to squeeze into difficult to reach places should you coax them adequately or even survive a perilous fall. Researchers have discovered that cats seem to have the uncanny ability to land upon their feet regardless of the angle at which they are dropped; surely this is an astonishing advantage over other less agile creatures! Deathly quiet (unless they prefer to pester their master for tasty morsels with a noisome yowl) a cat is an adequate infiltrator should one prefer to observe their surroundings from a safer distance through this familiar's eyes. Be they conjured or corporeal, it is this author's opinion that the common cat is a companion of quality and should be considered when seeking the appropriate animal ally.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Centaur": {
-			"name": "Centauro (Centaur)",
+			"name": "Centauro",
 			"description": "<p>Los centauros se encuentran principalmente en las llanuras y en los bosques, vagando en manadas y cazando en grandes grupos. Criaturas equinas con la parte superior del cuerpo de hombres y mujeres que se extiende desde el cuello, son conocidos por su fuerza y alabados como audaces cazadores.</p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Chain Devil": {
-			"name": "Diablo de la cadena (Chain Devil)",
+			"name": "Diablo de la cadena",
 			"description": ""
 		},
 		"Chimera": {
-			"name": "Quimera (Chimera)",
+			"name": "Quimera",
 			"description": ""
 		},
 		"Chuul": {
-			"name": "Chuul (Chuul)",
+			"name": "Chuul",
 			"description": ""
 		},
 		"Clay Golem": {
-			"name": "Golem de arcilla (Clay Golem)",
+			"name": "Gólem de arcilla",
 			"description": ""
 		},
 		"Cloaker": {
-			"name": "Manto (Cloaker)",
+			"name": "Manto",
 			"description": ""
 		},
 		"Cloud Giant": {
-			"name": "Gigante de las nubes (Cloud Giant)",
+			"name": "Gigante de las nubes",
 			"description": ""
 		},
 		"Cockatrice": {
-			"name": "Cocatriz (Cockatrice)",
+			"name": "Cocatriz",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Commoner": {
-			"name": "Plebeyo (Commoner)",
+			"name": "Plebeyo",
 			"description": "<p>Con la etiqueta de la pura falta de respeto, la casta de ciudadanos de nuestro reino conocida como \"plebeyos\" es todo menos eso. Hay plebeyos de todas las razas, clases sociales, profesiones y personalidades. Ya sea un astuto mercader dracónido, un bullicioso tabernero humano o un soplador de vidrio élfico de suprema habilidad, el plebeyo es propio de quienes suelen estar fuera de la nobleza. Los plebeyos pueden ser inteligentes o estúpidos, valientes o cobardes; sin duda, un plebeyo debe ser admirado por su singularidad en nuestro mundo. Un plebeyo puede encontrarse dondequiera que existan humanoides: ciudades, pueblos, caminos, bosques, montañas, en cualquier lugar que haya sentido el toque de los humanoides puedes encontrar un plebeyo allí.</p>\n<p><strong>Poder para el proletariado.</strong> Un hecho cierto sobre los plebeyos es que a menudo son los ciudadanos más corrientes de nuestro mundo. No son como el aventurero osado y prefieren vivir sus vidas bajo la presunción de paz fuera de los muros de su ciudad. Sin embargo, esto no quiere decir que un solo plebeyo (aunque lo más frecuente es que gobierne la mentalidad de la turba) pueda alzarse y comenzar una impresionante reyerta por su cuenta. Tened cuidado, aventureros, porque incluso un plebeyo aparentemente sencillo puede pelear sucio y sorprender a un luchador experimentado. Sin embargo, la mayoría de los plebeyos son menos hábiles en las artes marciales, así que no te sorprendas si echan mano de armas poco comunes para defenderse: palos, botellas rotas, sillas, barriles, piedras y utensilios de cocina. Ya sea dentro de una ciudad o en un sendero abierto, siempre es prudente mantener la paz con los plebeyos, ya que pueden esconder una serie de habilidades o información sagaz que se esconde debajo de su simple apariencia.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Constrictor Snake": {
-			"name": "Serpiente constrictora (Constrictor Snake)",
+			"name": "Serpiente constrictora",
 			"description": "<p>Slithering through the undergrowth of the jungle floor, a long silhouette glides soundlessly over the leaf litter stalking something yet unseen.  The beast is thick about its tubular body, the entire length rimmed with bands of muscle strong enough to suffocate a fully grown deer.  With a stout, club-shaped head and probing tongue, the constrictor snake shimmies ever-so stealthily towards its quarry.  Setting its dulled vision upon the rodent, the snake tastes the air with its forked tongue and pinpoints the rat's position.  The hunt is over in a flash: striking like an arrow loosed from a bow, the snake sinks its needle-like fangs into the rat's body before winding coil after coil of its body tightly around the rodent's chest so it can crush and squeeze the last breath from the tiny beast's body.  In a single, ugly gulp, the rat disappears into the snake.  Constrictor snakes inhabit, primarily, the jungles of the world and utilize their clever camouflage flecked scales to blend into the surrounding foliage.  Unlike their more venomous cousins, these snakes do not bear the hollow fangs to deliver a deadly dose of neurotoxin; rather, these snakes rely on their brute strength to strangle the life out of their victims.  While most constrictors are no threat to the average humanoid, there are some species large enough to consume a fully grown pony.  Beware the waters and thick brush of the jungle floor as this is where these deadly beasts prefer to hide.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Copper Dragon Wyrmling": {
-			"name": "Cría de dragón de cobre (Copper Dragon Wyrmling)",
+			"name": "Cría de dragón de cobre",
 			"description": ""
 		},
 		"Couatl": {
-			"name": "Couatl (Couatl)",
+			"name": "Couatl",
 			"description": ""
 		},
 		"Crab": {
-			"name": "Cangrejo (Crab)",
+			"name": "Cangrejo",
 			"description": "<blockquote>\n<p>I once saw a crab so big it had claws what could cut a grown Goliath's hand clean off and wore a soldier's helmet as a shell! I swear it's true!<br /><em>- Unknown Disorderly Patron at the Brass Buck Tavern.</em></p>\n</blockquote>\n<p>What more could be said about the humble crab than is not already common knowledge to those who live near or frequent the coasts of the continent. Crabs are uniquely robust little creatures often no larger than the palm of an adult human's hand, with eight segmented legs protruding from either side of its scallop-shaped carapace. This hardened chitin carapace is topped with two black eye stalks (not unlike those of a snail) through which the beast views our coastlines and oceans. It has been observed that some species of crab lack an armored shell and prefer to squat in the discarded shells of conchs. This gives the crab a rather clever and sturdy mobile home. Adorning the crabs ninth and tenth appendages near its tiny mouth are two massive claws, resembling those of a scorpion, with dull serrations marking the inner edge of each. The crab primarily utilizes these claws in its search for food, cracking open the shells of other tiny aquatic beasts or snipping off tiny pieces of undersea plant life to dine on.</p>\n<p>While perhaps not the most dangerous companion a summoner could wish for, the crab's ability to breath both in the water and upon land makes the crustacean an ally brimming with utility. I advise caution, however, when first looking through your crab familiar's eyes, as the sideways scuttling by which the crab moves has proven to cause vomiting in some weak stomached summoners.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Crocodile": {
-			"name": "Cocodrilo (Crocodile)",
+			"name": "Cocodrilo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Cult Fanatic": {
-			"name": "Sectario fanático (Cult Fanatic)",
+			"name": "Sectario fanático",
 			"description": "<p>Los fanáticos suelen ocupar las posiciones de liderazgo de las sectas, recurriendo a su carisma y excusándose en el dogma del culto para influenciar y aprovecharse de las personas de voluntad más débil. La prioridad principal de la mayoría de ellos es conseguir poder para sí mismos.</p></p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Cultist": {
-			"name": "Sectario (Cultist)",
+			"name": "Sectario",
 			"description": "<p>Oh, aventurero, si fuera capaz de enumerar con precisión cada una de las variedades de los sectarios aquí para ti, este tomo abarcaría sin duda volúmenes multitudinarios. Los sectarios, como su nombre lo describe, son aquellos miembros de una sociedad secreta clandestina (o culto) que muy a menudo practican una religión oscura e impía con sus compañeros. ¡Cuidado aventureros! No todos los cultos se basan simplemente en pretextos religiosos, los hay que buscan movimientos políticos, los que están hambrientos de poder y los que se atreven a inmiscuirse en fuerzas que se han perdido hace tiempo en la historia. Permíteme describirte los fundamentos de la actividad de las sectas más comunes.</p>\n<p><strong>Amigos del Otro Lado.</strong> Los sectarios actúan en secreto, al margen de las idas y venidas normales de la vida cotidiana. Lo que hace que los sectarios sean tan fascinantes es que a menudo intentan mezclarse con la gente común: el tabernero de tu taberna favorita, el guardia de la puerta o incluso la bailarina del escenario pueden formar parte de una comunidad clandestina basada aparentemente en el mal. Ahora bien, para ser claros, no aliento la paranoia, ya que la actividad de las sectas es relativamente rara en comparación con otras amenazas más inmediatas para nuestro mundo; sin embargo, si un aventurero inteligente se mantiene atento a movimientos o gestos secretos, símbolos o marcas extrañas, e incluso palabras en código susurradas, puede estar seguro de que ha tropezado con el funcionamiento de una secta. Normalmente, los sectarios se alían con un antiguo poder atrapado o dormido en algún lugar de los planos más sucios de la existencia. Sus objetivos con esta fuerza oscura y divina son innumerables, pero a menudo incluyen el control de una estructura política, la muerte de cientos, si no miles, o simplemente sembrar la desesperación y el caos en los reinos de los mortales. A diferencia de los bandidos desesperados y cobardes llevados al límite por las circunstancias, los sectarios suelen ser enemigos irredentos. Estos hombres y mujeres han sido programados, se les ha lavado el cerebro o incluso han sido controlados directamente por su benefactor en los caminos de la oscuridad; a menudo, por desgracia, son incapaces de volver a la sociedad una vez que se han integrado demasiado en la red de la secta. Las sectas siempre deben ser manejadas y disueltas con el mayor cuidado; aunque los peones humanoides que están detrás de la secta pueden ser tratados más fácilmente, hay que recordar que las fuerzas cósmicas malignas pueden estar trabajando y ya se han puesto en marcha detrás de esos peones.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Darkmantle": {
-			"name": "Mantoscuro (Darkmantle)",
+			"name": "Mantoscuro",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Death Dog": {
-			"name": "Perro del inframundo (Death Dog)",
+			"name": "Perro del inframundo",
 			"description": "<p>Los perros del inframundo son horribles sabuesos bicéfalos que moran en las llanuras y desiertos. El odio arde con fuerza dentro de sus corazones y su ansia por la carne de humanoide les lleva a atacar a viajeros y exploradores. La saliva de los perros del inframundo transmite una enfermedad nauseabunda, que provoca que la piel de los que la sufren se pudra lentamente, hasta solo quedar el hueso.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Deep Gnome": {
-			"name": "Gnomo de las profundidades (Deep Gnome)",
+			"name": "Gnomo de las profundidades",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Deer": {
-			"name": "Ciervo (Deer)",
+			"name": "Ciervo",
 			"description": "<p>Deer are animals not uncommon to a variety of environments be it the frozen tundra or pleasant meadows of the countryside. These hardy ruminant beasts ranging from four and a half to nearly seven feet in height and subsist primarily upon the leaves of the forest floor and plants of the plains. Deer present with noticeable sexual dimorphism; the males or “bucks” brandish large multi-pronged racks of antlers upon their heads which they shed and regrow annually. Female deer, or “does”, lack the antlers of their male counterparts but are no less hardy when it comes to defending their herds.</p>\n<p><strong>Oh Deer, oh Deer</strong>. Deer are commonly docile creatures who will often flee at the first sight of any humanoid wandering into their domain. However, should you be unfortunate enough to encounter a buck during their mating season, you should consider taking a different path. Male deer's antlers can easily pierce weaker armor and flesh, tearing through a body as easily as a spear. Should you walk too close to a doe's precious children (or fawns) you will most assuredly experience the taste of the mother's hardened hooves upon you packing an uncanny amount of force for such nimble frames. Deer, when an adventurer's survival is considered, are best hunted from a distance to avoid these vicious melee defenses. The deer's meat, called “venison”, is mildly gamey though tasty and filling all the same, and the beasts' hides can be used for warmth or shelter in times of great need.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Deva": {
-			"name": "Deva (Deva)",
+			"name": "Deva",
 			"description": ""
 		},
 		"Dire Wolf": {
-			"name": "Lobo terrible (Dire Wolf)",
+			"name": "Lobo terrible",
 			"description": ""
 		},
 		"Djinni": {
-			"name": "Djinn (Djinni)",
+			"name": "Djinn",
 			"description": ""
 		},
 		"Doppelganger": {
-			"name": "Doppelganger (Doppelganger)",
+			"name": "Doppelganger",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Draft Horse": {
-			"name": "Caballo de tiro (Draft Horse)",
+			"name": "Caballo de tiro",
 			"description": "<p>When the job of lugging lumber or trucking trade goods down a country road is simply too much for a humanoid to bear, they may find solace in the knowledge that there is a loyal, stalwart beast ready to shoulder the heavy load for them: the draft horse.  Draft horses are a breed of horse who are more readily acclimated to rugged terrain and bearing great weights.  Often covered in thicker fur to survive in more difficult climates than their short haired brethren, draft horses have stout, powerful legs and gargantuan hooves adept at clinging to the loose gravel of a mountain trail.  Many breeds of draft horse exist within the world, so the picky merchant is never without option should they entertain the idea of purchasing such a beast.  The draft horse is capable of moving loads up to 540 lbs and may easily pull a cart laden with adventurers and their spoils down the open road should they become lazy in their victories.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Dragon Turtle": {
-			"name": "Dragón tortuga (Dragon Turtle)",
+			"name": "Dragón tortuga",
 			"description": ""
 		},
 		"Dretch": {
-			"name": "Dretch (Dretch)",
+			"name": "Dretch",
 			"description": "<blockquote>\n<p>The clamour could be heard well before the creatures shambled into sight.  From across the valley we heard the battalion of Dretch.  Hooting, snarling, and groaning all in an indistinguishable racket, these lowly demons bemoaned their existence even as they tried to suffocate ours.  When the wave of Dretch approached the gate, we then saw their tactics on full display.  Stupid and clumsy the beasts mashed and piled atop one another in order to force open the gate by sheer volume of their weight combined.  When the beams finally began to splinter and those noxious, choking gases met our lungs… I thought I would die where I stood.<br /><em>- an oral recounting of a demonic invasion by an unnamed soldier.</em></p>\n</blockquote>\n<p><strong>You Smell That?</strong> Very nearly the lowliest of all demonkind, Dretch are horrific and ugly little creatures who bulk out the forces of the Abyss in sheer numbers alone.  Dretch resemble nothing more than a stocky, pale fleshed humanoid with a few additional features.  The Dretch bears lopping, pointed ears and a mess of chipped, dirty fangs that protrude from pale gums in an erratic fashion.  Long, thin arms ending in curved claws drape about a swollen belly, with the hands dragging across the ground next to stunted feet.  The Dretch's pale skin is loose and slides grotesquely across a spider web of blue and black varicose veins.  Unintelligent and petty, Dretch spend their lives within the Abyss expressing their discontent at their status via a series of grunts and barks in the Abyssal tongue.  Unsuitable for even the most mundane tasks due to their sheer stupidity, Dretch are utilized by other demons as cannon fodder in their everlasting war with the creatures of Hell.  In combat, the Dretch are surely a pitiable sight as their foolishness leads them with only one clear tactic: a mad mob rush towards their enemy.  Dretch are weak and cowardly (many would flee a foe if no greater demon is there to intimidate them back into battle) and prefer to overwhelm their enemy with their numbers.  Should a sufficient contingent of Dretch break through their enemies defenses, the Dretch may then deploy a reeking cloud of putrid air from within their bodies which replenishes once daily.  Immune to all poisons, the Dretch then pummel their opponents with their spindly arms as the enemies slowly fade away in the poison's choking grasp.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Drider": {
-			"name": "Draña (Drider)",
+			"name": "Draña",
 			"description": ""
 		},
 		"Drow": {
-			"name": "Drow (Drow)",
+			"name": "Drow",
 			"description": "<blockquote>\n<p>Experts in poisons: Check.  Beholden to ancient evils: Check.  Can see you in the dark: Check.  Now let me ask you this… why are you wanting to go stir up a nest of Drow?<br /><strong>- a subterranean guide.</strong></p>\n</blockquote>\n<p>Drow were once the very same elves of the woods and cities we are more commonly aware of; however, a schism within the belief structures of various elvish factions forced a sect of elvenkind to flee below the surface of the world and take refuge within the massive subterranean caverns they found there.  Within the caves their skin darkened to a deep pitch black and their hair faded to shades of white and silver.  These elves, thin and regal in posture, became known as simply the Drow.  As centuries passed beneath the world's crust, the Drow adapted to their new surroundings in notable ways.</p>\n<p><strong>You Think the Darkness is your Ally?</strong> The Drow's elven eyes, once adapted to see for miles in the bright sunlight, grew pale without the nourishment of the light and transformed into orbs keen at seeing anything within the pitch darkness of the underground.  Drow have also learned to use the darkness to their advantage and may even creep to the surface world under the cover of night's shadows to carry out raids upon villages nearby.  This adaptation has not come without cost, however, as the Drow's skin and eyes can no longer stand the burning sun.  This forces the dark elves to utilize the night or sufficiently cover themselves to avoid the sun's glare.  Drow do still retain some of their elvish arcane abilities as they may not be charmed or forced to sleep by spellwork.  Many Drow females (as Drows exist in a matriarchy) are also skilled sorcerers and priestesses who primarily choose to side with gods on the more sinister side of the pantheon.  Other clever Drow have worked out methods of distilling certain poisons from underground mushrooms and creatures who lurk upon the cavern walls.  These toxins are well known amongst connoisseurs of poisons for both their availability as well as their legendary potency.  It is not uncommon for all soldiers in a Drow army to be equipped with at least one vial of potent poison.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Druid": {
-			"name": "Druida (Druid)",
+			"name": "Druida",
 			"description": "<p>Los druidas habitan en los bosques y otros lugares silvestres aislados, donde protegen el mundo natural de los monstruos y la invasión de la civilización. Algunos son chamanes tribales que curan a los enfermos, rezan a los espíritus de los animales y proporcionan orientación espiritual.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Dryad": {
-			"name": "Dríade (Dryad)",
+			"name": "Dríada",
 			"description": ""
 		},
 		"Duergar": {
-			"name": "Duergar (Duergar)",
+			"name": "Duergar",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Dust Mephit": {
-			"name": "Mephit de polvo (Dust Mephit)",
+			"name": "Méfit de polvo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Eagle": {
-			"name": "Águila (Eagle)",
+			"name": "Águila",
 			"description": "<p>A proud scream from on high, a blur of feathers, and the sharp embrace of long, needle sharp talons upon your flesh mark that you may have angered this raptor: the Eagle. Eagles are noble birds who traverse the skies of our woodlands and mountains in search of fatty fish, rodents, or reptiles to keep them well-fed. Eagles have wingspans as tall as any humanoid, often reaching upwards of six and a half to seven feet long! It is with these powerful wings and their keen vision that an eagle can surprise its prey from soaring heights, giving the avian the element of surprise on unsuspecting prey. I myself have witnessed an eagle swoop down from on high and scoop up a noble woman's small pet terrier, wrenching the yowling canine from the lady's grasp before fading away into the afternoon skies. Truly these birds are powerful specimens!</p>\n<p><strong>Touch the Sky.</strong> The eagle prefers solitude when it can find it. The birds nest in homemade eyries, or nests, high above the world on mountain cliff faces. Here in the eyrie, the eagles lay their clutch of two eggs and raise a tiny, insular family with the female (and often much larger) chick taking dominance over any male born into the clan. The chicks grow under the care of their parents, being fed on a diet of regurgitated food until they are large enough to learn how to fly on their own. At this point, baby eagles are shunned from the nest and forced out into the world to fend for themselves.</p>\n<p><strong>Lone Ranger.</strong> Eagles make fine companions for those who understand that these birds of prey are no mere pet, but an equal ally in their adventurers. Rangers seem particularly fond of the eagle as a hunting partner, as the birds may roam far and wide during a hunt and bring their master back any spoils they've found on their quest. This specialized form of modern falconry utilizes the eagles as trackers as well, as the eagle may spot prey from a great distance, then return to their master and guide them towards the quarry. Should you be adventuring out into the world and have the patience for such a companion, perhaps consider the eagle as a recommended choice for seasoned hunters.</p>"
 		},
 		"Earth Elemental": {
-			"name": "Elemental de tierra (Earth Elemental)",
+			"name": "Elemental de tierra",
 			"description": ""
 		},
 		"Efreeti": {
-			"name": "Ifrit (Efreeti)",
+			"name": "Ifrit",
 			"description": ""
 		},
 		"Elephant": {
-			"name": "Elefante (Elephant)",
+			"name": "Elefante",
 			"description": ""
 		},
 		"Elk": {
-			"name": "Alce (Elk)",
+			"name": "Alce",
 			"description": "<blockquote>\n<p>No, no you wouldn't really expect ‘em to be so scary, but they are!  They're bigger than your average whitetail buck n' twice as nasty should they get in close with them big antlers.  Oh, and the sound they make!  Like the wailing of a banshee, ringing through the entire damned forest in the dead of night.  Don't you laugh at me!  Don't you laugh...  You wait for when you hear it on a cold winter's night and it'll be you sittin' in your own piss wishin' you'd listened to me.<br /><em>A traveling hunter near Blisterrock Stead.</em></p>\n</blockquote>\n<p>Standing five feet tall and weighing upwards of 700 pounds, elk are the largest species of deer found within the natural world.  To the untrained eye, elk simply look much like a gigantic deer as males retain the characteristic pronged antlers (females bearing none) as their smaller cousins.  There are, however, a few differences between the two creatures.  The most notable difference is in vocalization as elk favor a series of bugles or shrieks which echo loudly throughout the forest.  These bugling vocalizations signal the arrival of mating season (called a rut) in which dominant males will battle between themselves with sharpened antlers for a female's favor.  Should you hear the keening cry of the elk in a silent forest, may I advise you that you should best turn back lest you are ready for a pheromone addled fight to the end.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Erinyes": {
-			"name": "Erinia (Erinyes)",
+			"name": "Erinia",
 			"description": ""
 		},
 		"Ettercap": {
-			"name": "Ettercap (Ettercap)",
+			"name": "Ettercap",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Ettin": {
-			"name": "Ettin (Ettin)",
+			"name": "Ettin",
 			"description": ""
 		},
 		"Fire Elemental": {
-			"name": "Elemental de fuego (Fire Elemental)",
+			"name": "Elemental de fuego",
 			"description": ""
 		},
 		"Fire Giant": {
-			"name": "Gigante de fuego (Fire Giant)",
+			"name": "Gigante del fuego",
 			"description": ""
 		},
 		"Flesh Golem": {
-			"name": "Gólem de carne (Flesh Golem)",
+			"name": "Gólem de carne",
 			"description": ""
 		},
 		"Flying Snake": {
-			"name": "Serpiente voladora (Flying Snake)",
+			"name": "Serpiente voladora",
 			"description": "<p>Originarias de las selvas y los climas tropicales, las serpientes voladoras son pequeños reptiles singulares apreciados por quienes tienen la capacidad de domesticarlas. Casi un calco de las serpientes comunes que viven en el suelo, la serpiente voladora simplemente ha desarrollado alas por alguna extraña necesidad biológica o por intervención mágica. Estas delgadas alas con membrana permiten a la serpiente deslizarse torpemente por el aire, evitando el caos del suelo de la jungla con facilidad. De colores brillantes con escamas veridianas, estas serpientes voladoras son realmente hermosas de contemplar mientras planean, gráciles y en picado, a través del follaje de las lianas y de la densa vegetación. Estos pequeños y delgados maestros del viento se encuentran a menudo al servicio de los sectarios de la selva o de los magos de las tribus. Con un poco de persuasión e intentando domesticarlos, el propietario puede ser recompensado con un aliado único y misteriosamente leal que se enrosca en su antebrazo ante cualquier aventura. Algunos incluso han utilizado a estos reptiles como mensajeros, ya que son pequeños y pueden viajar por las copas de los árboles en relativo secreto.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Flying Sword": {
-			"name": "Espada voladora (Flying Sword)",
+			"name": "Espada Voladora",
 			"description": "<p>Mimicry is a favored trick of those with the capacity for magic and the Flying Sword is an example of the simplest yet most effective mimicry in the arcane realm.  A flying sword is just that: a sword which flies.  Enchanted by a mage (typically for the purpose of guarding a home, study, or tower) the magical flying sword rests peacefully wherever its master has left it.  These enhanced blades are given simple instructions such as, “Kill any intruders”, and until such a prompt is met, the sword will sit motionless.  While motionless, the sword is indistinguishable from any ordinary sword (excepting to those trained in seeing magical auras) which exemplifies the swords most dastardly characteristic.  Like this, the sword can rest for ages until its prompt is met and the weapon springs to life.  The sword will float from its hiding place, then slash and stab at any foolish trespassers with the confidence of a trained warrior until it is destroyed or its foes lay dead.  Upon destruction the spell placed upon the sword is dissolved and the object returns to normal.</p>\n<blockquote>\n<p>Author's Note: Wary adventurers should be on alert for other weaponry such as Clubs, Axes, Crossbows, or Hammers as the enchantment can be used on most common weaponry.</p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Frog": {
-			"name": "Rana (Frog)",
+			"name": "Rana",
 			"description": "<p>Frogs are the most common amphibian to inhabit our planet. Frogs live a primary amount of their lives in and around sources of water which makes them common to swamps, marshes, and bogs. This, of course, is necessary as without a nearby source of water the frog's slick skin would dry out and kill the frog. Insect eaters by nature, the frog utilizes its long, sticky tongue to capture all manner of insects (Author's Note: In the swamps of the south, eye witnesses have sworn to have seen a frog species large enough that they ate small birds plucked right from the air!). Frogs have a unique manner of locomotion as their hind legs are far longer and folded in comparison to their front appendages. This unique evolution allows the frog to hop about and make quite fantastic jumps when fully extending its hind legs.</p>\n<p><strong>Tadpole evolved into Frog.</strong> Frogs begin their lives as nothing more than a jelly-like egg the size of a pinky nail. Upon hatching, the tiny frogs now in their tadpole state resemble miniature living comets, being hardly more than a ovular head and long swishing tail to propel themselves through the water. Over the course of several weeks the baby frogs develop limbs and fully evolve into their more recognizable adult form. Truly a fascinating process of development most often seen in insect species that our researchers have dubbed “metamorphosis”. What other creatures of our ever changing world could possess such a fantastic transformation as the common frog?</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Frost Giant": {
-			"name": "Gigante de escarcha (Frost Giant)",
+			"name": "Gigante de escarcha",
 			"description": ""
 		},
 		"Gargoyle": {
-			"name": "Gárgola (Gargoyle)",
+			"name": "Gárgola",
 			"description": "<p>Apariencia Falsa. Mientras permanezca estática, la gárgola es indistinguible de una estatua inanimada.</p>\n<p>Acciones</p>\n<p>Ataque múltiple. La gárgola realiza dos ataques: uno con su mordisco y otro con sus garras.</p>\n<p>Mordisco. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: <strong>5 (1d6 + 2) de <em>daño perforante</em></strong>.</p>\n<p>Garras. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: <strong>5 (1d6 + 2) de <em>daño cortante</em></strong>.</p>\n<p></p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Gelatinous Cube": {
-			"name": "Cubo gelatinoso (Gelatinous Cube)",
+			"name": "Cubo gelatinoso",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ghast": {
-			"name": "Ghast (Ghast)",
+			"name": "Ghast",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ghost": {
-			"name": "Fantasma (Ghost)",
+			"name": "Fantasma",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ghoul": {
-			"name": "Gul (Ghoul)",
+			"name": "Gul",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Ape": {
-			"name": "Simio gigante (Giant Ape)",
+			"name": "Simio gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Badger": {
-			"name": "Tejón gigante (Giant Badger)",
+			"name": "Tejón gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Bat": {
-			"name": "Murciélago gigante (Giant Bat)",
+			"name": "Murciélago gigante",
 			"description": "<blockquote>\n<p>Author's Note: Please see below the entry for “Bat” which will suffice for the description of this creature.  Please note that “Giant” is a relative term and this creature is only giant in relative terms to its common size.</p>\n</blockquote>\n<p>Bats are a common fixture within the secluded forests and lightless caverns of our world.  Bats are a nocturnal creature prized by arcanists for their ability to navigate terrain in near total darkness.  This alone makes them a prized choice for a summoned familiar.  Varying from the size of a mouse to that of a house cat, bats have a unique feature amongst mammals: the gift of flight!  Stretched thin between needle-thin boney “hands” are fleshy membranes which span out wide from the bat's delicate body, allowing the bats to take to the skies in search of insects and woodland fruits to indulge upon.</p>\n<p><strong>Chitter Chatter.</strong> Presumed blind by many from nonsense tales told to children, bats have eyesight nearly akin to our own, though notably less sharp.  What makes these creatures truly unique is their ability to navigate in the pitch black of night.  The bats utilize a series of chirps and screeches researchers have dubbed “echolocation” to pinpoint objects or prey within their flightpath.  The echolocation chirps emitted by the bats bounce back towards the tiny creature's proportionally massive ears, allowing the bats to make split second corrections to their navigations without the aid of their eyes.  It should be again noted that the bat makes a clever familiar choice, as they may navigate those places too dim and dangerous for our mortal eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Boar": {
-			"name": "Jabalí gigante (Giant Boar)",
+			"name": "Jabalí gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Centipede": {
-			"name": "Ciempiés gigante (Giant Centipede)",
+			"name": "Ciempiés gigante",
 			"description": "<p>Skittering through the undergrowth of a dark forest or wriggling free from the dilapidated stone walls of a dank catacomb, giant centipedes resemble their miniscule cousins in all ways beyond size.  These slithering, scuttling arthropods are nearly the size of a small dog with sharpened mandibles measuring several inches in length at the tip of their head.  Much like the average centipede, these creatures bear the multitude of slinking legs flanking both sides of its tubular body and seethe with the aggression of a wild boar.  Giant centipedes think little beyond their next meal and will attack nearly any creature who enter into their territory, lashing out with their crushing mandibles capable of breaking through leather armor with ease.  Once the centipede has successfully gripped its victim with its pinching mandibles, it delivers a potent poison into its target's blood stream which (in rare cases) may act as a minor paralytic should the creature fall unconscious while poisoned.  Keep an eye out while donning your boots should you choose to rest within the domain of the giant centipede.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Constrictor Snake": {
-			"name": "Serpiente constrictora gigante (Giant Constrictor Snake)",
+			"name": "Serpiente constrictora gigante",
 			"description": ""
 		},
 		"Giant Crab": {
-			"name": "Cangrejo gigante (Giant Crab)",
+			"name": "Cangrejo gigante",
 			"description": "<blockquote>\n<p>\"Una vez vi un cangrejo tan grande que tenía pinzas que podían cortar la mano de un Goliat adulto y llevaba un casco de soldado como caparazón. ¡Juro que es verdad! <br><em>- Patrón desordenado desconocido en la taberna El Cubo de latón.</em></p>\n</blockquote>\n<section class=\"secret\">\n<p>Qué más se puede decir del humilde cangrejo que no sea ya de dominio público para quienes viven cerca o frecuentan las costas del continente. Los cangrejos son pequeñas criaturas excepcionalmente resistentes, a menudo no más grandes que la palma de la mano de un adulto, con ocho patas segmentadas que sobresalen a ambos lados de su caparazón en forma de concha. Este caparazón de quitina endurecida está rematado por dos pedúnculos oculares negros (no muy diferentes a los de un caracol) a través de los cuales el animal ve nuestras costas y océanos. Se ha observado que algunas especies de cangrejos carecen de caparazón acorazado y prefieren meterse en las conchas desechadas de las caracolas. Esto proporciona al cangrejo un hogar móvil bastante inteligente y resistente. El noveno y el décimo apéndice del cangrejo, cerca de su pequeña boca, están adornados con dos enormes pinzas, parecidas a las de un escorpión, con sierras romas en el borde interior de cada una. El cangrejo utiliza estas pinzas principalmente para buscar comida, abriendo los caparazones de otras pequeñas bestias acuáticas o cortando pequeños trozos de plantas submarinas para comer.</p>\n</section>\n<p>Aunque quizá no sea el compañero más peligroso que un invocador pueda desear, la capacidad del cangrejo para respirar tanto en el agua como en la tierra hace del crustáceo un aliado repleto de utilidad. Sin embargo, aconsejo tener cuidado cuando se mire por primera vez a través de los ojos del familiar cangrejo, ya que el desplazamiento lateral con el que se mueve el cangrejo ha provocado vómitos en algunos invocadores de estómago débil.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Crocodile": {
-			"name": "Cocodrilo gigante (Giant Crocodile)",
+			"name": "Cocodrilo gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Eagle": {
-			"name": "Águila gigante (Giant Eagle)",
+			"name": "Águila gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Elk": {
-			"name": "Alce gigante (Giant Elk)",
+			"name": "Alce gigante",
 			"description": "<p>El majestuoso alce gigante es poco frecuente, hasta el punto de que su aparición suele tomarse como presagio de un acontecimiento importante, como el nacimiento de un rey. Las leyendas hablan de dioses que adoptan la forma de alces gigantes cuando visitan el Plano Material. Por ello, muchas culturas creen que cazar estas criaturas es invitar a la ira divina.</p>"
 		},
 		"Giant Fire Beetle": {
-			"name": "Escarabajo de fuego gigante (Giant Fire Beetle)",
+			"name": "Escarabajo de fuego gigante",
 			"description": "<p>Deep below the earth, luminous swarms of black-shelled Giant Fire Beetles may be found by curious explorers. Though giant in only the relative sense to their non-illuminated cousins, the Giant Fire Beetle typically spans the width of an adult human's hand. These tiny, docile titans content themselves in scuttling through darkened places such as caverns, catacombs, and mossy overgrowths in search of scraps to eat or a quiet, damp place in which to make their burrows.</p>\n<p><strong>Of Darkness and Light.</strong> Curiously enough, due to the species evolving without the natural light of our sun, the poor creature is completely blind. The Giant Fire Beetle, however, is not totally without senses. Using specialized antenna, these hardy insects are able to “see” the world around them within a slightly limited ranged. The true prize (as so many fledgling adventurers boast) is the orange bioluminescent glands located beneath either side of their mandibles and to the very rear of their abdomen. These firey hued glands are packed with a symbiotic, glowing fungus, which will continue to glow for up to one week once disconnected from their host! Some clever adventurers have taken to capturing live beetles, placing them within empty lanterns to light their way in remote caverns for even longer periods of time.</p>\n<p><strong>In Last Resort.</strong> Most often a peaceful insect, Giant Fire Beetles have been observed defending food in times of great hunger; the creatures will rarely flee a tasty morsel should they feel a threat to their meal is near. The Giant Fire Beetle does pack a nasty bite with its sharpened mandibles that may pierce even the toughest boiled leather armor should it feel threatened enough to attack. Take heed when approaching a swarm of these insects lest you suffer some nasty lacerations. Older texts on the nature of beasts do speak of a breed of Giant Fire Beetle that excreted a combustible fluid and ignited the mixture causing severe burns to the unwary. This has never been scientifically proven, but new discoveries happen each day!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Fly": {
-			"name": "Mosca gigante (Giant Fly)",
+			"name": "Mosca gigante",
 			"description": ""
 		},
 		"Giant Frog": {
-			"name": "Rana gigante (Giant Frog)",
+			"name": "Rana gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Goat": {
-			"name": "Cabra gigante (Giant Goat)",
+			"name": "Cabra gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Hyena": {
-			"name": "Hiena gigante (Giant Hyena)",
+			"name": "Hiena gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Lizard": {
-			"name": "Lagarto gigante (Giant Lizard)",
+			"name": "Lagarto gigante",
 			"description": "<blockquote>\n<p>Author's Note: Please see below the entry for “Lizard” which will suffice for the description of this creature.  Please note that “Giant” is a relative term and this creature is only giant in relative terms to its common size.</p>\n<p>“Hey there Mr. Goodberry lookie here!  I done got me a new earring!”<br /><em>A gnomish resident of the swamps attaching lizards to his earlobes during my travels.</em></p>\n</blockquote>\n<p>The most common reptile who inhabits every locale from the forests to the mountain peaks is, of course, the lizard.  These four legged friends are of course familiar to all whom read this tome and can come in thousands of various breeds and sizes.  What makes these little reptiles so very unique (and possibly a fine form for your familiar) is their ability to cling to a multitude of surfaces.  Adept at climbing, lizards may scale sheer surfaces and procure hidden vantage points from which to gaze down upon those you may wish to observe.  Some varieties of lizards are also able to shift the pigmentation of their flesh, allowing for further subterfuge options!  However, the humble lizard does not provide much in the way of offense as their bite is nothing more than a nuisance to most humanoids.  The lizard is perhaps best left to the shadows, where it may observe the world unseen for its clever master.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Octopus": {
-			"name": "Pulpo gigante (Giant Octopus)",
+			"name": "Pulpo gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Owl": {
-			"name": "Búho gigante (Giant Owl)",
+			"name": "Búho gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Poisonous Snake": {
-			"name": "Serpiente venenosa gigante (Giant Poisonous Snake)",
+			"name": "Serpiente venenosa gigante",
 			"description": "<blockquote>\n<p>Author's Note: Please see below the entry for “Poisonous Snake” which will suffice for the description of this creature.  Please note that “Giant” is a relative term and this creature is only giant in relative terms to its common size.</p>\n</blockquote>\n<p>Snakes rank among the most plentiful and diverse reptiles to slither across our planet's surface.  Resembling nothing more than a scaly worm at first look, snakes are actually highly developed predators who slither across the ground in order to stealthily hunt their prey of smaller reptiles, rodents, and birds.  Though there are many species of snake, we will only discuss the poisonous varieties within this article.  Poisonous snakes bear a marked identifier separating them from their nonpoisonous brethren: the shape of their pupils.  While snakes lacking venom glands have rounded pupils, those snakes with a venomous bite have slitted pupils much like those of a common domestic cat.  The devious snake, however, has so much more beneath its scaly surface.</p>\n<p><strong>Don't Tread on Me.</strong>  Ever camouflaged both by their similarities to roots, sticks, or branches as well as the marvelous patterns of black, browns, greens, and tans speckling their hides, snakes are masters of blending into their surroundings.  Even perched on a rock to warm their bodies in the heat of the sun, snakes can certainly be missed by just a passing glance.  While the creature's eyesight is relatively poor, snakes have adapted an amazing ability to sense the world around them.  Snakes “smell” with their tongues!  Yes, by flicking their tongues out of their mouths with a fascinating flourish, these reptiles are able to smell prey or predators in their environment by collecting the miniscule scents on their tongues.  Within the snake's mouth lies its most deadly asset in the form of two, hollow fangs.  Snakes prefer to strike from the shadows, allowing their quiet method of travel to get them close enough to their prey to avoid a fight.  The creature then lashes out in the blink of an eye, catching the unwary prey in their jaws while injecting them with a controlled dose of highly toxic venom through their hollow fangs.  Then it's only a matter of moments until the poor creature is left dead by the snake's potent toxins.  While the majority of snake species are not deadly to humanoids, caution is advised for those not well versed in identifying reptiles.  Antidote should always be carried in areas known to house populations of poisonous snakes, just in case.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Rat": {
-			"name": "Rata gigante (Giant Rat)",
+			"name": "Rata gigante",
 			"description": "<p>Denizens of filth, scavengers in our sewers, and vectors of contaigens, no singular animal may present such impact upon humanoid life as does the rat. Common place from the sprawling urban metropolis to the tiny barn of a poor farmer, rats inhabit every nook and cranny they may scurry in to. These small rodents, who can range in size from no bigger than your palm to the length of a forearm (with tail included) are quite ingenious little thieves. Rats are able to compress their bodies in such a manner that they can fit through spaces as small as the gap in the bottom of your door. Able to swim and navigate in the dark, some rats have been observed climbing out of small plumbing pipes, having scampered through the length of the tunnel to make it inside a merchant's abode.</p>\n<p><strong>Rats Off to You.</strong> While many may dismiss the rat as nothing more than a common pest, even those not utilized as magical familiars are highly intelligent little creatures. Researchers have observed rats completing complex mazes, solving lever-action puzzles, and understanding the world around them to a degree unseen in other animals. A clever street-dweller could certainly train a rat to filch food or a few shiny coins from an unwatched coin purse, should the rat get adequate reward itself. Do be wise in your selection of companion, however, as some rats carry deadly diseases from insects that nestle in their short fur. Along with its sharp, clinging claws, the rat packs a powerful bite thanks to its elongated incisor teeth. Be observant, young hero, should you see a rat nearby, for the simple creature may house a secret within its black, unblinking eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Rat (Diseased)": {
-			"name": "Rata gigante (enferma) (Giant Rat (Diseased))",
+			"name": "Rata gigante (enferma)",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Scorpion": {
-			"name": "Escorpión gigante (Giant Scorpion)",
+			"name": "Escorpión gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Sea Horse": {
-			"name": "Caballito de mar gigante (Giant Sea Horse)",
+			"name": "Caballito de mar gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Shark": {
-			"name": "Tiburón gigante (Giant Shark)",
+			"name": "Tiburón gigante",
 			"description": "<p>Los tiburones gigantes miden 30 pies (9 m) de largo y suelen vivir en los océanos más profundos. Estos seres carecen por completo de miedo y atacarán a todo lo que se cruce en su camino, incluso ballenas o barcos.</p>"
 		},
 		"Giant Spider": {
-			"name": "Araña gigante (Giant Spider)",
+			"name": "Araña gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Toad": {
-			"name": "Sapo gigante (Giant Toad)",
+			"name": "Sapo gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Vulture": {
-			"name": "Buitre gigante (Giant Vulture)",
+			"name": "Buitre gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Wasp": {
-			"name": "Avispa gigante (Giant Wasp)",
+			"name": "Avispa gigante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Weasel": {
-			"name": "Comadreja gigante (Giant Weasel)",
+			"name": "Comadreja gigante",
 			"description": "<p>Weasels dwell in a variety of locations from snowy tundra, to pine forests, to the open flowery plains of our planet. Weasels are tiny, long bodied mammals reaching approximately eight inches in length and bearing coat colorations ranging from chestnut brown to pale white. The weasel's long body allows it to easily wedge itself into a rodent's burrow and pull the critter out for a tasty meal. Weasels make quite effective pest controllers in their territories as they eat multitudes of rodents annually. These little cleaners are, however, often considered to be pests in their own right; farmers across the countryside report that their poultry is killed or stolen away by sneaky weasels making their way into their chicken coops. While not the most deadly mammal in the world, the weasel does pack a nasty, sharp-toothed bite. Keep your curious fingers out of any small rodent burrows you find, lest you end up provoking a weasel during his well-earned meal.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Giant Wolf Spider": {
-			"name": "Tarántula gigante (Giant Wolf Spider)",
+			"name": "Tarántula gigante",
 			"description": "<blockquote>\n<p>Author's Note: Please see below the entry for “Spider” which will suffice for the description of this creature.  Please note that “Giant” is a relative term and this creature is only giant in relative terms to its common size.</p>\n</blockquote>\n<p>Spiders are one of the smallest, yet most feared, denizens of our planet.  Spiders are arachnids with eight thin legs protruding from their dual-segmented body.  Atop the spider's tiny head are eight glistening eyes with which it views the world in relative obscurity.  While the spider's eyesight may be poor regardless of the number of eyes, they have a clever trick up their sleeves: the spider's web!</p>\n<p><strong>Some Bug.</strong> Ingenious little architects, spiders produce a silken thread from their rears dubbed “webbing” which they use to construct elaborate homes.  Resembling something of a net, the spider's web serves a dual purpose: to capture food upon its sticky surface and to give the spider a safe place to perch away from predators.  Once an insect is trapped within the web, the spider quickly wraps the unsuspecting creature in a bundle of webbing, saving its prize for later consumption.  While all spiders are venomous in some capacity, many will not be harmful to the adventurer on their travels.  Simply avoid webs where you see them and be quite sure that the web which you see only belongs to a standard spider species, as a plethora of gigantic and magical varieties also lurk within similar webs!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Gibbering Mouther": {
-			"name": "Bocón barbotante (Gibbering Mouther)",
+			"name": "Bocón barbotante",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Glabrezu": {
-			"name": "Glabrezu (Glabrezu)",
+			"name": "Glabrezu",
 			"description": ""
 		},
 		"Gladiator": {
-			"name": "Gladiador (Gladiator)",
+			"name": "Gladiador",
 			"description": "<p>Los gladiadores combaten para entretener a multitudes enfervorizadas. Algunos son brutales luchadores que ponen la vida en juego en cada pugna, mientras que otros son duelistas profesionales que perciben cuantiosos honorarios, pero rara vez combaten a muerte.</p>"
 		},
 		"Gnoll": {
-			"name": "Gnoll (Gnoll)",
+			"name": "Gnoll",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Goat": {
-			"name": "Cabra (Goat)",
+			"name": "Cabra",
 			"description": "<p>Ah the domestic goat, both the shepard’s best friend and mortal enemy. Hailing from roots similar to antelope and sheep, the goat has become a mainstay in the world of domesticated farm animals. Goats resemble something of a shorn sheep with thick, bristle-like fur and small hooves adorning their nimble feet. Atop the goat’s head rests a set of hard horns which, depending upon the species, can vary from short and knobby to long curled protrusions. The goats use their horns for both defense and contests of strength between fellow males (or billies) during spectacular ramming matches. The clattering of mountain goats’ horns can be heard clearly throughout the valley towns during the creature’s mating seasons.</p>\n<p><strong>Of Evil and Garbage.</strong> Goats can be called nothing if not resourceful when it comes to what they choose to ingest. Goats will typically feed upon grass and weeds found in their favored open fields; however, several shepherds have noted their goats eating such objects as iron nails, bits of discarded clothing, and even the wheels of a wagon! The image of a goat has also been co opted by some of the more nefarious of our realm as a symbol of evil to represent various foul cults. Perhaps it is the goat’s sinister horizontal pupil that elicits fear in onlookers or their common use by some cultures as a ritualistic sacrifice that drives the cults to utilize their visage. No matter the cause, goats continue to be an integral though stubborn part of our everyday lives as their meat, milk, and utility in flocks makes them a hardy domesticated creature.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Goblin": {
-			"name": "Goblin (Goblin)",
+			"name": "Goblin",
 			"description": "<blockquote>\n<p>Putrid little runts… they ambushed us on the trail before we'd even been made aware we'd entered their “king's” territory.  They attacked from out of the bushes like a tidal wave of bodies crashing into our cart, all the while gibbering in their foul, snarl of a tongue.  We should have been prepared for them, I recall their weaponry was so poor one bugger was swinging half a broom handle with a small iron spike driven through; nonetheless, they overwhelmed us with their surprise attack and made off with a hefty share of the camp's rations for the next month.<br /><em>Captain Will Freidmont of the Upper Wilds Valdyrguard.</em></p>\n</blockquote>\n<p>Goblins are evil creatures of diminutive stature who exist in almost every corner of the natural world as a constant yet generally manageable threat.  Hailing from a group of creatures called goblinoids (which includes bugbears and hobgoblins), the goblin is a foul humanoid measuring no larger than the average halfling.  Goblins have skin tones varying from light clay to deep chestnut brown to a sickly, acidic green, their hair is thin and greasy, and within their jaws rest cracked and sharpened teeth.  Together with their foaming fellows, goblins form loose collectives or tribes so their power can stand pronounced in numbers.  The tribal life also allows for a crude caste system to erupt from the goblin's chaotic politics.  All goblins have something to offer to the tribe, be they foragers, slavers, or warriors.  If they cannot contribute, they die.</p>\n<p><strong>We Live in a Society. </strong> Capricious to the last, goblins crave nothing more than power and domination of all others around them by any means (including those methods dangerous to the goblin).  Those goblins who possess enough might or cleverness may ascend to the rank of Goblin Boss and command a lair consisting of several dozens goblinoid fellows.  Should ambition prove overwhelming, the boss in rare cases may subjugate nearby lairs of rival goblinoids and crown themselves a Goblin Queen/King.  It has been documented that in one particular case, Queen Greld the Gutripper was able to enslave a camp containing hundreds of orcs, then laid siege to the city of Westerholt close by and sacked the entire city.</p>\n<p><strong>Gnash and Bite, Trick and Trap.</strong> Goblins maintain some of the most chaotic lairs within the known world, and to accomplish this the goblins require a plethora of slaves.  Not always willing to murder those they plunder, goblins and their kin are known slavers, spiriting away captured humans from merchant wagons to contruct their insidious dungeons.  WIthin a goblin lair is all manner of trap: tunnels leading nowhere, narrow passages no human could pass through, arrow slits, pits lined with spikes, and of course a multitude of alarms to warn the tribe of any impending danger.  Goblins utilize chaotic placement within their lairs to throw off intruders from their hard earned loot which is kept safe within the lair's heart.</p>\n<p><strong>And They Dance About the Flames.</strong> Goblins, though commonly thought of as greedy and stupid, leave their chaotic tendancies behind when it comes to the structure of religious worship.  They are beholden in particular to The God of the Goblins, also called They Who Lurk Beneath, who acts as chief of all other gods to the goblinoids.  This god encourages acts of violence, blind cruelty, enslaving others, as well as war amongst the enemies of the goblins.  Goblin tribes will join together in times of worship to dance, perform rituals with blood and bone, build massive bonfires, and sew chaos throughout the lair all in devotion to their evil benefactor.  Goblins, fueled by the spirit of the revelry, will then be exceedingly aggressive and volatile for the days after, raging through the surrounding area to sate the thirst of their cruel god.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Gold Dragon Wyrmling": {
-			"name": "Cría de dragón de oro (Gold Dragon Wyrmling)",
+			"name": "Cría de dragón de oro",
 			"description": ""
 		},
 		"Gorgon": {
-			"name": "Gorgon (Gorgon)",
+			"name": "Gorgón",
 			"description": ""
 		},
 		"Gray Ooze": {
-			"name": "Cieno gris (Gray Ooze)",
+			"name": "Cieno gris",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Green Dragon Wyrmling": {
-			"name": "Cría de dragón verde (Green Dragon Wyrmling)",
+			"name": "Cría de dragón verde",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Green Hag": {
-			"name": "Saga verde (Green Hag)",
+			"name": "Saga cetrina",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Grick": {
-			"name": "Grick (Grick)",
+			"name": "Grick",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Griffon": {
-			"name": "Grifo (Griffon)",
+			"name": "Grifo",
 			"description": ""
 		},
 		"Grimlock": {
-			"name": "Grimlock (Grimlock)",
+			"name": "Grimlock",
 			"description": "<p>Grimlock are a species of subterranean monsters whom evolved from modern day humans over the course of several hundred years.  Grimlocks were formerly human cultists who worshipped dark, manipulative masters deep within the caverns beneath the world.  These dark magicians meddled magically with the minds of the cultists, turning the unexpecting stooges into little more than slaves.  In veneration to their barbarous masters, the former cultists began to turn to cannibalism as a holy sacrament in order to become closer to their false gods.  However, this enslavement and isolation transformed the humans; their skin grew pallid and grey, their hair grew in coarse patches across their craggy bodies, and due to the maddening darkness, these new creatures, the Grimlocks, lost their ability to see.  Mutated and blind, the Grimlocks were left without guidance when their masters vanished without a trace.  Grimlocks still haunt the deep places of the earth to this very day.  Grimlocks prefer to lurk within the shadows as their grey, mottled skin resembles the stone surrounding them.  From a hidden perch atop a rock they lay in wait, their calloused hands gripping clubs made of sharpened bone.  Listen closely should your journey take you into the underground, as the feverish whispers of the Grimlock venerating their fallen masters can be heard clearly echoing throughout the caverns in which they creep.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Guard": {
-			"name": "Guardia (Guard)",
+			"name": "Guardia",
 			"description": "<blockquote>\n<p>\".... y luego me dice: \"¡Mick! ¿No pensará que va a volver a engañar a la Guardia de la Corona? No esta veh!\" dice. Bueno, el viejo Mickey tiene un truco o do bajo la manga pa una ocasión así. No hay necesidá de truco y persecusione cuando he agarrao una vieja botella de eso licores Ramillete púrpura de lo que siempre habla el Capitán Murrnaband. ¡No hay ningún guardia tan inteligente o guapo como Mickey Diezdientes!\"</p>\n</blockquote>\n<p>- Una historia escuchada en la posada El flumph amistoso</p>\n<p>¿Quién de los ciudadanos de nuestro reino no ha interactuado en su vida con algún miembro de la Guardia? Los residentes de la región costera ven a los agentes de la ley casi a diario, ya que patrullan las calles, vigilan las puertas, inspeccionan los envíos y, por supuesto, ayudan (o arrestan) a los ciudadanos de sus ciudades. Sin embargo, la guardia no se limita a las puertas y murallas de una ciudad. Ya sean mercenarios o profesionales, los guardias se encuentran a menudo patrullando los caminos, ya sea para ahuyentar a las manadas de animales o a los bandidos, o en alerta para proteger los preciados cargamentos o a los ciudadanos importantes mientras viajan por las zonas menos pobladas del mundo. Al igual que los bandidos y los sectarios de los que hemos hablado anteriormente en este tomo, hay guardias de todo tipo. Aunque muchos pueden parecer altamente entrenados y disciplinados, hay que tener en cuenta que la mayoría de los guardias no ven más acción que una pelea en las concurridas calles de un mercado o la dispersión de algunos bandidos carroñeros desde un carro volcado. Los guardias no son todos los endurecidos y canosos exmilitares que pensamos en los rangos superiores de las órdenes. Sé observador, joven aventurero, y presta atención a las advertencias de la ley, pues aunque los guardias pueden ser sólo una amenaza menor para tus ruines visiones, lo que acecha en el calabozo de la ciudad puede no merecer los riesgos.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Guardian Naga": {
-			"name": "Naga guardiana (Guardian Naga)",
+			"name": "Naga guardiana",
 			"description": ""
 		},
 		"Gynosphinx": {
-			"name": "Ginoesfinge (Gynosphinx)",
+			"name": "Ginoesfinge",
 			"description": ""
 		},
 		"Half-Red Dragon Veteran": {
-			"name": "Semidragón rojo veterano (Half-Red Dragon Veteran)",
+			"name": "Semidragón rojo veterano",
 			"description": ""
 		},
 		"Harpy": {
-			"name": "Arpía (Harpy)",
+			"name": "Arpía",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Hawk": {
-			"name": "Halcón (Hawk)",
+			"name": "Halcón",
 			"description": "<p>Following from our studies of the eagle comes to the smaller yet no less deadly hawk. Another bird of prey, the hawk may be differentiated from eagle species by its smaller frame. Hawks on average weigh no more than eight pounds and have a wingspan of only five feet. These miniscule raptors bear dark brown to deep red plumage unlike the eagle's most common golden hue. Several species of these birds of prey have been observed employing different tactics in their hunting patterns as well; while the mighty eagle soars down from on high and lifts its prey off into the air with it, hawks prefer to lurk in the cover of trees, waiting for the opportune time to swoop in and surprise their prey from the shadows. Due to their keen eyesight as well as their smaller profile, hawks have been utilized as messenger birds by desert cultures for centuries. Clever and loyal, the hawk may be an option for the adventurer who prefers a raptor who enjoys the cover of shadows and stealth to aid them in their hunts.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Hell Hound": {
-			"name": "Sabueso infernal (Hell Hound)",
+			"name": "Sabueso infernal",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Hezrou": {
-			"name": "Hezrou (Hezrou)",
+			"name": "Hezrou",
 			"description": ""
 		},
 		"Hill Giant": {
-			"name": "Gigante de las colinas (Hill Giant)",
+			"name": "Gigante de las colinas",
 			"description": ""
 		},
 		"Hippogriff": {
-			"name": "Hipogrifo (Hippogriff)",
+			"name": "Hipogrifo",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Hobgoblin": {
-			"name": "Hobgoblin (Hobgoblin)",
+			"name": "Hobgoblin",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Homunculus": {
-			"name": "Homúnculo (Homunculus)",
+			"name": "Homúnculo",
 			"description": "<blockquote>\n<p>Begin your ritual in complete silence and scribe the runic circles upon the floor of your chamber in pure white chalk. Next, mold a simple poppet of your desired servant out of wet clay pulled from a local source and place the poppet into the center of your circle making sure it sits upright. Employing the use of a tool, grate your mandrake root into a fine powder and sprinkle the root mixed with both the ashes of your hearth and blood drawn fresh from your body around the runic circle rotating in a counterclockwise motion. With this completed, place your hand within the circle and speak your servant's chosen name to command it into life. Should you follow these instructions to the letter, your homunculus will spring to life in an instant.”<br /><em>- Copied from a faded page of Minions and the Menial: Your Guide to Magical Companions.</em></p>\n</blockquote>\n<p><strong>Alchemical Aids.</strong> A homunculus is a manner of minor construct not uncommon to mages and artificers. These squirrel sized companions are molded out of wads of clay and given life through a rare ritual taught to more experienced spellcasters. The homunculi have the extraordinary ability to experience the thoughts and senses of their master as the two share a special telepathic bond that may only be broken in death of if one of the parties ventures to a separate plane of existence. The homunculus is also gifted a language upon awakening and may act as a servant, spy, or even simple messenger for their master. It is not at all uncommon to see those in possession of a homunculus to utilize them in completing simple chores about their abodes so the spellcaster may focus on more tedious tasks. An odd caveat of this homunculus ritual is that the spellcaster may only be in possession of one clay companion at a time; should the caster attempt to create a new homunculus the process with always fail. Unless the creature or spellcaster dies, it will remain at the caster's side as a loyal companion for the whole of their life.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Horned Devil": {
-			"name": "Diablo astado (Horned Devil)",
+			"name": "Diablo astado",
 			"description": ""
 		},
 		"Hunter Shark": {
-			"name": "Tiburón cazador (Hunter Shark)",
+			"name": "Tiburón cazador",
 			"description": "<p>Los tiburones cazadores, más pequeños que los gigantes, aunque más grandes y fieros que los de arrecife, moran en las aguas más profundas. Suelen cazar solos, pero se dan casos en los que varios tiburones se alimentan en la misma zona. Un tiburón cazador adulto puede medir entre 15 y 20 pies (4,5 y 6 m).</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Hydra": {
-			"name": "Hidra (Hydra)",
+			"name": "Hidra",
 			"description": ""
 		},
 		"Hyena": {
-			"name": "Hiena (Hyena)",
+			"name": "Hiena",
 			"description": "<p>The hyenas who roam the grasslands and deserts of our natural world are perhaps some of the most curious non-magical creatures to exist. Hyenas resemble a medium sized dog with a short, wide muzzle and overly long neck. Adorned with patterns of spots or stripes marking their fur, to the untrained eyes a hyena would appear to be nothing more than a wild dog; however, these curious creatures are more closely related to wildcats in their behavior with fellows. Hyenas communally groom unlike several wild dog species and display similar scent marking and mating patterns as other feliforms. These sorts of behaviors build a solid community within the hyenas' pack, sowing tight knit bonds between the beasts.</p>\n<p><strong>Give Us a Smile.</strong> Hyenas display a unique characteristic in their vocalizations between the pack; instead of a yowl or bark as one would expect, the hyenas instead communicate via yips, chirps, and “laughs”. Each member of the pack has its own unique “laugh” which signals to the pack both their identity and current mood. These chittering “laughs” have given the hyena (regardless of species to commoners) the moniker of The Laughing Hyena. One should instead feel caution over joy should you hear the caterwauling yips of a hyena pack in the distance. These beasts are highly intelligent and when banded together and utilizing their preferred hunting patterns they may easily overtake a large mercantile caravan.</p>\n<p><strong>The Hungering Savagery.</strong> The hyena's most sinister aspect is their relation to the Demon Lord of the Gnolls, Yeenoghu. Gnolls, of course, resemble massive humanoid hyenas brandishing bloody weapons and sowing destruction in their horrid wakes. Finding the hyena either useful or ironic, Gnolls will bring packs of slavering hyenas with them on raids into villages or leave the beasts (which they purposefully starve) at their dens to kill any unwary explorers. Adventurers should be observant when investigating the happenings of hyenas in an area, as if the beasts seem more ravenous than expected it may be that Yeenoghu's minions are not far behind.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Ice Devil": {
-			"name": "Diablo gélido (Ice Devil)",
+			"name": "Diablo gélido",
 			"description": ""
 		},
 		"Ice Mephit": {
-			"name": "Mephit de hielo (Ice Mephit)",
+			"name": "Mephit de hielo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Imp": {
-			"name": "Diablillo (Imp)",
+			"name": "Diablillo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Invisible Stalker": {
-			"name": "Acechador invisible (Invisible Stalker)",
+			"name": "Acechador invisible",
 			"description": ""
 		},
 		"Iron Golem": {
-			"name": "Gólem de hierro (Iron Golem)",
+			"name": "Gólem de hierro",
 			"description": ""
 		},
 		"Jackal": {
-			"name": "Chacal (Jackal)",
+			"name": "Chacal",
 			"description": "<p>Jackals are a species of wild dog who roam the deserts and wilting grasslands of our planet. Jackals are closely related to coyotes, the two species commonly hunt and travel through similar territories causing confusion among untrained researchers. Often a bright golden to light beige tone, the jackal's fur is marked with notable black stirpes which run horizontally in thick bands across the beasts' bodies. Jackals have a unique social structure among canids as they most often shirk life with a pack in favor of finding a singular, monogamous mate with whom they remain in a wide territory. This is not to say that some jackals do not form packs; however, it will be more common in your travels to spot a bachelor or breeding pair rather than a whole cluster of these beasts. Much like the savannah's hyenas, the jackal does not escape the skeptical eye of the trained adventurer as the warning sign of evil upon the horizon. Gifted sentience and the ability of shape-changing by the Demon Lord Graz'zt, newly created beasts dubbed Jackalweres resemble humanoid jackals in their hybrid forms. Now bound to the Demon Lord, the Jackalwere assumes the life of a slaver, plucking unsuspecting humanoids from their comfortable lives by rendering them helpless under the Jackalwere's magical, sleep inducing gaze. Beware young adventurers, for the small jackal you see feasting upon carrion by the road's edge may be the servant of a demonic overlord in magical disguise.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Killer Whale": {
-			"name": "Orca (Killer Whale)",
+			"name": "Orca",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Knight": {
-			"name": "Caballero (Knight)",
+			"name": "Caballero",
 			"description": "<p>Los caballeros son guerreros que se ponen al servicio de gobernantes, órdenes religiosas y causas nobles. El alineamiento del caballero determina hasta qué punto honra su compromiso. Tanto si parten para cumplir una misión o se encuentran patrullando el reino, los caballeros suelen viajar con un séquito del que forman parte escuderos y asalariados, a los que puedes representar usando el perfil del plebeyo.</p>\n<p></p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Kobold": {
-			"name": "Kobold (Kobold)",
+			"name": "Kobold",
 			"description": "<blockquote>\n<p>\"... I still have the damnable sting blisters from their catapults. WASPS! WHAT CREATURE PUTS WASPS IN BAGS AND THROWS THEM AT YOU?! Next Kobold I see I'm turning to paste…\"<br />- Guard Captain Nathaniel Greenbow, interviewed for this bestiary.</p>\n</blockquote>\n<p>Kobolds are conniving, cowardly humanoids of a reptilian appearance who infest the dungeons, catacombs, and caverns of our world. Appearing as tiny dragonoids with scaled flesh and crocodile-like snouts, Kobolds are perhaps more clever than their outward appearance would lead one to believe. Within their tiny heads (as the creatures stand no more than two and a half feet tall) lies a brain churning with myriad ideas, though many include idiotically dangerous schemes. It is not uncommon for many Kobolds to perish before their first complete decade of life.</p>\n<p><strong>Mob Mentality.</strong> Kobolds, much like rodents, breed at an astonishingly quick rate as compared to other humanoid species. Egg-layers like their draconic kin, Kobolds mature rapidly upon emerging from their shells, and assume their place within the ranks of their chittering society. Even upon reaching maturity, however, the Kobold is still a weak creature causing the colonies to stick together when exploring or hunting. Though Kobolds may defeat larger foes with sheer numbers, it is often at the cost of massive casualties on the Kobold's side. This, of course, hardly deters the resentful Kobolds, who have more eggs incubating away with the next infantry reinforcements just moments away from joining the fold.</p>\n<p><strong>Launch the Centipult.</strong> Stupid yet clever, Kobolds truly excel at two things: burrow-making and creating traps for unwary adventurers. Traps, of course, are the Kobold's speciality and they take relish in littering their lairs with copious defenses hewn from the natural resources of their home. Perhaps crushing logs were torn from the rafter struts of an abandoned temple, or carnivorous insects were placed into dropping ceramic pots to smash down upon foolish intruders. Never underestimate the ability of a Kobold to find some unsuspected way to impede your progress.</p>\n<p><strong>Trade Offs.</strong> Though strong in numbers, Kobolds may be defeated in several ways. Firstly, the creatures are born and mature within near total darkness, thus the sun weakens them and blinds their sensitive eyes. Kobolds are also nigh defenseless without the aid of their allies at their backs; often a lone Kobold with attempt to scurry away should they be caught out without their pack. Greedy and determined when it comes to self-preservation, Kobolds may be easily manipulated with smooth talk or a shiny trinket to line their pockets. Draconic in nature as well, the scuttling dragonoids can be used as crude translators of the dragon's tongue should you require such services on your journey.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Kraken": {
-			"name": "Kraken (Kraken)",
+			"name": "Kraken",
 			"description": ""
 		},
 		"Lamia": {
-			"name": "Lamia (Lamia)",
+			"name": "Lamia",
 			"description": ""
 		},
 		"Lemure": {
-			"name": "Lémur (Lemure)",
+			"name": "Lémur",
 			"description": "<blockquote>\n<p>Avernus, the realm of fire and blood, revealed itself to me in a wave of heat and the wails of the unfortunate. As I peered into the first circle of the Nine Hells I did spy the quarry of my search with relative ease, The Maggot Pit. Here, deep within the valley of a parched and cracking mountain range lay a pit perhaps a mile in diameter, flanked all around by devilish guards. Within the milky pit writhed millions of ghostly pale worms, biting and squirming beneath their fellows. It was here that the lowly devils did bring up cart after cart piled high with the wretched and weakened souls of the pitiful dead, who were unceremoniously prodded to the edge of the pit and thrown within the writhing “waters” below. The sight of the lamentable being that emerged from that pool haunts my visions to this very day… <br /><em>- Alaband the Curious, Mage in the Circle of the Constellar.</em></p>\n</blockquote>\n<p>Wretched and foul, the Lemure is perhaps the weakest being to emerge shrieking from the Nine Hells into our plane of existence. Lemures resemble nothing more than a living ooze which has attempted to take the form of something vaguely humanoid. A malformed head with humanoid features sits atop the puddle of a creature, its pink and rotting flesh slithering beneath two stunted arms. Only able to cry out incoherently, the Lemure acts at the whim of its infernal masters, reduced in this form to a babbling fool. These creatures are the first troops sent through to another plane as the infantry in a never ending war which the Archdevils of the Nine Hells wage upon their foes. Though the Lemure has nearly no will of its own, the creature does have the strength to return to life should it be killed within its home of the Nine Hells. Be sure to pack a fair portion of holy water or utilize a Bless incantation should you slay on of these beasts in the realm of the devils, lest it only return to life within the Maggot Pit a few days after its demise.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Lich": {
-			"name": "Liche (Lich)",
+			"name": "Liche",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Lion": {
-			"name": "León (Lion)",
+			"name": "León",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Lizard": {
-			"name": "Lagarto (Lizard)",
+			"name": "Lagarto",
 			"description": "<blockquote>\n<p>“Hey there Mr. Goodberry lookie here! I done got me a new earring!” <br /><em>A gnomish resident of the swamps attaching lizards to his earlobes during my travels.</em></p>\n</blockquote>\n<p>The most common reptile who inhabits every locale from the forests to the mountain peaks is, of course, the lizard. These four legged friends are of course familiar to all whom read this tome and can come in thousands of various breeds and sizes. What makes these little reptiles so very unique (and possibly a fine form for your familiar) is their ability to cling to a multitude of surfaces. Adept at climbing, lizards may scale sheer surfaces and procure hidden vantage points from which to gaze down upon those you may wish to observe. Some varieties of lizards are also able to shift the pigmentation of their flesh, allowing for further subterfuge options! However, the humble lizard does not provide much in the way of offense as their bite is nothing more than a nuisance to most humanoids. The lizard is perhaps best left to the shadows, where it may observe the world unseen for its clever master.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Lizardfolk": {
-			"name": "Hombre lagarto (Lizardfolk)",
+			"name": "Hombre lagarto",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Mage": {
-			"name": "Mago (Mage)",
+			"name": "Mago",
 			"description": "<p>Los magos dedican sus vidas a estudiar y practicar la magia. Los magos de alineamiento bueno ofrecen su consejo a nobles y otros individuos poderosos, mientras que los magos malvados moran en lugares aislados, en los que pueden ejecutar sus innombrables experimentos sin ser molestados.</p>"
 		},
 		"Magma Mephit": {
-			"name": "Mephit de magma (Magma Mephit)",
+			"name": "Méfit de magma",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Magmin": {
-			"name": "Magmin (Magmin)",
+			"name": "Magmin",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Mammoth": {
-			"name": "Mamut (Mammoth)",
+			"name": "Mamut",
 			"description": "<p>Los mamuts son criaturas similares a elefantes, pero con un pelaje espeso y los colmillos tremendamente largos. También son más fornidos y feroces que los elefantes, y habitan en una gran variedad de climas, desde el subártico al subtropical.</p>"
 		},
 		"Manticore": {
-			"name": "Mantícora (Manticore)",
+			"name": "Mantícora",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Marilith": {
-			"name": "Marilith (Marilith)",
+			"name": "Marilith",
 			"description": ""
 		},
 		"Mastiff": {
-			"name": "Mastín (Mastiff)",
+			"name": "Mastín",
 			"description": "<p>Los mastines son una raza canina grande y musculosa que a menudo se encuentra al lado de su amo o custodiando una valiosa carga en las carreteras menos seguras. De gran altura y con un pelaje suave de color marrón claro, los mastines se distinguen a menudo por su cara arrugada y carnosa, cuyas mandíbulas rezuman constantemente saliva caliente. Los mastines son compañeros inteligentes que pueden ser entrenados desde una edad temprana como animales de guardia y de caza. Dotado de unas poderosas mandíbulas repletas de dientes afilados y mortales, un mastín es, sin duda, un digno desafío para cualquier bandido que se atreva a enfrentarse a su amo. Incluso he observado a estos perros trabajando como bestias de carga y cómodas monturas para la gente más pequeña ( medianos y gnomos) del campo. Aquí, el mastín sustituye al caballo en tareas como tirar de carros, trabajar como animales de labranza y entregar paquetes como rápidas animales mensajeros. Si necesitas un compañero que no se dedique a la conversación aburrida, tal vez te convenga tener un mastín para que te haga compañía en los caminos solitarios de nuestro mundo. Pero... cuidado con las babas.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Medusa": {
-			"name": "Medusa (Medusa)",
+			"name": "Medusa",
 			"description": ""
 		},
 		"Merfolk": {
-			"name": "Sirénido (Merfolk)",
+			"name": "Sirénido",
 			"description": "<p>Adornados con conchas y plantas acuáticas de colores brillantes, los sirénidos que habitan los océanos de nuestro mundo son realmente únicos en su evolución. Aunque muchos investigadores modernos no se ciñen a esta historia, se rumorea que los sirénidos evolucionaron a partir de una colonia de humanos cuya ciudad se hundió bajo las olas en un accidente catastrófico. Sin embargo, los propios sirénidos no confirman ni desmienten esta historia. Básicamente, los sirénidos se asemejan a un humanoide medio con algunas diferencias clave. Donde uno esperaría encontrar piernas bajo el torso de un humano, encontraría en cambio la poderosa cola de un pez de tamaño mediano. Los sirénidos también tienen branquias que recubren sus cuellos y les permiten respirar las aguas saladas de las profundidades del océano. Varias aletas adicionales adornan el esbelto cuerpo de los sirénidos sobre los bíceps y las caderas. Sobre la cabeza humanoide de los sirénidos descansa un único y gran velo de piel translúcida que puede levantarse o replegarse según el estado de ánimo del sirénido.</p>\n<p><strong>Murmaider.</strong> Los sirénidos habitan a lo largo de las aguas costeras de las plataformas continentales, y rara vez se dejan arrastrar hacia las profundidades más oscuras del abismo oceánico. Aquí, en las aguas menos profundas, los sirénidos construyen sus hogares en prósperos arrecifes de coral, laberínticas cavernas submarinas e incluso en los restos vacíos de ciudades costeras o barcos hundidos. Cualquier lugar oculto a la vista de los curiosos habitantes de la tierra es el hogar perfecto para un sirénido. La naturaleza reservada de los sirénidos es tan conocida que los marineros cuentan historias fantásticas de encuentros con sirénidos en una cita de medianoche, para luego ser abandonados al amanecer por la escurridiza criatura. La mayoría de los compañeros de los marineros rechazan la idea, ya que nunca han visto un sirénido vivo o muerto en todos sus años en el mar. Esto no quiere decir que los sirénidos huyan de los intrusos en caso de que un desafortunado marinero de tierra firme encuentre su camino hacia la morada de un sirénido. Armados con lanzas de coral afilado y poderosas manos palmeadas que terminan en puntas de daga, los sirénidos están bien equipados para defenderse en sus hogares acuáticos. Ten cuidado en los mares abiertos, aventurero, y nunca te enfrentes a los sirénidos.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Merrow": {
-			"name": "Merrow (Merrow)",
+			"name": "Merrow",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Mimic": {
-			"name": "Mimeto (Mimic)",
+			"name": "Mimeto",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Minotaur": {
-			"name": "Minotauro (Minotaur)",
+			"name": "Minotauro",
 			"description": ""
 		},
 		"Minotaur Skeleton": {
-			"name": "Minotauro esqueleto (Minotaur Skeleton)",
+			"name": "Minotauro esqueleto",
 			"description": ""
 		},
 		"Mule": {
-			"name": "Mula (Mule)",
+			"name": "Mula",
 			"description": "<p>Las mulas son bestias de carga resistentes que proliferan en cualquier clima de nuestro maravilloso mundo. Descendiente de un caballo y un burro, la mula, ahora estéril y testaruda, proporciona una abundante cantidad de beneficios de sus dos progenitores. Las mulas pueden ser difíciles de distinguir del burro común; sin embargo, se identifican fácilmente por varias características: Las mulas son más altas de media que un burro, con una columna vertebral más plana y orejas más cortas en comparación con las orejas notoriamente caídas del burro. Algo que conservan de sus progenitores es su paso firme, que permite a las mulas atravesar terrenos difíciles, como senderos fangosos o peñascos, con más facilidad que otras bestias. Sin embargo, hay que tener cuidado con el trasero de esta tranquila criatura, ya que las mulas tienen una poderosa coz que pueden dar con fuerza detrás de sí, de forma muy parecida a la de un caballo. Las mulas son excelentes bestias de carga para el mercader ambulante o para el grupo de aventureros que necesitan una o cuatro pezuñas más para transportar su bien ganado botín. ¿Por qué no coger una mula, joven aventurero, si crees que tu próxima aventura con los goblins te proporcionará una buena recompensa?</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Mummy": {
-			"name": "Momia (Mummy)",
+			"name": "Momia",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Mummy Lord": {
-			"name": "Señor de las momias (Mummy Lord)",
+			"name": "Señor de las momias",
 			"description": "<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Nalfeshnee": {
-			"name": "Nalfeshnee (Nalfeshnee)",
+			"name": "Nalfeshnee",
 			"description": ""
 		},
 		"Night Hag": {
-			"name": "Saga nocturna (Night Hag)",
+			"name": "Saga nocturna",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Nightmare": {
-			"name": "Pesadilla (Nightmare)",
+			"name": "Pesadilla",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Noble": {
-			"name": "Noble (Noble)",
+			"name": "Noble",
 			"description": "<p>Los nobles, aquellos de nuestras naciones que nacen en una cuna de oro y con la riqueza necesaria para comprar influencia y poder en todo el mundo. Los nobles pueden ser de todas las razas humanoides, siempre que tengan la riqueza necesaria para reclamar un título nobiliario. Sin embargo, no todos los nobles nacen con dinero; en raras ocasiones, los nobles pueden ganarse su estatus mediante un trabajo dedicado a los señores de sus regiones o, simplemente, gracias a los títulos que les otorgan los amigos que se encuentran en posiciones de poder. A través de todos los perfumes y polvos que adornan el cuerpo de un noble, no hay ningún olor tan presente como el de la corrupción que flota justo debajo de la máscara florida.</p>\n<p><strong>Séquito.</strong> Los nobles rara vez viajan solos fuera de sus enormes propiedades, y prefieren estar flanqueados por un séquito de guardaespaldas entrenados y fieles sirvientes. Esto debe tenerse siempre presente cuando se trate de nobles; nunca hay un noble solo más allá de los muros de su finca. Si un bandido es lo suficientemente temible como para atravesar las bien pagadas defensas del noble, sin duda la élite adinerada es una fuerza a tener en cuenta. Los hijos de los nobles reciben uno de los mejores entrenamientos marciales del país desde una edad temprana y están bien equipados para devolver el golpe con la espada o el estoque. Presta atención a tu juego de pies por si das un paso en falso y te expones a una parada bien practicada por un noble. Ten en cuenta a quién te acercas en una pelea, ya que un noble tiene mucho más que ofrecer que su sangre caliente derramada descuidadamente sobre la tierra.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Ochre Jelly": {
-			"name": "Gelatina ocre (Ochre Jelly)",
+			"name": "Gelatina ocre",
 			"description": "<p> </p>"
 		},
 		"Octopus": {
-			"name": "Pulpo (Octopus)",
+			"name": "Pulpo",
 			"description": "<p>A highly developed sea creature, the octopus is a common fixture of the seas and coastlines. These octopods resemble nothing more than a wet piece of bulbous taffy with eight sprawling tentacles slithering out of its central body. Upon this gelatinous body lie two observant eyes and were one to look underneath the creature they would find a sharpened bird-like beak ready to steal a probing finger away. Octopi are solely waterborne animals due to their inability to breathe air, though with effort they may remain upon land for very short durations. Sailors find pleasure in attempting to take these intelligent beasts for pets, only to find that the octopus has escaped whatever confines it was stored in time and time again. As long as an opening is as wide as its hard chitinous beak, the moldable octopus' body will follow into inconceivably tight spaces.</p>\n<p>Many breeds of octopus also bear special pigmentation cells which expand and contract to change their body's color. This provides the octopus with an advantage when hunting for its prey of fish and crabs as they can blend in almost seamlessly with the ocean floor or a bed of coral. Rather than outright fight (unless left with no choice) the octopus has the unique defense of spraying a cloud of ink from the underside of its body to blind its foes and make a speedy escape. Do consider the octopus as a worthy familiar form should you find yourself at sea for an extended time!</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Ogre": {
-			"name": "Ogro (Ogre)",
+			"name": "Ogro",
 			"description": ""
 		},
 		"Ogre Zombie": {
-			"name": "Ogro zombi (Ogre Zombie)",
+			"name": "Ogro zombi",
 			"description": ""
 		},
 		"Oni": {
-			"name": "Oni (Oni)",
+			"name": "Oni",
 			"description": ""
 		},
 		"Orc": {
-			"name": "Orco (Orc)",
+			"name": "Orco",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Otyugh": {
-			"name": "Otyugh (Otyugh)",
+			"name": "Otyugh",
 			"description": "<p>Los otyughs son grotescas criaturas bulbosas que se desplazan sobre tres patas robustas y cuya nariz y ojos se encuentran ubicados en un apéndice largo y retorcido que serpentea desde la parte superior su cuerpo abotargado. Poseen otros dos tentáculos gomosos que terminan en unos apéndices puntiagudos en forma de hoja que utilizan para llevarse la comida hasta sus enormes fauces. Los otyughs se entierran bajo montones de despojos y carroña, exponiendo tan solo su apéndice sensorial. Cuando una criatura comestible pasa por allí, los tentáculos del otyugh emergen de entre los desperdicios y la apresan. Estas aberraciones aprovechan al máximo cualquier oportunidad para emboscar y devorar una presa. Utilizan una forma limitada de telepatía para atraer a criaturas inteligentes hasta sus guaridas, donde fingen a veces ser una criatura distinta.</p>\n<p><strong>Habitantes de la oscuridad.</strong> Los otyughs solo toleran la luz intensa cuando tienen a su alcance la cantidad suficiente de carroña y desperdicios. En un entorno natural, habitan en pantanos de agua estancada, fosos llenos de basura y húmedos hondonadas boscosas. El olor de los cementerios, las alcantarillas de las ciudades, los muladares de los pueblos y los establos colmados de abono las atraen a zonas civilizadas. Dado que lo único que preocupa a los otyughs es la comida, en ocasiones se puede encontrar en sus guaridas gran variedad de tesoros pertenecientes a sus víctimas entre la basura.</p>\n<p><strong>Guardianes simbióticos.</strong> Algunos seres subterráneos inteligentes coexisten con estas criaturas y las usan para deshacerse de sus desperdicios. Con todo este alimento a su disposición, el otyugh se limita a holgazanear y engordar, carente de cualquier otro deseo o motivación. Esta glotonería sedentaria los convierte en guardianes fidedignos. Mientras el otyugh esté alimentado, no atacará a ninguna otra criatura. Sin embargo, no es difícil que un aspirante a domador de otyughs subestime la cantidad de deshechos, carroña y carne necesaria para alimentarlos. Más de un otyugh \"domesticado\" ha acabado devorando a su custodio tras comerse todos los desperdicios de su guarida.</p>"
 		},
 		"Owl": {
-			"name": "Búho (Owl)",
+			"name": "Búho",
 			"description": "<p>Los búhos son aves típicas de nuestro reino, ya que su mirada misteriosa y su naturaleza tranquila los convierten en las mascotas favoritas de los habitantes del mundo arcano. Los búhos son aves de presa de tamaño medio, con caras planas en forma de plato y grandes ojos oscuros. En el centro de su rostro ovalado se encuentra un pico afilado, concebido para desgarrar la carne de pequeños roedores. Tan letales como silenciosos, los búhos son animales nocturnos que cazan desde las sombras de las copas de los árboles, los cobertizos de los graneros o simplemente en lo alto de un campo abierto. Los búhos son capaces de volar casi en silencio gracias a un conjunto de plumas especiales a lo largo de la parte superior de sus alas, lo que les da la capacidad de planear y sorprender a un topillo desprevenido sin ser escuchados. Los búhos no son animales muy sociables y prefieren quedarse en sus refugios en soledad, por lo que son muy apreciados por los arcanistas, ya que el pájaro permanece en silencio durante todo el día, sumido en el sueño. Los búhos también tienen una vocalización única entre las aves, ya que emiten un lúgubre ulular en lugar del típico piar de los pájaros cantores. Considera al búho si no te interesan los animales sociables o si deseas enviar mensajes en relativo secreto durante la noche.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Owlbear": {
-			"name": "Oso lechuza (Owlbear)",
+			"name": "Oso lechuza",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Panther": {
-			"name": "Pantera (Panther)",
+			"name": "Pantera",
 			"description": "<p>Panthers are large stealthy jungle cats who tread silently and ambush their quarry from the cover of the shrouded jungle foliage.  Coming in coat varieties of tawny and yellow splotches to pure, midnight black, panthers are characterised by their sleek, short haired bodies and large canine teeth utilized for piercing and tearing.  These cats come armed with a full set of retractable claws at the end of muscular paws the size of dinner plates.  Panthers are among the deadliest predators lurking within the jungle.  Though stealthy, panthers may be easily scared away by persistent humanoids if the beast is not defending a fresh kill as the creature knows when to fight and when to flee should the odds not be in the panther's favor.  Panthers are swift climbers as well and have the ability to haul a fully grown antelope corpse up and into a tree to be consumed in privacy.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Pegasus": {
-			"name": "Pegaso (Pegasus)",
+			"name": "Pegaso",
 			"description": ""
 		},
 		"Phase Spider": {
-			"name": "Araña de fase (Phase Spider)",
+			"name": "Araña de fase",
 			"description": "<p>Las arañas de fase poseen la capacidad de desvanecerse en el Plano Etéreo y reaparecer después. Parecen surgir de la nada y desaparecer rápidamente después de atacar. Como se mueve en el Plano Etéreo antes de volver al Plano Material, parece como si se teletransportara.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Pit Fiend": {
-			"name": "Diablo de la sima (Pit Fiend)",
+			"name": "Diablo de la sima",
 			"description": ""
 		},
 		"Planetar": {
-			"name": "Planetar (Planetar)",
+			"name": "Planetar",
 			"description": ""
 		},
 		"Plesiosaurus": {
-			"name": "Plesiosaurio (Plesiosaurus)",
+			"name": "Plesiosaurio",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Poisonous Snake": {
-			"name": "Serpiente venenosa (Poisonous Snake)",
+			"name": "Serpiente venenosa",
 			"description": "<p>Las serpientes son uno de los reptiles más abundantes y diversos que se deslizan por la superficie de nuestro planeta. Las serpientes, que a primera vista no parecen más que un gusano escamoso, son en realidad depredadores muy evolucionados que se deslizan por el suelo para cazar sigilosamente a sus presas, reptiles más pequeños, roedores y aves. Aunque hay muchas especies de serpientes, en este artículo sólo hablaremos de las variedades venenosas. Las serpientes venenosas tienen un distintivo que las diferencia de sus hermanas no venenosas: la forma de sus pupilas. Mientras que las serpientes que carecen de glándulas venenosas tienen las pupilas redondeadas, las que tienen una mordedura venenosa tienen las pupilas rasgadas, como las de un gato doméstico común. Sin embargo, la astuta serpiente tiene mucho más bajo su superficie escamosa.</p>\n<p><strong>No me pises.</strong> Siempre camufladas, tanto por sus similitudes con las raíces, ramas o troncos, como por los maravillosos dibujos negros, marrones, verdes y ocres que motean su piel, las serpientes son expertas en integrarse en su entorno. Incluso posadas en una roca para calentar su cuerpo al sol, las serpientes pueden pasar desapercibidas a simple vista. Aunque la visión de estas criaturas es relativamente pobre, las serpientes han desarrollado una asombrosa capacidad para percibir el mundo que las rodea. Las serpientes \"huelen\" con la lengua. Sí, sacando la lengua de la boca con una fascinante floritura, estos reptiles son capaces de oler a sus presas o depredadores en su entorno recogiendo los sutiles olores con ella. Dentro de la boca de la serpiente se encuentra su recurso más mortífero en forma de dos colmillos huecos. Las serpientes prefieren atacar desde las sombras, permitiendo que su silencioso método de desplazamiento las acerque lo suficiente a su presa para evitar una pelea. Entonces, la criatura se lanza en un abrir y cerrar de ojos, atrapando a la incauta presa en sus mandíbulas mientras le inyecta una dosis controlada de veneno altamente tóxico a través de sus colmillos huecos. Entonces es sólo cuestión de instantes hasta que la pobre criatura queda muerta por las potentes toxinas de la serpiente. Aunque la mayoría de las especies de serpientes no son mortales para los humanoides, se recomienda precaución a quienes no estén bien versados en la identificación de reptiles. En las zonas donde se sabe que hay ejemplares de serpientes venenosas se debe llevar siempre un antídoto, por si acaso.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Polar Bear": {
-			"name": "Oso polar (Polar Bear)",
+			"name": "Oso polar",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Pony": {
-			"name": "Poni (Pony)",
+			"name": "Poni",
 			"description": "<p>Resistentes y obedientes, los ponis representan una pequeña proporción de las razas equinas actualmente catalogadas. Debe quedar claro que, a efectos de identificación, los ponis no son caballos jóvenes. Los ponis son clasificados por los naturalistas de nuestras tierras como cualquier caballo que esté por debajo de una altura total de 14 palmos. Por tanto, los ponis no son más que caballos pequeños. Los ponis suelen ser regalos muy preciados para los hijos de la clase alta, ya que son apreciados por su belleza y su comportamiento tranquilo. Además, el pueblo pequeño del reino utiliza a los ponis de forma muy similar a como lo haría un humano con un caballo de tamaño medio. Parece que la escala relativa del poni es bastante adecuada para los medianos y los gnomos. Por lo tanto, te pido que busques nuestras entradas sobre caballos de tiro, caballos de guerra o simplemente caballos para saber más sobre las variedades de caballos que allí se describen con más detalle.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Priest": {
-			"name": "Sacerdote (Priest)",
+			"name": "Sacerdote",
 			"description": "<p>Los sacerdotes transmiten las enseñanzas de sus dioses al pueblo llano. Son los líderes espirituales de templos y santuarios, y suelen ocupar posiciones influyentes en sus comunidades. Los sacerdotes malvados pueden operar abiertamente, bajo las órdenes de un tirano, o dirigir sectas religiosas ocultas entre las sombras que proyecta la sociedad, supervisando ritos depravados.</p>\n<p>Cada sacerdote suele tener al menos un acólito, cuyo fin es ayudarle en las ceremonias religiosas y el resto de tareas sagradas.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Pseudodragon": {
-			"name": "Pseudodragón (Pseudodragon)",
+			"name": "Pseudodragón",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Purple Worm": {
-			"name": "Gusano púrpura (Purple Worm)",
+			"name": "Gusano púrpura",
 			"description": ""
 		},
 		"Quasit": {
-			"name": "Quasit (Quasit)",
+			"name": "Quasit",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Quipper": {
-			"name": "Mordedor (Quipper)",
+			"name": "Mordedor",
 			"description": "<blockquote>\n<p>There was a rumor, started by some Svirfneblin culture centuries ago, which stated a swarm of hungry quippers could devour an entire horse in under a minute. No one has yet volunteered to sacrifice their beast to the swarm to test this boast to date.<br /><em>- A note on my studies in the Underdark.</em></p>\n</blockquote>\n<p>The Quipper is a variety of carnivorous fish found in almost any body of water regardless of location. Approximately the size of an adult human's fist, these tiny beasts are ravenous when they sense any scrap of food is nearby. The quipper's jaw is lined with a jagged row of dagger-sharp teeth which they use to strip flesh from bones at lightning speed. The quipper's ability to see even within the darkness of a frigid cavern lake makes them extremely deadly to the unwary traveler who takes an accidental plunge into the darkened waters. Though it is not entirely unheard of to see quippers on their own it is far more common that they travel in swirling swarms. These clouds of razor-toothed fish can sense blood in the water from great distances, able to sniff a single drop of the life giving fluid in over 200 liters of water. I suggest that any adventurer steer well clear of any water they are not certain is free of quippers.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Rakshasa": {
-			"name": "Rakshasa (Rakshasa)",
+			"name": "Rakshasa",
 			"description": ""
 		},
 		"Rat": {
-			"name": "Rata (Rat)",
+			"name": "Rata",
 			"description": "<p>Denizens of filth, scavengers in our sewers, and vectors of contaigens, no singular animal may present such impact upon humanoid life as does the rat. Common place from the sprawling urban metropolis to the tiny barn of a poor farmer, rats inhabit every nook and cranny they may scurry in to. These small rodents, who can range in size from no bigger than your palm to the length of a forearm (with tail included) are quite ingenious little thieves. Rats are able to compress their bodies in such a manner that they can fit through spaces as small as the gap in the bottom of your door. Able to swim and navigate in the dark, some rats have been observed climbing out of small plumbing pipes, having scampered through the length of the tunnel to make it inside a merchant's abode.</p>\n<p><strong>Rats Off to You.</strong> While many may dismiss the rat as nothing more than a common pest, even those not utilized as magical familiars are highly intelligent little creatures. Researchers have observed rats completing complex mazes, solving lever-action puzzles, and understanding the world around them to a degree unseen in other animals. A clever street-dweller could certainly train a rat to filch food or a few shiny coins from an unwatched coin purse, should the rat get adequate reward itself. Do be wise in your selection of companion, however, as some rats carry deadly diseases from insects that nestle in their short fur. Along with its sharp, clinging claws, the rat packs a powerful bite thanks to its elongated incisor teeth. Be observant, young hero, should you see a rat nearby, for the simple creature may house a secret within its black, unblinking eyes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Raven": {
-			"name": "Cuervo (Raven)",
+			"name": "Cuervo",
 			"description": "<p>Ah yes, a personal favorite of this author, the raven is a singularly noble and clever bird vested in a shroud of twilight. The ebony feathered bird reaches height of nearly two and a half feet tall and bears a thick, dark beak which is perfectly utilized in its scavenging diet of carrion, unattended grains, and insects. However, something truly special lurks behind the dark abyss of this bird's eyes. Should you be prepared, adventurer, the effort put into training the raven will be given back tenfold.</p>\n<p><strong>Musings and Mimicry.</strong> Ravens are unique specimens among birds; by listening intently and practicing often the raven is able to mimic sounds it hears perfectly. From noises of forest animals to the precise timbre of their master's call, ravens are among the most seamless mimics to be found in the animal kingdom. Truly adventurer, the possibilities to employ the raven's mimicry are nearly limitless! You may see another example of this perfect mimicry in a larger cousin to this bird as well: the humanoid Kenku. Raven-like in form these little humanoids share the feathers and large beaks of their brethren, as well as their ability to copy the sounds of the world around them. Consider a second listen when you hear a voice but cannot place its location, for perhaps the raven speaks from the rafters above you, upon a midnight dreary.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Red Dragon Wyrmling": {
-			"name": "Cría de dragón rojo (Red Dragon Wyrmling)",
+			"name": "Cría de dragón rojo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Reef Shark": {
-			"name": "Tiburón de arrecife (Reef Shark)",
+			"name": "Tiburón de arrecife",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Remorhaz": {
-			"name": "Remorhaz (Remorhaz)",
+			"name": "Remorhaz",
 			"description": ""
 		},
 		"Rhinoceros": {
-			"name": "Rinoceronte (Rhinoceros)",
+			"name": "Rinoceronte",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Riding Horse": {
-			"name": "Caballo de monta (Riding Horse)",
+			"name": "Caballo de monta",
 			"description": "<blockquote>\n<p>A horse is a horse, of course of course.<br /><em>Dolan Dullard's Book of Actual Rhymes</em></p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Roc": {
-			"name": "Roc (Roc)",
+			"name": "Roc",
 			"description": ""
 		},
 		"Roper": {
-			"name": "Lacero (Roper)",
+			"name": "Lacero",
 			"description": "<p>Ropers are underworld hunters and ambushers which have evolved to assume the appearance of stalagmites or other rock formations. Ropers wait for living creatures to draw near before lashing out with extruding tendrils which ensnare the target and sap its strength. The roper will draw its prey into a large fanged maw to slowly consume.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Rug of Smothering": {
