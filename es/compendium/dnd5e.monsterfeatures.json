@@ -2,7 +2,7 @@
 	"label": "Atributos de Monstruos (SRD)",
 	"entries": {
 		"Aberrant Ground": {
-			"name": "Suelo aberrante (Aberrant Ground)",
+			"name": "Suelo aberrante",
 			"description": "<section class=\"secret\">\n<p>El suelo en un radio de <strong>10 pies</strong> alrededor del &nbsp;{creature}&nbsp; es una masa informe de terreno difícil.</p><p>Cualquier criatura que empiece su turno en esta área deberá superar una <strong>tirada de salvación de Fuerza CD 10</strong> o su velocidad se verá reducida a 0 hasta el principio de su siguiente turno.</p>\n</section>\n<p>El suelo en un radio de <strong>10 pies</strong> alrededor del &nbsp;{creature}&nbsp; es una masa informe de terreno difícil. Haz unta tirada de salvación de <strong>Fuerza</strong></p>"
 		},
 		"Acid Absorption": {
@@ -10,75 +10,75 @@
 			"description": "<p>Siempre que el&nbsp;{creature}&nbsp;fuera a sufrir <strong><em>daño de ácido</em></strong>, no recibirá daño de este tipo y, además, recuperará tantos <strong>puntos de golpe</strong> como el <strong><em>daño de ácido</em></strong> que fuera a recibir.</p>"
 		},
 		"Acid Breath": {
-			"name": "Aliento ácido (Acid Breath)",
+			"name": "Aliento ácido",
 			"description": "<section class=\"secret\"><p>El {type} exhala ácido en una línea de 60 pies de largo y 5 de ancho.</p><p>Todas las criaturas situadas en dicha línea deberán hacer una tirada de salvación de <strong>Destreza CD 18</strong>, sufriendo <strong>54 (12d8) de <em>daño de ácido</em></strong> si la fallan, o la mitad de ese daño si la superan.</p></section><p>El {type} exhala ácido en una línea de 60 pies de largo y 5 de ancho. Todas las criaturas situadas en dicha línea deberán hacer una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Acid Spray": {
-			"name": "Chorro de ácido (Acid Spray)",
+			"name": "Chorro de ácido",
 			"description": "<section class=\"secret\">\n<p>El {creature} escupe ácido en una línea de 30 pies de largo y 5 de ancho, siempre y cuando no esté agarrando a ninguna criatura.</p><p>Todas las criaturas que se encuentren en dicha línea deberán hacer una tirada de salvación de <strong>Destreza CD 13</strong>, sufriendo <strong>10 ( 3d6) de <em>daño de ácido</em></strong> si la fallan, o la mitad de ese daño si la superan.</p>\n</section>\n<p>El {creature} escupe ácido en una línea de 30 pies de largo y 5 de ancho. Todas las criaturas que se encuentren en dicha línea deberán hacer una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Adhesive": {
-			"name": "Adhesivo (Adhesive)",
+			"name": "Adhesivo",
 			"description": "<section class=\"secret\"><p>El {creature} se adhiere a cualquiera que lo toque. Además, las criaturas Enormes o más pequeñas a las que el {creature} se adhiera también estarán agarradas por este (<strong>CD 13</strong> para escapar). Las pruebas de característica para escapar de este agarre tienen desventaja.</p></section><p>El {creature} se adhiere a cualquiera que lo toque. Además, las criaturas Enormes o más pequeñas a las que el {creature} se adhiera también estarán agarradas por este. Realiza una prueba para escapar con desventaja.</p>"
 		},
 		"Aggressive": {
-			"name": "Agresivo (Aggressive)",
+			"name": "Agresivo",
 			"description": "<p>El {creature} puede utilizar una acción adicional para moverse hasta su velocidad hacia una criatura hostil a la que pueda ver.</p>"
 		},
 		"Air Form": {
-			"name": "Forma de Aire (Air Form)",
+			"name": "Forma de aire",
 			"description": "<p>El {type} podrá entrar en el espacio de una criatura hostil y detenerse en él. Además, puede moverse a través de espacios de tan solo 1 pulgada de ancho sin apretarse.</p>"
 		},
 		"Ambusher": {
-			"name": "Emboscador (Ambusher)",
+			"name": "Emboscador",
 			"description": "<p>Durante el primer asalto de un combate, el {creature} tiene <strong>ventaja</strong> en las tiradas de ataque contra cualquier criatura a la que haya sorprendido.</p>"
 		},
 		"Amorphous": {
-			"name": "Amorfo (Amorphous)",
+			"name": "Amorfo",
 			"description": "<p>El &nbsp;{creature}&nbsp;puede moverse a través de espacios de tan solo 1 pulgada de ancho sin apretarse.</p>"
 		},
 		"Amphibious": {
-			"name": "Anfibio (Amphibious)",
+			"name": "Anfibio",
 			"description": "<p>El {creature} puede respirar tanto dentro del agua como fuera de ella.</p>"
 		},
 		"Angelic Weapons": {
-			"name": "Armas Angelicales (Angelic Weapons)",
+			"name": "Armas angelicales",
 			"description": "<section class=\"secret\"><p>Los ataques del {creature} con su arma son mágicos. Cuando el {creature} acierta con cualquier arma, el arma inflige <strong>4d8<em> de daño radiante adicional</em></strong> (incluido en el ataque).</p></section><p>Los ataques del {creature} con su arma son mágicos. Cuando el {creature} acierta con cualquier arma, el arma inflige <em>daño radiante adicional</em> (incluido en el ataque).</p>"
 		},
 		"Animate Chains": {
-			"name": "Animar cadenas (Animate Chains)",
+			"name": "Animar cadenas",
 			"description": "<section class=\"secret\">\n<p>Hasta cuatro cadenas que se encuentren a 60 pies o menos del {type}, que pueda ver y que no lleve o vista nadie, cobran vida bajo el control del {type}. De ellas surgen mágicamente numerosas púas afiladas.</p><p>Cada cadena animada es un objeto con CA 20, 20 puntos de golpe, resistencia a <em>daño perforante</em> e inmunidad a daños psíquico y de trueno. Si el {type} utiliza ataque múltiple durante su turno, podrá utilizar cada cadena animada para realizar un ataque de cadena adicional. Cada cadena animada es capaz de agarrar a una criatura por sus propios medios, pero no puede atacar mientras esté agarrando. Las cadenas vuelven a su estado inanimado si sus puntos de golpe se reducen a 0 o si el {type} queda incapacitada o muere.</p>\n</section>\n<p>Hasta cuatro cadenas que se encuentren a 60 pies o menos del {type}, que pueda ver y que no lleve o vista nadie, cobran vida bajo el control del {type}. De ellas surgen mágicamente numerosas púas afiladas.</p>"
 		},
 		"Animate Trees": {
-			"name": "Animar árboles (Animate Trees)",
+			"name": "Animar árboles",
 			"description": "<section class=\"secret\"><p>El {creature} anima mágicamente a hasta dos árboles que se encuentren a <strong>60 pies o menos</strong> y pueda ver. Estos árboles tienen el mismo perfil que el {creature}, con las siguientes excepciones: sus puntuaciones de Inteligencia y Carisma son de 1, no pueden hablar, y solo poseen la acción de Golpe.</p><p>Los árboles se comportan como aliados del {creature}. Cada árbol permanecerá animado durante 1 día, salvo que él o el {creature} mueran, se alejen más de 120 pies o el {creature} utilice una acción adicional para transformarlo de nuevo en un árbol inanimado. Cuando deje de estar animado, el árbol intentará enraizarse.</p></section><p>l {creature} anima mágicamente a hasta dos árboles que se encuentren a <strong>60 pies o menos</strong> y pueda ver.</p>"
 		},
 		"Antennae": {
-			"name": "Antenas (Antennae)",
+			"name": "Antenas",
 			"description": "<section class=\"secret\"><p>El {creature} corroe cualquier objeto no mágico hecho de un metal férrico que se encuentre a 5 pies o menos y pueda ver. Si el objeto no está siendo llevado o vestido por nadie, este toque destruirá un volumen del objeto equivalente a un cubo de 1 pies.</p><p>Si, por el contrario, alguien lleva o viste el objeto, el portador deberá realizar una tirada de salvación de <strong>Destreza CD 11</strong>, logrando evitar el toque del {creature} si tiene éxito. Si el objeto tocado es una armadura o escudo de metal que esté siendo portado o embrazado, sufrirá un penalizador de -1 permanente y acumulativo a la CA que proporciona. Las armaduras que vean su CA reducida a 10 y los escudos cuyo bonificador se reduzca hasta +0 de esta forma serán destruidos. Si el objeto tocado era un arma de metal empuñada por una criatura, se corroerá tal y como se describe en el atributo Corroer Metal.</p></section><p>El {creature} corroe cualquier objeto hecho de un metal férrico que se encuentre a 5 pies o menos y pueda ver. Si el objeto no está siendo llevado o vestido por nadie, este toque destruirá un volumen del objeto equivalente a un cubo de 1 pies.</p>"
 		},
 		"Antimagic Susceptibility": {
-			"name": "Susceptibilidad a la Antimagia (Antimagic Susceptibility)",
+			"name": "Susceptibilidad a la antimagia",
 			"description": "<section class=\"secret\">\n<p>El {creature} estará incapacitado mientras se encuentre en el área cubierta por un campo antimagia.</p><p>Si es el objetivo de disipar magia, el {creature} deberá tener éxito en una tirada de salvación de Constitución con CD igual a la salvación de conjuros del lanzador o estará inconsciente durante <strong>1 minuto</strong>.</p>\n</section>\n<p>El {creature} estará incapacitado mientras se encuentre en el área cubierta por un campo antimagia.</p>"
 		},
 		"Assassinate": {
-			"name": "Asesinar (Assassinate)",
+			"name": "Asesinar",
 			"description": "<p>Durante su primer turno, el {creature} tiene ventaja en las tiradas de ataque contra cualquier criatura que aún no haya llevado a cabo su turno. Además, cualquier impacto que realice el {creature} contra una criatura sorprendida será automáticamente un crítico.</p>"
 		},
 		"Aversion of Fire": {
-			"name": "Aversión al fuego (Aversion of Fire)",
+			"name": "Aversión al fuego",
 			"description": "<section class=\"secret\">\n<p>Si el {creature} recibe <strong><em>daño de fuego</em></strong>, tendrá <strong>desventaja</strong> en las tiradas de ataque y las pruebas de característica hasta el final de su siguiente turno.</p></section>\n<p>Si el {creature} recibe <strong><em>daño de fuego</em></strong>, tendrá <strong>desventaja</strong> en ciertas tiradas.</p>"
 		},
 		"Barbed Hide": {
-			"name": "Piel espinosa (Barbed Hide)",
+			"name": "Piel espinosa",
 			"description": "<p>Al principio de cada uno de sus turnos, el {creature} inflige <strong>5 ( 1d10) de <em>daño perforante</em></strong> a cualquier criatura que lo esté agarrando.</p>"
 		},
 		"Beast of Burden": {
-			"name": "Bestia de carga (Beast of Burden)",
+			"name": "Bestia de carga",
 			"description": "<p>El {creature} es considerada un animal Grande en lo que su capacidad de carga respecta.</p>"
 		},
 		"Berserk": {
-			"name": "Berserk (Berserk)",
+			"name": "Berserk",
 			"description": "<section class=\"secret\">\n<p>Si el {creature} empieza su turno con <strong>60 puntos de golpe</strong> o menos, tira un d6. Si sacas un 6, el {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver.</p><p>Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que él. Una vez el {creature} ha entrado en estado berserk, seguirá bajo sus efectos hasta que sea destruido o recupere todos sus <strong>puntos de golpe</strong>.</p>\n</section>\n<p>El {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver. Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que el.</p>"
 		},
 		"Bite": {
@@ -86,67 +86,67 @@
 			"description": "<section class=\"secret\">\n<p>Ataque de Arma Cuerpo a Cuerpo: +11 para golpear, alcance de 10 pies, un objetivo. Impacto: 17 (2d10 + 6) de daño perforante.</p>\n</section>\n<p>El {creature} ataca con su mordisco.</p>"
 		},
 		"Blasphemous Word": {
-			"name": "Palabra blasfema (Blasphemous Word)",
+			"name": "Palabra blasfema",
 			"description": "<section class=\"secret\">\n<p>El {creature} pronuncia una palabra blasfema. Todas las criaturas que no sean {type} situadas a 10 pies o menos de el {creature} y puedan oír la locución mágica deberán superar una tirada de salvación de <strong>Constitución CD 16</strong> o estarán aturdidas hasta el final del siguiente turno del {creature}.</p>\n</section>\n<p>El {creature} pronuncia una palabra blasfema. Todas las criaturas que no sean {type} situadas a 10 pies o menos de el {creature} y puedan oír la locución mágica deberán superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Blind Senses": {
-			"name": "Sentidos de ciego (Blind Senses)",
+			"name": "Sentidos de ciego",
 			"description": "<p>El {creature} perderá su visión ciega si está ensordecido y no puede usar el olfato.</p>"
 		},
 		"Blinding Breath": {
-			"name": "Aliento cegador (Blinding Breath)",
+			"name": "Aliento cegador",
 			"description": "<section class=\"secret\">\n<p>El {creature} exhala polvo cegador en un cono de 15 pies.</p><p>Todas las criaturas situadas en el área deberán superar una tirada de salvación de <strong>Destreza CD 10</strong> o estarán cegadas durante 1 minuto. Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.</p>\n</section>\n<p>El {creature} exhala polvo cegador en un cono de 15 pies. Todas las criaturas situadas en el área deberán superar una tirada de salvación de <strong>Destreza</strong> o estarán cegadas durante 1 minuto. Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos.</p>"
 		},
 		"Blinding Dust": {
-			"name": "Polvo cegador (Blinding Dust)",
+			"name": "Polvo cegador",
 			"description": "<section class=\"secret\">\n<p>Un remolino cegador de polvo y arena se agita mágicamente alrededor del {creature}. Todas las criaturas que se encuentren a 5 pies o menos de el {creature} deberán superar una tirada de salvación de <strong>Constitución CD 16</strong> o estarán cegadas hasta el final de su siguiente turno.</p>\n</section>\n<p>Un remolino cegador de polvo y arena se agita mágicamente alrededor del {creature}. Todas las criaturas que se encuentren a 5 pies o menos de el {creature} deberán superar una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Blinding Gaze": {
-			"name": "Mirada Cegadora (Blinding Gaze)",
+			"name": "Mirada cegadora",
 			"description": "<section class=\"secret\">El {creature} selecciona a un objetivo que pueda ver en un radio de 30 pies. Si el objetivo lo puede ver, el objetivo debe superar una tirada de salvación de <strong>Constitución CD 15</strong> o quedar cegado hasta que un conjuro de regeneración menor quite la ceguera.\n</section>\n<p>El {creature} selecciona a un objetivo que pueda ver en un radio de 30 pies. Si el objetivo lo puede ver, el objetivo debe superar una tirada de salvación de Constitución o quedar cegado.</p>"
 		},
 		"Blinding Spittle": {
-			"name": "Baba cegadora (Blinding Spittle)",
+			"name": "Baba cegadora",
 			"description": "<section class=\"secret\">\n<p>El {creature} escupe una masa de sustancias químicas hacia un punto que se encuentre a 15 pies menos de distancia y pueda ver. El proyectil explotará al impactar, produciendo un estallido de luz.</p><p>Todas las criaturas situadas a 5 pies o menos del punto de impacto deberán superar una tirada de salvación de <strong>Destreza CD 13</strong> o estarán cegadas hasta el final del siguiente turno del {creature}.</p>\n</section>\n<p>El {creature} escupe una masa de sustancias químicas hacia un punto que se encuentre a 15 pies menos de distancia y pueda ver. El proyectil explotará al impactar, produciendo un estallido de luz. Todas las criaturas situadas a 5 pies o menos del punto de impacto deberán superar una tirada de salvación de <strong>Destreza</strong>.</p>"
 		},
 		"Blood Frenzy": {
-			"name": "Frenesí sangriento (Blood Frenzy)",
+			"name": "Frenesí sangriento",
 			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no posea todos sus <strong>puntos de golpe</strong>.</p>"
 		},
 		"Bound": {
-			"name": "Vínculo (Bound)",
+			"name": "Vínculo",
 			"description": "<section class=\"secret\">\n<p>El {creature} está vinculado mágicamente a un amuleto. Mientras ambos se encuentren en el mismo plano de existencia, el portador del amuleto podrá llamar telepáticamente al {creature} para que acuda a su lado, y el {creature} conocerá la distancia que le separa del amuleto y en qué dirección se halla.</p><p>Si el {creature} está situada a <strong>60 pies o menos</strong> del portador del amuleto, la mitad del daño que reciba este (redondeado hacia arriba) será transferido al {creature}.</p>\n</section>\n<p>El {creature} está vinculado mágicamente a un amuleto.</p>"
 		},
 		"Brave": {
-			"name": "Valiente (Brave)",
+			"name": "Valiente",
 			"description": "<p>El {creature} tiene ventaja en las tiradas de salvación para evitar ser asustado.</p>"
 		},
 		"Breath Weapons": {
-			"name": "Arma de Aliento (Breath Weapons)",
+			"name": "Arma de aliento",
 			"description": "<section class=\"secret\">\n<p>(<strong>NOTA: SOLO DEBERÍAS UTILIZAR ESTO EN EL CASO DE QUE LA CRIATURA TENGA MÁS DE UN TIPO DE ARMA DE ALIENTO Y CONTIENE LAS CARGAS DE PARA DICHAS ARMAS DE ALIENTO. ADEMÁS, CADA ARMA DE ALIENTO DE ALIENTO DEBE SER AÑADIDA INDEPENDIENTEMENTE.</strong>)</p><p><br>El {type} usa uno de los siguientes armas de aliento:</p><p>**Aliento de Fuego.** El {type} exhala fuego en una línea de 60 pies de largo y 5 de ancho. Cada criatura dentro de esa línea debe realizar una tirada de salvación de <strong>Destreza CD 18</strong>, recibiendo <strong>45 (13d6) de <em>daño de fuego</em></strong> si falla la tirada, o la mitad si tiene éxito.</p><p>**Aliento de Sueño.** El {type} exhala un gas somnífero en un cono de 60 pies. Cada criatura dentro de esa área debe superar una tirada de salvación de <strong>Constitución CD 18</strong> o quedar inconsciente durante 10 minutos. El efecto termina para la criatura si recibe daño o alguien usa una acción para despertarlo.</p>\n</section>\n<p>¡El {type} arroja su aliento!</p>"
 		},
 		"Brute": {
-			"name": "Bruto (Brute)",
+			"name": "Bruto",
 			"description": "<p>Las armas cuerpo a cuerpo infligen un dado adicional de su daño cuando el {creature} impacta con ellas (ya incluido en el ataque).</p>"
 		},
 		"Cast a Spell": {
-			"name": "Lanzar un Conjuro (Cast a Spell)",
+			"name": "Lanzar un conjuro",
 			"description": "<p>El {creature} lanza un conjuro de su lista de conjuros preparados, usando un espacio de conjuro de forma normal.</p>"
 		},
 		"Change Shape": {
-			"name": "Cambiar de forma (Change Shape)",
+			"name": "Cambiar de forma",
 			"description": "<p>El {type} se <strong>transforma</strong> mágicamente en un <strong>humanoide</strong> o <strong>bestia</strong> con un valor de desafío igual o menor al suyo propio, o vuelve a su forma original. Si muere, retornará a su forma auténtica. Cualquier equipo que vista o lleve será absorbido por la nueva forma o portado por esta, a elección del {type}.</p><p>Cuando adopta una nueva forma, el {type} <strong>mantiene su alineamiento, puntos de golpe, Dados de Golpe, su capacidad para hablar, competencias, Resistencia Legendaria, acciones en guarida y sus puntuaciones de Inteligencia, Sabiduría y Carisma</strong>. Además, remplaza las estadísticas y obtiene cualquier capacidad que la nueva forma posea y de la que el {type} carezca (<strong>excepto rasgos de clase o acciones legendarias</strong>).</p>"
 		},
 		"Channel Negative Energy": {
-			"name": "Canalizar energía negativa (Channel Negative Energy)",
+			"name": "Canalizar energía negativa",
 			"description": "<p>El {creature} desata mágicamente una descarga de energía negativa. Las criaturas que se encuentren a 60 pies o menos de el {creature}, incluso aquellas que se hallen tras barreras o doblando esquinas, no podrán recuperar puntos de golpe hasta el final del siguiente turno del {creature}.</p>"
 		},
 		"Charge": {
-			"name": "Carga (Charge)",
+			"name": "Carga",
 			"description": "<section class=\"secret\">\n<p>Si el {creature} se mueve al menos 20 pies en línea recta hacia un objetivo y después le impacta con su ataque de cuerno durante el mismo turno, el objetivo recibe <strong>3 (1d6) de <em>daño perforante</em></strong> adicional.</p><p>Si el objetivo es una criatura, deberá superar una tirada de salvación de <strong>Fuerza CD 11</strong> o será derribada.</p>\n</section>\n<p>Si el {creature} se mueve al menos 20 pies en línea recta hacia un objetivo y después le impacta con su ataque de cuerno durante el mismo turno, el objetivo recibe <em>daño perforante</em> adicional. Si el objetivo es una criatura, deberá superar una tirada de salvación de <strong>Fuerza</strong> o será derribada.</p>"
 		},
 		"Charm": {
-			"name": "Encantamiento (Charm)",
+			"name": "Encantamiento",
 			"description": "<section class=\"secret\">\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong> o ser mágicamente encantado durante 1 día. El objetivo encantado obedecerá las órdenes verbales o telepáticas del {creature}.</p><p>Si el objetivo sufre cualquier daño o recibe una orden suicida, podría repetir la tirada de salvación, que terminará con el efecto si tiene éxito. Si la salvación del objetivo tiene éxito contra el efecto, o si el efecto termina, el objetivo es inmune al encantamiento de este {creature} durante las próximas 24 horas. El {creature} sólo puede tener un objetivo encantado a la vez. Si encanta a otro, el efecto en su objetivo anterior termina.</p>\n</section>\n<p>Un humanoide al que el {creature} pueda ver a 30 pies de él debe superar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Children of the Night": {
@@ -154,7 +154,7 @@
 			"description": "<section class=\"secret\"><p>El {creature} llama mágicamente 2d4 enjambres de murciélagos o ratas, siempre y cuando el sol no esté arriba. Al aire libre, el {creature} puede llamar 3d6 lobos en su lugar.</p><p>Las criaturas llamadas llegan en 1d4 asaltos, actuando como aliados del {creature} y obedecen sus órdenes de voz. Las bestias se mantienen durante 1 hora, hasta que el {creature} muere, o hasta que el {creature} los despida como una acción adicional.</p></section><p>El {creature} llama mágicamente enjambres de murciélagos o ratas. Al aire libre, el {creature} puede llamar lobos en su lugar.</p>"
 		},
 		"Chomp": {
-			"name": "Mascar (Chomp)",
+			"name": "Mascar",
 			"description": "<p>El {creature} realiza un ataque con su mordisco o su Engullir.</p>"
 		},
 		"Claw Attack": {
@@ -162,127 +162,127 @@
 			"description": "<p>El {creature} realiza un ataque con sus garras.</p>"
 		},
 		"Cold Breath": {
-			"name": "Aliento gélido (Cold Breath)",
+			"name": "Aliento gélido",
 			"description": "<section class=\"secret\">\n<p>**Aliento  gélido.** El {type} exhala una ráfaga helada en un cono de 60 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Constitución CD 20</strong>, sufriendo <strong>58 (13d8) de <em>daño de frío</em></strong> si la fallan, o la mitad del daño si la superan.</p>\n</section>\n<p>El {type} exhala una ráfaga helada en un cono de 60 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Confer Fire Resistance": {
-			"name": "Otorgar Resistencia al fuego (Confer Fire Resistance)",
+			"name": "Otorgar resistencia al fuego",
 			"description": "<p>El {creature} puede proporcionar resistencia al <em>daño de fuego</em> a cualquier que la monte.</p>"
 		},
 		"Consume Life": {
-			"name": "Devorar vida (Consume Life)",
+			"name": "Devorar vida",
 			"description": "<section class=\"secret\"><p>El {creature} puede utilizar una acción adicional para elegir como objetivo a una criatura con <strong>0 puntos de golpe</strong> que todavía esté viva, que se encuentre a <strong>5 pies</strong> o menos y pueda ver.</p><p>El objetivo deberá superar una <strong>tirada de salvación de Constitución CD 10</strong> contra este efecto mágico o morirá. Si el objetivo fallece, el {creature} recuperará 10 (3d6) <strong>puntos de golpe</strong>.</p></section><p>El {creature} puede elegir como objetivo a una criatura que pueda ver a <strong>5 pies</strong>. El objetivo deberá superar una tirada de salvación de Constitución.</p>"
 		},
 		"Corrode Metal": {
-			"name": "Corroer metal (Corrode Metal)",
+			"name": "Corroer metal",
 			"description": "<section class=\"secret\">\n<p>Cualquier arma no mágica hecha de metal que entre en contacto con el {type} se corroerá. Tras <strong>causar daño</strong>, el arma sufrirá un penalizador de -1 permanente y acumulativo a las tiradas de daño.</p><p>Si este penalizador llega a ser de -5, el arma será destruida. Además, la munición no mágica hecha de metal que impacte al {type} será destruida tras causar su daño. El {type} puede consumir un grosor de 2 pulgadas de metal no mágico por asalto.</p>\n</section>\n<p>El {type} corroe el metal.</p>"
 		},
 		"Corrosive Form": {
-			"name": "Forma corrosiva (Corrosive Form)",
+			"name": "Forma corrosiva",
 			"description": "<section class=\"secret\">\n<p>Cualquier criatura que toque al {creature} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <strong>4 ( 1d8) de <em>daño de ácido</em></strong>. Además, el arma no mágica hecha de metal o madera que entre en contacto con el {creature} se corroerá.</p><p>Tras causar daño, el arma sufrirá un penalizador de -1 permanente y acumulativo a las tiradas de daño. Si este penalizador llega a ser de -5, el arma será destruida. Cualquier munición no mágica hecha de metal o madera que impacte al {creature} será destruida tras causar su daño. El {creature} es capaz de consumir un grosor de 2 pulgadas de madera o metal no mágicos por asalto.</p>\n</section>\n<p>Cualquier criatura que toque al {creature} o le impacte con un ataque cuerpo a cuerpo estando a 5 pies o menos de distancia recibirá <em>daño de ácido</em>. Además, el arma no mágica hecha de metal o madera que entre en contacto con el {creature} se corroerá.</p>"
 		},
 		"Create Specter": {
-			"name": "Crear espectro (Create Specter)",
+			"name": "Crear espectro",
 			"description": "<section class=\"secret\"><p>El {creature} elige a un humanoide que se encuentre a 10 pies o menos y haya muerto violentamente hace como mucho 1 minuto.</p><p>El espíritu del objetivo se alza como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano. El espectro estará bajo el control del {creature}. Este último no puede tener bajo su control a más de siete espectros al mismo tiempo.</p></section><p>El espíritu del objetivo se alza como un espectro en el espacio de su cadáver o en el espacio desocupado más cercano.</p>"
 		},
 		"Create Whirlwind": {
-			"name": "Crear Torbellino (Create Whirlwind)",
+			"name": "Crear torbellino",
 			"description": "<section class=\"secret\">\n<p>Un torbellino de aire como un cilindro con 5 pies de radio y 30 pies de altura, se forma por arte de magia en un punto, que el {creature} pueda ver a 120 pies de él. El torbellino dura tanto como el {creature} mantenga la concentración (como si se concentrara en un conjuro).</p><p>Cualquier criatura, excepto el {creature}, que entre en el torbellino debe superar una tirada de salvación de <strong>Fuerza CD 18</strong> o quedar neutralizada por este. El {creature} puede mover el torbellino hasta 60 pies como una acción, junto con las criaturas neutralizadas que se mueven con el torbellino. El torbellino termina si el {creature} pierde contacto visual.</p><p>Una criatura puede utilizar su acción para liberarse del torbellino, si supera una prueba de fuerza CD 18. Si la prueba tiene éxito, se liberará y se moverá al espacio más cercano fuera del torbellino.</p>\n</section>\n<p>Un torbellino de aire como un cilindro con 5 pies de radio y 30 pies de altura, se forma por arte de magia en un punto, que el {creature} pueda ver a 120 pies de él. El torbellino dura tanto como el {creature} mantenga la concentración (como si se concentrara en un conjuro). Cualquier criatura, excepto el {creature}, que entre en el torbellino debe superar una tirada de salvación de <strong>Fuerza</strong> o quedar neutralizada por este. El {creature} puede mover el torbellino hasta 60 pies como una acción, junto con las criaturas neutralizadas que se mueven con el torbellino. Una criatura puede utilizar su acción para liberarse del torbellino, si supera una prueba de fuerza. Si la prueba tiene éxito, se liberará y se moverá al espacio más cercano fuera del torbellino.</p>"
 		},
 		"Cunning Action": {
-			"name": "Acción Astuta (Cunning Action)",
+			"name": "Acción astuta",
 			"description": "<p>El {creature} puede, en cada uno de sus turnos, usar una acción adicional para realizar una acción de Correr, Destrabarse o Esconderse.</p>"
 		},
 		"Damage Transfer": {
-			"name": "Transferir Daño (Damage Transfer)",
+			"name": "Transferir daño",
 			"description": "<p>Mientras esté agarrando a una criatura, el {creature} solo recibe la mitad del daño que se le inflija. La otra mitad del daño lo recibe la criatura agarrada.</p>"
 		},
 		"Dark Devotion": {
-			"name": "Devocion oscura (Dark Devotion)",
+			"name": "Devocion oscura",
 			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de salvación para evitar ser hechizado o asustado.</p>"
 		},
 		"Darkness Aura": {
-			"name": "Aura de oscuridad (Darkness Aura)",
+			"name": "Aura de oscuridad",
 			"description": "<section class=\"secret\">\n<p>Una oscuridad mágica de 15 pies de radio rodea al {creature}, se mueve con él y se extiende más allá de las esquinas. Esta oscuridad durará 10 minutos o mientras el {creature} mantenga la concentración (como si se concentrara en un conjuro).</p><p>La visión en la oscuridad no es capaz de penetrar a través de ella y la luz natural no puede alumbrarla. Si cualquier parte del área de oscuridad se superpone con una zona de luz creada por un conjuro de nivel 2 o inferior, el conjuro que creó esa luz es disipado.</p>\n</section>\n<p>Una oscuridad mágica de 15 pies de radio rodea al {creature}, se mueve con él y se extiende más allá de las esquinas. La visión en la oscuridad no es capaz de penetrar a través de ella y la luz natural no puede alumbrarla.</p>"
 		},
 		"Deadly leap": {
-			"name": "Salto Mortal (Deadly leap)",
+			"name": "Salto mortal",
 			"description": "<section class=\"secret\">\n<p>Si el {creature} salta al menos 15 pies (4,6 m) como parte de su movimiento, puede utilizar esta acción para aterrizar de pie en un espacio que contenga una o más criaturas.</p><p>Cada una de esas criaturas debe superar una tirada de salvación de Fuerza o Destreza (a elección del objetivo) CD16 o quedarán tumbados en el suelo y recibirán <strong>14 (3d6 + 4) de <em>daño contundente</em></strong> más <strong>14 (3d6 + 4) de <em>daño cortante</em></strong>. Si tiene éxito, la criatura recibirá sólo la mitad del daño, no caerá al suelo y es empujada a 5 pies (1,5 m) fuera del {creature} en un espacio que no esté ocupado a elección de la criatura. Si no hay ningún espacio desocupado en ese alcance, la criatura cae tumbada en el espacio del {creature}.</p>\n</section>\n<p>Si el {creature} salta al menos 15 pies (4,6 m) como parte de su movimiento, puede utilizar esta acción para aterrizar de pie en un espacio que contenga una o más criaturas. Cada una de esas criaturas debe superar una tirada de salvación de Fuerza o Destreza (a elección del objetivo) o quedarán tumbados en el suelo.</p>"
 		},
 		"Death Burst": {
-			"name": "Explotar al morir (Death Burst)",
+			"name": "Explotar al morir",
 			"description": "<section class=\"secret\">\n<p>Si el {creature} muere, explotará en una deflagración de polvo. Todas las criaturas que se encuentren a <strong>5 pies</strong> o menos de él deberán hacer una <strong>tirada de salvación de Constitución CD 10</strong> para no quedar cegados durante <strong>1 minuto</strong>. La criatura cegada puede repetir la tirada de salvación en cada uno de sus turnos, concluyendo el efecto con un éxito.</p>\n</section>\n<p>Cuando el {creature} muere, explotará en una deflagración de polvo. Todas las criaturas que se encuentren a <strong>5 pies</strong> o menos de él deberán hacer una tirada de salvación de <strong>Constitución</strong>.</p>"
 		},
 		"Death Glare": {
-			"name": "Mirada mortal (Death Glare)",
+			"name": "Mirada mortal",
 			"description": "<section class=\"secret\">\n<p>El {creature} elige como objetivo a una criatura asustada que se encuentre a 30 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría CD 11</strong> o sus puntos de golpe se reducirán a 0 mágicamente.</p>\n</section>\n<p>El {creature} elige como objetivo a una criatura asustada que se encuentre a 30 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría</strong>.</p>"
 		},
 		"Death Throes": {
-			"name": "Muerte Agonizante (Death Throes)",
+			"name": "Muerte agonizante",
 			"description": "<section class=\"secret\">\n<p>Cuando el {creature} muere, explota y cada criatura en un radio de 30 pies (9,1 m) de él debe realizar una tirada de salvación de <strong>Destreza CD 20</strong>, recibiendo <strong>70 (20d6) de <em>daño por fuego</em></strong> si falla la tirada, o la mitad de daño si la supera.</p><p>La explosión enciende todos los objetos inflamables dentro de la zona que no visitan o carguen, y destruye las armas del {creature}.</p>\n</section>\n<p>Cuando el {creature} muere, explota y cada criatura en un radio de 30 pies (9,1 m) de él debe realizar una tirada de salvación de <strong>Destreza</strong>. a explosión enciende todos los objetos inflamables dentro de la zona que no visitan o carguen, y destruye las armas del {creature}.</p>"
 		},
 		"Detect (Legendary)": {
-			"name": "Detectar (Legendaria) (Detect (Legendary))",
+			"name": "Detectar (legendaria)",
 			"description": "<p>El {creature} hace una prueba de Sabiduría (Percepción).</p>"
 		},
 		"Devil Sight": {
-			"name": "Visión de Diablo (Devil Sight)",
+			"name": "Visión de diablo",
 			"description": "<p>La oscuridad mágica no impide su visión en la oscuridad.</p>"
 		},
 		"Disrupt Life": {
-			"name": "Perturbar vida (Disrupt Life)",
+			"name": "Perturbar vida",
 			"description": "<section class=\"secret\">\n<p>Todas las criaturas que no sean {type} que se encuentren a 20 pies o menos del {creature} deberán realizar una tirada de salvación de <strong>Constitución CD 18</strong> contra este efecto mágico, recibiendo <strong>21 (6d6) de <em>daño necrótico</em></strong> si la fallan, o la mitad de ese daño si la superan.</p>\n</section>\n<p>odas las criaturas que no sean {type} que se encuentren a 20 pies o menos del {creature} deberán realizar una tirada de salvación de <strong>Constitución</strong> contra este efecto mágico.</p>"
 		},
 		"Divine Awareness": {
-			"name": "Conocimiento Divino (Divine Awareness)",
+			"name": "Conocimiento divino",
 			"description": "<p>El {creature} sabe si escucha una mentira.</p>"
 		},
 		"Divine Eminence": {
-			"name": "Prerrogativa divina (Divine Eminence)",
+			"name": "Prerrogativa divina",
 			"description": "<section class=\"secret\"><p>El {creature} puede utilizar una acción adicional y gastar un espacio de conjuro para hacer que sus ataques con arma cuerpo a cuerpo causen mágicamente <strong>10 (3d6) de <em>daño radiante</em></strong> adicionales cuando impactan.</p><p>Este beneficio dura hasta el final del turno. Si el {creature} gasta un espacio de conjuro de nivel 2 más, el daño adicional aumenta en 1d6 por cada nivel por encima de 1 del espacio.</p></section><p>El {creature} puede utilizar una acción adicional y gastar un espacio de conjuro para hacer que sus ataques con arma cuerpo a cuerpo causen mágicamente <em>daño radiante</em> adicional cuando impactan.</p>"
 		},
 		"Draining Kiss": {
-			"name": "Beso Drenador (Draining Kiss)",
+			"name": "Beso drenador",
 			"description": "<section class=\"secret\">\n<p>El {creature} besa a una criatura encantada por ella o a un ser dispuesto a este. El objetivo debe realizar una tirada de salvación de <strong>Constitución CD 15</strong> contra este efecto, sufriendo <strong>32 (5d10 + 5) de <em>daño psíquico</em></strong> si fallar la tirada, o la mitad de daño si tiene éxito.</p><p>Los puntos de golpe máximos del objetivo se reducirán en un valor idéntico al daño recibido. Esta reducción durará hasta que el objetivo termine un descanso largo. El objetivo muere si este efecto reduce sus puntos de golpe máximo a 0.</p>\n</section>\n<p>El objetivo debe realizar una tirada de salvación de <strong>Constitución</strong> contra este efecto.</p>"
 		},
 		"Dreadful Glare": {
-			"name": "Mirada espantosa (Dreadful Glare)",
+			"name": "Mirada espantosa",
 			"description": "<section class=\"secret\">\n<p>El {creature} elige a una criatura que se encuentre a 60 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría CD 11</strong> contra este efecto mágico o estará asustado hasta el final del siguiente turno del {creature}.</p><p>Si falla la tirada de salvación por 5 o más, también estará paralizado durante este periodo. Las criaturas que superen la tirada de salvación serán inmunes a la mirada espantosa de todas las momias (pero no de los señores de las momias) durante las siguientes 24 horas.</p>\n</section>\n<p>El {creature} elige a una criatura que se encuentre a 60 pies o menos y pueda ver. Si el objetivo es capaz de observar al {creature}, deberá superar una tirada de salvación de <strong>Sabiduría</strong> contra este efecto mágico.</p>"
 		},
 		"Duergar Resilience": {
-			"name": "Resiliencia duergar (Duergar Resilience)",
+			"name": "Resiliencia duergar",
 			"description": "<p>El {creature} tiene <strong>ventaja</strong> en las tiradas de salvación contra veneno, conjuros e ilusiones, así como para evitar ser hechizado o paralizado.</p>"
 		},
 		"Earth Glide": {
-			"name": "Deslizarse por la Tierra (Earth Glide)",
+			"name": "Deslizarse por la tierra",
 			"description": "<p>El {type} puede excavar a través de la tierra y la piedra que no sean mágicas ni estén trabajadas. Al hacer esto no desplaza o perturba el material a través del que se mueve.</p>"
 		},
 		"Echolocation": {
-			"name": "Ecolocalización (Echolocation)",
+			"name": "Ecolocalización",
 			"description": "<p>El {creature} perderá su visión ciega si está ensordecido.</p>"
 		},
 		"Elemental Demise": {
-			"name": "Fallecimiento Elemental (Elemental Demise)",
+			"name": "Fallecimiento elemental",
 			"description": "<p>Si el {creature} muere, su cuerpo se desintegra en una cálida brisa, dejando atrás el equipo que vista o cargue.</p>"
 		},
 		"Engulf": {
-			"name": "Absorber (Engulf)",
+			"name": "Absorber",
 			"description": "<section class=\"secret\">\n<p>El {creature} se mueve hasta su velocidad. Al hacer esto puede entrar en los espacios de criaturas Grandes o más pequeñas. Cada vez que el {creature} entre en el espacio de otra criatura, esta deberá realizar una tirada de salvación de <strong>Destreza CD 12</strong>. Si tiene éxito, la criatura podrá elegir ser empujada 5 pies hacia atrás o hacia un lado del {creature}. Si decide no ser empujada, sufrirá las consecuencias de una tirada de salvación fallida.</p><p>Si falla la tirada de salvación, el {creature} entrará en el espacio de la criatura, y esta sufrirá <strong>10 ( 3d6) de <em>daño de ácido</em></strong> y lo absorberá. Las criaturas absorbidas no pueden respirar, están apresadas y reciben <strong>21 ( 6d6) de <em>daño de ácido</em></strong> al principio de cada uno de los turnos del {creature}. Cuando el {creature} se mueve, las criaturas absorbidas se desplazan con ella. Una criatura absorbida puede intentar escapar utilizando una acción para realizar una prueba de Fuerza CD 12. Si tiene éxito, logrará salir y se moverá a un espacio de su elección a 5 pies o menos del {creature}.</p>\n</section>\n<p>Cada vez que el {creature} entre en el espacio de otra criatura, esta deberá realizar una tirada de salvación de <strong>Destreza</strong>. Si tiene éxito, la criatura podrá elegir ser empujada 5 pies hacia atrás o hacia un lado del {creature}. Si decide no ser empujada, sufrirá las consecuencias de una tirada de salvación fallida.</p>"
 		},
 		"Enlarge": {
-			"name": "Agrandarse (Enlarge)",
+			"name": "Agrandarse",
 			"description": "<p>El {creature} y cualquier equipo que lleve o vista aumentan mágicamente de tamaño durante 1 minuto. Mientras suceda esto, el {creature} será Grande, tirará el doble de dados de daño en sus ataques con arma basados en la Fuerza (ya incluido en los ataques) y tendrá ventaja en las pruebas y las tiradas de salvación de Fuerza. Si no hay espacio suficiente para que se convierta en Grande, el {creature} alcanza el tamaño máximo posible para el espacio disponible.</p>"
 		},
 		"Enslave": {
-			"name": "Esclavizar (Enslave)",
+			"name": "Esclavizar",
 			"description": "<section class=\"secret\">\n<p>El {creature} elige como objetivo a una criatura que vea en un radio de 30 pies. El objetivo debe superar una tirada de salvación de <strong>Sabiduría CD 14</strong> o quedar encantado mágicamente por el {creature} hasta que el {creature} muera o hasta que esté en un plano diferente que el del objetivo.</p><p>El objetivo encantado está bajo el control del {creature} y no puede reaccionar, y el {creature} y el objetivo pueden comunicarse telepáticamente el uno con el otro desde cualquier distancia. Cuando el objetivo encantado recibe daño, el objetivo puede repetir la tirada de salvación. Si tiene éxito, el efecto se termina. No más de una vez cada 24 horas, el objetivo también puede repetir la tirada de salvación cuando esté al menos a 1 milla (1,6 km) de distancia del {creature}.</p>\n</section>\n<p>El objetivo debe superar una tirada de salvación de <strong>Sabiduría</strong>. Cuando el objetivo encantado recibe daño, el objetivo puede repetir la tirada de salvación. No más de una vez cada 24 horas, el objetivo también puede repetir la tirada de salvación cuando esté al menos a 1 milla (1,6 km) de distancia del {creature}.</p>"
 		},
 		"Ephemeral": {
-			"name": "Efímero (Ephemeral)",
+			"name": "Efímero",
 			"description": "<p>El {creature} no puede vestir o llevar nada.</p>"
 		},
 		"Ethereal Jaunt": {
-			"name": "Excursión etérea (Ethereal Jaunt)",
+			"name": "Excursión etérea",
 			"description": "<p>El {creature} es capaz de usar una acción adicional para moverse mágicamente desde el Plano Material al Plano Etéreo, o viceversa.</p>"
 		},
 		"Ethereal Sight": {
