@@ -2,11 +2,11 @@
 	"label": "Equipo (SRD)",
 	"entries": {
 		"Abacus": {
-			"name": "Ábaco (Abacus)",
+			"name": "Ábaco",
 			"description": "<p>El ábaco, también llamado marco de conteo, es una herramienta de cálculo.</p>"
 		},
 		"Acid (vial)": {
-			"name": "Ácido - vial (Acid vial)",
+			"name": "Ácido - vial",
 			"description": "<p>Como acción, puedes esparcir el contenido de este vial sobre una criatura que se encuentre a un máximo de 5 pies no lanzarlo hasta a 20 pies, rompiéndose el vial con el impacto. En ambos casos, haz un ataque a distancia contra la criatura o el objeto, tratando el ácido como un arma improvisada: si tienes éxito, el objetivo recibirá 2d6 de daño de ácido.</p>"
 		},
 		"Adamantine Breastplate": {
