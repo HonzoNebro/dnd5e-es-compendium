@@ -930,11 +930,11 @@
 			"description": "<p>You create an Illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted Performance can last up to 5 minutes.</p><p>When the condition you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes. After this time, the illusion can be activated again.</p><p>The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible Conditions that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the illusion to trigger only when a creature says the correct word or phrase.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the Illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature</p>"
 		},
 		"Project Image": {
-			"name": "Proyectar Imagen (Project Image)",
+			"name": "Proyectar imagen",
 			"description": "<p>You create an illusory copy of yourself that lasts for the Duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The Illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.</p><p>You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.</p><p>You can see through its eyes and hear through its ears as if you were in its space. On Your Turn as a Bonus Action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are Blinded and Deafened in regard to your own surroundings.</p><p>Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an Illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.</p>"
 		},
 		"Protection from Energy": {
-			"name": "Proteccion Contra Energia (Protection from Energy)",
+			"name": "Protección contra energía",
 			"description": "<p>For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.</p>"
 		},
 		"Protection from Evil and Good": {
@@ -946,47 +946,47 @@
 			"description": "<p>You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.</p><p>For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.</p>"
 		},
 		"Purify Food and Drink": {
-			"name": "Purificar Comida y Bebida (Purify Food and Drink)",
+			"name": "Purificar comida y bebida",
 			"description": "<p>All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.</p>"
 		},
 		"Raise Dead": {
-			"name": "Alzar a los Muertos (Raise Dead)",
+			"name": "Revivir a los muertos",
 			"description": "<p>You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.</p><p>This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.</p><p>This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.</p><p>Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.</p>"
 		},
 		"Ray of Enfeeblement": {
-			"name": "Rayo Debilitador (Ray of Enfeeblement)",
+			"name": "Rayo debilitador",
 			"description": "<p>A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.</p><p>At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.</p>"
 		},
 		"Ray of Frost": {
-			"name": "Rayo de Escarcha (Ray of Frost)",
+			"name": "Rayo de escarcha",
 			"description": "<p>A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.</p><p>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>"
 		},
 		"Regenerate": {
-			"name": "Regenerar (Regenerate)",
+			"name": "Regenerar",
 			"description": "<p>You touch a creature and stimulate its natural Healing ability. The target regains 4d8 + 15 Hit Points. For the Duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).</p><p>The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.</p>"
 		},
 		"Reincarnate": {
-			"name": "Reencarnar (Reincarnate)",
+			"name": "Reencarnar",
 			"description": "<p>You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.</p><p>The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The DM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Race</strong></td>\n</tr>\n<tr>\n<td>01-04</td>\n<td>Dragonborn</td>\n</tr>\n<tr>\n<td>05-13</td>\n<td>Dwarf, hill</td>\n</tr>\n<tr>\n<td>14-21</td>\n<td>Dwarf, mountain</td>\n</tr>\n<tr>\n<td>22-25</td>\n<td>Elf, dark</td>\n</tr>\n<tr>\n<td>26-34</td>\n<td>Elf, high</td>\n</tr>\n<tr>\n<td>35-42</td>\n<td>Elf, wood</td>\n</tr>\n<tr>\n<td>43-46</td>\n<td>Gnome, forest</td>\n</tr>\n<tr>\n<td>47-52</td>\n<td>Gnome, rock</td>\n</tr>\n<tr>\n<td>53-56</td>\n<td>Half-elf</td>\n</tr>\n<tr>\n<td>57-60</td>\n<td>Half-orc</td>\n</tr>\n<tr>\n<td>61-68</td>\n<td>Halfling, lightfoot</td>\n</tr>\n<tr>\n<td>69-79</td>\n<td>Halfling, stout</td>\n</tr>\n<tr>\n<td>77-96</td>\n<td>Human</td>\n</tr>\n<tr>\n<td>97-00</td>\n<td>Tiefling</td>\n</tr>\n</tbody>\n</table>\n<p>The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its Racial Traits accordingly.</p>"
 		},
 		"Remove Curse": {
-			"name": "Levantar Maldicion (Remove Curse)",
+			"name": "Levantar maldición",
 			"description": "<p>At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's Attunement to the object so it can be removed or discarded.</p>"
 		},
 		"Resilient Sphere": {
-			"name": "Esfera Elastica (Resilient Sphere)",
+			"name": "Esfera elástica",
 			"description": "<p>A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the Duration.</p><p>Nothing—not physical Objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or Effects originating from outside, nor can a creature inside the sphere damage anything outside it.</p><p>The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.</p><p>A Disintegrate spell targeting the globe destroys it without harming anything inside it.</p>"
 		},
 		"Resistance": {
-			"name": "Resistencia (Resistance)",
+			"name": "Resistencia",
 			"description": "<p>You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.</p>"
 		},
 		"Resurrection": {
-			"name": "Resurreccion (Resurrection)",
+			"name": "Resurrección",
 			"description": "<p>You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its hit points.</p><p>This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.</p><p>This spell closes all mortal wounds and restores any missing body parts.</p><p>Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.</p><p>Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.</p>"
 		},
 		"Reverse Gravity": {
-			"name": "Invertir La Gravedad (Reverse Gravity)",
+			"name": "Invertir la gravedad",
 			"description": "<p>This spell reverses gravity in a 50-foot-radius, 100-foot high Cylinder centered on a point within range. All creatures and Objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.</p><p>If some solid object (such as a ceiling) is encountered in this fall, Falling Objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the Duration.</p><p>At the end of the Duration, affected Objects and creatures fall back down.</p>"
 		},
 		"Revivify": {
@@ -994,7 +994,7 @@
 			"description": "<p>You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.</p>"
 		},
 		"Rope Trick": {
-			"name": "Truco de la Cuerda (Rope Trick)",
+			"name": "Truco de la cuerda",
 			"description": "<p>You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.</p><p>The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.</p><p>Attacks and spells can't cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5-foot window centered on the rope.</p><p>Anything inside the extradimensional space drops out when the spell ends.</p>"
 		},
 		"Sacred Flame": {
@@ -1002,19 +1002,19 @@
 			"description": "<p>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.</p><p>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>"
 		},
 		"Sanctuary": {
-			"name": "Santuario (Sanctuary)",
+			"name": "Santuario",
 			"description": "<p>You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a Fireball.</p><p>If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.</p>"
 		},
 		"Scorching Ray": {
-			"name": "Rayo Abrasador (Scorching Ray)",
+			"name": "Rayo abrasador",
 			"description": "<p>You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.</p><p>Make a ranged Spell Attack for each ray. On a hit, the target takes 2d6 fire damage.</p><p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.</p>"
 		},
 		"Scrying": {
-			"name": "Escudriñar (Scrying)",
+			"name": "Escudriñar",
 			"description": "<p>You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Knowledge</strong></td>\n<td><strong>Save Modifier</strong></td>\n</tr>\n<tr>\n<td>Secondhand (you have heard of the target)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td>Firsthand (you have met the target)</td>\n<td>+0</td>\n</tr>\n<tr>\n<td>Familiar (you know the target well)</td>\n<td>-5</td>\n</tr>\n</tbody>\n</table>\n\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Connection</strong></td>\n<td><strong>Save Modifier</strong></td>\n</tr>\n<tr>\n<td>Likeness or picture</td>\n<td>-2</td>\n</tr>\n<tr>\n<td>Possession or garment</td>\n<td>-4</td>\n</tr>\n<tr>\n<td>Body part, lock of hair, bit of nail, or the like</td>\n<td>-10</td>\n</tr>\n</tbody>\n</table>\n<p>On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.</p><p>On a failed save, the spell creates an Invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the Duration. A creature that can see Invisile Objects sees the sensor as a luminous orb about the size of your fist.</p><p>Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.</p>"
 		},
 		"Secret Chest": {
-			"name": "Cofre oculto (Secret Chest)",
+			"name": "Cofre oculto",
 			"description": "<p>You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).</p><p>While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.</p><p>After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.</p>"
 		},
 		"See Invisibility": {
