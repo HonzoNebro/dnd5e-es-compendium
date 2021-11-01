@@ -2,11 +2,11 @@
 	"label": "Mercancías (SRD)",
 	"entries": {
 		"Canvas": {
-			"name": "Lona (Canvas)",
+			"name": "Lona",
 			"description": "<p>Una yarda cuadrada de tela de calidad media y peso. Se usa para muchos artículos y ropa.</p>\n<p>Calificado del 1 al 12, cuanto menor sea el número, mejor será la calidad y más pesado será. El lienzo de calidad número 1 pesa alrededor de 1.7 libras por yarda cuadrada, mientras que el 12, más débil y liviano, puede pesar solo 0.7 libras.</p>"
 		},
 		"Chicken": {
-			"name": "Pollo (Chicken)",
+			"name": "Pollo",
 			"description": "<p>Fuente de tortillas y alas de pollo, el pollo adulto medio pesa entre 5 y 10 libras.</p>"
 		},
 		"Cinnamon": {
