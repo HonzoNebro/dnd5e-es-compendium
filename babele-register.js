@@ -187,7 +187,7 @@ Hooks.once('init', () => {
 	if(typeof Babele !== 'undefined') {
 
 		Babele.get().register({
-			module: 'dnd5e-babele-es',
+			module: 'dnd5e-babele-spanish',
 			lang: 'es',
 			dir: 'es/compendium'
 		});
