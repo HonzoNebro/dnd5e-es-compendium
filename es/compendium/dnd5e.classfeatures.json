@@ -2,103 +2,103 @@
 	"label": "Rasgos de Clase (SRD)",
 	"entries": {
 		"Ability Score Improvement": {
-			"name": "Mejora de Característica (Ability Score Improvement)",
+			"name": "Mejora de característica",
 			"description": "<p>Cuando alcances los niveles 4, 8, 12, 16 y 19, podrás elegir una puntuación de característica y aumentarla en 2 o dos puntuaciones de característica y aumentarlas en 1 cada una. Como es habitual, no puedes aumentar una puntuación de característica por encima de 20.</p>"
 		},
 		"Ability Score Improvement (Fighter)": {
-			"name": "Mejora de Característica del Guerrero (Ability Score Improvement Fighter)",
+			"name": "Mejora de característica del guerrero",
 			"description": "<p>Cuando alcances los niveles 4, 6, 8, 12, 14, 16 y 19, podrás elegir una puntuación de característica y aumentarla en 2 o dos puntuaciones de característica y aumentarlas en 1 cada una. Como es habitual, no puedes aumentar una puntuación de característica por encima de 20.</p>"
 		},
 		"Ability Score Improvement (Rogue)": {
-			"name": "Mejora de Característica del Pícaro (Ability Score Improvement Rogue)",
+			"name": "Mejora de Característica del Pícaro",
 			"description": "<p>Cuando alcances los niveles 4, 8, 10, 12, 16 y 19, podrás elegir una puntuación de característica y aumentarla en 2 o dos puntuaciones de característica y aumentarlas en 1 cada una. Como es habitual, no puedes aumentar una puntuación de característica por encima de 20.</p>"
 		},
 		"Action Surge": {
-			"name": "Acción Súbita (Action Surge)",
+			"name": "Acción Súbita",
 			"description": "<p>A partir de nivel 2, puedes superar tus propios límites durante un instante. Durante tu turno, puedes llevar a cabo una acción más, además de tu acción y acción adicional habituales.</p><p>Una vez utilizado este rasgo, deberás terminar un descanso corto o largo para poder volver a emplearlo de nuevo. A partir de nivel 17, puedes usar este rasgo dos veces antes de descansar, pero solo una vez por turno.</p><p><em>**Nota de Foundry: ten en cuenta que los usos limitados están ajustados a la base por defecto de 1 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Additional Fighting Style": {
-			"name": "Estilo de Combate Adicional (Additional Fighting Style)",
+			"name": "Estilo de Combate Adicional",
 			"description": "<p>Puedes escoger una segunda opción del rasgo Estilo de Combate de entre las siguientes:</p><p>@Compendium[dnd5e.classfeatures.8YwPFv3UAPjWVDNf]{Tiro con Arco}</p><p>@Compendium[dnd5e.classfeatures.zSlV0O2rQMdoq6pB]{Defensa}</p><p>@Compendium[dnd5e.classfeatures.hCop9uJrWhF1QPb4]{Duelo}</p><p>@Compendium[dnd5e.classfeatures.3Nc6u9pyStByuJsm]{Combate con Armas a Dos Manos}</p><p>@Compendium[dnd5e.classfeatures.06NVMYf58Z76O85O]{Protección}</p><p>@Compendium[dnd5e.classfeatures.mHcSjcHJ8oZu3hkb]{Combate con Dos Armas}</p><p>Debes elegir una distinta a la seleccionada en nivel 1.</p><p><em>**Nota de Foundry: Puedes arrastrar tu elección a la hoja de personaje y se actualizará automáticamente.</em></p>"
 		},
 		"Additional Magical Secrets": {
-			"name": "Secretos Mágicos adicionales (Additional Magical Secrets)",
+			"name": "Secretos Mágicos adicionales",
 			"description": "<p>A nivel 6, aprendes dos conjuros a tu elección de los de las listas de cualquier clase. Ambos conjuros deben ser de un nivel que puedas lanzar, tal y como se indica en la tabla del bardo, o un truco. Estos conjuros se consideran, en lo que a ti respecta, conjuros de bardo, pero no cuentan para el numero de conjuros conocidos que puedes tener.</p>"
 		},
 		"Arcane Recovery": {
-			"name": "Recuperación Arcana (Arcane Recovery)",
+			"name": "Recuperación Arcana",
 			"description": "<p>Has aprendido a recuperar parte de tus energías mágicas estudiando tu libro de conjuros. Una vez al día, tras finalizar un descanso corto, puedes elegir espacios de conjuro gastados y recuperarlos. La suma de niveles de estos espacios de conjuro debe ser igual o inferior a la mitad de tu nivel de mago (redondeando hacia arriba), y ninguno de los espacios puede ser de nivel 6 o más.</p><p>Si, por ejemplo, eres un mago de nivel 4, podrás recuperar hasta dos niveles en espacios de conjuro: un espacio de nivel 2 o dos de nivel 1.</p>"
 		},
 		"Arcane Tradition": {
-			"name": "Tradición Arcana (Arcane Tradition)",
+			"name": "Tradición Arcana",
 			"description": "<p>Cuando llegas a nivel 2 escoges una tradición arcana, que moldea tu práctica de la magia a través de la óptica de una de las ocho escuelas: Abjuración, Adivinación, Conjuración, Encantamiento, Evocación, Ilusionismo, Nigromancia y Transmutación.</p><p>Esta elección te proporciona ciertos rasgos cuando alcanzas los niveles 2, 6, 10 y 14.</p>"
 		},
 		"Archdruid": {
-			"name": "Archidruida (Archdruid)",
+			"name": "Archidruida",
 			"description": "<p>A nivel 20 puedes usar tu @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{Forma Salvaje} un número ilimitado de veces.</p><p>Además, puedes ignorar los componentes somáticos y verbales de tus conjuros de druida, así como aquellos componentes materiales que carezcan de un coste concreto y no sean consumidos al lanzar el conjuro.</p><p>Obtienes este beneficio tanto en tu forma normal como las formas de bestia del rasgo Forma Salvaje.</p>"
 		},
 		"Aura of Courage": {
-			"name": "Aura de Coraje (Aura of Courage)",
+			"name": "Aura de Coraje",
 			"description": "<p>A partir de nivel 10, ni tu ni las criaturas amistosas a 10 pies o menos de ti podréis ser asustadas mientras permanezcas consciente.</p><p>A nivel 18 el alcance de esta aura aumenta a 30 pies.</p>"
 		},
 		"Aura of Devotion": {
-			"name": "Aura de Entrega (Aura of Devotion)",
+			"name": "Aura de Entrega",
 			"description": "<p>A partir de nivel 7, ni tu ni las criaturas amistosas a 10 pies o menos de ti podéis ser hechizadas mientras permanezcas consciente.</p><p>A nivel 18 el alcance de esta aura aumenta a 30 pies.</p>"
 		},
 		"Aura of Protection": {
-			"name": "Aura de Protección (Aura of Protection)",
+			"name": "Aura de Protección",
 			"description": "<p>A partir de nivel 6, cuando tú o una criatura amistosa a 10 pies o menos de ti debáis hacer una tirada de salvación, obtendréis un bombeador igual a tu modificador por Carisma (mínimo de +1) a dicha tirada. Debes estar consciente para poder conceder este bonificador.</p><p>A nivel 18 el alcance de esta aura aumenta a 30 pies.</p>"
 		},
 		"Bard College": {
-			"name": "Colegio Bárdico (Bard College)",
+			"name": "Colegio Bárdico",
 			"description": "<p>A nivel 3 profundizas en las técnicas avanzadas de un colegio bárdico a tu elección: el Colegio del Conocimiento o el Colegio del Valor. Ambos están explicados al final de la descripción de esta clase. Esta elección te proporciona ciertos rasgos cuando alcanzas los niveles 3, 6 y 14.</p>"
 		},
 		"Bardic Inspiration": {
-			"name": "Inspiración Bárdica (Bardic Inspiraton)",
+			"name": "Inspiración Bárdica",
 			"description": "<p>Puedes recurrir a tus palabras o a tu música, especialmente emotivas, para inspirar a las demás. Para hacer esto, deberás utilizar una acción adicional durante tu turno y elegir a una criatura que no seas tú, pueda oírte y esté a 60 pies o menos de ti. Dicho objetivo recibe un dado de Inspiración Bárdica, 1d6. Una sola vez, antes de que pasen 10 minutos, la criatura puede tirar el dado y añadir el resultado a una de sus pruebas de característica, tiradas de ataque o tiradas de salvación. Puede esperar a ver el resultado del d20 antes de elegir si usar el dado de Inspiración Bárdica, pero debe tomar la decisión antes de que el DM diga si la tirada tiene éxito o no. Una vez se tira el dado de Inspiración Bárdica, este se pierde. Además, cada criatura solo puede tener un dado de Inspiración Bárdica al mismo tiempo.</p><p>Puedes utilizar este rasgo tantas veces como tu modificador por Carisma (mínimo una vez).</p><p>Recuperas todos los usos tras finalizar un descanso largo.</p><p>Tu dado de Inspiración Bárdica cambia cuando alcanzas ciertos niveles de esta clase: pasa a ser 1d8 a nivel 5, 1d10 a nivel 10 y 1d12 a nivel 15.</p><p><em>**Notas de Foundry: Ten en cuenta que la fórmula de Otros está fijada en la base predeterminada de 1d6 y que los usos limitados están fijados en el mínimo de 1. Además, la recuperación está fijada en el descanso largo (para los niveles anteriores a @Compendium[dnd5e.classfeatures.3VDZGs5Ug3hIE322]{Fuente de Inspiración}). Se deberá ajustar manualmente según sea necesario.</em></p>"
 		},
 		"Beast Spells": {
-			"name": "Conjurar como Bestia (Beast Spells)",
+			"name": "Conjurar como Bestia",
 			"description": "<p>A partir de nivel 18, eres capaz de lanzar muchos conjuros de druida incluso cuando adoptas una de las formas del rasgo @Compendium[dnd5e.classfeatures.swK0r5TOIxredxWS]{Forma Salvaje}. Puedes ejecutar los componentes somáticos y verbales de un conjuro de druida, aunque estés en forma de bestia, pero sigues sin poder proporcionar los componentes materiales.</p>"
 		},
 		"Blessed Healer": {
-			"name": "Sanador Bendito (Blessed Healer)",
+			"name": "Sanador Bendito",
 			"description": "<p>A partir de nivel 6, los conjuros de curación que lances sobre otros también te sanan a ti.</p><p>Cuando emplees un conjuro de nivel 1 o más para hacer recuperar puntos de golpe a una criatura que no seas tú, tú recuperarás 2 + el nivel del conjuro puntos de golpe.</p><p><em>**Nota de Foundry: La fórmula de curación se ha establecido en 2. Añade manualmente la bonificación por nivel del conjuro.</em></p>"
 		},
 		"Blindsense": {
-			"name": "Sentir sin Ver (Blindsense)",
+			"name": "Sentir sin Ver",
 			"description": "<p>A partir de nivel 14, si eres capaz de escuchar, también eres consciente de la ubicación de cualquier criatura escondida o invisible a 10 pies o menos de ti.</p>"
 		},
 		"Bonus Cantrip (Druid)": {
-			"name": "Truco Adicional del Druida (Bonus Cantrip Druid)",
+			"name": "Truco Adicional del Druida",
 			"description": "<p>A nivel 2, cuando escoges este círculo, aprendes un truco de druida adicional a tu elección.</p>"
 		},
 		"Bonus Proficiencies (College of Lore)": {
-			"name": "Competencias Adicionales del Colegio del Conocimiento (Bonus Proficiencies College of Lore)",
+			"name": "Competencias Adicionales del Colegio del Conocimiento",
 			"description": "<p>Cuando te unes al Colegio del Conocimiento, a nivel 3, ganas competencia en tres habilidades cualquiera, las que elijas.</p>"
 		},
 		"Bonus Proficiency (Life Domain)": {
-			"name": "Competencia Adicional del Dominio de la Vida (Bonus Proficiency Life Domain)",
+			"name": "Competencia Adicional del Dominio de la Vida",
 			"description": "<p>A nivel 1, cuando escoges este dominio, ganas competencia con armaduras pesadas.</p>"
 		},
 		"Brutal Critical": {
-			"name": "Crítico Brutal (Brutal Critical)",
+			"name": "Crítico Brutal",
 			"description": "<p>A partir de nivel 9, cuando hagas un crítico con un ataque cuerpo a cuerpo, podrás tirar uno de los dados de daño del arma una vez más y añadir el resultado al daño adicional causado. Podrás tirar dos dados adicionales a partir de nivel 13 y tres dados adicionales a partir de nivel 17.</p>"
 		},
 		"Channel Divinity (Cleric)": {
-			"name": "Canalizar Divinidad del Clérigo (Channel Divinity Cleric)",
+			"name": "Canalizar Divinidad del Clérigo",
 			"description": "<p>A nivel 2 ganas la habilidad para canalizar energía divina directamente desde tu deidad y usar dicha energía para alimentar varios efectos mágicos. Empiezas con dos de estos efectos: Expulsar Muertos Vivientes y un segundo poder determinado por tu dominio. Algunos dominios te otorgan efectos adicionales al subir de nivel, tal y como se indica en sus descripciones.</p><p>Cuando utilices Canalizar Divinidad, elige cuál de los efectos vas a crear. Deberás terminar un descanso corto o largo para poder volver a usar Canalizar Divinidad otra vez. Algunos efectos de Canalizar Divinidad exigen hacer tiradas de salvación. Cuando utilices uno de los proporcionados por esta clase, la CD será la misma que la de las tiradas de salvación de tus conjuros de clérigo.</p><p>A partir de nivel 6, puedes emplear Canalizar Divinidad dos veces entre descansos y, a partir de nivel 18, tres veces. Recuperas todos los usos tras realizar un descanso corto o largo.</p><p><em>**Nota de Foundry: Utiliza esta opción para contabilizar todos los usos de Canalizar Divinidad del clérigo. Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Channel Divinity (Paladin)": {
-			"name": "Canalizar Divinidad del Paladín (Channel Divinity Paladin)",
+			"name": "Canalizar Divinidad del Paladín",
 			"description": "<p>Tu juramento te permite canalizar energía divina para alimentar varios efectos mágicos. Cada forma de utilizar Canalizar Divinidad que tu juramento te proporciona incluye una explicación de cómo usarla.</p><p>Cuando empleas Canalizar Divinidad, elige cuál de las opciones vas a emplear. Deberás terminar un descanso corto o largo para poder volver a usar Canalizar Divinidad otra vez.</p><p>Algunos efectos de Canalizar Divinidad exigen hacer tiradas de salvación. Cuando utilices uno de los proporcionados por esta clase, la CD será la misma que la de las tiradas de salvación de tus conjuros de paladín.</p><p><em>**Nota de Foundry: Utiliza esta opción para contabilizar todos los usos de Canalizar Divinidad del paladín.</em></p>"
 		},
 		"Channel Divinity: Preserve Life": {
-			"name": "Canalizar Divinidad: Preservar vida (Channel Divinity: Preserve Life)",
+			"name": "Canalizar Divinidad: Preservar vida",
 			"description": "<p>A partir de nivel 2, eres capaz de utilizar tu Canalizar Divinidad para curar a los gravemente heridos.</p><p>Como acción, puedes mostrar tu símbolo sagrado y generar una energía curativa capaz de recuperar tantos puntos de golpe como cinco veces tu nivel de clérigo.</p><p>Elige a cualquier cantidad de criaturas a 30 pies o menos de ti y divide estos puntos de golpe entre ellas. Este rasgo no puede hacer que una criatura pase a tener más de la mitad de sus puntos de golpe máximos y no podrás utilizarlo sobre muertos vivientes o autómatas.</p>"
 		},
 		"Channel Divinity: Sacred Weapon": {
-			"name": "Canalizar Divinidad: Arma Sagrada (Channel Divinity: Sacred Weapon)",
+			"name": "Canalizar Divinidad: Arma Sagrada",
 			"description": "<p>Como acción, puedes usar Canalizar Divinidad para imbuir de energía positiva una de las armas que estés sujetando.</p><p>Durante 1 minuto, añades tu modificador por Carisma a las tiradas de ataque hechas con dicha arma (bonificador mínimo de +1). El arma también emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. Además, si no lo era ya, el arma se convierte en mágica mientras dure este efecto.</p><p>Puedes dar por finalizado este efecto durante tu turno, como parte de cualquier otra acción. También terminará si dejas de empuñar o llevar el arma, o si caes inconsciente.</p>"
 		},
 		"Channel Divinity: Turn Undead": {
@@ -798,7 +798,7 @@
 			"description": "<p>A partir de nivel 4, puedes usar tu reacción cuando caigas para reducir cualquier daño por caída que recibas en cinco veces tu nivel de monje.</p>"
 		},
 		"Sneak Attack": {
-			"name": "Ataque Furtivo (Sneak Attack)",
+			"name": "Ataque furtivo",
 			"description": "<p>A partir de nivel 1 sabes cómo golpear sutilmente y aprovecharte de un enemigo distraído. Una vez por turno, puedes infligir 1d6 de daño adicional a una criatura a la que impactes con un ataque en cuya tirada de ataque tuvieras ventaja. Este ataque debe haber sido hecho utilizando un arma sutil o a distancia.</p><p>No necesitas tener ventaja en la tirada de ataque si otro enemigo del objetivo está a 5 pies o menos de él, dicho enemigo no está incapacitado, y no sufres desventaja en la tirada de ataque.</p>"
 		},
 		"Song of Rest": {

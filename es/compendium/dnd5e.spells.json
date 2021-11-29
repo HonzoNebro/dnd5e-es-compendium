@@ -15,7 +15,7 @@
 		},
 		"Alarm": {
 			"name": "Alarma",
-			"description": "<p>Ponga una alarma contra la intrusión no deseada. Elige una puerta, una ventana o un área dentro del alcance que no sea mayor que un cubo de 20 pies. Hasta que el hechizo termine, una alarma te avisa cada vez que una criatura Diminuta o mayor toca o entra en el área protegida. Cuando lanzas el hechizo, puedes designar las criaturas que no activarán la alarma. También puedes elegir si la alarma es mental o audible.</p><p>Una alarma mental te alerta con un ping en tu mente si estás a menos de 1 milla del área protegida. Este ping te despierta si estás durmiendo.</p> <p>Una alarma audible produce el sonido de una campana de mano durante 10 segundos en un radio de 60 pies.</p>"
+			"description": "<p>Preparas una alarma contra intrusos. Elige una puerta, ventana o cualquier otra área dentro del alcance cuyo volumen sea menor o igual que un cubo de 20 pies de lado. Una alarma te avisará siempre que una criatura. Diminuta o de tamaño superior, toque o entre en la zona vigilada antes del final del conjuro. Al lanzarlo puedes elegir que ciertas criaturas no activarán la alarma, que puede ser mental o sonora.</p><p>Una alarma mental te alerta con un sonido dentro de tu mente si estás a 1 milla de la zona vigilada. Si estás dormido, te despertará.</p><p>Una alarma sonora produce un sonido de campanilla durante 10 segundos audible a 60 pies de distancia.</p>"
 		},
 		"Alter Self": {
 			"name": "Alterar el propio aspecto",
