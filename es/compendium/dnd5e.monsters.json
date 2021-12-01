@@ -13,6 +13,10 @@
 			"name": "Dragón negro adulto",
 			"description": ""
 		},
+		"Adult Blue Dracolich": {
+			"name": "Adult Blue Dracolich",
+			"description": ""
+		},
 		"Adult Blue Dragon": {
 			"name": "Dragón azul adulto",
 			"description": ""
@@ -399,7 +403,7 @@
 		},
 		"Ettercap": {
 			"name": "Ettercap",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Ettin": {
 			"name": "Ettin",
@@ -667,7 +671,7 @@
 		},
 		"Hippogriff": {
 			"name": "Hipogrifo",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Hobgoblin": {
 			"name": "Hobgoblin",
@@ -743,7 +747,7 @@
 		},
 		"Lich": {
 			"name": "Liche",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Lion": {
 			"name": "León",
@@ -819,7 +823,7 @@
 		},
 		"Mummy Lord": {
 			"name": "Señor de las momias",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Nalfeshnee": {
 			"name": "Nalfeshnee",
@@ -1147,11 +1151,11 @@
 		},
 		"Troll": {
 			"name": "Trol",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Tyrannosaurus Rex": {
 			"name": "Tiranosaurio Rex",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
+			"description": ""
 		},
 		"Unicorn": {
 			"name": "Uniconio",
