@@ -78,7 +78,7 @@
 			"description": "<p>El {creature} es considerada un animal Grande en lo que su capacidad de carga respecta.</p>"
 		},
 		"Berserk": {
-			"name": "Berserk",
+			"name": "Berserker",
 			"description": "<section class=\"secret\">\n<p>Si el {creature} empieza su turno con <strong>60 puntos de golpe</strong> o menos, tira un d6. Si sacas un 6, el {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver.</p><p>Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que él. Una vez el {creature} ha entrado en estado berserk, seguirá bajo sus efectos hasta que sea destruido o recupere todos sus <strong>puntos de golpe</strong>.</p>\n</section>\n<p>El {creature} se ve poseído por una furia berserk. Durante cada uno de los turnos que pase en este estado, el {creature} atacará a la criatura más cercana que pueda ver. Si no hay ninguna criatura lo bastante próxima como para que se mueva hasta ella y la ataque, el {creature} atacará a un objeto, dando preferencia a los que son más pequeños que el.</p>"
 		},
 		"Bite": {
@@ -651,7 +651,7 @@
 		},
 		"Psychic Drain": {
 			"name": "Drenaje psíquico",
-			"description": "<p>Una criatura hechizada por el {creature} recibe <strong>10 (3d6) de <em>daño psíquico</em></strong> y este recupera tantos puntos de golpe como el daño recibido por dicha criatura.</p>"
+			"description": "<p>Una criatura hechizada por el {creature} recibe <strong>10 (3d6) de daño psíquico</strong> y este recupera tantos puntos de golpe como el daño recibido por dicha criatura.</p>"
 		},
 		"Rampage": {
 			"name": "Rabia",
