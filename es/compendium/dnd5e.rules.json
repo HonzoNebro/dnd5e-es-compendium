@@ -15,7 +15,7 @@
 		},
 		"03. Classes": {
 			"name": "03. Clases",
-			"description": "<p>@Compendium[dnd5e.classes.pvEzGSv71zBhaolc]{Barbarian}</p>\n<p>@Compendium[dnd5e.classes.ILvRZGEx3aXqSVUt]{Bard}</p>\n<p>@Compendium[dnd5e.classes.tlwBnN8GmqJcTgub]{Cleric}</p>\n<p>@Compendium[dnd5e.classes.ygVYgPbJkaH0tH1N]{Druid}</p>\n<p>@Compendium[dnd5e.classes.ABEBgWyRhVlDUIfq]{Fighter}</p>\n<p>@Compendium[dnd5e.classes.6VoZrWxhOEKGYhnq]{Monk}</p>\n<p>@Compendium[dnd5e.classes.gZiUvbXWLs0pOp0c]{Paladin}</p>\n<p>@Compendium[dnd5e.classes.VkRQ7glQvTWWiOCS]{Ranger}</p>\n<p>@Compendium[dnd5e.classes.xEb8jmA5HlNs7xTF]{Rogue}</p>\n<p>@Compendium[dnd5e.classes.6T08zzKtmmpVwlXU]{Sorcerer}</p>\n<p>@Compendium[dnd5e.classes.7WJp9vhi6F6SlAFa]{Warlock}</p>\n<p>@Compendium[dnd5e.classes.wZK2Q0rXB0AQo8h3]{Wizard}</p>"
+			"description": "<p>@Compendium[dnd5e.classes.pvEzGSv71zBhaolc]{Bárbaro}</p>\n<p>@Compendium[dnd5e.classes.ILvRZGEx3aXqSVUt]{Bardo}</p>\n<p>@Compendium[dnd5e.classes.7WJp9vhi6F6SlAFa]{Brujo}</p>\n<p>@Compendium[dnd5e.classes.tlwBnN8GmqJcTgub]{Clérigo}</p>\n<p>@Compendium[dnd5e.classes.ygVYgPbJkaH0tH1N]{Druida}</p>\n<p>@Compendium[dnd5e.classes.VkRQ7glQvTWWiOCS]{Explorador}</p>\n<p>@Compendium[dnd5e.classes.ABEBgWyRhVlDUIfq]{Guerrero}</p>\n<p>@Compendium[dnd5e.classes.6T08zzKtmmpVwlXU]{Hechicero}</p>\n<p>@Compendium[dnd5e.classes.wZK2Q0rXB0AQo8h3]{Mago}</p>\n<p>@Compendium[dnd5e.classes.6VoZrWxhOEKGYhnq]{Monje}</p>\n<p>@Compendium[dnd5e.classes.gZiUvbXWLs0pOp0c]{Paladín}</p>\n<p>@Compendium[dnd5e.classes.xEb8jmA5HlNs7xTF]{Pícaro}</p>"
 		},
 		"04. Personality and Background": {
 			"name": "04. Personalidad y Transfondo",
