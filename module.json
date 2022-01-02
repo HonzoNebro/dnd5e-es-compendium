@@ -21,6 +21,11 @@
     "name": "babele",
     "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
     "version": "2.1.3"
+  },
+  {
+  	"name": "lib-wrapper",
+    "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/download/v1.11.0.1/module.json",
+    "version": "1.11.0.1"
   }],
   "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
   "manifest": "https://raw.githubusercontent.com/HonzoNebro/dnd5e-es-compendium/master/module.json",
