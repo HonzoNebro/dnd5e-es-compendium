@@ -46,8 +46,8 @@
 			"description": "<p>Este fluido pegajoso y adherente prende al entrar en contacto con el aire. Como acción, puedes lanzar este frasco hasta a 20 pies, rompiéndose con el impacto. Haz un ataque a distancia contra la criatura o el objeto, tratando el fuego de alquimista como un arma improvisada: si tienes éxito, el objetivo recibirá 1d4 de daño de fuego al comienzo de cada uno de sus turnos. Una criatura puede utilizar su acción para extinguir las llamas y evitar que se siga produciendo este daño. Deberá superar una prueba de Destreza CD 10 para lograrlo.</p>"
 		},
 		"Alchemist's Supplies": {
-			"name": "Alchemist's Supplies",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in alchemy.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"name": "Suministros de alquimista",
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alquimista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Alchemy Jug": {
 			"name": "Vasija alquímica",
@@ -94,8 +94,8 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Cuando llevas puesta esta armadura, tienes resistencia a un tipo de daño de entre los siguientes: contundente, cortante o perforante. El DM elige el tipo o lo determina al azar.</p>\n<p><strong>Maldición</strong>. Esta armadura esta maldita, circunstancia que solo se revela cuando se usa el conjuro de Identificar sobre ella o te sintonizas con ella. Sintonizarse con la armadura te maldice hasta que seas objetivo del conjuro levantar maldición o un efecto mágico similar. Quitarse la armadura no acaba con la maldición. Mientras estés maldito, de los tres tipos de daño mencionados arriba, eres vulnerable a los dos contra los que la armadura no te proporciona resistencia.</p>"
 		},
 		"Arrow": {
-			"name": "Arrow",
-			"description": "<p>Standard ammunition used for bows of all varieties. These mundane arrows are made of smooth wooden shafts with goose feather fletching and hammer metal bodkins.</p>"
+			"name": "Flecha",
+			"description": "<p>Munición común utilizada por arcos de cualquier tipo. Estas flechas mundanas están hechas de lisas varas de madera con plumas de ganso y puntas de metal.</p>"
 		},
 		"Arrow +1": {
 			"name": "Flecha +1",
@@ -347,7 +347,7 @@
 		},
 		"Brewer's Supplies": {
 			"name": "Suministros de cervecero",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in brewing.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cervecero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Bronze Horn of Valhalla": {
 			"name": "Cuerno del Valhalla de bronce",
@@ -391,7 +391,7 @@
 		},
 		"Carpenter's Tools": {
 			"name": "Herramientas de carpintero",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in carpentry.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un carpintero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Carpet of Flying": {
 			"name": "Alfombra voladora",
@@ -399,7 +399,7 @@
 		},
 		"Cartographer's Tools": {
 			"name": "Herramientas de cartógrafo",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cartography.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cartógrafo.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Censer": {
 			"name": "Incensario",
@@ -458,8 +458,8 @@
 			"description": "<p>Es una roca sedimentaria de acarbonato blanda y porosa, es decir, una especie de piedra caliza compuesta por el mineral calcita. Puede utilizarse para dibujar formas.</p>"
 		},
 		"Chess Set": {
-			"name": "Chess Set",
-			"description": "<p>This item is a complete set of chess pieces and board. The board can also be used for variations of draughts and checkers.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"name": "Juego de ajedrez",
+			"description": "<p>Este objeto es un juego completo de piezas y tablero de ajedrez. El tablero también se puede utilizar para las distintas variantes de damas.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Chest": {
 			"name": "Cofre",
@@ -519,7 +519,7 @@
 		},
 		"Cobbler's Tools": {
 			"name": "Herramientas de zapatero",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cobblery.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un zapatero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Common Clothes": {
 			"name": "Ropas comunes",
@@ -531,7 +531,7 @@
 		},
 		"Cook's Utensils": {
 			"name": "Útiles de cocinero",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in cookery.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un cocinero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Costume Clothes": {
 			"name": "Disfraz - Ropa",
@@ -682,8 +682,8 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Mientras lleves esta armadura de placas, obtienes un bonificador de +1 a tu CA y puedes entender y hablar abisal. Además, los guanteletes con garras de la armadura convierten tus ataques sin armas hechos con tus manos en armas mágicas que infligen daño cortante, con un bonificador de +1 a las tiradas de ataque y daño y cuyo dado de daño es 1d8.</p>\n<p><strong>Maldición.</strong> Una vez te pones esta armadura, no puedes quitártela hasta que seas objetivo de un conjuro de @Compendium[dnd5e.spells.XZhdgVK3cLoxNCQl]{Levantar maldición} o un efecto mágico similar. Mientras lleves esta armadura, tienes desventaja en tiradas de ataque contra demonios y en tiradas de salvación contra sus conjuros y habilidades especiales.</p>"
 		},
 		"Dice Set": {
-			"name": "Dice Set",
-			"description": "<p>This item encompasses a wide range of dice, both straight and weighted.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"name": "Juego de dados",
+			"description": "<p>Este objeto incluye una amplia gama de dados, tanto normales como cargados.</p>\n<p>Si eres competente con un juego, puedes añadir tu bonificador por competencia a las pruebas de característica que hagas para jugar con él. Cada tipo de juego requiere su propia competencia independiente.</p>"
 		},
 		"Dimensional Shackles": {
 			"name": "Grilletes dimensionales",
@@ -1015,7 +1015,7 @@
 		},
 		"Glassblower's Tools": {
 			"name": "Herramientas de soplador de vidrio",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in glassblowing.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un soplador de vidrio.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Gloves of Missile Snaring": {
 			"name": "Guantes atrapaflechas",
@@ -1407,7 +1407,7 @@
 		},
 		"Jeweler's Tools": {
 			"name": "Herramientas de joyero",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in jewelry.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un joyero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Jug": {
 			"name": "Jarro",
@@ -1463,7 +1463,7 @@
 		},
 		"Leatherworker's Tools": {
 			"name": "Herramientas de curtidor",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in leatherworking.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un curtidor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Light Crossbow": {
 			"name": "Ballesta ligera",
@@ -1634,12 +1634,12 @@
 			"description": "<p>Esta caja de cuero cilíndrica puede contener hasta diez hojas de papel o cinco hojas de pergamino, enrolladas en ambos casos.</p>"
 		},
 		"Marvelous Pigments": {
-			"name": "Marvelous Pigments",
-			"description": "<p>Typically found in [[/r 1d4]] pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.</p>\n<p>Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features—such as a door, a pit, flowers, trees, cells, rooms, or weapons—that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.</p>\n<p>When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.</p>\n<p>Nothing created by the pigments can have a value greater than 25 gp. If you paint an object of greater value (such as a diamond or a pile of gold), the object looks authentic, but close inspection reveals it is made from paste, bone, or some other worthless material.</p>\n<p>If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.</p>"
+			"name": "Pigmentos maravillosos",
+			"description": "<p>Típicamente se encuentran en [[/r 1d4]] botes dentro de una caja de madera fina con un pincel (que pesa 1 libra en total), estos pigmentos te permiten crear objetos tridimensionales pintándolos en dos dimensiones. La pintura fluye desde el pincel para formar el objeto deseado mientras te concentras en su imagen.</p>\n<p>Cada bote de pintura es suficiente para cubrir 1.000 pies cuadrados de una superficie, lo que te permite crear objetos inanimados o elementos del terreno -como una puerta, un foso, flores, árboles, celdas, habitaciones o armas- de hasta 10.000 pies cúbicos. Se tarda 10 minutos en cubrir 100 pies cuadrados.</p>\n<p>Cuando completas la pintura, el objeto o característica del terreno representado se convierte en un objeto real, no mágico. Así, pintar una puerta en una pared crea una puerta real que puede abrirse a lo que haya más allá. Pintar un pozo en un suelo crea un pozo real, y su profundidad cuenta en el área total de objetos que creas.</p>\n<p>Nada creado por los pigmentos puede tener un valor superior a 25 po. Si pintas un objeto de mayor valor (como un diamante o un montón de oro), el objeto parece auténtico, pero una inspección cercana revela que está hecho de pasta, hueso o algún otro material sin valor.</p>\n<p>Si pintas una forma de energía como el fuego o el rayo, la energía aparece pero se disipa en cuanto terminas de pintar, sin hacer daño a nada.</p>"
 		},
 		"Mason's Tools": {
 			"name": "Herramientas de albañil",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in masonry.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un albañil.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Maul": {
 			"name": "Maza a dos manos",
@@ -1726,8 +1726,8 @@
 			"description": "<p><em>Ya sea a través de una bendición demoníaca, un legado celestial, un experimento alocado o un hábil trabajo artesanal, esta arma ha sido mejorada para que su portador derrame más sangre.</em></p>\n<p>Recibes un bonificador a las tiradas de ataque y de daño que hagas con esta arma.</p>"
 		},
 		"Navigator's Tools": {
-			"name": "Navigator's Tools",
-			"description": "<p>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</p>"
+			"name": "Herramientas de navegante",
+			"description": "<p>Estos instrumentos se utilizan para orientarse en el mar. Si eres competente con ellos, podrás planear la ruta de un barco e interpretar cartas náuticas, además de añadir tu bonificador por competencia a cualquier prueba de característica para evitar perderte en el mar.</p>"
 		},
 		"Necklace of Adaptation": {
 			"name": "Collar de adaptación",
@@ -1787,7 +1787,7 @@
 		},
 		"Oil of Etherealness": {
 			"name": "Aceite de etereidad",
-			"description": "<p><em>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate.  </em></p>\n<p>The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium).  Applying the oil takes 10 minutes.  The affected creature then gains the effect of the @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Etherealness} spell for 1 hour.</p>"
+			"description": "<p><em>En el exterior de este recipiente se forman y evaporan rápidamente gotitas de un aceite turbio y gris.</em></p>\n<p>Este aceite puede cubrir completamente a una criatura Mediana o más pequeña, así como el equipo que vista y cargue. Es necesario un vial adicional por cada categoría de tamaño por encima de Mediano. Se tarda 10 minutos en aplicar este aceite. La criatura afectada gana los efectos del conjuro @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Excursión etérea} durante 1 hora.</p>"
 		},
 		"Oil of Sharpness": {
 			"name": "Aceite de afilado",
@@ -1795,7 +1795,7 @@
 		},
 		"Oil of Slipperiness": {
 			"name": "Aceite escurridizo",
-			"description": "<p><em>This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. </em></p>\n<p>The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium).  Applying the oil takes 10 minutes.  The affected creature then gains the effect of a @Compendium[dnd5e.spells.da0a1t2FqaTjRZGT]{Freedom of Movement} spell for 8 hours.</p>\n<p>Alternatively, the oil can be poured on the ground as an action, where it covers a 10‑foot square, duplicating the effect of the @Compendium[dnd5e.spells.etgcR9wqmrhyZ0tx]{Grease} spell in that area for 8 hours.</p>"
+			"description": "<p><em>Este ungüento negro y pegajoso parece denso y pesado dentro del recipiente, pero fluye rápidamente al verterlo.</em></p>\n<p>El aceite puede cubrir completamente a una criatura Mediana o más pequeña, así como el equipo que vista y cargue. Es necesario un vial adicional por cada categoría de tamaño por encima de Mediano. Se tarda 10 minutos en aplicarlo. La criatura afectada gana los efectos del conjuro @Compendium[dnd5e.spells.da0a1t2FqaTjRZGT]{Libertad de movimiento} durante 8 horas.</p>\n<p>De forma alternativa, puede utilizarse una acción para derramar el contenido del frasco, cubriendo una zona de 10 por 10 pies de aceite y replicando los efectos del conjuro @Compendium[dnd5e.spells.etgcR9wqmrhyZ0tx]{Grasa} durante 8 horas.</p>"
 		},
 		"Orb": {
 			"name": "Orbe",
@@ -1827,7 +1827,7 @@
 		},
 		"Painter's Supplies": {
 			"name": "Suministros de pintor",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in painting.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un pintor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pan Flute": {
 			"name": "Flauta de pan",
@@ -1863,7 +1863,7 @@
 		},
 		"Philter of Love": {
 			"name": "Filtro de amor",
-			"description": "<p><em>This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.</em></p>\n<p>The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed.</p>\n<p> </p>"
+			"description": "<p><em>El líquido efervescente y de tonalidad rosa de esta poción contiene una burbuja, difícil de encontrar, con forma de corazón.</em></p>\n<p>Quedas hechizado durante una hora de la próxima criatura que veas en los 10 minutos posteriores a beber este filtro. Si la criatura es de un género y especie que normalmente te atraería, la considerarás tu amor verdadero mientras permanezcas hechizado.</p>\n<p> </p>"
 		},
 		"Pike": {
 			"name": "Pica",
@@ -1922,12 +1922,12 @@
 			"description": "<p><em>(Requiere sintonización)</em></p>\n<p>Tienes resistencia a un tipo de daño cuando llevas puesta esta armadura. El DM elige el tipo o lo determina al azar de entre las opciones siguientes.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d10</strong></td>\n<td><strong>Tipo de</strong> <strong>daño</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Frío</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fuerza</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Relámpago</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Necrótico</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Psíquico</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Radiante</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Trueno</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
 		},
 		"Playing Cards Set": {
-			"name": "Playing Cards Set",
-			"description": "<p>This item encompasses a wide range of playing card types, both unmarked and marked.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+			"name": "Naipes",
+			"description": "<p>Este objeto incluye una amplia gama de tipos de naipes, tanto sin marcar como marcados.</p>\n<p>Si eres competente con un set de juego, puedes agregar tu bonificación de habilidad a las pruebas de habilidad que realizas con ese juego. Cada tipo de juego de juegos requiere una competencia separada.</p>"
 		},
 		"Poisoner's Kit": {
-			"name": "Poisoner's Kit",
-			"description": "<p>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</p>"
+			"name": "Útiles de envenenador",
+			"description": "<p>Este juego de útiles incluye los viales, productos químicos y todo el equipo necesario para producir venenos. La competencia con ellos te permite añadir tu bonificador por competencia a las pruebas de característica para fabricar o usar venenos</p>"
 		},
 		"Pole": {
 			"name": "Vara",
@@ -1959,7 +1959,7 @@
 		},
 		"Potion of Cloud Giant Strength": {
 			"name": "Poción de fuerza de gigante de las nubes",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 27 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 27 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>\n<p> </p>"
 		},
 		"Potion of Cold Resistance": {
 			"name": "Poción de resistencia al frío",
@@ -1967,11 +1967,11 @@
 		},
 		"Potion of Diminution": {
 			"name": "Poción de encoger",
-			"description": "<p><em>The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it.  Shaking the bottle fails to interrupt this process.</em></p>\n<p>When you drink this potion, you gain the \"reduce\" effect of the @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Enlarge/Reduce} spell for 1d4 hours (no concentration required). </p>\n<p> </p>\n<p> </p>\n<p> </p>"
+			"description": "<p><em>En el recipiente, el rojo de la poción se contrae continuamente hasta una pequeña gota, expandiéndose después para teñir el líquido a su alrededor. Agitar la botella no perturba este proceso.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto de \"reducir\" del conjuro @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Agrandar/Reducir} durante  1d4 horas (no requiere concentración).</p>"
 		},
 		"Potion of Fire Giant Strength": {
 			"name": "Poción de fuerza de gigante de fuego",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 25 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 25 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Fire Resistance": {
 			"name": "Poción de resistencia al fuego",
@@ -1979,7 +1979,7 @@
 		},
 		"Potion of Flying": {
 			"name": "Poción de vuelo",
-			"description": "<p><em>This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.</em></p>\n<p>When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft. </p>\n<p> </p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción flota en la parte superior del frasco, surcado por impurezas blancas con forma de nubes.</em></p>\n<p>Beber esta poción te dota durante 1 hora de una velocidad volando igual a tu velocidad caminando. Si estás en el aire cuando el efecto de la poción termina, caerás a menos que tengas algún otro método para permanecer a flote.</p>"
 		},
 		"Potion of Force Resistance": {
 			"name": "Poción de resistencia a la fuerza",
@@ -1987,11 +1987,11 @@
 		},
 		"Potion of Frost Giant Strength": {
 			"name": "Poción de fuerza de gigante de escarcha",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 23 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 23 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Gaseous Form": {
 			"name": "Poción de forma gaseosa",
-			"description": "<p><em>This potion's container seems to hold fog that moves and pours like water.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.2IWiZAJtOGDoKjiz]{Gaseous Form} spell for 1 hour (no concentration required) or until you end the effect as a bonus action. </p>\n<p> </p>"
+			"description": "<p><em>El frasco parece contener una niebla que se mueve y derrama como si fuera agua.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto del conjuro @Compendium[dnd5e.spells.2IWiZAJtOGDoKjiz]{Forma gaseosa} durante 1 hora (no requiere concentración) o hasta que lo des por terminado utilizando una acción adicional.</p>"
 		},
 		"Potion of Greater Healing": {
 			"name": "Poción de curación mayor",
@@ -1999,7 +1999,7 @@
 		},
 		"Potion of Growth": {
 			"name": "Poción de crecimiento",
-			"description": "<p><em>The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts.  Shaking the bottle fails to interrupt this process.</em></p>\n<p>When you drink this potion, you gain the \"enlarge\" effect of the @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Enlarge/Reduce} spell for 1d4 hours (no concentration required).</p>"
+			"description": "<p><em>En el recipiente, el rojo de la poción se expande continuamente para teñir el líquido a su alrededor, contrayéndose después hasta una pequeña gota. Agitar la botella no perturba este proceso.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto de \"agrandar\" del conjuro @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Agrandar/Reducir} durante 1d4 horas (no requiere concentración).</p>"
 		},
 		"Potion of Healing": {
 			"name": "Poción de curación",
@@ -2011,11 +2011,11 @@
 		},
 		"Potion of Hill Giant Strength": {
 			"name": "Poción de fuerza de gigante de las colinas",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 21 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 21 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Invisibility": {
 			"name": "Poción de invisibilidad",
-			"description": "<p><em>This potion's container looks empty but feels as though it holds liquid. </em></p>\n<p>When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.</p>\n<p> </p>"
+			"description": "<p><em>El frasco de esta poción parece vacío, pero al mismo tiempo da la impresión de tener líquido dentro.</em></p>\n<p>Al beberlo te vuelves invisible durante 1 hora. Mientras estés en ese estado, cualquier cosa que vistas o lleves encima será también invisible. El efecto termina si atacas o lanzas un conjuro.</p>"
 		},
 		"Potion of Lightning Resistance": {
 			"name": "Poción de resistencia al relámpago",
@@ -2023,7 +2023,7 @@
 		},
 		"Potion of Mind Reading": {
 			"name": "Poción de leer mentes",
-			"description": "<p><em>The potion's dense, purple liquid has an ovoid cloud of pink floating in it.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detect Thoughts} spell (save DC 13). </p>"
+			"description": "<p><em>El líquido denso y púrpura de esta poción tiene una nube rosa ovoide flotando encima.</em></p>\n<p>Cuando bebes esta poción, ganas el efecto del conjuro @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detectar pensamientos} (tirada de salvación CD 13).</p>"
 		},
 		"Potion of Necrotic Resistance": {
 			"name": "Poción de resistencia al necrótico",
@@ -2047,15 +2047,15 @@
 		},
 		"Potion of Speed": {
 			"name": "Poción de velocidad",
-			"description": "<p><em>The potion's yellow fluid is streaked with black and swirls on its own.</em></p>\n<p>When you drink this potion, you gain the effect of the @Compendium[dnd5e.spells.Szvk5FEVQW3uhJi5]{Haste} spell for 1 minute (no concentration required).</p>\n<p> </p>"
+			"description": "<p><em>El líquido amarillo de este brebaje tiene vetas negras y forma remolinos.</em></p>\n<p>Cuando bebes esta poción obtienes el efecto del conjuro @Compendium[dnd5e.spells.Szvk5FEVQW3uhJi5]{Acelerar} durante 1 minuto (no requiere concentración).</p>"
 		},
 		"Potion of Stone Giant Strength": {
 			"name": "Poción de fuerza de gigante de piedra",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 23 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 23 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Storm Giant Strength": {
 			"name": "Poción de fuerza de gigante de las tormentas",
-			"description": "<p><em>This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</em></p>\n<p>When you drink this potion, your Strength score changes to 29 for 1 hour.  The potion has no effect on you if your Strength is equal to or greater than that score.</p>\n<p> </p>"
+			"description": "<p><em>El líquido de esta poción es transparente, con un pequeño trocito de uña de un gigante del tipo adecuado.</em></p>\n<p>Cuando bebes esta poción, tu puntuación de Fuerza cambia a 29 durante 1 hora. No tendrá ningún efecto si tu Fuerza es igual o superior a la que proporciona la poción.</p>"
 		},
 		"Potion of Superior Healing": {
 			"name": "Poción de curación superior",
@@ -2075,7 +2075,7 @@
 		},
 		"Potter's Tools": {
 			"name": "Herramientas de alfarero",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in pottery.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un alfarero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Pouch": {
 			"name": "Bolsa",
@@ -2571,7 +2571,7 @@
 		},
 		"Smith's Tools": {
 			"name": "Herramientas de herrero",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in smithing.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un herrero.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Soap": {
 			"name": "Jabón",
@@ -2599,43 +2599,43 @@
 		},
 		"Spell Scroll 1st Level": {
 			"name": "Pergamino de conjuro de nivel 1",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 11. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 13<br><strong>Attack Bonus</strong>: +5.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 11. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 11. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p><p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 13<br><strong>Bonus de ataque:</strong> +5</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento Arcano) con CD igual a 11. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 2nd Level": {
 			"name": "Pergamino de conjuro de nivel 2",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 12. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 13<br><strong>Attack Bonus</strong>: +5.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 12. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 12. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p><p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 13<br><strong>Bonus de ataque:</strong> +5</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento Arcano) con CD igual a 12. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 3rd Level": {
 			"name": "Pergamino de conjuro de nivel 3",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 13. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 15<br><strong>Attack bonus</strong>: +7.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 13. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 13. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p><p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 15<br><strong>Bonus de ataque:</strong> +7</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento arcano) con CD igual a 13. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 4th Level": {
 			"name": "Pergamino de conjuro de nivel 4",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 14. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 15<br><strong>Attack bonus</strong>: +7.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 14. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 14. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p>\n<p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 15<br><strong>Bonus de ataque:</strong> +7</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento arcano) con CD igual a 14. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 5th Level": {
 			"name": "Pergamino de conjuro de nivel 5",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 15. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 17<br><strong>Attack bonus</strong>: +9.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 15. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 15. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p>\n<p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 17<br><strong>Bonus de ataque:</strong> +9</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento arcano) con CD igual a 15. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 6th Level": {
 			"name": "Pergamino de conjuro de nivel 6",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 16. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 17<br /><strong>Attack bonus</strong>: +9.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 16. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 16. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p>\n<p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 17<br /><strong>Bonus de ataque:</strong> +9</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento arcano) con CD igual a 16. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 7th Level": {
 			"name": "Pergamino de conjuro de nivel 7",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 17. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 18<br><strong>Attack bonus</strong>: +10.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 17. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 17. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p>\n<p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 18<br><strong>Bonus de ataque:</strong> +10</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento arcano) con CD igual a 17. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 8th Level": {
 			"name": "Pergamino de conjuro de nivel 8",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 18. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 18<br><strong>Attack bonus</strong>: +10.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 18. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 18. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p>\n<p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 18<br><strong>Bonus de ataque:</strong> +10</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento arcano) con CD igual a 18. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll 9th Level": {
 			"name": "Pergamino de conjuro de nivel 9",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 19. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 19<br><strong>Attack bonus</strong>: +11.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 19. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 19. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p>\n<p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 19<br><strong>Bonus de ataque:</strong> +11</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento arcano) con CD igual a 19. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spell Scroll Cantrip": {
-			"name": "Spell Scroll Cantrip",
-			"description": "<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 10. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 13<br><strong>Attack Bonus</strong>: +5.</p>\n<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>"
+			"name": "Pergamino de conjuro de truco",
+			"description": "<p>Un pergamino de conjuro contiene las palabras de un único conjuro, escritas usando un código mágico. Si el conjuro pertenece a los que tu clase puede lanzar, puedes gastar una acción para leer el pergamino y lanzar el conjuro sin tener que aportar ninguno de sus componentes. De lo contrario, el conjuro es ininteligible para ti.</p>\n<p>Si el conjuro está en la lista de conjuros de tu clase, pero su nivel es superior a los que puedes lanzar normalmente, deberás hacer una prueba de característica empleando tu aptitud mágica para determinar si logras lanzarlo con éxito. La CD es de 10. Si fallas, el conjuro desaparece del pergamino, pero no ocurre nada más.</p><p>Una vez lanzado, las palabras escritas en el pergamino desaparecen y el propio pergamino se deshace, convertido en polvo.</p>\n<p>El nivel del conjuro en el pergamino determina la CD de la tirada de salvación y el bonificador de ataque del conjuro, así como la rareza del pergamino.</p>\n<p><strong>CD de salvación:</strong> 13<br><strong>Bonus de ataque:</strong> +5</p>\n<p>Un conjuro de mago en un pergamino de conjuro puede ser copiado del mismo modo que los conjuros en un libro de conjuros. Cuando se copia de un pergamino, el que lo hace debe tener éxito en una prueba de Inteligencia (Conocimiento Arcano) con CD igual a 10. Si lo consigue, la copia del conjuro se realiza con éxito. Independientemente de que la prueba tenga éxito o fracase, el pergamino de conjuro queda destruido.</p>"
 		},
 		"Spellbook": {
 			"name": "Libro de conjuros",
@@ -2786,8 +2786,8 @@
 			"description": "<p>Es un tipo de recipiente para beber que consiste en un vaso grande, más o menos cilíndrico, con una sola asa.</p>"
 		},
 		"Thieves' Tools": {
-			"name": "Thieves' Tools",
-			"description": "<p>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</p>"
+			"name": "Herramientas de ladrón",
+			"description": "<p>Este conjunto de herramientas incluye una pequeña lima, un juego de ganzúas, un espejito montado en un asa metálica, una serie de tijeras de punta estrecha y unas tenazas. La competencia con estas herramientas te permite añadir tu bonificador por competencia a las pruebas de característica para desarmar trampas o forzar cerraduras.</p>"
 		},
 		"Tinderbox": {
 			"name": "Yesquero",
@@ -2795,7 +2795,7 @@
 		},
 		"Tinker's Tools": {
 			"name": "Herramientas de manitas",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in tinkering.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un manitas.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Tome of Clear Thought": {
 			"name": "Tomo de pensamiento claro",
@@ -2846,8 +2846,8 @@
 			"description": "<p>Un espacio para los elementos no-SRD introducidos en la página 159, con la tabla d100 en la 160-161.</p>"
 		},
 		"Truth Serum": {
-			"name": "Truth Serum",
-			"description": "<p><em>(ingested)</em></p>\n<p>A creature subjected to this poison must succeed on a <strong>DC 11 Constitution saving throw</strong> or become @Compendium[dnd5e.rules.Poisoned]{Poisoned} for <strong>1 hour</strong>. The @Compendium[dnd5e.rules.Poisoned]{Poisoned} creature can't knowingly speak a lie, as if under the effect of a @Compendium[dnd5e.spells.Zone of Truth] spell.</p>"
+			"name": "Suero de la verdad",
+			"description": "<p><em>(ingerido)</em></p>\n<p>Una criatura sujeta a este veneno debe tener éxito en una tirada de salvación de Constitución <strong>DC 11</strong> o quedar @Compendium[dnd5e.rules.Poisoned]{Poisoned} durante <strong>1 hora</strong>. La criatura @Compendium[dnd5e.rules.Poisoned]{Poisoned} no puede mentir, como si encontrase bajo el efecto del conjuro @Compendium[dnd5e.spells.Zone of Truth].</p>"
 		},
 		"Two-Person Tent": {
 			"name": "Tienda para dos",
@@ -2859,7 +2859,7 @@
 		},
 		"Unarmed Strike (Monk)": {
 			"name": "Ataque sin armas del Monje",
-			"description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes.</p>\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>\n<p>• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes</p>\n<p>• You can roll a d4 in place of the normal damage of your unarmed strike. This die changes as you gain monk levels, as shown in the Martial Arts column in the table below.</p>\n<p>• When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Monk Level</strong></td>\n<td><strong>Martial Arts</strong></td>\n</tr>\n<tr>\n<td>1st - 4th</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5th - 10th</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11th - 16th</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17th - 20th</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Foundry note: Note the damage die is set to the base default of 1d4. Please manually adjust as required.</em></p>"
+			"description": "<p>A nivel 1 tu práctica de las artes marciales te ha otorgado un dominio de los estilos de combate que emplean ataques sin armas.</p>\n<p>Obtienes los siguientes beneficios mientras no portes armadura ni escudo, y estés desarmado o empuñes únicamente armas de monje.</p>\n<p>• Puedes usar tu Destreza en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje.</p>\n<p>• Puedes tirar 1d4 en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, tal y como se muestra en la columna “artes marciales” de la tabla del monje.</p>\n<p>• Cuando llevas a cabo la acción de Atacar con un ataque sin armas o un arma de monje durante tu turno, puedes utilizar tu acción adicional para hacer un ataque sin armas. De este modo, si empleas la acción de Atacar para atacar con un bastón, también puedes realizar un ataque sin armas con tu acción adicional, siempre y cuando no hayas usado ya esta.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Nivel de Monje</strong></td>\n<td><strong>Artes Marciales</strong></td>\n</tr>\n<tr>\n<td>1 - 4</td>\n<td>1d4</td>\n</tr>\n<tr>\n<td>5 - 10</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>11 - 16</td>\n<td>1d8</td>\n</tr>\n<tr>\n<td>17 - 20</td>\n<td>1d10</td>\n</tr>\n</tbody>\n</table>\n<p><em>**Nota de Foundry: por defecto, el dado de daño se ha fijado en 1d4. Ajústalo manualmente cuando sea necesario.</em></p>"
 		},
 		"Universal Solvent": {
 			"name": "Disolvente universal",
@@ -3135,7 +3135,7 @@
 		},
 		"Weaver's Tools": {
 			"name": "Herramientas de tejedor",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in weaving.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un tejedor.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Well of Many Worlds": {
 			"name": "Pozo de los muchos mundos",
@@ -3175,7 +3175,7 @@
 		},
 		"Woodcarver's Tools": {
 			"name": "Herramientas de ebanista",
-			"description": "<p>These special tools include the items needed to pursue a craft or trade in woodcarving.</p>\n<p>Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>"
+			"description": "<p>Estas herramientas consisten en los objetos necesarios para llevar a cabo las tareas propias de un ebanista.</p>\n<p>La competencia con las herramientas de un oficio te permite añadir tu bonificador por competencia a cualquier prueba de característica que hagas utilizando dichas herramientas, siempre y cuando las emplees en tareas de la profesión correspondiente. Cada tipo de herramientas de artesano requiere su propia competencia independiente.</p>"
 		},
 		"Wooden Staff": {
 			"name": "Bastón de madera",
