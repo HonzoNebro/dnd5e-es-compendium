@@ -507,7 +507,7 @@
 		},
 		"Lair Actions": {
 			"name": "Acciones en guarida",
-			"description": "<section class=\"secret\">\n<p>Las criaturas legendarias que tienen acciones en guarida podrán recurrir a ellas para dominar la magia ambiental de su hogar. El monstruo podrá usar una de sus acciones en guarida en la posición 20 del orden de iniciativa (perdiendo empates). Aunque no podrá hacer esto si está incapacitado o, por la razón que sea, no puede realizar acciones. Si la criatura es sorprendida, no podrá utilizar sus acciones en guarida antes del final de su primer turno.</p>\n</section>\n<p>Las criaturas legendarias que tienen acciones en guarida podrán recurrir a ellas para dominar la magia ambiental de su hogar.</p>"
+			"description": "<section class=\"secret\">\n<p>If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can't do so while incapacitated or otherwise unable to take actions. If surprised, it can't use one until after its first turn in the combat.</p>\n</section>\n<p>If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. </p>"
 		},
 		"Leadership": {
 			"name": "Liderazgo",
@@ -895,7 +895,7 @@
 		},
 		"Third Roar": {
 			"name": "Tercer rugido",
-			"description": "<p>Las criaturas deberán realizar una tirada de salvación de <strong>Constitución CD 18</strong>. Si la fallan, sufrirán 44 (8d10) de daño de trueno y estarán derribadas. Si la superan, recibirán la mitad de ese daño y no serán derribadas.</p>"
+			"description": "<p>Each creature makes a  <strong>DC 18 Constitution</strong> saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.</p>"
 		},
 		"Trampling Charge": {
 			"name": "Carga pisoteadora",
