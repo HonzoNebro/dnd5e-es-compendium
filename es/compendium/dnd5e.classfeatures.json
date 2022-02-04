@@ -3,7 +3,7 @@
 	"entries": {
 		"Ability Score Improvement": {
 			"name": "Mejora de característica",
-			"description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>"
+			"description": "<p>Cuando alcances los niveles 4, 8, 12, 16 y 19, podrás elegir una puntuación de característica y aumentarla en 2 o dos puntuaciones de característica y aumentarlas en 1 cada una. Como es habitual, no puedes aumentar una puntuación de característica por encima de 20.</p>"
 		},
 		"Ability Score Improvement (Fighter)": {
 			"name": "Mejora de característica del guerrero",
@@ -11,7 +11,7 @@
 		},
 		"Ability Score Improvement (Rogue)": {
 			"name": "Mejora de Característica del Pícaro",
-			"description": "<p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>"
+			"description": "<p>Cuando alcances los niveles 4, 8, 10, 12, 16 y 19, podrás elegir una puntuación de característica y aumentarla en 2 o dos puntuaciones de característica y aumentarlas en 1 cada una. Como es habitual, no puedes aumentar una puntuación de característica por encima de 20.</p>"
 		},
 		"Action Surge": {
 			"name": "Acción Súbita",
@@ -107,7 +107,7 @@
 		},
 		"Channel Divinity: Turn the Unholy": {
 			"name": "Canalizar Divinidad: Expulsar lo Impío (Channel Divinity: Turn the Unholy)",
-			"description": "<p>As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
+			"description": "<p>Puedes utilizar Canalizar Divinidad e invertir tu acción para mostrar tu símbolo sagrado y rezar una oración que condene a los infernales y los muertos vivientes. Todos los infernales y muertos vivientes que puedan verte u oírte a 30 pies o menos de ti deben realizar una tirada de salvación de Sabiduría. Si el objetivo falla su tirada de salvación, estará expulsado durante 1 minuto o hasta recibir daño.</p><p>Una criatura expulsada deberá dedicar su turno a alejarse lo más lejos posible de ti, si es que puede, y no podrá moverse a ningún espacio a 30 pies o menos de ti. Además, tampoco será capaz de llevar a cabo reacciones. Solo puede realizar la acción de Correr o intentar escapar de un efecto que le impida moverse. Si no tiene a dónde moverse, llevará a cabo la acción de Esquivar.</p>"
 		},
 		"Circle Spells": {
 			"name": "Conjuros de círculo (Circle Spells)",
@@ -131,7 +131,7 @@
 		},
 		"Danger Sense": {
 			"name": "Sentir el Peligro (Danger Sense)",
-			"description": "<p>At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.</p><p>You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.</p>"
+			"description": "<p>A nivel 2, eres capaz de percibir de forma casi sobrenatural cuando lo que te rodea no es como debería ser. Gracias a ello se te da bien evitar el peligro.</p><p>Tienes ventaja en las tiradas de salvación de Destreza para evitar efectos que puedas ver, como trampas o conjuros. No obtendrás este beneficio si estás cegado, ensordecido o incapacitado.</p>"
 		},
 		"Dark One's Blessing": {
 			"name": "Bendición del Oscuro (Dark One's Blessing)",
@@ -171,7 +171,7 @@
 		},
 		"Divine Domain": {
 			"name": "Dominio Divino (Divine Domain)",
-			"description": "<p>Choose one domain related to your deity, such as Life. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.</p>\n<h3>Domain Spells</h3>\n<p>Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.</p><p>If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.</p>"
+			"description": "<p>Escoge uno de los siguientes dominios, que debe estar relacionado con tu dios, como por ejemplo, Vida. Tu elección determinará qué conjuros de dominio y otros rasgos recibes a nivel 1. Además, también te proporcionará formas adicionales de usar Canalizar Divinidad, un rasgo que obtendrás a nivel 2. Por último, te otorgará ventajas específicas a los niveles 6, 8 y 17.</p>\n<h3>Conjuros de dominio</h3>\n<p>Cada dominio tiene su propia lista de conjuros, llamados conjuros de dominio, que conseguirás cuando alcances el nivel de clérigo indicado en la descripción de dicho dominio. Una vez obtenidos, estos conjuros siempre se considerarán preparados y no cuentan para el total de conjuros que puedes preparar cada día.</p><p>Aunque recibas un conjuro de dominio que no aparezca en la lista de los de clérigo, para ti sí que se considerará como conjuro de clérigo.</p>"
 		},
 		"Divine Health": {
 			"name": "Salud Divina (Divine Health)",
@@ -187,7 +187,7 @@
 		},
 		"Divine Smite": {
 			"name": "Castigo Divino (Divine Smite)",
-			"description": "<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage.</p><p>The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.</p><p><em>**Foundry note: Note the limited uses is set to the base default of 1 per short or long rest. Please manually adjust as required.</em></p>"
+			"description": "<p>A partir de nivel 2, cuando impactas a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar uno de tus espacios de conjuro para infligir daño radiante al objetivo, además del que ya causa el arma. Este daño adicional es de 2d8 si inviertes un espacio de nivel 1, más 1d8 adicionales por cada nivel del espacio por encima de 1, hasta un máximo de 5d8. Este daño aumenta en 1d8 si el objetivo es un muerto viviente o un infernal.</p><p><em>**Nota de Foundry: ten en cuenta que el valor predeterminado es de 1 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Divine Strike": {
 			"name": "Golpe Divino (Divine Strike)",
@@ -215,7 +215,7 @@
 		},
 		"Druidic": {
 			"name": "Druídico",
-			"description": "<p>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.</p>"
+			"description": "<p>Conoces el druídico, el idioma secreto de los druidas. Puedes hablarlo y utilizarlo para dejar mensajes ocultos. Tanto tu como cualquiera que conozca este idioma advertiréis inmediatamente de la presencia de estos mensajes. Los demás deberán superar una prueba de Sabiduría (Percepción) CD 15 para detectarlos, pero no podrán descifrarlos sin recurrir a la magia.</p>"
 		},
 		"Eldritch Invocations": {
 			"name": "Invocaciones Sobrenaturales",
@@ -239,7 +239,7 @@
 		},
 		"Evasion": {
 			"name": "Evasión",
-			"description": "<p>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>"
+			"description": "<p>A nivel 7 tu agilidad instintiva te da opción de evitar ciertos efectos de área, como el aliento de relámpago de un dragón o un conjuro de bola de fuego. Cuando seas víctima de un efecto que te permita hacer una tirada de salvación de Destreza para recibir solo la mitad del daño, no recibirás daño alguno si tienes éxito en la tirada de salvación y solo la mitad si la fallas.</p>"
 		},
 		"Evocation Savant": {
 			"name": "Experto en Evocación",
@@ -271,7 +271,7 @@
 		},
 		"Fast Movement": {
 			"name": "Movimiento Rápido",
-			"description": "<p>Your speed increases by 10 feet while you aren't wearing heavy armor.</p>"
+			"description": "<p>Si no estás llevando armadura pesada, tu velocidad aumenta en 10 pies.</p>"
 		},
 		"Favored Enemy": {
 			"name": "Enemigo Predilecto",
@@ -314,8 +314,8 @@
 			"description": "<p>Cuando una criatura que puedas ver ataque a un objetivo que esté a 5 pies o menos de ti y no seas tú mismo, puedes utilizar tu reacción para dar desventaja a la tirada de ataque. Debes estar embrazando un escudo.</p>"
 		},
 		"Fighting Style: Two-Weapon Fighting": {
-			"name": "Fighting Style: Two-Weapon Fighting",
-			"description": "<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>"
+			"name": "Estilo de Combate: Combate con Dos Armas (Fighting Style Two Weapon Fighting)",
+			"description": "<p>Cuando estés combatiendo con dos armas, puedes añadir tu modificador por característica al daño del segundo ataque.</p>"
 		},
 		"Foe Slayer": {
 			"name": "Azote de Enemigos",
@@ -375,7 +375,7 @@
 		},
 		"Indomitable": {
 			"name": "Indómito",
-			"description": "<p>You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</p><p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p><p><em>**Foundry note: Note the limited uses is set to the base default of 1 per long rest. Please manually adjust as required.</em></p>"
+			"description": "<p>Puedes repetir una tirada de salvación que hayas fallado, pero tendrás que quedarte con el nuevo resultado, aunque sea peor. Una vez utilizado este rasgo, deberás terminar un descanso largo para poder volver a usarlo otra vez.</p><p>Puedes emplear este rasgo dos veces entre descansos largos cuando alcanzas el nivel 13 y tres veces entre descansos largos a partir de nivel 17.</p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Indomitable Might": {
 			"name": "Poderío Indómito",
@@ -446,8 +446,8 @@
 			"description": "<p>Puedes usar tu acción para tocar a un humanoide voluntario y percibir el mundo a través de sus sentidos hasta el final de tu siguiente turno. Mientras la criatura permanezca en el mismo plano de existencia que tú, podrás utilizar tu acción en cada uno de los turnos subsiguientes para mantener esta conexión, alargando la duración de este efecto hasta el final de tu siguiente turno. Cuando estás percibiendo el mundo a través de los sentidos de la otra criatura, ganas los beneficios de cualquier sentido especial que esta tenga, pero se te considera cegado y ensordecido en tu propio entorno.</p>"
 		},
 		"Invocation: Lifedrinker": {
-			"name": "Invocation: Lifedrinker",
-			"description": "<p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).</p>"
+			"name": "Invocación: Devorador de Vida (Lifedrinker)",
+			"description": "<p>Cuando impactes a una criatura con tu arma de pacto, infligirás tanto daño necrótico adicional como tu modificador por Carisma (como mínimo 1).</p>"
 		},
 		"Invocation: Mask of Many Faces": {
 			"name": "Invocación: Mascara de los Mil Rostros",
@@ -474,8 +474,8 @@
 			"description": "<p>Cuando estás en una zona de luz tenue u oscuridad, puedes usar tu acción para volverte invisible hasta que te muevas o realices una acción o una reacción.</p>"
 		},
 		"Invocation: Otherworldly Leap": {
-			"name": "Invocation: Otherworldly Leap",
-			"description": "<p>You can cast @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{Jump} on yourself at will, without expending a spell slot or material components.</p>"
+			"name": "Invocación: Salto Sobrenatural (Otherwordly Leap)",
+			"description": "<p>Puedes lanzar @Compendium[dnd5e.spells.ZrTc23tToJ0JpH2h]{Salto} sobre ti mismo a voluntad, sin tener que gastar un espacio de conjuro ni componentes materiales.</p>"
 		},
 		"Invocation: Repelling Blast": {
 			"name": "Invocación: Descarga Ahuyentadora",
@@ -515,11 +515,11 @@
 		},
 		"Jack of All Trades": {
 			"name": "Aprendiz de Mucho",
-			"description": "<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</p>"
+			"description": "<p>A partir de nivel 2, puedes añadir la mitad de tu bonificador por competencia (redondeado hacia abajo) a cualquier prueba de característica que hagas que no se beneficie ya de tu bonificador por competencia.</p>"
 		},
 		"Ki": {
 			"name": "Ki",
-			"description": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level equals the number of ki points you have, so a 2nd level monk has 2 ki points, a 16th level monk has 16.</p><p>You can spend these points to fuel various ki features. You start knowing three such features: @Compendium[dnd5e.classfeatures.5MwNlVZK7m6VolOH]{Ki: Flurry of Blows}, @Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]{Ki: Patient Defense}, and @Compendium[dnd5e.classfeatures.yrSFIGTaQOH2PFRI]{Ki: Step of the Wind}. You learn more ki features as you gain levels in this class.</p><p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.</p><p>Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:</p><p><em><strong>Ki save DC</strong> = 8 + your proficiency bonus + your Wisdom modifier</em></p><p><em>**Foundry note: </em><em>Use this to track all the various uses of ki for the monk. </em><em>Note the limited uses is set to the base default of 2 per short or long rest. Please manually adjust as required.</em></p>"
+			"description": "<p>A partir de nivel 2, tu entrenamiento te permite controlar la energía mística llamada ki. Tu capacidad de emplearla se representa mediante una serie de puntos de ki. Tu nivel de monje determina cuántos de estos puntos posees. Así, un monje de nivel 2 tendrá 2 puntos de ki y a nivel 16, 16 puntos de ki.</p><p>Puedes utilizar estos puntos para alimentar varios rasgos ki. Empiezas con tres de estos rasgos: @Compendium[dnd5e.classfeatures.5MwNlVZK7m6VolOH]{Ráfaga de golpes}, @Compendium[dnd5e.classfeatures.TDglPcxIVEzvVSgK]{Defensa paciente} y @Compendium[dnd5e.classfeatures.yrSFIGTaQOH2PFRI]{Paso del viento}. Aprenderás más rasgos ki según vayas subiendo de nivel en esta clase.</p><p>Cuando uses un punto de ki, este dejará de estar disponible hasta que termines un descanso corto o largo, al final del cual volverás a reunir el ki en tu interior. Debes estar meditando durante al menos 30 minutos del descanso para poder recuperar los puntos de ki.</p><p>Algunos de tus rasgos ki exigen a tu objetivo hacer una tirada de salvación para resistir sus efectos. La CD para estas tiradas de salvación se calcula de la siguiente forma:</p><p><em><strong>CD tirada de salvación de ki</strong> = 8 + tu bonificador por competencia + tu modificador por Sabiduría</em></p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 2 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
 		},
 		"Ki-Empowered Strikes": {
 			"name": "Golpes Potenciados con Ki",
@@ -531,7 +531,7 @@
 		},
 		"Ki: Empty Body": {
 			"name": "Ki: Cuerpo Vacío",
-			"description": "<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</p>\n<p>Additionally, you can spend 8 ki points to cast the @Compendium[dnd5e.spells.TIoadMIsUKD4edXi]{Astral Projection} spell, without needing material components. When you do so, you can't take any other creatures with you.</p>"
+			"description": "<p>A partir de nivel 18, puedes usar tu acción y gastar 4 puntos de ki para volverte invisible durante 1 minuto. Durante este periodo de tiempo, también tendrás resistencia a todo el daño excepto el de fuerza.</p><p>Asimismo, puedes gastar 8 puntos de ki para lanzar el conjuro @Compendium[dnd5e.spells.TIoadMIsUKD4edXi]{Proyección astral} sin tener que utilizar componente material alguno. Sin embargo, no podrás llevar contigo a ninguna otra criatura.</p>"
 		},
 		"Ki: Flurry of Blows": {
 			"name": "Ki: Ráfaga de Golpes",
@@ -543,7 +543,7 @@
 		},
 		"Ki: Quivering Palm": {
 			"name": "Ki: Palma Estremecedora",
-			"description": "<p>At 17th level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</p><p>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</p>"
+			"description": "<p>A nivel 17 consigues la capacidad para transmitir vibraciones letales al cuerpo de un oponente. Cuando impactas a una criatura con un ataque sin armas, puedes gastar 3 puntos de ki para iniciar estas vibraciones imperceptibles, que durarán tantos días como tu nivel de monje. Las vibraciones son inofensivas, salvo si usas tu acción para hacer que terminen. Para poder realizar esto, tu objetivo debe estar en el mismo plano de existencia que tú. Cuando lleves a cabo esta acción, la criatura deberá hacer una tirada de salvación de Constitución. Si falla, sus puntos de golpe bajarán a 0. Si tiene éxito, recibirá 10d10 de daño necrótico.</p><p>Solo eres capaz de tener una criatura bajo los efectos de este rasgo al mismo tiempo. También puedes elegir dar por terminadas las vibraciones de forma inocua sin necesidad de usar ninguna acción.</p>"
 		},
 		"Ki: Step of the Wind": {
 			"name": "Ki: Paso del Viento",
@@ -551,7 +551,7 @@
 		},
 		"Ki: Stunning Strike": {
 			"name": "Ki: Golpe Aturdidor",
-			"description": "<p>Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.</p>"
+			"description": "<p>A partir de nivel 5, puedes interferir con el flujo de ki del cuerpo de un oponente. Cuando impactes a una criatura con un ataque con arma cuerpo a cuerpo, puedes gastar 1 punto de ki para intentar realizar un golpe aturdidor. El objetivo debe tener éxito en una tirada de salvación de Constitución o quedará aturdido hasta el final de tu siguiente turno.</p>"
 		},
 		"Land's Stride (Circle of the Land)": {
 			"name": "Paso de la Tierra del Circulo de la Tierra",
@@ -575,7 +575,7 @@
 		},
 		"Martial Arts": {
 			"name": "Artes Marciales",
-			"description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>\n<ul>\n<li>\n<p>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</p>\n</li>\n<li>\n<p>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</p>\n</li>\n<li>\n<p>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</p>\n</li>\n</ul>\n<p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.</p>"
+			"description": "<p>A nivel 1 tu práctica de las artes marciales te ha otorgado un dominio de los estilos de combate que emplean ataques sin armas y armas de monje, que son las espadas cortas y cualquier arma sencilla que no posea las propiedades a dos manos o pesada. Obtienes los siguientes beneficios mientras no portes armadura ni escudo, y estés desarmado o empuñes únicamente armas de monje:</p>\n<ul>\n<li>\n<p>Puedes usar tu Destreza en lugar de tu Fuerza para las tiradas de ataque y de daño de tus ataques sin armas y tus armas de monje.</p>\n</li>\n<li>\n<p>Puedes tirar 1d4 en lugar del daño normal de tus ataques sin armas o tus armas de monje. Este dado cambia según subes niveles como monje, tal y como se muestra en la columna Artes marciales de la tabla del monje.</p>\n</li>\n<li>\n<p>Cuando llevas a cabo la acción de Atacar con un ataque sin armas o un arma de monje durante tu turno, puedes utilizar tu acción adicional para hacer un ataque sin armas. De este modo, si empleas la acción de Atacar para atacar con un bastón, también puedes realizar un ataque sin armas con tu acción adicional, siempre y cuando no hayas usado ya está.</p>\n</li>\n</ul>\n<p>Ciertos monasterios utilizan armas de monje específicas. Por ejemplo, podrías usar un garrote llamado nunchaku, que está compuesto de dos trozos de madera unidos por una cadena corta, o una hoz con un filo más corto y recto, que recibe el nombre de kama. Independientemente del nombre que reciba el arma de monje, esta utilizará los valores de juego del arma de la que se deriva.</p>"
 		},
 		"Metamagic": {
 			"name": "Metamagia",
@@ -627,7 +627,7 @@
 		},
 		"Multiattack: Volley": {
 			"name": "Ataque Múltiple: Andanada",
-			"description": "<p>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</p>"
+			"description": "<p>Puedes usar tu acción para realizar un ataque a distancia contra cualquier cantidad de criaturas que se encuentren a 10 pies o menos de un punto que puedas ver dentro del alcance de tu arma. Debes tener munición suficiente para todos los objetivos y hacer una tirada de ataque para cada objetivo por separado.</p>"
 		},
 		"Multiattack: Whirlwind Attack": {
 			"name": "Ataque Múltiple: Ataque Huracanado",
@@ -667,7 +667,7 @@
 		},
 		"Open Hand Technique": {
 			"name": "Técnica de la Mano Abierta",
-			"description": "<p>Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own.</p><p>Whenever you hit a creature with one of the attacks granted by your @Compendium[world.class-features-srd-v2.5MwNlVZK7m6VolOH]{Ki: Flurry of Blows}, you can impose one of the following effects on that target:</p>\n<ul>\n<li>It must succeed on a Dexterity saving throw or be knocked prone.</li>\n<li>It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</li>\n<li>It can't take reactions until the end of your next turn.</li>\n</ul>"
+			"description": "<p>A partir del momento en el que escoges esta tradición, a nivel 3, puedes manipular el ki de tus enemigos mientras dominas el tuyo propio.</p><p>Cuando impactas a una criatura con uno de los ataques que te proporciona @Compendium[world.class-features-srd-v2.5MwNlVZK7m6VolOH]{Ki: Ráfaga de Golpes}, puedes obligarla a sufrir uno de los siguientes efectos:</p>\n<ul>\n<li>Debe superar una tirada de salvación de Destreza o será derribado.</li>\n<li>Ha de hacer una tirada de salvación de Fuerza. Si falla, puedes empujarla hasta 15 pies en dirección contraria a ti.</li>\n<li>No puede realizar reacciones hasta el final de tu siguiente turno.</li>\n</ul>"
 		},
 		"Otherworldly Patron": {
 			"name": "Patrón Sobrenatural",
@@ -755,7 +755,7 @@
 		},
 		"Remarkable Athlete": {
 			"name": "Atleta Sobresaliente",
-			"description": "<p>You can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.</p><p>In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.</p>"
+			"description": "<p>Puedes añadir la mitad de tu bonificador por competencia (redondeado hacia abajo) a cualquier prueba de Fuerza, Destreza o Constitución que hagas que no se beneficie ya de tu bonificador por competencia.</p><p>Además. cuando realices un salto de longitud habiendo tomado carrerilla, aumentarás la distancia que saltas en tantos pies como tu modificador por Fuerza.</p>"
 		},
 		"Retaliation": {
 			"name": "Represalia",
@@ -767,7 +767,7 @@
 		},
 		"Sacred Oath": {
 			"name": "Juramento Sagrado",
-			"description": "<p>When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.</p><p>Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.</p>\n<h3>Oath Spells</h3>\n<p>Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.</p><p>If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.</p>\n<h3>Channel Divinity</h3>\n<p>@Compendium[dnd5e.classfeatures.8M7uOPhbTxoxxJSo]{Channel Divinity}</p>"
+			"description": "<p>Cuando alcanzas el nivel 3 pronuncias el juramento que te atará para siempre a la senda del paladín. Hasta este momento has pasado simplemente por una fase de preparación, comprometido con tu deber, pero sin haber hecho aún el juramento. Ahora debes elegir un juramento, como puede ser el Juramento de Entrega.</p><p>Esta elección te proporciona ciertos rasgos cuando alcanzas los niveles 3, 7, 15 y 20. Entre estos rasgos se encuentran los conjuros de juramento y Canalizar Divinidad.</p>\n<h3>Conjuros de juramento</h3>\n<p>Cada juramento tiene una serie de conjuros asociados. Puedes acceder a estos conjuros cuando llegas a los niveles especificados en la descripción del juramento en cuestión. Una vez accedes a ellos, estos conjuros siempre se considerarán preparados y no cuentan para el total de conjuros que puedes preparar cada día.</p><p>Aunque obtengas un conjuro de juramento que no aparezca en la lista de los de paladín, para ti sí que se considerará como conjuro de paladín.</p>\n<h3>Canalizar Divinidad</h3>\n<p>@Compendium[dnd5e.classfeatures.8M7uOPhbTxoxxJSo]{Canalizar Divinidad}</p>"
 		},
 		"Sculpt Spells": {
 			"name": "Esculpir Conjuros",
@@ -887,7 +887,7 @@
 		},
 		"Survivor": {
 			"name": "Superviviente",
-			"description": "<p>You attain the pinnacle of resilience in battle.</p><p>At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left.</p><p>You don't gain this benefit if you have 0 hit points.</p>"
+			"description": "<p>Alcanzas el pináculo de la resistencia en batalla.</p><p>Al comienzo de cada uno de tus turnos, recuperas 5 + tu modificador por Constitución puntos de golpe si no te quedan más de la mitad de tus puntos de golpe máximos.</p><p>Con todo, no puedes disfrutar de este beneficio si te quedan 0 puntos de golpe.</p>"
 		},
 		"Thief's Reflexes": {
 			"name": "Reflejos de Ladrón",
@@ -903,7 +903,7 @@
 		},
 		"Timeless Body (Monk)": {
 			"name": "Cuerpo Atemporal del Monje (Timeless Body)",
-			"description": "<p>At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.</p>"
+			"description": "<p>A nivel 15 tu ki es capaz de mantenerte, de tal forma que no sufres de la fragilidad de la vejez y no puedes envejecer por medios mágicos. Aun así, todavía puedes morir de viejo. Además, ya no necesitas ni agua ni comida.</p>"
 		},
 		"Tongue of the Sun and Moon": {
 			"name": "Lengua del Sol y la Luna (Tongue of the Sun and Moon)",
