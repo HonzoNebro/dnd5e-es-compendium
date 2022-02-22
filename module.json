@@ -2,7 +2,7 @@
   "name": "dnd5e-babele-spanish",
   "title": "Translation: Spanish Babele [DnD5e and Compendiums]",
   "description": "Traducción al español del sistema y los compendios de D&D5e para Foundry VTT.",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "minimumCoreVersion" : "0.8.9",
   "compatibleCoreVersion": "9",
   "author": "Honzo",
