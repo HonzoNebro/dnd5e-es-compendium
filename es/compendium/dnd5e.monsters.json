@@ -1872,7 +1872,7 @@
 				"Multiattack": {
 					"name": "Ataque múltiple (solo forma de vampiro)",
 					"description": "El vampiro realiza dos ataques. Solo uno de ellos puede ser un mordisco."
-				},
+				}
 			}
 		},
 		"Vampire Spawn": {
