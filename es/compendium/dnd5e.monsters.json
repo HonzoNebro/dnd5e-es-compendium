@@ -1869,7 +1869,7 @@
 			"name": "Vampiro",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
 			"items": {
-				"Multiattack": {
+				"Multiattack (Vampire Form Only)": {
 					"name": "Ataque múltiple (solo forma de vampiro)",
 					"description": "El vampiro realiza dos ataques. Solo uno de ellos puede ser un mordisco."
 				}
@@ -1952,10 +1952,10 @@
 			}
 		},
 		"Wereboar": {
-			"name": "Hombre jabalí (solo en forma humanoide o híbrida)",
+			"name": "Hombre jabalí",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
 			"items": {
-				"Multiattack": {
+				"Multiattack (Humanoid or Hybryd Form Only)": {
 					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
 					"description": "El hombre jabalí realiza dos ataques. Solo uno de ellos puede ser con los colmillos."
 				}
@@ -1965,7 +1965,7 @@
 			"name": "Hombre rata",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
 			"items": {
-				"Multiattack": {
+				"Multiattack (Humanoid or Hybryd Form Only)": {
 					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
 					"description": "El hombre rata realiza dos ataques. Solo uno de ellos puede ser un mordisco."
 				}
@@ -1975,7 +1975,7 @@
 			"name": "Hombre tigre",
 			"description": "",
 			"items": {
-				"Multiattack": {
+				"Multiattack (Humanoid or Hybryd Form Only)": {
 					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
 					"description": "En forma humanoide, el hombre tigre realiza dos ataques con su cimitarra o dos ataques con su arco largo. En forma híbrida, puede atacar como un humanoide o llevar a cabo dos ataques de garra."
 				}
@@ -1985,7 +1985,7 @@
 			"name": "Hombre lobo",
 			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
 			"items": {
-				"Multiattack": {
+				"Multiattack (Humanoid or Hybryd Form Only)": {
 					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
 					"description": "El hombre lobo realiza dos ataques: uno con su mordisco y otro con sus garras o su lanza."
 				}
