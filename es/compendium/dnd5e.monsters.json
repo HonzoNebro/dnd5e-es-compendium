@@ -8,6 +8,22 @@
 				"Multiattack": {
 					"name": "Ataque múltiple",
 					"description": "El aboleth realiza tres ataques con su tentáculo."
+				},
+				"Detect": {
+					"name": "Detectar",
+					"description": "El aboleth realiza una prueba de Percepción (Sabiduría)"
+				},
+				"Tail": {
+					"name": "Cola",
+					"description": "<section class=\"secret\">Ataque con arma cuerpo a cuerpo: <strong>+9 a impactar, alcance 10 pies</strong>, un objetivo. Impacto <strong>15 ([[/r 3d6+5]]) de daño contundente</strong></section>\nEl Aboleth ataca usando su cola."
+				},
+				"Tentacle": {
+					"name": "Tentáculo",
+					"description": "<section class=\"secret\">Ataque con arma cuerpo a cuerpo: <strong>+9 a impactar, alcance 10 pies</strong>, un objetivo. Impacto: <strong>12 ([[/r 2d6+5]]) de daño contundente.</strong>\nSi el objetivo es una criatura, debe tener éxito en una tirada de salvación de <strong>Constitución CD 14</strong> o contraerá una enfermedad. Esta enfermedad no tendrá efecto durante 1 minuto, y puede ser eliminada por cualquier magia que cure enfermedades. Pasado 1 minuto, la criatura queda infectada con la Enfermedad del tentáculo.</section>\nEl Aboleth ataca con su tentáculo. Si el objetivo es una criatura, deberá hacer una tirada de salvación de <strong>Constitución</strong>."
+				},
+				"Tail Swipe": {
+					"name": "Coletazo",
+					"description": "El aboleth realiza un ataque con una cola."
 				}
 			}
 		},
