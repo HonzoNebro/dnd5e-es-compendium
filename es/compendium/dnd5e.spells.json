@@ -215,7 +215,7 @@
 		},
 		"Conjure Celestial": {
 			"name": "Conjurar celestial",
-			"description": "<p>You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.</p><p>The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.</p><p><strong>Higher Levels.&nbsp;</strong>When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.</p>"
+			"description": "<p>Invocas un celestial con valor de desafío 4 o menos en un espacio desocupado que puedas ver dentro del alcance. El celestial desaparece si sus puntos de golpe se reducen a 0 o el conjuro termina.</p><p>Es amistoso hacia ti y tus compañeros hasta el final de la duración del conjuro. Haz una tirada de iniciativa para el celestial, que tiene sus propios turnos. Obedecerá cualquier mandato verbal tuyo (no requiere acción) que no viole su alineamiento. Si no le das ninguna orden, se defenderá de criaturas hostiles, pero no realizará ninguna otra acción.</p><p>El DM tiene el perfil del celestial.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 9, invocas a un celestial con valor de desafío 5 o menos.</p>"
 		},
 		"Conjure Elemental": {
 			"name": "Conjurar elemental",
