@@ -3,29 +3,7 @@
 	"entries": {
 		"Aboleth": {
 			"name": "Aboleth",
-			"description": "<p>Los aboleths hacen sus guaridas en lagos subterráneos o en las rocosas profundidades del océano, a menudo rodeadas por las ruinas de una antigua ciudad aboleth caída. Un aboleth pasa la mayoría de su existencia bajo el agua, saliendo a la superficie ocasionalmente para tratar con visitantes o con adoradores desquiciados.</p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El aboleth realiza tres ataques con su tentáculo."
-				},
-				"Detect": {
-					"name": "Detectar",
-					"description": "El aboleth realiza una prueba de Percepción (Sabiduría)"
-				},
-				"Tail": {
-					"name": "Cola",
-					"description": "<section class=\"secret\">Ataque con arma cuerpo a cuerpo: <strong>+9 a impactar, alcance 10 pies</strong>, un objetivo. Impacto <strong>15 ([[/r 3d6+5]]) de daño contundente</strong></section>\nEl Aboleth ataca usando su cola."
-				},
-				"Tentacle": {
-					"name": "Tentáculo",
-					"description": "<section class=\"secret\">Ataque con arma cuerpo a cuerpo: <strong>+9 a impactar, alcance 10 pies</strong>, un objetivo. Impacto: <strong>12 ([[/r 2d6+5]]) de daño contundente.</strong>\nSi el objetivo es una criatura, debe tener éxito en una tirada de salvación de <strong>Constitución CD 14</strong> o contraerá una enfermedad. Esta enfermedad no tendrá efecto durante 1 minuto, y puede ser eliminada por cualquier magia que cure enfermedades. Pasado 1 minuto, la criatura queda infectada con la Enfermedad del tentáculo.</section>\nEl Aboleth ataca con su tentáculo. Si el objetivo es una criatura, deberá hacer una tirada de salvación de <strong>Constitución</strong>."
-				},
-				"Tail Swipe": {
-					"name": "Coletazo",
-					"description": "El aboleth realiza un ataque con una cola."
-				}
-			}
+			"description": "<p>Los aboleths hacen sus guaridas en lagos subterráneos o en las rocosas profundidades del océano, a menudo rodeadas por las ruinas de una antigua ciudad aboleth caída. Un aboleth pasa la mayoría de su existencia bajo el agua, saliendo a la superficie ocasionalmente para tratar con visitantes o con adoradores desquiciados.</p>"
 		},
 		"Acolyte": {
 			"name": "Acólito",
@@ -33,233 +11,95 @@
 		},
 		"Adult Black Dragon": {
 			"name": "Dragón negro adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Blue Dragon": {
 			"name": "Dragón azul adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Brass Dragon": {
 			"name": "Dragón de oropel adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Bronze Dragon": {
 			"name": "Dragón de bronce adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Copper Dragon": {
 			"name": "Dragón de cobre adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Gold Dragon": {
 			"name": "Dragón de oro adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Green Dragon": {
 			"name": "Dragón verde adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Red Dragon": {
 			"name": "Dragón rojo adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult Silver Dragon": {
 			"name": "Dragón de plata adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Adult White Dragon": {
 			"name": "Dragón blanco adulto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Air Elemental": {
 			"name": "Elemental de aire",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El elemental realiza dos ataques de golpe."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Black Dragon": {
 			"name": "Dragón negro anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Blue Dragon": {
 			"name": "Dragón azul anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Brass Dragon": {
 			"name": "Dragón de oropel anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Bronze Dragon": {
 			"name": "Dragón de bronce anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Copper Dragon": {
 			"name": "Dragón de cobre anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Gold Dragon": {
 			"name": "Dragón de oro anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Green Dragon": {
 			"name": "Dragón verde anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Red Dragon": {
 			"name": "Dragón rojo anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient Silver Dragon": {
 			"name": "Dragón de plata anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Ancient White Dragon": {
 			"name": "Dragón blanco anciano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón puede usar su presencia aterradora. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Androsphinx": {
 			"name": "Androesfinge",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La esfinge realiza dos ataques con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Animated Armor": {
 			"name": "Armadura animada",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La armadura realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ankheg": {
 			"name": "Ankheg",
@@ -267,13 +107,7 @@
 		},
 		"Ape": {
 			"name": "Simio",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El simio realiza dos ataques de puñetazo."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Archmage": {
 			"name": "Archimago",
@@ -281,13 +115,7 @@
 		},
 		"Assassin": {
 			"name": "Asesino",
-			"description": "<p>Expertos en el uso de venenos, los <strong>asesinos</strong> son sicarios despiadados que trabajan para nobles, maestros gremiales, soberanos o cualquiera que pueda permitirse sus servicios.</p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El asesino rea liza dos ataques con su espada corta."
-				}
-			}
+			"description": "<p>Expertos en el uso de venenos, los <strong>asesinos</strong> son sicarios despiadados que trabajan para nobles, maestros gremiales, soberanos o cualquiera que pueda permitirse sus servicios.</p>"
 		},
 		"Avatar of Death": {
 			"name": "Avatar de la muerte",
@@ -319,13 +147,7 @@
 		},
 		"Balor": {
 			"name": "Balor",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El balor rea liza dos ataques: uno con su espada larga y otro con su látigo."
-				}
-			}
+			"description": ""
 		},
 		"Bandit": {
 			"name": "Bandido",
@@ -333,23 +155,11 @@
 		},
 		"Bandit Captain": {
 			"name": "Capitán bandido",
-			"description": "<p>Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.</p>\n<p>Los capitanes piratas (una variante del capitán bandido) tienen, además de todo esto, un barco que proteger y gobernar. Para ganarse la lealtad de su tripulación deben recompensarla y castigarla a partes iguales.</p>\n<p>Aunque lo que un capitán bandido (o pirata) anhela realmente no son las riquezas, sino la fama. Los prisioneros que apelen al ego o la vanidad de un capitán tendrán más posibilidades de ser tratados con dignidad que quienes afirmen no haber oído hablar de sus andanzas.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El capitán rea liza tres ataques cuerpo a cuerpo; dos con su cimitarra y uno con su daga. En vez de esto, el capitán puede realizar dos ataques a distancia con sus dagas."
-				}
-			}
+			"description": "<p>Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.</p>\n<p>Los capitanes piratas (una variante del capitán bandido) tienen, además de todo esto, un barco que proteger y gobernar. Para ganarse la lealtad de su tripulación deben recompensarla y castigarla a partes iguales.</p>\n<p>Aunque lo que un capitán bandido (o pirata) anhela realmente no son las riquezas, sino la fama. Los prisioneros que apelen al ego o la vanidad de un capitán tendrán más posibilidades de ser tratados con dignidad que quienes afirmen no haber oído hablar de sus andanzas.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Barbed Devil": {
-			"name": "Diablo punzante",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El diablo realiza tres ataques cuerpo a cuerpo; uno con su cola y dos con sus garras. O, si lo prefiere, puede usar arrojar llama dos veces."
-				}
-			}
+			"name": "Diablo barbado",
+			"description": ""
 		},
 		"Basilisk": {
 			"name": "Basilisco",
@@ -361,23 +171,11 @@
 		},
 		"Bearded Devil": {
 			"name": "Diablo barbado",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El diablo realiza dos ataques: uno con su barba y otro con su guja."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Behir": {
 			"name": "Behir",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El behir realiza dos ataques: uno de mordisco y otro de constreñir."
-				}
-			}
+			"description": ""
 		},
 		"Berserker": {
 			"name": "Berserker",
@@ -385,13 +183,7 @@
 		},
 		"Black Bear": {
 			"name": "Oso negro",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El oso realiza dos ataques: uno con su mordisco y otro con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Black Dragon Wyrmling": {
 			"name": "Cría de dragón negro",
@@ -419,13 +211,7 @@
 		},
 		"Bone Devil": {
 			"name": "Diablo óseo",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El diablo realiza tres ataques: dos con sus garras y otro con su aguijón."
-				}
-			}
+			"description": ""
 		},
 		"Brass Dragon Wyrmling": {
 			"name": "Cría de dragón de oropel",
@@ -437,13 +223,7 @@
 		},
 		"Brown Bear": {
 			"name": "Oso pardo",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El oso realiza dos ataques: uno con su mordisco y otro con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Bugbear": {
 			"name": "Osgo",
@@ -463,73 +243,31 @@
 		},
 		"Centaur": {
 			"name": "Centauro",
-			"description": "<p>Los centauros se encuentran principalmente en las llanuras y en los bosques, vagando en manadas y cazando en grandes grupos. Criaturas equinas con la parte superior del cuerpo de hombres y mujeres que se extiende desde el cuello, son conocidos por su fuerza y alabados como audaces cazadores.</p>\n<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El centauro realiza dos ataques: uno con su pica y otro con sus cascos, o dos con su arco largo."
-				}
-			}
+			"description": "<p>Los centauros se encuentran principalmente en las llanuras y en los bosques, vagando en manadas y cazando en grandes grupos. Criaturas equinas con la parte superior del cuerpo de hombres y mujeres que se extiende desde el cuello, son conocidos por su fuerza y alabados como audaces cazadores.</p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Chain Devil": {
 			"name": "Diablo de la cadena",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El diablo realiza dos ataques con sus cadenas."
-				}
-			}
+			"description": ""
 		},
 		"Chimera": {
 			"name": "Quimera",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La quimera realiza tres ataques: uno con su mordisco, otro con sus cuernos y otro con sus garras. Si su aliento de fuego está disponible, puede usarlo en lugar del mordisco o los cuernos."
-				}
-			}
+			"description": ""
 		},
 		"Chuul": {
 			"name": "Chuul",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El chuul realiza dos ataques de tenaza. Además, si está agarrando a una criatura, también puede usar sus tentáculos una vez."
-				}
-			}
+			"description": ""
 		},
 		"Clay Golem": {
 			"name": "Gólem de arcilla",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gólem realiza dos ataques de golpe."
-				}
-			}
+			"description": ""
 		},
 		"Cloaker": {
 			"name": "Manto",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El manto realiza dos ataques: uno con su mordisco y otro con su cola."
-				}
-			}
+			"description": ""
 		},
 		"Cloud Giant": {
 			"name": "Gigante de las nubes",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gigante realiza dos ataques con su lucero del alba."
-				}
-			}
+			"description": ""
 		},
 		"Cockatrice": {
 			"name": "Cocatriz",
@@ -561,13 +299,7 @@
 		},
 		"Cult Fanatic": {
 			"name": "Sectario fanático",
-			"description": "<p>Los fanáticos suelen ocupar las posiciones de liderazgo de las sectas, recurriendo a su carisma y excusándose en el dogma del culto para influenciar y aprovecharse de las personas de voluntad más débil. La prioridad principal de la mayoría de ellos es conseguir poder para sí mismos.</p><p></p><p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El fanático realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": "<p>Los fanáticos suelen ocupar las posiciones de liderazgo de las sectas, recurriendo a su carisma y excusándose en el dogma del culto para influenciar y aprovecharse de las personas de voluntad más débil. La prioridad principal de la mayoría de ellos es conseguir poder para sí mismos.</p><p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Cultist": {
 			"name": "Sectario",
@@ -579,13 +311,7 @@
 		},
 		"Death Dog": {
 			"name": "Perro del inframundo",
-			"description": "<p>Los perros del inframundo son horribles sabuesos bicéfalos que moran en las llanuras y desiertos. El odio arde con fuerza dentro de sus corazones y su ansia por la carne de humanoide les lleva a atacar a viajeros y exploradores. La saliva de los perros del inframundo transmite una enfermedad nauseabunda, que provoca que la piel de los que la sufren se pudra lentamente, hasta solo quedar el hueso.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El perro realiza dos ataques de mordisco."
-				}
-			}
+			"description": "<p>Los perros del inframundo son horribles sabuesos bicéfalos que moran en las llanuras y desiertos. El odio arde con fuerza dentro de sus corazones y su ansia por la carne de humanoide les lleva a atacar a viajeros y exploradores. La saliva de los perros del inframundo transmite una enfermedad nauseabunda, que provoca que la piel de los que la sufren se pudra lentamente, hasta solo quedar el hueso.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Deep Gnome": {
 			"name": "Gnomo de las profundidades",
@@ -597,13 +323,7 @@
 		},
 		"Deva": {
 			"name": "Deva",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El deva realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": ""
 		},
 		"Dire Wolf": {
 			"name": "Lobo terrible",
@@ -611,23 +331,11 @@
 		},
 		"Djinni": {
 			"name": "Djinn",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El djinn realiza tres ataques con su cimitarra."
-				}
-			}
+			"description": ""
 		},
 		"Doppelganger": {
 			"name": "Doppelganger",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El doppelganger realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Draft Horse": {
 			"name": "Caballo de tiro",
@@ -635,33 +343,15 @@
 		},
 		"Dragon Turtle": {
 			"name": "Dragón tortuga",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón tortuga realiza tres ataques: uno con su mordisco y dos con sus garras. Puede hacer un ataque con su cola en lugar de los dos ataques con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Dretch": {
 			"name": "Dretch",
-			"description": "<blockquote>\n<p>El clamor se podía escuchar mucho antes de que las criaturas aparecieran a la vista. Del otro lado del valle escuchamos al batallón de Dretch. Aullando, gruñendo y gimiendo, todo en un estrépito indistinguible, estos humildes demonios lamentaban su existencia incluso mientras intentaban sofocar la nuestra. Cuando la ola de Dretch se acercó a la puerta, vimos sus tácticas en plena exhibición. Estúpidas y torpes, las bestias se aplastaron y apilaron unas sobre otras para forzar la apertura de la puerta por el puro volumen de su peso combinado. Cuando los rayos finalmente comenzaron a astillarse y esos gases nocivos y asfixiantes llegaron a nuestros pulmones... pensé que moriría donde estaba.<br /><em>- un relato oral de una invasión demoníaca por parte de un soldado anónimo.</em> </p>\n</blockquote>\n<p><strong>¿Hueles eso?</strong> Casi los más humildes de todos los demonios, los Dretch son pequeñas criaturas horribles y feas que superan en gran número a las fuerzas del Abismo. Dretch no se parece a nada más que a un humanoide fornido y de carne pálida con algunas características adicionales. El Dretch tiene orejas cortadas y puntiagudas y un revoltijo de colmillos astillados y sucios que sobresalen de las encías pálidas de manera errática. Brazos largos y delgados que terminan en garras curvas cubren un vientre hinchado, con las manos arrastrándose por el suelo junto a pies atrofiados. La piel pálida del Dretch está suelta y se desliza grotescamente a través de una telaraña de venas varicosas azules y negras. Poco inteligente y mezquino, Dretch pasa su vida dentro del Abismo expresando su descontento por su estado a través de una serie de gruñidos y ladridos en la lengua Abisal. Inadecuados incluso para las tareas más mundanas debido a su absoluta estupidez, los Dretch son utilizados por otros demonios como carne de cañón en su eterna guerra con las criaturas del infierno. En combate, los Dretch son sin duda un espectáculo lamentable, ya que su estupidez los lleva con una sola táctica clara: una turba enloquecida se precipita hacia su enemigo. Los Dretch son débiles y cobardes (muchos huirían de un enemigo si no hubiera un demonio mayor para intimidarlos de regreso a la batalla) y prefieren abrumar a su enemigo con su número. Si un contingente suficiente de Dretch rompe las defensas de sus enemigos, los Dretch pueden desplegar una nube apestosa de aire pútrido desde el interior de sus cuerpos que se repone una vez al día. Inmunes a todos los venenos, los Dretch luego golpean a sus oponentes con sus brazos delgados mientras los enemigos se desvanecen lentamente en el agarre asfixiante del veneno.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dretch realiza dos ataques: uno con su mordisco y otro con sus garras."
-				}
-			}
+			"description": "<blockquote>\n<p>El clamor se podía escuchar mucho antes de que las criaturas aparecieran a la vista. Del otro lado del valle escuchamos al batallón de Dretch. Aullando, gruñendo y gimiendo, todo en un estrépito indistinguible, estos humildes demonios lamentaban su existencia incluso mientras intentaban sofocar la nuestra. Cuando la ola de Dretch se acercó a la puerta, vimos sus tácticas en plena exhibición. Estúpidas y torpes, las bestias se aplastaron y apilaron unas sobre otras para forzar la apertura de la puerta por el puro volumen de su peso combinado. Cuando los rayos finalmente comenzaron a astillarse y esos gases nocivos y asfixiantes llegaron a nuestros pulmones... pensé que moriría donde estaba.<br /><em>- un relato oral de una invasión demoníaca por parte de un soldado anónimo.</em> </p>\n</blockquote>\n<p><strong>¿Hueles eso?</strong> Casi los más humildes de todos los demonios, los Dretch son pequeñas criaturas horribles y feas que superan en gran número a las fuerzas del Abismo. Dretch no se parece a nada más que a un humanoide fornido y de carne pálida con algunas características adicionales. El Dretch tiene orejas cortadas y puntiagudas y un revoltijo de colmillos astillados y sucios que sobresalen de las encías pálidas de manera errática. Brazos largos y delgados que terminan en garras curvas cubren un vientre hinchado, con las manos arrastrándose por el suelo junto a pies atrofiados. La piel pálida del Dretch está suelta y se desliza grotescamente a través de una telaraña de venas varicosas azules y negras. Poco inteligente y mezquino, Dretch pasa su vida dentro del Abismo expresando su descontento por su estado a través de una serie de gruñidos y ladridos en la lengua Abisal. Inadecuados incluso para las tareas más mundanas debido a su absoluta estupidez, los Dretch son utilizados por otros demonios como carne de cañón en su eterna guerra con las criaturas del infierno. En combate, los Dretch son sin duda un espectáculo lamentable, ya que su estupidez los lleva con una sola táctica clara: una turba enloquecida se precipita hacia su enemigo. Los Dretch son débiles y cobardes (muchos huirían de un enemigo si no hubiera un demonio mayor para intimidarlos de regreso a la batalla) y prefieren abrumar a su enemigo con su número. Si un contingente suficiente de Dretch rompe las defensas de sus enemigos, los Dretch pueden desplegar una nube apestosa de aire pútrido desde el interior de sus cuerpos que se repone una vez al día. Inmunes a todos los venenos, los Dretch luego golpean a sus oponentes con sus brazos delgados mientras los enemigos se desvanecen lentamente en el agarre asfixiante del veneno.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Drider": {
 			"name": "Draña",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La draña realiza tres ataques, ya sea con su espada larga o su arco largo. Puedes reemplazar uno de esos tres ataques por un mordisco."
-				}
-			}
+			"description": ""
 		},
 		"Drow": {
 			"name": "Drow",
@@ -689,23 +379,11 @@
 		},
 		"Earth Elemental": {
 			"name": "Elemental de tierra",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El elemental realiza dos ataques de golpe."
-				}
-			}
+			"description": ""
 		},
 		"Efreeti": {
 			"name": "Ifrit",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El ifrit real iza dos ataques con su cimitarra o usa arrojar llama dos veces."
-				}
-			}
+			"description": ""
 		},
 		"Elephant": {
 			"name": "Elefante",
@@ -717,63 +395,27 @@
 		},
 		"Erinyes": {
 			"name": "Erinia",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La erinia realiza tres ataques."
-				}
-			}
+			"description": ""
 		},
 		"Ettercap": {
 			"name": "Ettercap",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El ettercap realiza dos ataques: uno con su mordisco y otro con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Ettin": {
 			"name": "Ettin",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El ettin realiza dos ataques: uno con su hacha de guerra y otro con su lucero del alba."
-				}
-			}
+			"description": ""
 		},
 		"Fire Elemental": {
 			"name": "Elemental de fuego",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El elemental realiza dos ataques de toque."
-				}
-			}
+			"description": ""
 		},
 		"Fire Giant": {
 			"name": "Gigante del fuego",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gigante realiza dos ataques con su espadón."
-				}
-			}
+			"description": ""
 		},
 		"Flesh Golem": {
 			"name": "Gólem de carne",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gólem realiza dos ataques de golpe."
-				}
-			}
+			"description": ""
 		},
 		"Flying Snake": {
 			"name": "Serpiente voladora",
@@ -789,23 +431,11 @@
 		},
 		"Frost Giant": {
 			"name": "Gigante de escarcha",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gigante realiza dos ataques con su hacha a dos manos."
-				}
-			}
+			"description": ""
 		},
 		"Gargoyle": {
 			"name": "Gárgola",
-			"description": "<p>Apariencia Falsa. Mientras permanezca estática, la gárgola es indistinguible de una estatua inanimada.</p>\n<p>Acciones</p>\n<p>Ataque múltiple. La gárgola realiza dos ataques: uno con su mordisco y otro con sus garras.</p>\n<p>Mordisco. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: <strong>5 (1d6 + 2) de <em>daño perforante</em></strong>.</p>\n<p>Garras. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: <strong>5 (1d6 + 2) de <em>daño cortante</em></strong>.</p>\n<p></p>\n<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La gárgola realiza dos ataques: uno con su mordisco y otro con sus garras."
-				}
-			}
+			"description": "<p>Apariencia Falsa. Mientras permanezca estática, la gárgola es indistinguible de una estatua inanimada.</p>\n<p>Acciones</p>\n<p>Ataque múltiple. La gárgola realiza dos ataques: uno con su mordisco y otro con sus garras.</p>\n<p>Mordisco. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: <strong>5 (1d6 + 2) de <em>daño perforante</em></strong>.</p>\n<p>Garras. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: <strong>5 (1d6 + 2) de <em>daño cortante</em></strong>.</p>\n<p></p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Gelatinous Cube": {
 			"name": "Cubo gelatinoso",
@@ -825,23 +455,11 @@
 		},
 		"Giant Ape": {
 			"name": "Simio gigante",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El simio realiza dos ataques de puñetazo."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Badger": {
 			"name": "Tejón gigante",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El tejón realiza dos ataques: uno con su mordisco y otro con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Bat": {
 			"name": "Murciélago gigante",
@@ -865,23 +483,11 @@
 		},
 		"Giant Crocodile": {
 			"name": "Cocodrilo gigante",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El cocodrilo realiza dos ataques: uno con su mordisco y otro con su cola ."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Eagle": {
 			"name": "Águila gigante",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El águila realiza dos ataques: uno con su pico y otro con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Elk": {
 			"name": "Alce gigante",
@@ -933,13 +539,7 @@
 		},
 		"Giant Scorpion": {
 			"name": "Escorpión gigante",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El escorpión realiza tres ataques: dos con sus pinzas y otro con su aguijón."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Sea Horse": {
 			"name": "Caballito de mar gigante",
@@ -959,13 +559,7 @@
 		},
 		"Giant Vulture": {
 			"name": "Buitre gigante",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El buitre realiza dos ataques: uno con su pico y otro con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Giant Wasp": {
 			"name": "Avispa gigante",
@@ -981,33 +575,15 @@
 		},
 		"Gibbering Mouther": {
 			"name": "Bocón barbotante",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El bocón barbotante realiza un ataque de mordiscos y, si puede, utiliza su baba cegadora."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Glabrezu": {
 			"name": "Glabrezu",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El glabrezu realiza cuatro ataques: dos con sus tenazas y dos con sus puñetazos. O, si lo prefiere, puede hacer dos ataques con sus tenazas y lanzar un conjuro."
-				}
-			}
+			"description": ""
 		},
 		"Gladiator": {
 			"name": "Gladiador",
-			"description": "<p>Los gladiadores combaten para entretener a multitudes enfervorizadas. Algunos son brutales luchadores que ponen la vida en juego en cada pugna, mientras que otros son duelistas profesionales que perciben cuantiosos honorarios, pero rara vez combaten a muerte.</p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gladiador realiza tres ataques cuerpo a cuerpo o dos ataques a distancia."
-				}
-			}
+			"description": "<p>Los gladiadores combaten para entretener a multitudes enfervorizadas. Algunos son brutales luchadores que ponen la vida en juego en cada pugna, mientras que otros son duelistas profesionales que perciben cuantiosos honorarios, pero rara vez combaten a muerte.</p>"
 		},
 		"Gnoll": {
 			"name": "Gnoll",
@@ -1043,23 +619,11 @@
 		},
 		"Grick": {
 			"name": "Grick",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El grick realiza un ataque con sus tentáculos. Si este impacta, puede llevar a cabo un ataque con su pico contra el mismo objetivo."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Griffon": {
 			"name": "Grifo",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El grifo realiza dos ataques: uno con su pico y uno con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Grimlock": {
 			"name": "Grimlock",
@@ -1075,33 +639,15 @@
 		},
 		"Gynosphinx": {
 			"name": "Ginoesfinge",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La esfinge realiza dos ataques con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Half-Red Dragon Veteran": {
 			"name": "Semidragón rojo veterano",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El veterano realiza dos ataques con su espada larga. Si empuña una espada corta, también puede realizar un tercer ataque con esta última."
-				}
-			}
+			"description": ""
 		},
 		"Harpy": {
 			"name": "Arpía",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La arpía realiza dos ataques: uno con sus garras y otro con su garrote."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Hawk": {
 			"name": "Halcón",
@@ -1113,33 +659,15 @@
 		},
 		"Hezrou": {
 			"name": "Hezrou",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El hezrou realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Hill Giant": {
 			"name": "Gigante de las colinas",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gigante realiza dos ataques con su garrote grande."
-				}
-			}
+			"description": ""
 		},
 		"Hippogriff": {
 			"name": "Hipogrifo",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El hipogrifo realiza dos ataques: uno con su pico y uno con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Hobgoblin": {
 			"name": "Hobgoblin",
@@ -1151,13 +679,7 @@
 		},
 		"Horned Devil": {
 			"name": "Diablo astado",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El diablo realiza tres ataques cuerpo a cuerpo; dos con su horca y otro con su cola. Puede usar arrojar llama en lugar de cualquier ataque cuerpo a cuerpo."
-				}
-			}
+			"description": ""
 		},
 		"Hunter Shark": {
 			"name": "Tiburón cazador",
@@ -1165,13 +687,7 @@
 		},
 		"Hydra": {
 			"name": "Hidra",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La hidra realiza tantos ataques de mordisco como cabezas tenga."
-				}
-			}
+			"description": ""
 		},
 		"Hyena": {
 			"name": "Hiena",
@@ -1179,13 +695,7 @@
 		},
 		"Ice Devil": {
 			"name": "Diablo gélido",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El diablo realiza tres ataques: uno con su mordisco, otro con sus garras y otro con su cola."
-				}
-			}
+			"description": ""
 		},
 		"Ice Mephit": {
 			"name": "Mephit de hielo",
@@ -1197,23 +707,11 @@
 		},
 		"Invisible Stalker": {
 			"name": "Acechador invisible",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El acechador realiza dos ataques de golpe."
-				}
-			}
+			"description": ""
 		},
 		"Iron Golem": {
 			"name": "Gólem de hierro",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gólem realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": ""
 		},
 		"Jackal": {
 			"name": "Chacal",
@@ -1225,13 +723,7 @@
 		},
 		"Knight": {
 			"name": "Caballero",
-			"description": "<p>Los caballeros son guerreros que se ponen al servicio de gobernantes, órdenes religiosas y causas nobles. El alineamiento del caballero determina hasta qué punto honra su compromiso. Tanto si parten para cumplir una misión o se encuentran patrullando el reino, los caballeros suelen viajar con un séquito del que forman parte escuderos y asalariados, a los que puedes representar usando el perfil del plebeyo.</p>\n<p></p>\n<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El caballero realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": "<p>Los caballeros son guerreros que se ponen al servicio de gobernantes, órdenes religiosas y causas nobles. El alineamiento del caballero determina hasta qué punto honra su compromiso. Tanto si parten para cumplir una misión o se encuentran patrullando el reino, los caballeros suelen viajar con un séquito del que forman parte escuderos y asalariados, a los que puedes representar usando el perfil del plebeyo.</p>\n<p></p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Kobold": {
 			"name": "Kobold",
@@ -1239,23 +731,11 @@
 		},
 		"Kraken": {
 			"name": "Kraken",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El kraken realiza tres ataques con sus tentáculos. Si lo prefiere, en lugar de cada uno de el los puede utilizar lanzar."
-				}
-			}
+			"description": ""
 		},
 		"Lamia": {
 			"name": "Lamia",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La lamia realiza dos ataques: uno con sus garras, y otro con su daga o su toque embriagador."
-				}
-			}
+			"description": ""
 		},
 		"Lemure": {
 			"name": "Lémur",
@@ -1275,13 +755,7 @@
 		},
 		"Lizardfolk": {
 			"name": "Hombre lagarto",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El hombre lagarto realiza dos ataques cuerpo a cuerpo, cada uno con un arma distinta."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Mage": {
 			"name": "Mago",
@@ -1301,23 +775,11 @@
 		},
 		"Manticore": {
 			"name": "Mantícora",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La mantícora realiza tres ataques, uno con su mordisco y dos con sus garras, o tres con sus púas de cola."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Marilith": {
 			"name": "Marilith",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La marilith tiene ventaja en las tiradas de salvación para evitar conjuros y otros efectos mágicos."
-				}
-			}
+			"description": ""
 		},
 		"Mastiff": {
 			"name": "Mastín",
@@ -1325,13 +787,7 @@
 		},
 		"Medusa": {
 			"name": "Medusa",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La medusa realiza tres ataques cuerpo a cuerpo, uno con su pelo de serpientes y dos con su espada corta, o dos ataques a distancia con su arco largo."
-				}
-			}
+			"description": ""
 		},
 		"Merfolk": {
 			"name": "Sirénido",
@@ -1339,13 +795,7 @@
 		},
 		"Merrow": {
 			"name": "Merrow",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El merrow realiza dos ataques: uno con su mordisco y otro con sus garras o su arpón."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Mimic": {
 			"name": "Mimeto",
@@ -1365,33 +815,15 @@
 		},
 		"Mummy": {
 			"name": "Momia",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La momia puede utilizar su mirada espantosa y realizar un ataque con su puño putrefacto."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Mummy Lord": {
 			"name": "Señor de las momias",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La momia puede utilizar su mirada espantosa y realizar un ataque con su puño putrefacto."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Nalfeshnee": {
 			"name": "Nalfeshnee",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "Si puede, el nalfeshnee utiliza nimbo horrible. Después realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Night Hag": {
 			"name": "Saga nocturna",
@@ -1407,7 +839,7 @@
 		},
 		"Ochre Jelly": {
 			"name": "Gelatina ocre",
-			"description": "<p> </p>"
+			"description": "<p> </p>"
 		},
 		"Octopus": {
 			"name": "Pulpo",
@@ -1423,13 +855,7 @@
 		},
 		"Oni": {
 			"name": "Oni",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El oni realiza dos ataques, pudiendo usar para cualquiera de ellos sus garras o su guja."
-				}
-			}
+			"description": ""
 		},
 		"Orc": {
 			"name": "Orco",
@@ -1437,13 +863,7 @@
 		},
 		"Otyugh": {
 			"name": "Otyugh",
-			"description": "<p>Los otyughs son grotescas criaturas bulbosas que se desplazan sobre tres patas robustas y cuya nariz y ojos se encuentran ubicados en un apéndice largo y retorcido que serpentea desde la parte superior su cuerpo abotargado. Poseen otros dos tentáculos gomosos que terminan en unos apéndices puntiagudos en forma de hoja que utilizan para llevarse la comida hasta sus enormes fauces. Los otyughs se entierran bajo montones de despojos y carroña, exponiendo tan solo su apéndice sensorial. Cuando una criatura comestible pasa por allí, los tentáculos del otyugh emergen de entre los desperdicios y la apresan. Estas aberraciones aprovechan al máximo cualquier oportunidad para emboscar y devorar una presa. Utilizan una forma limitada de telepatía para atraer a criaturas inteligentes hasta sus guaridas, donde fingen a veces ser una criatura distinta.</p>\n<p><strong>Habitantes de la oscuridad.</strong> Los otyughs solo toleran la luz intensa cuando tienen a su alcance la cantidad suficiente de carroña y desperdicios. En un entorno natural, habitan en pantanos de agua estancada, fosos llenos de basura y húmedos hondonadas boscosas. El olor de los cementerios, las alcantarillas de las ciudades, los muladares de los pueblos y los establos colmados de abono las atraen a zonas civilizadas. Dado que lo único que preocupa a los otyughs es la comida, en ocasiones se puede encontrar en sus guaridas gran variedad de tesoros pertenecientes a sus víctimas entre la basura.</p>\n<p><strong>Guardianes simbióticos.</strong> Algunos seres subterráneos inteligentes coexisten con estas criaturas y las usan para deshacerse de sus desperdicios. Con todo este alimento a su disposición, el otyugh se limita a holgazanear y engordar, carente de cualquier otro deseo o motivación. Esta glotonería sedentaria los convierte en guardianes fidedignos. Mientras el otyugh esté alimentado, no atacará a ninguna otra criatura. Sin embargo, no es difícil que un aspirante a domador de otyughs subestime la cantidad de deshechos, carroña y carne necesaria para alimentarlos. Más de un otyugh \"domesticado\" ha acabado devorando a su custodio tras comerse todos los desperdicios de su guarida.</p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El otyugh realiza tres ataques: uno con su mordisco y dos con sus tentáculos."
-				}
-			}
+			"description": "<p>Los otyughs son grotescas criaturas bulbosas que se desplazan sobre tres patas robustas y cuya nariz y ojos se encuentran ubicados en un apéndice largo y retorcido que serpentea desde la parte superior su cuerpo abotargado. Poseen otros dos tentáculos gomosos que terminan en unos apéndices puntiagudos en forma de hoja que utilizan para llevarse la comida hasta sus enormes fauces. Los otyughs se entierran bajo montones de despojos y carroña, exponiendo tan solo su apéndice sensorial. Cuando una criatura comestible pasa por allí, los tentáculos del otyugh emergen de entre los desperdicios y la apresan. Estas aberraciones aprovechan al máximo cualquier oportunidad para emboscar y devorar una presa. Utilizan una forma limitada de telepatía para atraer a criaturas inteligentes hasta sus guaridas, donde fingen a veces ser una criatura distinta.</p>\n<p><strong>Habitantes de la oscuridad.</strong> Los otyughs solo toleran la luz intensa cuando tienen a su alcance la cantidad suficiente de carroña y desperdicios. En un entorno natural, habitan en pantanos de agua estancada, fosos llenos de basura y húmedos hondonadas boscosas. El olor de los cementerios, las alcantarillas de las ciudades, los muladares de los pueblos y los establos colmados de abono las atraen a zonas civilizadas. Dado que lo único que preocupa a los otyughs es la comida, en ocasiones se puede encontrar en sus guaridas gran variedad de tesoros pertenecientes a sus víctimas entre la basura.</p>\n<p><strong>Guardianes simbióticos.</strong> Algunos seres subterráneos inteligentes coexisten con estas criaturas y las usan para deshacerse de sus desperdicios. Con todo este alimento a su disposición, el otyugh se limita a holgazanear y engordar, carente de cualquier otro deseo o motivación. Esta glotonería sedentaria los convierte en guardianes fidedignos. Mientras el otyugh esté alimentado, no atacará a ninguna otra criatura. Sin embargo, no es difícil que un aspirante a domador de otyughs subestime la cantidad de deshechos, carroña y carne necesaria para alimentarlos. Más de un otyugh \"domesticado\" ha acabado devorando a su custodio tras comerse todos los desperdicios de su guarida.</p>"
 		},
 		"Owl": {
 			"name": "Búho",
@@ -1451,13 +871,7 @@
 		},
 		"Owlbear": {
 			"name": "Oso lechuza",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El oso lechuza realiza dos ataques: uno con su pico y uno con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Panther": {
 			"name": "Pantera",
@@ -1473,23 +887,11 @@
 		},
 		"Pit Fiend": {
 			"name": "Diablo de la sima",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El diablo de la sima realiza cuatro ataques: uno con su mordisco, otro con su garra, otro con su maza y otro con su cola."
-				}
-			}
+			"description": ""
 		},
 		"Planetar": {
 			"name": "Planetar",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El planetar realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": ""
 		},
 		"Plesiosaurus": {
 			"name": "Plesiosaurio",
@@ -1501,13 +903,7 @@
 		},
 		"Polar Bear": {
 			"name": "Oso polar",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El oso realiza dos ataques: uno con su mordisco y otro con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Pony": {
 			"name": "Poni",
@@ -1523,13 +919,7 @@
 		},
 		"Purple Worm": {
 			"name": "Gusano púrpura",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gusano realiza dos ataques: uno con su mordisco y otro con su aguijón."
-				}
-			}
+			"description": ""
 		},
 		"Quasit": {
 			"name": "Quasit",
@@ -1541,13 +931,7 @@
 		},
 		"Rakshasa": {
 			"name": "Rakshasa",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El rakshasa realiza dos ataques con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Rat": {
 			"name": "Rata",
@@ -1579,23 +963,11 @@
 		},
 		"Roc": {
 			"name": "Roc",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El roc realiza dos ataques: uno con su pico y otro con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Roper": {
 			"name": "Lacero",
-			"description": "<p>Los cordeleros son cazadores y emboscadores del inframundo que han evolucionado para asumir la apariencia de estalagmitas u otras formaciones rocosas. Los cordeleros esperan a que las criaturas vivas se acerquen antes de arremeter con zarcillos extruidos que atrapan al objetivo y minan su fuerza. El cordelero atraerá a su presa a una gran boca con colmillos para consumirla lentamente.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El lacero realiza cuatro ataques con sus zarcillos, utiliza atraer y lleva a cabo un ataque con su mordisco."
-				}
-			}
+			"description": "<p>Los cordeleros son cazadores y emboscadores del inframundo que han evolucionado para asumir la apariencia de estalagmitas u otras formaciones rocosas. Los cordeleros esperan a que las criaturas vivas se acerquen antes de arremeter con zarcillos extruidos que atrapan al objetivo y minan su fuerza. El cordelero atraerá a su presa a una gran boca con colmillos para consumirla lentamente.</p>\n<p><em>Token artwork by Forgotten Adventures.</em></p>"
 		},
 		"Rug of Smothering": {
 			"name": "Alfombra asfixiante",
@@ -1611,23 +983,11 @@
 		},
 		"Sahuagin": {
 			"name": "Sahuagín",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El sahuagin realiza dos ataques cuerpo a cuerpo; uno con su mordisco y otro con sus garras o su lanza."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Salamander": {
 			"name": "Salamandra",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La salamandra realiza dos ataques: uno con su lanza y otro con su cola."
-				}
-			}
+			"description": ""
 		},
 		"Satyr": {
 			"name": "Sátiro",
@@ -1639,13 +999,7 @@
 		},
 		"Scout": {
 			"name": "Batidor",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El batidor realiza dos ataques cuerpo a cuerpo o dos ataques a distancia."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Sea Hag": {
 			"name": "Saga de los mares",
@@ -1661,23 +1015,11 @@
 		},
 		"Shambling Mound": {
 			"name": "Broza movediza",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La broza movediza realiza dos ataques de golpe. Si ambos ataques impactan a un objetivo Mediano o más pequeño, este estará agarrado (CD 14 para escapar) y la broza movediza utilizará absorber sobre él."
-				}
-			}
+			"description": ""
 		},
 		"Shield Guardian": {
 			"name": "Guardián escudo",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El guardián realiza dos ataques de puñetazo."
-				}
-			}
+			"description": ""
 		},
 		"Shrieker": {
 			"name": "Chillón",
@@ -1689,17 +1031,11 @@
 		},
 		"Skeleton": {
 			"name": "Esqueleto",
-			"description": "<blockquote>\n<p>La primera vez que veas esas cuencas huecas mirándote fijamente con alguna apariencia de pensamiento dentro del cráneo, te aconsejo que quites cualquier sentimiento de logro.  El sirviente esquelético que has criado es poco más que una cáscara sin cerebro.  Sin la debida, y me refiero a la debida, instrucción, los huesos frente a usted bien podrían haber permanecido polvorientos en el suelo.  Explique las órdenes cuidadosamente y exponga los pasos de las tareas de su nuevo sirviente con sumo cuidado.  Además, si atrapas a tu amigo esquelético participando en las actividades de su vida anterior, no lo regañes.  La rutina mundana de cortar madera o balancear un martillo puede permitir más sirvientes maleables a medida que el tiempo continúa.<br /><em>The Book of Dark Servants, Vol III.</em></p>\n</blockquote>\n<p>Los esqueletos son seres elevados a la no-muerte por la voluntad de la magia necromántica.  La magia necromántica utilizada dentro del ritual puede ser lanzada por una mano entrenada o simplemente filtrarse en los huesos del esqueleto en áreas de muerte concentrada.  Cementerios, catacumbas y campos de batalla están sujetos al surgimiento esporádico de esqueletos en sus nuevas vidas.  La magia no solo mantiene el esqueleto \"vivo\", sino que también une las articulaciones y los huesos como ligamentos espectrales.  Con su segunda vida, el esqueleto actúa como una criatura semi-sin mente que sirve a la voluntad de su amo.</p>\n<p><strong>Espeluznante Miedo.</strong> Para el nigromante emergente, los esqueletos hacen dignos guardias para un repositorio oculto de conocimiento prohibido.  Los esqueletos seguirán órdenes simples o ligeramente complejas dadas (como formar un círculo protector o construir defensas menores) sin que el nigromante tenga que preocuparse por la durabilidad de sus creaciones.  Los esqueletos evitarán el peligro y se negarán a lastimarse a menos que su amo lo ordene explícitamente.  Los esqueletos parecen crecer bastante aburridos sin dirección y se han observado deambulando alrededor de un área realizando acciones simples de sus vidas pasadas.  Un esqueleto notable que recuerdo todavía era capaz de lanzar su línea de pesca, aunque torpemente en el mejor de los casos, en el lago cercano.  Los esqueletos, sin embargo, no se utilizan para sus habilidades anteriores, sino como guardianes del nigromante que los convocó de vuelta de los infiernos.  Los esqueletos son más que capaces cuando balancean una espada o disparan una ballesta, encontrando en la muerte una destreza marcial de la que pueden haber carecido en la vida gracias al poder oscuro que fluye a través de su médula.</p>\n<blockquote>\n<p>Nota del autor: No todos los adversarios esqueléticos en el viaje de un aventurero serán humanoides.  Ten cuidado, ya que las mágicas significativas pueden invocar monstruos esqueléticos más poderosos.</p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<blockquote>\n<p>La primera vez que veas esas cuencas huecas mirándote fijamente con alguna apariencia de pensamiento dentro del cráneo, te aconsejo que quites cualquier sentimiento de logro.  El sirviente esquelético que has criado es poco más que una cáscara sin cerebro.  Sin la debida, y me refiero a la debida, instrucción, los huesos frente a usted bien podrían haber permanecido polvorientos en el suelo.  Explique las órdenes cuidadosamente y exponga los pasos de las tareas de su nuevo sirviente con sumo cuidado.  Además, si atrapas a tu amigo esquelético participando en las actividades de su vida anterior, no lo regañes.  La rutina mundana de cortar madera o balancear un martillo puede permitir más sirvientes maleables a medida que el tiempo continúa.<br /><em>The Book of Dark Servants, Vol III.</em></p>\n</blockquote>\n<p>Los esqueletos son seres elevados a la no-muerte por la voluntad de la magia necromántica.  La magia necromántica utilizada dentro del ritual puede ser lanzada por una mano entrenada o simplemente filtrarse en los huesos del esqueleto en áreas de muerte concentrada.  Cementerios, catacumbas y campos de batalla están sujetos al surgimiento esporádico de esqueletos en sus nuevas vidas.  La magia no solo mantiene el esqueleto \"vivo\", sino que también une las articulaciones y los huesos como ligamentos espectrales.  Con su segunda vida, el esqueleto actúa como una criatura semi-sin mente que sirve a la voluntad de su amo.</p>\n<p><strong>Espeluznante Miedo.</strong> Para el nigromante emergente, los esqueletos hacen dignos guardias para un repositorio oculto de conocimiento prohibido.  Los esqueletos seguirán órdenes simples o ligeramente complejas dadas (como formar un círculo protector o construir defensas menores) sin que el nigromante tenga que preocuparse por la durabilidad de sus creaciones.  Los esqueletos evitarán el peligro y se negarán a lastimarse a menos que su amo lo ordene explícitamente.  Los esqueletos parecen crecer bastante aburridos sin dirección y se han observado deambulando alrededor de un área realizando acciones simples de sus vidas pasadas.  Un esqueleto notable que recuerdo todavía era capaz de lanzar su línea de pesca, aunque torpemente en el mejor de los casos, en el lago cercano.  Los esqueletos, sin embargo, no se utilizan para sus habilidades anteriores, sino como guardianes del nigromante que los convocó de vuelta de los infiernos.  Los esqueletos son más que capaces cuando balancean una espada o disparan una ballesta, encontrando en la muerte una destreza marcial de la que pueden haber carecido en la vida gracias al poder oscuro que fluye a través de su médula.</p>\n<blockquote>\n<p>Nota del autor: No todos los adversarios esqueléticos en el viaje de un aventurero serán humanoides.  Ten cuidado, ya que las mágicas significativas pueden invocar monstruos esqueléticos más poderosos.</p>\n</blockquote>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiary entry by Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Solar": {
 			"name": "Solar",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El solar realiza dos ataques con su espadón."
-				}
-			}
+			"description": ""
 		},
 		"Specter": {
 			"name": "Espectro",
@@ -1715,21 +1051,15 @@
 		},
 		"Sprite": {
 			"name": "Duende",
-			"description": "<p>Relacionado con los pixie fey que bailan alegremente a través de claros iluminados por el sol, los duendes se parecen a sus parientes más fantasiosos solo en tamaño.  Los duendes son diminutos humanoides sostenidos en alto por un par de alas de libélula que habitan en claros salpicados de setas, flores silvestres y ocasionalmente criaturas fey como árboles vivos que permiten a los duendes construir aldeas dentro de sus amplias ramas. Aquí, en el seno de la serenidad de la naturaleza, los duendes existen con un propósito: proteger su hogar a toda costa.  A diferencia de sus parientes pixies, los duendes son guerreros temibles y expertos artesanos del veneno dispuestos a dar sus vidas para proteger su claro.  Si un intruso entra en su territorio, los duendes se llevarán a los árboles y arbustos causando todo tipo de alboroto en un intento de ahuyentar al intruso sin conflicto.  Si el intruso permanece, saldrán y rodearán al invasor, llenándolo con flechas con punta de veneno.  El veneno no es mortal, más bien, deja a la víctima inconsciente para que los duendes puedan huir a un lugar más seguro dentro del bosque.</p>\n<p><strong>más Cerca del Corazón.</strong> Mientras que los Espíritus hacen guerreros temibles, no carecen de razón para analizar a sus enemigos. Al dejar inconsciente a una criatura, el duende puede tocar a la criatura y aprender la verdadera naturaleza del corazón de la criatura, sean buenos o malos, al \"ver\" su corazón.  Como el corazón nunca miente, el duende puede hacer juicios agudos sobre las intenciones de la criatura y determinar si son realmente una amenaza usando esta \"vista del corazón\".  En algunos casos, se sabe que los duende se alían con criaturas de buen carácter, especialmente si esa criatura ha venido a derrocar a una criatura fey alineada con el mal en su hogar en el bosque.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
+			"description": "<p>Relacionado con los pixie fey que bailan alegremente a través de claros iluminados por el sol, los duendes se parecen a sus parientes más fantasiosos solo en tamaño.  Los duendes son diminutos humanoides sostenidos en alto por un par de alas de libélula que habitan en claros salpicados de setas, flores silvestres y ocasionalmente criaturas fey como árboles vivos que permiten a los duendes construir aldeas dentro de sus amplias ramas. Aquí, en el seno de la serenidad de la naturaleza, los duendes existen con un propósito: proteger su hogar a toda costa.  A diferencia de sus parientes pixies, los duendes son guerreros temibles y expertos artesanos del veneno dispuestos a dar sus vidas para proteger su claro.  Si un intruso entra en su territorio, los duendes se llevarán a los árboles y arbustos causando todo tipo de alboroto en un intento de ahuyentar al intruso sin conflicto.  Si el intruso permanece, saldrán y rodearán al invasor, llenándolo con flechas con punta de veneno.  El veneno no es mortal, más bien, deja a la víctima inconsciente para que los duendes puedan huir a un lugar más seguro dentro del bosque.</p>\n<p><strong>más Cerca del Corazón.</strong> Mientras que los Espíritus hacen guerreros temibles, no carecen de razón para analizar a sus enemigos. Al dejar inconsciente a una criatura, el duende puede tocar a la criatura y aprender la verdadera naturaleza del corazón de la criatura, sean buenos o malos, al \"ver\" su corazón.  Como el corazón nunca miente, el duende puede hacer juicios agudos sobre las intenciones de la criatura y determinar si son realmente una amenaza usando esta \"vista del corazón\".  En algunos casos, se sabe que los duende se alían con criaturas de buen carácter, especialmente si esa criatura ha venido a derrocar a una criatura fey alineada con el mal en su hogar en el bosque.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Spy": {
 			"name": "Espía",
-			"description": "<p>Los gobernantes, nobles, comerciantes, maestros gremiales y otros individuos adinerados contratan espías para obtener la mayor ventaja posible en el despiadado mundo de la política. Los espías han sido entrenados para recabar información sin ser advertidos, y los más leales darían la vida antes de revelar algún secreto que pudiera poner en peligro a sus empleadores.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El espía realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": "<p>Los gobernantes, nobles, comerciantes, maestros gremiales y otros individuos adinerados contratan espías para obtener la mayor ventaja posible en el despiadado mundo de la política. Los espías han sido entrenados para recabar información sin ser advertidos, y los más leales darían la vida antes de revelar algún secreto que pudiera poner en peligro a sus empleadores.</p>\n<p></p><p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Steam Mephit": {
 			"name": "Mephit de vapor",
-			"description": "<p>Los mephits son pequeñas criaturas humanoides que provienen de los planos elementales. Tan caóticos como su lugar de origen, los mephits tienen una naturaleza similar a la de los diablillos y proliferan en lugares donde pueden sembrar la discordia y reprimir a los de su especie. Los mephits de vapor son una mezcla de mephits de agua y de fuego que se consideran los más superiores de todas las variedades de mephit. Estas pequeñas criaturas chillonas sólo miden un pie de altura, y su cuerpo está compuesto de vapor vivo que se fusiona en una forma humanoide delgada, en la que uno de los extremos se afina en una nariz puntiaguda en forma de pico. Estos mephits proceden del plano situado entre el plano elemental del fuego y el plano elemental del agua. Este \"plano del vapor\" es un mundo hirviente y húmedo, caracterizado por la presencia de rocas puntiagudas y agrietadas que lanzan géiseres de vapor a centenares de pies en el aire. Un humano desprotegido en este entorno vería su piel llenarse de ampollas justo antes de que sus ojos hiervan de sus órbitas como si fueran huevos cocidos. Sin embargo, para el mephit de vapor, esto es un paraíso. Estos seres son muy expertos en magias menores que les ayudan en su frágil existencia en el plano del vapor.  El mephit también es capaz de lanzar un pequeño chorro de vapor caliente por la boca para escaldar a sus enemigos si lo necesita.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<p>Los mephits son pequeñas criaturas humanoides que provienen de los planos elementales. Tan caóticos como su lugar de origen, los mephits tienen una naturaleza similar a la de los diablillos y proliferan en lugares donde pueden sembrar la discordia y reprimir a los de su especie. Los mephits de vapor son una mezcla de mephits de agua y de fuego que se consideran los más superiores de todas las variedades de mephit. Estas pequeñas criaturas chillonas sólo miden un pie de altura, y su cuerpo está compuesto de vapor vivo que se fusiona en una forma humanoide delgada, en la que uno de los extremos se afina en una nariz puntiaguda en forma de pico. Estos mephits proceden del plano situado entre el plano elemental del fuego y el plano elemental del agua. Este \"plano del vapor\" es un mundo hirviente y húmedo, caracterizado por la presencia de rocas puntiagudas y agrietadas que lanzan géiseres de vapor a centenares de pies en el aire. Un humano desprotegido en este entorno vería su piel llenarse de ampollas justo antes de que sus ojos hiervan de sus órbitas como si fueran huevos cocidos. Sin embargo, para el mephit de vapor, esto es un paraíso. Estos seres son muy expertos en magias menores que les ayudan en su frágil existencia en el plano del vapor.  El mephit también es capaz de lanzar un pequeño chorro de vapor caliente por la boca para escaldar a sus enemigos si lo necesita.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Stirge": {
 			"name": "Estirge",
@@ -1737,33 +1067,15 @@
 		},
 		"Stone Giant": {
 			"name": "Gigante de piedra",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gigante realiza dos ataques con su garrote grande."
-				}
-			}
+			"description": ""
 		},
 		"Stone Golem": {
 			"name": "Gólem de piedra",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gólem realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Storm Giant": {
 			"name": "Gigante de las tormentas",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El gigante realiza dos ataques con su espadón."
-				}
-			}
+			"description": ""
 		},
 		"Succubus/Incubus": {
 			"name": "Súcubo/Íncubo",
@@ -1771,7 +1083,7 @@
 		},
 		"Swarm of Bats": {
 			"name": "Enjambre de murciélagos",
-			"description": "<blockquote>\n<p>Nota del autor: Por favor vea abajo la entrada para \"Murciélago\" que será suficiente para la descripción de esta criatura.  Ten en cuenta que los \"enjambres\" funcionan de forma ligeramente diferente en combate que las criaturas singulares.  Por favor, utilice las reglas para \"Enjambres\" de acuerdo con su sistema de juego en particular.</p>\n</blockquote>\n<p>Los murciélagos son un accesorio común dentro de los bosques aislados y cavernas sin luz de nuestro mundo.  Los murciélagos son una criatura nocturna apreciada por los arcanistas por su capacidad para navegar por el terreno en la oscuridad casi total.  Esto por sí solo los convierte en una opción apreciada para un familiar convocado.  Variando desde el tamaño de un ratón hasta el de un gato doméstico, los murciélagos tienen una característica única entre los mamíferos: ¡el don de volar!  Estiradas delgadas entre las \"manos\" óseas de aguja son membranas carnosas que se extienden ampliamente desde el delicado cuerpo del murciélago, lo que permite a los murciélagos tomar los cielos en busca de insectos y frutas del bosque para disfrutar.</p>\n<p><strong>Chitter Chatter.</strong> Presumido ciego por muchos de cuentos sin sentido contadas a los niños, los murciélagos tienen la vista casi similar a la nuestra, aunque notablemente menos agudo.  Lo que hace que estas criaturas sean realmente únicas es su capacidad para navegar en la oscuridad de la noche.  Los murciélagos utilizan una serie de chirridos y chirridos que los investigadores han denominado \"ecolocalización\" para identificar objetos o presas dentro de su trayectoria de vuelo.  Los chirridos de ecolocación emitidos por los murciélagos rebotan hacia las orejas proporcionalmente masivas de la pequeña criatura, lo que permite a los murciélagos hacer correcciones en fracciones de segundo a sus navegaciones sin la ayuda de sus ojos.  Cabe señalar de nuevo que el murciélago hace una elección familiar inteligente, ya que pueden navegar por esos lugares demasiado oscuros y peligrosos para nuestros ojos mortales</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
+			"description": "<blockquote>\n<p>Nota del autor: Por favor vea abajo la entrada para \"Murciélago\" que será suficiente para la descripción de esta criatura.  Ten en cuenta que los \"enjambres\" funcionan de forma ligeramente diferente en combate que las criaturas singulares.  Por favor, utilice las reglas para \"Enjambres\" de acuerdo con su sistema de juego en particular.</p>\n</blockquote>\n<p>Los murciélagos son un accesorio común dentro de los bosques aislados y cavernas sin luz de nuestro mundo.  Los murciélagos son una criatura nocturna apreciada por los arcanistas por su capacidad para navegar por el terreno en la oscuridad casi total.  Esto por sí solo los convierte en una opción apreciada para un familiar convocado.  Variando desde el tamaño de un ratón hasta el de un gato doméstico, los murciélagos tienen una característica única entre los mamíferos: ¡el don de volar!  Estiradas delgadas entre las \"manos\" óseas de aguja son membranas carnosas que se extienden ampliamente desde el delicado cuerpo del murciélago, lo que permite a los murciélagos tomar los cielos en busca de insectos y frutas del bosque para disfrutar.</p>\n<p><strong>Chitter Chatter.</strong> Presumido ciego por muchos de cuentos sin sentido contadas a los niños, los murciélagos tienen la vista casi similar a la nuestra, aunque notablemente menos agudo.  Lo que hace que estas criaturas sean realmente únicas es su capacidad para navegar en la oscuridad de la noche.  Los murciélagos utilizan una serie de chirridos y chirridos que los investigadores han denominado \"ecolocalización\" para identificar objetos o presas dentro de su trayectoria de vuelo.  Los chirridos de ecolocación emitidos por los murciélagos rebotan hacia las orejas proporcionalmente masivas de la pequeña criatura, lo que permite a los murciélagos hacer correcciones en fracciones de segundo a sus navegaciones sin la ayuda de sus ojos.  Cabe señalar de nuevo que el murciélago hace una elección familiar inteligente, ya que pueden navegar por esos lugares demasiado oscuros y peligrosos para nuestros ojos mortales</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Swarm of Beetles": {
 			"name": "Enjambre de escarabajos",
@@ -1795,11 +1107,11 @@
 		},
 		"Swarm of Rats": {
 			"name": "Enjambre de ratas",
-			"description": "<blockquote>\n<p>Nota del autor: Por favor vea abajo la entrada para \"Rata\" que será suficiente para la descripción de esta criatura.  Ten en cuenta que los \"enjambres\" funcionan de forma ligeramente diferente en combate que las criaturas singulares.  Por favor, utilice las reglas para \"Enjambres\" de acuerdo con su sistema de juego en particular.</p>\n</blockquote>\n<p>Habitantes de inmundicia, carroñeros en nuestras alcantarillas, y vectores de contaigens, ningún animal singular puede presentar tal impacto sobre la vida humanoide como lo hace la rata.  Lugar común desde la metrópolis urbana en expansión hasta el pequeño granero de un granjero pobre, las ratas habitan cada rincón y grieta en la que pueden escabullirse.  Estos pequeños roedores, que pueden variar en tamaño desde no más grande que su palma hasta la longitud de un antebrazo (con la cola incluida) son pequeños ladrones bastante ingeniosos.  Las ratas son capaces de comprimir sus cuerpos de tal manera que pueden caber a través de espacios tan pequeños como el hueco en la parte inferior de su puerta.  Capaces de nadar y navegar en la oscuridad, algunas ratas han sido observadas saliendo de pequeñas tuberías de plomería, habiendo corrido a través de la longitud del túnel para hacerlo dentro de la morada de un comerciante.</p>\n<p><strong>Rats Off to You.</strong> Mientras que muchos pueden descartar a la rata como nada más que una plaga común, incluso aquellos que no son utilizados como familiares mágicos son pequeñas criaturas altamente inteligentes.  Los investigadores han observado ratas completando laberintos complejos, resolviendo rompecabezas de palanca y entendiendo el mundo que las rodea a un grado nunca visto en otros animales.  Un habitante inteligente de la calle ciertamente podría entrenar a una rata para filch comida o unas pocas monedas brillantes de un monedero no vigilado, si la rata recibe la recompensa adecuada.  Sin embargo, sea sabio en su selección de compañero, ya que algunas ratas portan enfermedades mortales de insectos que anidan en su pelaje corto.  Junto con sus afiladas garras, la rata tiene una mordida poderosa gracias a sus dientes incisivos alargados.  Sé observador, joven héroe, si ves una rata cerca, porque la simple criatura puede albergar un secreto dentro de sus ojos negros, que no parpadean.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
+			"description": "<blockquote>\n<p>Nota del autor: Por favor vea abajo la entrada para \"Rata\" que será suficiente para la descripción de esta criatura.  Ten en cuenta que los \"enjambres\" funcionan de forma ligeramente diferente en combate que las criaturas singulares.  Por favor, utilice las reglas para \"Enjambres\" de acuerdo con su sistema de juego en particular.</p>\n</blockquote>\n<p>Habitantes de inmundicia, carroñeros en nuestras alcantarillas, y vectores de contaigens, ningún animal singular puede presentar tal impacto sobre la vida humanoide como lo hace la rata.  Lugar común desde la metrópolis urbana en expansión hasta el pequeño granero de un granjero pobre, las ratas habitan cada rincón y grieta en la que pueden escabullirse.  Estos pequeños roedores, que pueden variar en tamaño desde no más grande que su palma hasta la longitud de un antebrazo (con la cola incluida) son pequeños ladrones bastante ingeniosos.  Las ratas son capaces de comprimir sus cuerpos de tal manera que pueden caber a través de espacios tan pequeños como el hueco en la parte inferior de su puerta.  Capaces de nadar y navegar en la oscuridad, algunas ratas han sido observadas saliendo de pequeñas tuberías de plomería, habiendo corrido a través de la longitud del túnel para hacerlo dentro de la morada de un comerciante.</p>\n<p><strong>Rats Off to You.</strong> Mientras que muchos pueden descartar a la rata como nada más que una plaga común, incluso aquellos que no son utilizados como familiares mágicos son pequeñas criaturas altamente inteligentes.  Los investigadores han observado ratas completando laberintos complejos, resolviendo rompecabezas de palanca y entendiendo el mundo que las rodea a un grado nunca visto en otros animales.  Un habitante inteligente de la calle ciertamente podría entrenar a una rata para filch comida o unas pocas monedas brillantes de un monedero no vigilado, si la rata recibe la recompensa adecuada.  Sin embargo, sea sabio en su selección de compañero, ya que algunas ratas portan enfermedades mortales de insectos que anidan en su pelaje corto.  Junto con sus afiladas garras, la rata tiene una mordida poderosa gracias a sus dientes incisivos alargados.  Sé observador, joven héroe, si ves una rata cerca, porque la simple criatura puede albergar un secreto dentro de sus ojos negros, que no parpadean.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Bestiario de Penélope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Swarm of Ravens": {
 			"name": "Enjambre de cuervos",
-			"description": "<blockquote>\n<p>Nota del autor: Por favor vea abajo la entrada para \"Cuervo\" que será suficiente para la descripción de esta criatura.  Ten en cuenta que los \"enjambres\" funcionan de forma ligeramente diferente en combate que las criaturas singulares.  Por favor, utilice las reglas para \"Enjambres\" de acuerdo con su sistema de juego en particular.</p>\n</blockquote>\n<p>Ah sí, un favorito personal de este autor, el cuervo es un pájaro singularmente noble e inteligente investido en un sudario de crepúsculo.  El ave emplumada de ébano alcanza una altura de casi dos pies y medio de altura y lleva un pico grueso y oscuro que es perfectamente utilizado en su dieta carroñera de carroña, granos desatendidos e insectos.  Sin embargo, algo realmente especial se esconde detrás del oscuro abismo de los ojos de este pájaro.  Si estás preparado, aventurero, el esfuerzo puesto en entrenar al cuervo será devuelto diez veces.</p>\n<p><strong>Reflexiones y Mimetismo. </strong> Los cuervos son especímenes únicos entre las aves; al escuchar atentamente y practicar a menudo, el cuervo es capaz de imitar los sonidos que escucha perfectamente.  Desde los ruidos de los animales del bosque hasta el timbre preciso de la llamada de su amo, los cuervos se encuentran entre los mímicos más perfectos que se pueden encontrar en el reino animal.  Verdaderamente aventurero, las posibilidades de emplear la mímica del cuervo son casi ilimitadas!  Usted puede ver otro ejemplo de este mimetismo perfecto en un primo más grande de este pájaro también: el humanoide Kenku.  En forma de cuervo, estos pequeños humanoides comparten las plumas y los picos grandes de sus hermanos, así como su capacidad para copiar los sonidos del mundo que los rodea.  Considere una segunda escucha cuando escuche una voz pero no pueda ubicar su ubicación, porque tal vez el cuervo habla desde las vigas por encima de usted, en una medianoche triste.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<blockquote>\n<p>Nota del autor: Por favor vea abajo la entrada para \"Cuervo\" que será suficiente para la descripción de esta criatura.  Ten en cuenta que los \"enjambres\" funcionan de forma ligeramente diferente en combate que las criaturas singulares.  Por favor, utilice las reglas para \"Enjambres\" de acuerdo con su sistema de juego en particular.</p>\n</blockquote>\n<p>Ah sí, un favorito personal de este autor, el cuervo es un pájaro singularmente noble e inteligente investido en un sudario de crepúsculo.  El ave emplumada de ébano alcanza una altura de casi dos pies y medio de altura y lleva un pico grueso y oscuro que es perfectamente utilizado en su dieta carroñera de carroña, granos desatendidos e insectos.  Sin embargo, algo realmente especial se esconde detrás del oscuro abismo de los ojos de este pájaro.  Si estás preparado, aventurero, el esfuerzo puesto en entrenar al cuervo será devuelto diez veces.</p>\n<p><strong>Reflexiones y Mimetismo. </strong> Los cuervos son especímenes únicos entre las aves; al escuchar atentamente y practicar a menudo, el cuervo es capaz de imitar los sonidos que escucha perfectamente.  Desde los ruidos de los animales del bosque hasta el timbre preciso de la llamada de su amo, los cuervos se encuentran entre los mímicos más perfectos que se pueden encontrar en el reino animal.  Verdaderamente aventurero, las posibilidades de emplear la mímica del cuervo son casi ilimitadas!  Usted puede ver otro ejemplo de este mimetismo perfecto en un primo más grande de este pájaro también: el humanoide Kenku.  En forma de cuervo, estos pequeños humanoides comparten las plumas y los picos grandes de sus hermanos, así como su capacidad para copiar los sonidos del mundo que los rodea.  Considere una segunda escucha cuando escuche una voz pero no pueda ubicar su ubicación, porque tal vez el cuervo habla desde las vigas por encima de usted, en una medianoche triste.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Swarm of Spiders": {
 			"name": "Enjambre de arañas",
@@ -1811,23 +1123,11 @@
 		},
 		"Tarrasque": {
 			"name": "Tarasca",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "La tarasca puede usar su presencia aterradora. Después, realiza cinco ataques: uno con su mordisco, dos con sus garras, otro con sus cuernos y otro con su cola. Si quiere, puede utilizar engullir en vez del mordisco."
-				}
-			}
+			"description": ""
 		},
 		"Thug": {
 			"name": "Matón",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El matón realiza dos ataques cuerpo a cuerpo."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Tiger": {
 			"name": "Tigre",
@@ -1835,13 +1135,7 @@
 		},
 		"Treant": {
 			"name": "Ent",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El ent realiza dos ataques de golpe."
-				}
-			}
+			"description": ""
 		},
 		"Tribal Warrior": {
 			"name": "Guerrero tribal",
@@ -1853,83 +1147,35 @@
 		},
 		"Troll": {
 			"name": "Trol",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El troll realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Tyrannosaurus Rex": {
 			"name": "Tiranosaurio Rex",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El tiranosaurio realiza dos ataques: uno con su mordisco y otro con su cola. No puede elegir el mismo objetivo para los dos ataques."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Unicorn": {
 			"name": "Uniconio",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El unicornio realiza dos ataques: uno con sus cascos y otro con su cuerno."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Vampire": {
 			"name": "Vampiro",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack (Vampire Form Only)": {
-					"name": "Ataque múltiple (solo forma de vampiro)",
-					"description": "El vampiro realiza dos ataques. Solo uno de ellos puede ser un mordisco."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Vampire Spawn": {
-			"name": "Engendro vampírico",
-			"description": "<p>Los engendros vampíricos son criaturas no muertas que nacen cuando los vampiros matan a los mortales. Al igual que sus creadores, los engendros permanecen atados a sus ataúdes y al suelo de sus tumbas. Los engendros vampíricos tienen un aspecto muy parecido al que tenían en vida, aunque sus rasgos suelen endurecerse, con una mirada depredadora.</p>\n<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El engendro realiza dos ataques. Solo uno de ellos puede ser un mordisco."
-				}
-			}
+			"name": "Engendro vamplrico",
+			"description": "<p>Los engendros vampíricos son criaturas no muertas que nacen cuando los vampiros matan a los mortales. Al igual que sus creadores, los engendros permanecen atados a sus ataúdes y al suelo de sus tumbas. Los engendros vampíricos tienen un aspecto muy parecido al que tenían en vida, aunque sus rasgos suelen endurecerse, con una mirada depredadora.</p>\n<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Veteran": {
 			"name": "Veterano",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El veterano realiza dos ataques con su espada larga. Si empuña una espada corta, también puede hacer un tercer ataque con esta última."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Violet Fungus": {
 			"name": "Hongo violeta",
-			"description": "<p>En las minas abandonadas y en las cavernas húmedas se encuentra el hongo de tamaño humanoide apodado hongo violeta. Llamado así por su llamativo sombrero de color púrpura, el hongo violeta pierde allí todo parecido con un hongo normal. De pie sobre un grueso tronco blanco, el hongo violeta se desplaza por el suelo de las cavernas a un ritmo lento utilizando pequeños zarcillos en su base. Manteniendo este ritmo de caracol, el hongo violeta recorre las profundidades en busca de su sustento preferido: la carne podrida. Si algún alimento vivo se acerca peligrosamente al hongo, éste arremete con uno de sus cuatro largos tentáculos enraizados en lo más profundo de su sombrero violeta. Estos tentáculos contienen enzimas especiales que, al entrar en contacto con la carne viva, pudren la materia orgánica al instante. Si una criatura es víctima del hongo, será consumida junto con el resto de los detritus que cubren el suelo de la caverna. Los propios hongos violetas tienen una relación especial con la muerte que consumen. Un hongo violeta que sea destruido volverá a crecer en dos semanas a partir de los restos de su antiguo cuerpo si los restos no se queman por completo.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El hongo realiza 1d4 ataques de toque putrefacto."
-				}
-			}
+			"description": "<p>En las minas abandonadas y en las cavernas húmedas se encuentra el hongo de tamaño humanoide apodado hongo violeta. Llamado así por su llamativo sombrero de color púrpura, el hongo violeta pierde allí todo parecido con un hongo normal. De pie sobre un grueso tronco blanco, el hongo violeta se desplaza por el suelo de las cavernas a un ritmo lento utilizando pequeños zarcillos en su base. Manteniendo este ritmo de caracol, el hongo violeta recorre las profundidades en busca de su sustento preferido: la carne podrida. Si algún alimento vivo se acerca peligrosamente al hongo, éste arremete con uno de sus cuatro largos tentáculos enraizados en lo más profundo de su sombrero violeta. Estos tentáculos contienen enzimas especiales que, al entrar en contacto con la carne viva, pudren la materia orgánica al instante. Si una criatura es víctima del hongo, será consumida junto con el resto de los detritus que cubren el suelo de la caverna. Los propios hongos violetas tienen una relación especial con la muerte que consumen. Un hongo violeta que sea destruido volverá a crecer en dos semanas a partir de los restos de su antiguo cuerpo si los restos no se queman por completo.</p>\n<ul>\n<li><em>Token de Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Vrock": {
 			"name": "Vrock",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El vrock realiza dos ataques: uno con su pico y otro con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Vulture": {
 			"name": "Buitre",
@@ -1945,13 +1191,7 @@
 		},
 		"Water Elemental": {
 			"name": "Elemental de agua",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El elemental realiza dos ataques de golpe."
-				}
-			}
+			"description": ""
 		},
 		"Weasel": {
 			"name": "Comadreja",
@@ -1959,53 +1199,23 @@
 		},
 		"Werebear": {
 			"name": "Hombre oso",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "En forma de oso, el hombre oso realiza dos ataques con sus garras. En forma humanoide, el hombre oso llevar a cabo dos ataques con su hacha a dos manos. En forma híbrida, puede atacar como un oso o como un humanoide."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Wereboar": {
 			"name": "Hombre jabalí",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack (Humanoid or Hybrid Form Only)": {
-					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
-					"description": "El hombre jabalí realiza dos ataques. Solo uno de ellos puede ser con los colmillos."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Wererat": {
 			"name": "Hombre rata",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack (Humanoid or Hybrid Form Only)": {
-					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
-					"description": "El hombre rata realiza dos ataques. Solo uno de ellos puede ser un mordisco."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"Weretiger": {
 			"name": "Hombre tigre",
-			"description": "",
-			"items": {
-				"Multiattack (Humanoid or Hybrid Form Only)": {
-					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
-					"description": "En forma humanoide, el hombre tigre realiza dos ataques con su cimitarra o dos ataques con su arco largo. En forma híbrida, puede atacar como un humanoide o llevar a cabo dos ataques de garra."
-				}
-			}
+			"description": ""
 		},
 		"Werewolf": {
 			"name": "Hombre lobo",
-			"description": "<p><em>Token de Forgotten Adventures.</em></p>",
-			"items": {
-				"Multiattack (Humanoid or Hybrid Form Only)": {
-					"name": "Ataque múltiple (solo en forma humanoide o híbrida)",
-					"description": "El hombre lobo realiza dos ataques: uno con su mordisco y otro con sus garras o su lanza."
-				}
-			}
+			"description": "<p><em>Token de Forgotten Adventures.</em></p>"
 		},
 		"White Dragon Wyrmling": {
 			"name": "Cría de dragón blanco",
@@ -2013,13 +1223,7 @@
 		},
 		"Wight": {
 			"name": "Tumulario",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El tumulario realiza dos ataques con su espada larga o dos ataques con su arco largo. Puede usar consumir vida en lugar de uno de los ataques con espada larga."
-				}
-			}
+			"description": ""
 		},
 		"Will-o'-Wisp": {
 			"name": "Fuego fatuo",
@@ -2031,7 +1235,7 @@
 		},
 		"Wolf": {
 			"name": "Lobo",
-			"description": "<p>Los lobos son la mayor de las especies de perros salvajes que vagan por las llanuras y bosques de nuestro maravilloso mundo.  En cualquier lugar, desde el marrón claro hasta el negro medianoche, los lobos son el ancestro común de todas las especies de perros naturales que actualmente habitan el planeta.  Los lobos tienen un hocico largo y ancho lleno de dientes afilados, una capa gruesa para aislarlos de inviernos difíciles, y ojos y oídos afilados con los que pueden rastrear un objetivo.  El aspecto más sorprendente del lobo es su increíble nariz que puede oler a la presa desde hasta una milla y media de distancia.  Esta increíble nariz (llena de cientos de millones de receptores de olores) también puede determinar el estado de ánimo de otros lobos, lo que han comido e incluso dónde han estado..</p>\n<p><strong>Los Lobos Entre Nosotros.</strong> Como es común con muchas otras especies de perros, los lobos viven en comunidades llamadas manadas.  Dentro de la manada, los lobos cazan juntos, crían a sus crías juntas y proporcionan protección grupal.  Cuando te encuentres con lobos, ten cuidado si solo espías a un solo animal merodeando por el área.  Es muy probable que donde hay un lobo rezagado, el resto de la manada acecha cerca listo para defender a su familia del ataque.  Los lobos, que no pueden hablar, son capaces de\" comunicarse \" a través de ladridos y gruñidos, así como seguir tácticas simplistas como maniobras de flanqueo o ataques por sorpresa.  La fuerza de la manada permite a los lobos combinar su inteligencia y formar una fuerza de lucha mortal de rechinar de dientes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<p>Los lobos son la mayor de las especies de perros salvajes que vagan por las llanuras y bosques de nuestro maravilloso mundo.  En cualquier lugar, desde el marrón claro hasta el negro medianoche, los lobos son el ancestro común de todas las especies de perros naturales que actualmente habitan el planeta.  Los lobos tienen un hocico largo y ancho lleno de dientes afilados, una capa gruesa para aislarlos de inviernos difíciles, y ojos y oídos afilados con los que pueden rastrear un objetivo.  El aspecto más sorprendente del lobo es su increíble nariz que puede oler a la presa desde hasta una milla y media de distancia.  Esta increíble nariz (llena de cientos de millones de receptores de olores) también puede determinar el estado de ánimo de otros lobos, lo que han comido e incluso dónde han estado..</p>\n<p><strong>Los Lobos Entre Nosotros.</strong> Como es común con muchas otras especies de perros, los lobos viven en comunidades llamadas manadas.  Dentro de la manada, los lobos cazan juntos, crían a sus crías juntas y proporcionan protección grupal.  Cuando te encuentres con lobos, ten cuidado si solo espías a un solo animal merodeando por el área.  Es muy probable que donde hay un lobo rezagado, el resto de la manada acecha cerca listo para defender a su familia del ataque.  Los lobos, que no pueden hablar, son capaces de\" comunicarse \" a través de ladridos y gruñidos, así como seguir tácticas simplistas como maniobras de flanqueo o ataques por sorpresa.  La fuerza de la manada permite a los lobos combinar su inteligencia y formar una fuerza de lucha mortal de rechinar de dientes.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		},
 		"Worg": {
 			"name": "Huargo",
@@ -2043,127 +1247,55 @@
 		},
 		"Wyvern": {
 			"name": "Guiverno",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El guiverno realiza dos ataques: uno con su mordisco y otro con su aguijón. Mientras esté volando, puede utilizar sus garras en lugar de uno de los dos ataques."
-				}
-			}
+			"description": ""
 		},
 		"Xorn": {
 			"name": "Xorn",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El xorn realiza tres ataques con sus garras y otro con su mordisco."
-				}
-			}
+			"description": ""
 		},
 		"Young Black Dragon": {
 			"name": "Dragón negro joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Blue Dragon": {
 			"name": "Dragón azul joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Brass Dragon": {
 			"name": "Dragón de oropel joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Bronze Dragon": {
 			"name": "Dragón de bronce joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Copper Dragon": {
 			"name": "Dragón de cobre joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Gold Dragon": {
 			"name": "Dragón de oro joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Green Dragon": {
 			"name": "Dragón verde joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Red Dragon": {
 			"name": "Dragón rojo joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young Silver Dragon": {
 			"name": "Dragón de plata joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Young White Dragon": {
 			"name": "Dragón blanco joven",
-			"description": "",
-			"items": {
-				"Multiattack": {
-					"name": "Ataque múltiple",
-					"description": "El dragón realiza tres ataques: uno con su mordisco y dos con sus garras."
-				}
-			}
+			"description": ""
 		},
 		"Zombie": {
 			"name": "Zombi",
-			"description": "<p>Cuando la magia de la nigromancia se utiliza sobre la carne preservada de un humanoide, un zombi se levantará para servir a su amo oscuro.  De la misma manera que un esqueleto animado es devuelto de entre los muertos, así también los zombis son devueltos a este mundo.  Mientras que un hechicero experto puede animar a los muertos y comandar a los recién despertados, los zombis también pueden surgir en áreas del mundo saturadas con energía necromántica.  En esta situación, los zombies no obedecer la orden de un maestro, sino que vagan sin rumbo en un área pequeña hasta que encuentre algo para atacar y consumir o pudrirse en una pila de inanimados huesos.  </p>\n<p><strong>Re: Tu Cerebro.</strong> Zombies retienen bastante de sus antiguos yo en lo que respecta a su apariencia física.  Los zombis todavía mostrarán las heridas o cicatrices de enfermedades que los mataron al reanimarse.  Los síntomas de la descomposición también estarán presentes, ya que muchos zombis recién engendrados estarán hinchados, tendrán parches de piel desprendiéndose de sus cuerpos o incluso entrañas arrastradas de abdómenes explotados.  Mientras que un zombi puede parecerse a la persona que era antes, no hay nada en funcionamiento dentro de la cabeza excepto el hambre sin sentido.  Los zombis tropiezan a través de su existencia en un estado perpetuo de falta de mente solo capaz de obedecer las órdenes de su amo.  Este hecho de la mente del zombi los convierte en guerreros invaluables para un nigromante necesitado.  Los zombis son directos y se tambalearán hacia su presa sin siquiera pensar en su propia seguridad.  Se ha observado que algunos zombis han caminado a través de incendios o pozos de ácido con el fin de alcanzar a sus enemigos.  Una vez que lleguen a su objetivo, los zombies golpearán y morderán a su enemigo hasta que ellos o el enemigo caigan en la pelea.  Los zombis también pueden empuñar armas, aunque no de manera inteligente; los zombis no podrán reclamar un arma en caso de que sean desarmados, ya que la falta de armas simplemente los llevará a garra con sus manos rotas.  La magia que ata al zombi al plano mortal también es difícil para los no iniciados, ¡así que tened cuidado, jóvenes aventureros!  Si caes un zombi, ten en cuenta que la criatura puede no estar completamente muerta por segunda vez; siempre debes estar seguro de esperar y ver si la bestia intenta levantarse una vez más antes de vagar más profundo en la mazmorra.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
+			"description": "<p>Cuando la magia de la nigromancia se utiliza sobre la carne preservada de un humanoide, un zombi se levantará para servir a su amo oscuro.  De la misma manera que un esqueleto animado es devuelto de entre los muertos, así también los zombis son devueltos a este mundo.  Mientras que un hechicero experto puede animar a los muertos y comandar a los recién despertados, los zombis también pueden surgir en áreas del mundo saturadas con energía necromántica.  En esta situación, los zombies no obedecer la orden de un maestro, sino que vagan sin rumbo en un área pequeña hasta que encuentre algo para atacar y consumir o pudrirse en una pila de inanimados huesos.  </p>\n<p><strong>Re: Tu Cerebro.</strong> Zombies retienen bastante de sus antiguos yo en lo que respecta a su apariencia física.  Los zombis todavía mostrarán las heridas o cicatrices de enfermedades que los mataron al reanimarse.  Los síntomas de la descomposición también estarán presentes, ya que muchos zombis recién engendrados estarán hinchados, tendrán parches de piel desprendiéndose de sus cuerpos o incluso entrañas arrastradas de abdómenes explotados.  Mientras que un zombi puede parecerse a la persona que era antes, no hay nada en funcionamiento dentro de la cabeza excepto el hambre sin sentido.  Los zombis tropiezan a través de su existencia en un estado perpetuo de falta de mente solo capaz de obedecer las órdenes de su amo.  Este hecho de la mente del zombi los convierte en guerreros invaluables para un nigromante necesitado.  Los zombis son directos y se tambalearán hacia su presa sin siquiera pensar en su propia seguridad.  Se ha observado que algunos zombis han caminado a través de incendios o pozos de ácido con el fin de alcanzar a sus enemigos.  Una vez que lleguen a su objetivo, los zombies golpearán y morderán a su enemigo hasta que ellos o el enemigo caigan en la pelea.  Los zombis también pueden empuñar armas, aunque no de manera inteligente; los zombis no podrán reclamar un arma en caso de que sean desarmados, ya que la falta de armas simplemente los llevará a garra con sus manos rotas.  La magia que ata al zombi al plano mortal también es difícil para los no iniciados, ¡así que tened cuidado, jóvenes aventureros!  Si caes un zombi, ten en cuenta que la criatura puede no estar completamente muerta por segunda vez; siempre debes estar seguro de esperar y ver si la bestia intenta levantarse una vez más antes de vagar más profundo en la mazmorra.</p>\n<ul>\n<li><em>Token artwork by Forgotten Adventures.</em></li>\n<li><em>Entrada al bestiario de Penelope (Vyrnali).</em></li>\n</ul>"
 		}
 	}
 }
