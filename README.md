@@ -1,13 +1,5 @@
 # Traducción al español de D&D5e [![Crowdin](https://badges.crowdin.net/dnd5e-es-compendium/localized.svg)](https://crowdin.com/project/dnd5e-es-compendium)
 
-
-# DESACTUALIZADO
-Recomiendo encarecidamente utilizar la nueva traducción de los compendios que se está desarrollando.
-
-Puedes encontrar el repositorio [aquí](https://github.com/HonzoNebro/dnd5e-es-compendium) o dentro de la sección de módulos de Foundry, como **Translation: Spanish Babele [DnD5e and Compendiums]**.
-
-# Traducción al español de D&D5e
-
 ## Descripción
 
 Fork para la nueva traducción al Español del Sistema y los Compendios (incompleta) de D&D5e para **Foundry VTT**. 
