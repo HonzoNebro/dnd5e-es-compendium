@@ -1,11 +1,11 @@
 {
-  "name": "dnd5e-babele-es",
-  "title": "Translation: Spanish Babele [D&D5e & Compendiums]",
+  "name": "dnd5e-babele-spanish",
+  "title": "Translation: Spanish Babele [DnD5e and Compendiums]",
   "description": "Traducción al español del sistema y los compendios de D&D5e para Foundry VTT.",
-  "version": "0.7",
-  "minimumCoreVersion" : "0.6.5",
-  "compatibleCoreVersion": "0.8.8",
-  "author": "Babele: Simone / System: Cosmo Corban / Compendiums: Elber, Aterlom y WallaceMcGregor",
+  "version": "0.8.7",
+  "minimumCoreVersion" : "0.8.9",
+  "compatibleCoreVersion": "9",
+  "author": "Honzo",
   "systems": ["dnd5e"],
   "esmodules": [],
   "scripts": ["babele-register.js"],
@@ -16,8 +16,14 @@
     "name": "Spanish",
     "path": "es.json"
   }],
-  "url": "https://github.com/WallaceMcGregor/dnd5e-es-compendium",
-  "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/dnd5e-es-compendium/master/module.json",
-  "download": "https://github.com/WallaceMcGregor/dnd5e-es-compendium/archive/master.zip"
+   "dependencies": [{    
+    "name": "babele"
+  },
+  {
+  	"name": "lib-wrapper"
+  }],
+  "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
+  "manifest": "https://raw.githubusercontent.com/HonzoNebro/dnd5e-es-compendium/master/module.json",
+  "download": "https://github.com/HonzoNebro/dnd5e-es-compendium/archive/master.zip"
 }
  
