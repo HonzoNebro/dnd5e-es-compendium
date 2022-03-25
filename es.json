@@ -58,6 +58,7 @@
     "DND5E.AbilityConfigurationHint": "Configurar la competencia de la habilidad de la tirada de salvación, el bono a la tirada de salvación, y el bono de las pruebas de habilidad.",
     "DND5E.AbilityCheckBonus": "Bono de prueba de característica",
     "DND5E.AbilityCheckGlobalBonusHint": "Este bono se aplica a todos las pruebas de habilidad realizados por este actor.",
+
     "DND5E.Action": "Acción",
     "DND5E.ActionPl": "Acciones",
     "DND5E.ActionAbil": "Prueba de característica",
@@ -94,6 +95,7 @@
     "DND5E.AttunementAttuned": "Sintonizado",
     "DND5E.Attuned": "Sintonizado",
     "DND5E.Armor": "Armadura",
+
     "DND5E.ArmorClass": "Clase Armadura",
     "DND5E.ArmorClassEquipment": "Armadura equipada",
     "DND5E.ArmorClassFlat": "Fijo",
@@ -101,6 +103,7 @@
     "DND5E.ArmorClassNatural": "Armadura natural",
     "DND5E.ArmorClassMage": "Armadura de mago",
     "DND5E.ArmorClassMotionless": "Clase de Armadura mientras está Inmóvil",
+
     "DND5E.ArmorClassDraconic": "Resistencia dracónica",
     "DND5E.ArmorClassUnarmoredMonk": "Defensa sin Armadura (Monje)",
     "DND5E.ArmorClassUnarmoredBarbarian": "Defensa sin Armadura (Bárbaro)",
@@ -152,6 +155,7 @@
     "DND5E.ClassSaves": "Tiradas de Salvación",
     "DND5E.ClassSkillsNumber": "N° de habilidades iniciales",
     "DND5E.ClassSkillsEligible": "Habilidades de clase seleccionables",
+    "DND5E.ClassSkillsEligible": "Rasgos de clase seleccionables",
     "DND5E.ClassSkillsChosen": "Habilidades de clase elegidas",
     "DND5E.ComponentMaterial": "Material",
     "DND5E.ComponentSomatic": "Somático",
@@ -321,6 +325,10 @@
     "DND5E.EffectEnable": "Activar efecto",
     "DND5E.EffectDelete": "Eliminar efecto",
     "DND5E.EffectDisable": "Desactivar efecto",
+    "DND5E.EffectCreate": "Crear efecto",
+    "DND5E.EffectToggle": "Alternar efecto",
+    "DND5E.EffectEdit": "Editar efecto",
+    "DND5E.EffectDelete": "Eliminar efecto",
     "DND5E.EffectTemporary": "Efectos temporales",
     "DND5E.EffectPassive": "Efectos pasivos",
     "DND5E.EffectInactive": "Efectos inactivos",
@@ -463,6 +471,9 @@
     "DND5E.ItemToolType": "Tipo de herramienta",
     "DND5E.ItemWeaponAttack": "Ataque del arma",
     "DND5E.ItemWeaponBase": "Arma base",
+    "DND5E.ItemToolProficiency": "Competencia con herramienta",
+    "DND5E.ItemToolType": "Tipo de herramienta",
+    "DND5E.ItemWeaponAttack": "Ataque del arma",
     "DND5E.ItemWeaponDetails": "Detalles del arma",
     "DND5E.ItemWeaponProperties": "Propiedades del arma",
     "DND5E.ItemWeaponStatus": "Estado del arma",
@@ -505,6 +516,8 @@
     "DND5E.LegRes": "Resistencia legendaria",
     "DND5E.LegResMax": "Resistencia legendaria máxima",
     "DND5E.LegResRemaining": "Resistencia legendaria restante",
+    "DND5E.LegendaryActionLabel": "Acción Legendaria",
+    "DND5E.LegRes": "Resistencia legendaria",
     "DND5E.Level": "Nivel",
     "DND5E.LevelScaling": "Escala de Nivel",
     "DND5E.LimitedUses": "Usos limitados",
@@ -777,6 +790,8 @@
     "DND5E.VehicleActionThresholdsFull": "Dotación Completa De La Tripulación",
     "DND5E.VehicleActionThresholdsMid": "Dotación Parcial De La Tripulación",
     "DND5E.VehicleActionThresholdsMin": "Dotación Mínima de Tripulación",
+    "DND5E.VehicleActionStations": "Estaciones de acción",
+    "DND5E.VehicleActionThresholds": "Umbrales de acción",
     "DND5E.VehicleCargo": "Carga",
     "DND5E.VehicleCargoCapacity": "Capacidad de carga",
     "DND5E.VehicleCargoCrew": "Carga y tripulación",
@@ -864,4 +879,5 @@
     "SETTINGS.5eCriticalMaxDiceL": "Haz que los golpes críticos sean más letales maximizando los valores de los dados de daño base.",
     "SETTINGS.5eCriticalModifiersN": "Modificadores de Multiplicación de Daño Crítico",
     "SETTINGS.5eCriticalModifiersL": "Haz que los golpes críticos sean más letales multiplicando los modificadores que no son dados además de los dados lanzados."
+    "SETTINGS.5eMetricL": "Reemplaza toda referencia a libras por kgs y actualiza los cálculos de carga para utilizar unidades de peso métricas."
 }
