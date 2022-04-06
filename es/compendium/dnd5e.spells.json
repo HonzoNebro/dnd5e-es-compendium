@@ -259,7 +259,7 @@
 		},
 		"Counterspell": {
 			"name": "Contrahechizo",
-			"description": "<p>Elige una criatura, objeto o efecto mágico dentro del alcance. Cualquier conjuro de nivel 3 o inferior que se haya lanzado sobre el objetivo termina. Por cada conjuro de nivel 4 o superior que haya sobre él, haz una prueba de característica usando tu característica para lanzar conjuros. La CD es 10 + el nivel del conjuro. Si superas la prueba, el conjuro termina.</p><p><strong>En niveles superiores.&nbsp;</strong>Cuando lanzas este conjuro usando un espacio de conjuro de nivel 4 o superior, anulas automáticamente el efecto de un conjuro sobre el objetivo si el nivel del conjuro es igual o menor que el nivel del espacio que usas.</p>"
+			"description": "<p>Intentas interrumpir a una criatura mientras lanza un conjuro. Si este último es de nivel 3 o menor, lo logras automáticamente y el conjuro no tiene efecto alguno. Sin embargo, para cada conjuro de nivel 4 o más, realiza una prueba de característica usando tu aptitud mágica. La CD es 10 + el nivel del conjuro. Si tienes éxito, el conjuro de la criatura falla y no tiene efecto.</p><p><strong>A niveles superiores.&nbsp;</strong> Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 4 o más, cancelas automáticamente aquellos conjuros cuyo nivel sea menor o igual al nivel del espacio de conjuro utilizado.</p>"
 		},
 		"Create Food and Water": {
 			"name": "Crear comida y agua",
@@ -343,7 +343,7 @@
 		},
 		"Dispel Magic": {
 			"name": "Disipar magia",
-			"description": "<p>Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.</p><p><strong>Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.</p>"
+			"description": "<p>Elige una criatura, objeto o efecto mágico dentro del alcance. Cualquier conjuro de nivel 3 o inferior que se haya lanzado sobre el objetivo termina. Por cada conjuro de nivel 4 o superior que haya sobre él, haz una prueba de característica usando tu característica para lanzar conjuros. La CD es 10 + el nivel del conjuro. Si superas la prueba, el conjuro termina.</p><p><strong>En niveles superiores.&nbsp;</strong>Cuando lanzas este conjuro usando un espacio de conjuro de nivel 4 o superior, anulas automáticamente el efecto de un conjuro sobre el objetivo si el nivel del conjuro es igual o menor que el nivel del espacio que usas.</p>"
 		},
 		"Divination": {
 			"name": "Adivinacion",
