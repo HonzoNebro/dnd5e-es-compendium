@@ -551,7 +551,7 @@
 		},
 		"Globe of Invulnerability": {
 			"name": "Globo de invulnerabilidad",
-			"description": "<p>An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the Duration.</p><p>Any spell of 5th level or lower cast from outside the barrier can't affect creatures or Objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and Objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such Spells.</p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 7th level or higher, the barrier blocks Spells of one level higher for each slot level above 6th.</p>"
+			"description": "<p>Una barrera inmóvil y de débil brillo surge en un radio de 10 pies alrededor de ti y permanece hasta el final de la duración del conjuro.</p><p>Cualquier conjuro de nivel 5 o inferior que sea lanzado desde fuera de la barrera no puede afectar a las criaturas y objetos dentro de la misma, incluso si el conjuro se lanza utilizando un espacio de conjuro superior. Estos conjuros pueden elegir como objetivo a criaturas y objetos dentro de la barrera, pero no tienen efecto en ellos. De forma similar, el área dentro de la barrera queda excluida de las zonas afectadas por esos conjuros.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 7 o más, la barrera bloquea conjuros de un nivel más por cada nivel por encima de 6 del espacio de conjuro que utilices.</p>"
 		},
 		"Glyph of Warding": {
 			"name": "Glifo custodio",
