@@ -259,11 +259,11 @@
 		},
 		"Paralyzed": {
 			"name": "Paralizado",
-			"description": "<ul>\n<li>Una criatura paralizada es @Compendium[dnd5e.rules.tUYvSkhggFcMpVw5]{Incapacitated} y no puede moverse ni hablar.</li>\n<li>La criatura falla automáticamente las tiradas de salvación de Fuerza y ​​Destreza.</li>\n<li>Las tiradas de ataque contra la criatura tienen ventaja.</li>\n<li>Cualquier ataque que golpee a la criatura es un golpe crítico si el atacante está a menos de 5 pies de la criatura.</li>\n</ul>"
+			"description": "<ul>\n<li>Una criatura paralizada es @Compendium[dnd5e.rules.tUYvSkhggFcMpVw5]{Incapacitated} y no puede moverse ni hablar.</li>\n<li>La criatura falla automáticamente las tiradas de salvación de Fuerza y ​​Destreza.</li>\n<li>Las tiradas de ataque contra la criatura tienen ventaja.</li>\n<li>Cualquier ataque que golpee a la criatura es un golpe crítico si el atacante está a menos de 5 pies de la criatura.</li>\n</ul>"
 		},
 		"Petrified": {
 			"name": "Petrificado",
-			"description": "<ul>\n<li>Una criatura petrificada se transforma, junto con cualquier objeto no mágico que lleve puesto o que lleve, en una sustancia inanimada sólida (generalmente piedra). Su peso se multiplica por diez y deja de envejecer.</li>\n<li>La criatura es @Compendium[dnd5e.rules.tUYvSkhggFcMpVw5]{Incapacitated}, no puede moverse ni hablar, y no es consciente de su entorno.</li>\n<li>Las tiradas de ataque contra la criatura tienen ventaja.</li>\n<li>La criatura falla automáticamente las tiradas de salvación de Fuerza y ​​Destreza.</li>\n<li>La criatura tiene resistencia a todo daño.</li>\n<li>La criatura es inmune al veneno y la enfermedad, aunque un veneno o una enfermedad que ya está en su sistema se suspende, no se neutraliza.</li>\n</ul>"
+			"description": "<ul>\n<li>Una criatura petrificada se transforma, junto con cualquier objeto no mágico que lleve puesto o que lleve, en una sustancia inanimada sólida (generalmente piedra). Su peso se multiplica por diez y deja de envejecer.</li>\n<li>La criatura es @Compendium[dnd5e.rules.tUYvSkhggFcMpVw5]{Incapacitated}, no puede moverse ni hablar, y no es consciente de su entorno.</li>\n<li>Las tiradas de ataque contra la criatura tienen ventaja.</li>\n<li>La criatura falla automáticamente las tiradas de salvación de Fuerza y ​​Destreza.</li>\n<li>La criatura tiene resistencia a todo daño.</li>\n<li>La criatura es inmune al veneno y la enfermedad, aunque un veneno o una enfermedad que ya está en su sistema se suspende, no se neutraliza.</li>\n</ul>"
 		},
 		"Poisoned": {
 			"name": "Envenenado",
