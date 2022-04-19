@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Fork para la nueva traducción al Español del Sistema y los Compendios (incompleta) de D&D5e para **Foundry VTT**. 
+Fork para la nueva traducción al Español que aúna la traducción del sistema (https://gitlab.com/carlosjrlu/foundryvtt-dnd5e-lang-es/) y los Compendios de D&D5e para **Foundry VTT**. 
 
 Los nuevos compendios están siendo traducidos por la comunidad española de Foundry VTT, en [Discord](https://discord.gg/papqPzS) y [Telegram](https://t.me/FoundryVTT_ES)
 
