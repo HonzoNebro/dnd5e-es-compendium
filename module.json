@@ -24,21 +24,23 @@
     }],
     "relationships": {
         "requires": [{
-                "id": "babele",
-                "type": "module",
-                "compatibility": {
-                    "minimum": "1.0.0.0",
-                    "verified": "10.279"
-                }
-            }, {
-                "id": "lib-wrapper",
-                "type": "module",
-                "compatibility": {
-                    "minimum": "1.0.0.0",
-                    "verified": "1.12.8.0"
-                }]
-        },
-        "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
-        "manifest": "https://raw.githubusercontent.com/HonzoNebro/dnd5e-es-compendium/master/module.json",
-        "download": "https://github.com/HonzoNebro/dnd5e-es-compendium/archive/master.zip"
-    }
+            "id": "babele",
+            "type": "module",
+            "compatibility": {
+                "minimum": "1.0.0.0",
+                "verified": "10.279"
+            }
+        }, {
+            "id": "lib-wrapper",
+            "type": "module",
+            "compatibility": {
+                "minimum": "1.0.0.0",
+                "verified": "1.12.8.0"
+            }
+        }]
+    },
+    "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
+    "manifest": "https://raw.githubusercontent.com/HonzoNebro/dnd5e-es-compendium/master/module.json",
+    "download": "https://github.com/HonzoNebro/dnd5e-es-compendium/archive/master.zip"
+
+}
