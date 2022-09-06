@@ -1,29 +1,44 @@
 {
-  "id": "dnd5e-babele-spanish",
-  "title": "Translation: Spanish Babele [DnD5e and Compendiums]",
-  "description": "Traducción al español del sistema y los compendios de D&D5e para Foundry VTT.",
-  "version": "1.1.0",
-  "minimumCoreVersion" : "0.8.9",
-  "compatibleCoreVersion": "10",
-  "authors": "Honzo",
-  "systems": ["dnd5e"],
-  "esmodules": [],
-  "scripts": ["babele-register.js"],
-  "styles": [],
-  "packs": [],
-  "languages": [{
-  	"lang": "es",
-    "name": "Spanish",
-    "path": "es.json"
-  }],
-   "relationship.requires": [{    
-    "id": "babele"
-  },
-  {
-  	"name": "lib-wrapper"
-  }],
-  "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
-  "manifest": "https://raw.githubusercontent.com/HonzoNebro/dnd5e-es-compendium/master/module.json",
-  "download": "https://github.com/HonzoNebro/dnd5e-es-compendium/archive/master.zip"
-}
- 
+    "id": "dnd5e-babele-spanish",
+    "title": "Translation: Spanish Babele [DnD5e and Compendiums]",
+    "description": "Traducción al español del sistema y los compendios de D&D5e para Foundry VTT.",
+    "version": "1.1.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10.284",
+        "maximum": "10"
+    },
+    "authors": [{
+        "name": "Honzo",
+        "discord": "Honzo#5012"
+    }],
+    "systems": ["dnd5e"],
+    "esmodules": [],
+    "scripts": ["babele-register.js"],
+    "styles": [],
+    "packs": [],
+    "languages": [{
+        "lang": "es",
+        "name": "Spanish",
+        "path": "es.json"
+    }],
+    "relationships": {
+        "requires": [{
+                "id": "babele",
+                "type": "module",
+                "compatibility": {
+                    "minimum": "1.0.0.0",
+                    "verified": "10.279"
+                }
+            }, {
+                "id": "lib-wrapper",
+                "type": "module",
+                "compatibility": {
+                    "minimum": "1.0.0.0",
+                    "verified": "1.12.8.0"
+                }]
+        },
+        "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
+        "manifest": "https://raw.githubusercontent.com/HonzoNebro/dnd5e-es-compendium/master/module.json",
+        "download": "https://github.com/HonzoNebro/dnd5e-es-compendium/archive/master.zip"
+    }
