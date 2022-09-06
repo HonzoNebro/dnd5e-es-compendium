@@ -1,11 +1,11 @@
 {
-  "name": "dnd5e-babele-spanish",
+  "id": "dnd5e-babele-spanish",
   "title": "Translation: Spanish Babele [DnD5e and Compendiums]",
   "description": "Traducción al español del sistema y los compendios de D&D5e para Foundry VTT.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minimumCoreVersion" : "0.8.9",
-  "compatibleCoreVersion": "9",
-  "author": "Honzo",
+  "compatibleCoreVersion": "10",
+  "authors": "Honzo",
   "systems": ["dnd5e"],
   "esmodules": [],
   "scripts": ["babele-register.js"],
@@ -16,8 +16,8 @@
     "name": "Spanish",
     "path": "es.json"
   }],
-   "dependencies": [{    
-    "name": "babele"
+   "relationship.requires": [{    
+    "id": "babele"
   },
   {
   	"name": "lib-wrapper"
