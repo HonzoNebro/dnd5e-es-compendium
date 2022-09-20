@@ -1,5 +1,16 @@
 {
 	"label": "Conjuros (SRD)",
+	"mapping": {
+		"range": {
+			"path": "data.range",
+			"converter": "range"
+		},
+		"target": {
+			"path": "data.target",
+			"converter": "range"
+		},
+        "materials": "data.materials.value"
+    },
 	"entries": {
 		"Acid Arrow": {
 			"name": "Flecha ácida",
@@ -1356,24 +1367,5 @@
 			"name": "Zona de la verdad",
 			"description": "<p>Creas una zona mágica que protege contra el engaño. Sus dimensiones son las de una esfera de 15 pies de radio alrededor de un punto de tu elección dentro del alcance. Hasta el final del conjuro, cuando una criatura entre en la zona de la verdad por primera vez en un turno, o empiece su turno en ella, debe realizar una tirada de salvación de Carisma. Si fracasa, no podrá mentir mientras esté en la zona mágica. Sabrás si una criatura ha tenido éxito o ha fracasado en su tirada de salvación.</p><p>Cualquier criatura afectada es consciente del conjuro y, por tanto, puede evitar responder a preguntas a las que normalmente respondería con una mentira. Además, podrá ser evasiva en sus respuestas mientras se mantenga dentro de los límites de la verdad.</p>"
 		}
-	},
-    "mapping": {
-        "material": "data.materials.value",
-        "range": {
-            "converter": "range",
-            "path": "data.range"
-        },
-        "source": {
-            "path": "data.source",
-            "converter": "spellsource"
-        },
-        "target": {
-            "converter": "target",
-            "path": "data.target"
-        },
-        "name": {
-            "path": "name",
-            "converter": "spellname"
-        }
-    }
+	}
 }
