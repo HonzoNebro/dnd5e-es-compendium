@@ -102,7 +102,7 @@
 			"description": "<p>Como acción, puedes usar Canalizar Divinidad para imbuir de energía positiva una de las armas que estés sujetando.</p><p>Durante 1 minuto, añades tu modificador por Carisma a las tiradas de ataque hechas con dicha arma (bonificador mínimo de +1). El arma también emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. Además, si no lo era ya, el arma se convierte en mágica mientras dure este efecto.</p><p>Puedes dar por finalizado este efecto durante tu turno, como parte de cualquier otra acción. También terminará si dejas de empuñar o llevar el arma, o si caes inconsciente.</p>"
 		},
 		"Channel Divinity: Turn Undead": {
-			"name": "Canalizar Divinidad: Expular Muertos Vivientes",
+			"name": "Canalizar Divinidad: Expulsar Muertos Vivientes",
 			"description": "<p>Puedes utilizar tu acción para mostrar tu símbolo sagrado y rezar una oración que condene a los muertos vivientes.</p><p>Todos los muertos vivientes que puedan verte u oírte a 30 pies o menos de ti deben realizar una tirada de salvación de Sabiduría. Si el objetivo falla su tirada de salvación, estará expulsado durante 1 minuto o hasta recibir daño.</p><p>Una criatura expulsada deberá dedicar su turno a moverse lo más lejos posible de ti, si es que puede, y no podrá acercarse a ningún espacio a 30 pies o menos de ti. Además, tampoco será capaz de llevar a cabo reacciones.</p><p>Solo puede realizar la acción de Correr o intentar escapar de un efecto que le impida moverse. Si no tiene a dónde moverse, llevará a cabo la acción de Esquivar.</p>"
 		},
 		"Channel Divinity: Turn the Unholy": {
