@@ -1,3 +1,6 @@
+# ESTE REPOSITORIO ESTÁ CONGELADO
+## Si deseas continuar con la traducción, estás invitado a hacer un fork del mismo o simplemente usar lo que necesites.
+
 # Traducción al español de D&D5e [![Crowdin](https://badges.crowdin.net/dnd5e-es-compendium/localized.svg)](https://crowdin.com/project/dnd5e-es-compendium)
 
 ## Descripción
